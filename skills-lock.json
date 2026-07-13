@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "wiki-ingest": {
+      "source": "ar9av/obsidian-wiki",
+      "sourceType": "github",
+      "skillPath": ".skills/wiki-ingest/SKILL.md",
+      "computedHash": "f6a1ad8c1ff15d8abe8208677f00d3acd81dc4cacf9aaf3580fb86e4991a35bc"
+    }
+  }
+}

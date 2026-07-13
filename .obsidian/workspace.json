@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "52a5217226076108",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e936f0e81496c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6297875ece0c0f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/to-kalon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to-kalon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1b1a580a3e06575",
+    "type": "split",
+    "children": [
+      {
+        "id": "87cbfe5ad01989e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b74ead22f84adf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49bc47baf6e3c0b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a82fb9dfaa0ed16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9866592ca3ed9d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b74e770233a33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ca88f15854e12a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "a9eb506a3dd27cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "bd6a1e4054da2d54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "adac311edc2cd39f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73686d757e2f37cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b6297875ece0c0f7",
+  "lastOpenFiles": [
+    "concepts/to-kalon.md.tmp.3159347.86d6794a51ff",
+    "hot.md.tmp.3159347.9fcecd6df7df",
+    "log.md.tmp.3159347.c5784db3ed2d",
+    "index.md.tmp.3159347.acd9acea7ccb",
+    "references/nicomachean-ethics.md.tmp.3159347.4c8d6b3ad2da",
+    "concepts/justice-nicomachean.md.tmp.3159347.dd62df37f21e",
+    "concepts/justice-nicomachean.md.tmp.3159347.8865bf1fd141",
+    "concepts/corrective-justice.md",
+    "concepts/corrective-justice.md.tmp.3159347.802d6a321ca0",
+    "concepts/distributive-justice.md",
+    "concepts/distributive-justice.md.tmp.3159347.cd5bdfb17d8e",
+    "concepts/pleasure-aristotle.md",
+    "references/nicomachean-ethics.md",
+    "concepts/justice-nicomachean.md",
+    "concepts/doctrine-of-the-mean.md",
+    "concepts/akrasia.md",
+    "entities/aristotle.md",
+    "entities/joe-sachs.md",
+    "hot.md",
+    "index.md",
+    "Home.md",
+    "concepts/contemplative-life.md.tmp.340687.c1ca9f5a6972",
+    "concepts/justice-nicomachean.md.tmp.340687.d9640caa17e0",
+    "log.md",
+    "concepts/contemplative-life.md",
+    "concepts/philia.md",
+    "concepts/phronesis.md",
+    "concepts/prohairesis.md",
+    "concepts/to-kalon.md",
+    "concepts/hexis.md",
+    "concepts/energeia.md",
+    "concepts/eudaimonia.md"
+  ]
+}

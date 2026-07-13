@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "sources": {
+    "/home/user/Documents/aristotle/Nicomachean Ethics - Aristotle.epub": {
+      "ingested_at": "2026-07-08T00:00:00Z",
+      "size_bytes": 453028,
+      "modified_at": "2026-05-02T00:11:14Z",
+      "content_hash": "sha256:8bc9a57d792a3b8f51b976ecf8dc4f262ca1f1e740c72ff9716215ea5b58030c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/nicomachean-ethics.md",
+        "entities/aristotle.md",
+        "entities/joe-sachs.md",
+        "concepts/eudaimonia.md",
+        "concepts/energeia.md",
+        "concepts/hexis.md",
+        "concepts/doctrine-of-the-mean.md",
+        "concepts/to-kalon.md",
+        "concepts/prohairesis.md",
+        "concepts/phronesis.md",
+        "concepts/akrasia.md",
+        "concepts/justice-nicomachean.md",
+        "concepts/philia.md",
+        "concepts/pleasure-aristotle.md",
+        "concepts/contemplative-life.md",
+        "concepts/distributive-justice.md",
+        "concepts/corrective-justice.md"
+      ],
+      "pages_updated": [
+        "concepts/justice-nicomachean.md"
+      ]
+    },
+    "/home/user/Documents/aristotle/Nicomachean Ethics - Aristotle.txt": {
+      "ingested_at": "2026-07-08T00:00:00Z",
+      "size_bytes": 729814,
+      "modified_at": "2026-07-09T01:15:07Z",
+      "content_hash": "sha256:0f6a81b719bc209cb57e0fa1acb54bc91b60583103f39ab5e49d648568e041f2",
+      "source_type": "document",
+      "project": null,
+      "note": "Plain-text conversion of the epub (via ebook-convert), used as the actual reading copy for this ingest.",
+      "pages_created": [],
+      "pages_updated": []
+    }
+  },
+  "stats": {
+    "total_sources_ingested": 2,
+    "total_pages": 17
+  }
+}
