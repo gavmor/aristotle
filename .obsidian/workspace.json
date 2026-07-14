@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/to-kalon.md",
-                "mode": "source",
+                "file": "synthesis/household-justice-inheritance.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to-kalon"
+              "title": "household-justice-inheritance"
             }
           }
         ]
@@ -180,22 +180,32 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b6297875ece0c0f7",
   "lastOpenFiles": [
-    "concepts/to-kalon.md.tmp.3159347.86d6794a51ff",
-    "hot.md.tmp.3159347.9fcecd6df7df",
-    "log.md.tmp.3159347.c5784db3ed2d",
-    "index.md.tmp.3159347.acd9acea7ccb",
-    "references/nicomachean-ethics.md.tmp.3159347.4c8d6b3ad2da",
-    "concepts/justice-nicomachean.md.tmp.3159347.dd62df37f21e",
-    "concepts/justice-nicomachean.md.tmp.3159347.8865bf1fd141",
-    "concepts/corrective-justice.md",
-    "concepts/corrective-justice.md.tmp.3159347.802d6a321ca0",
+    "hot.md.tmp.3159347.a0df19aac45e",
+    "log.md.tmp.3159347.0fde29208272",
+    "concepts/akrasia.md.tmp.3159347.bef2bc91a9c7",
+    "concepts/akolasia.md.tmp.3159347.0ce4c54cc8de",
+    "concepts/distributive-justice.md.tmp.3159347.9965e2f8027f",
+    "concepts/doctrine-of-the-mean.md.tmp.3159347.dc0e85d51061",
+    "concepts/energeia.md.tmp.3159347.462c03f0b008",
+    "concepts/eudaimonia.md.tmp.3159347.d9b7abac5ad9",
+    "concepts/phronesis.md.tmp.3159347.69b058762d98",
+    "concepts/to-kalon.md.tmp.3159347.e74e153b3dd6",
+    "concepts/justice-nicomachean.md.tmp.3159347.638e5b77aca4",
+    "synthesis/justice-taxonomy.md",
+    "synthesis/household-justice-venn.md",
+    "synthesis/household-justice-inheritance.md",
     "concepts/distributive-justice.md",
-    "concepts/distributive-justice.md.tmp.3159347.cd5bdfb17d8e",
+    "concepts/corrective-justice.md",
+    "Home.md",
+    "synthesis/virtue-taxonomy.md",
+    "concepts/to-kalon.md",
+    "concepts/akolasia.md",
     "concepts/pleasure-aristotle.md",
     "references/nicomachean-ethics.md",
     "concepts/justice-nicomachean.md",
@@ -205,17 +215,12 @@
     "entities/joe-sachs.md",
     "hot.md",
     "index.md",
-    "Home.md",
-    "concepts/contemplative-life.md.tmp.340687.c1ca9f5a6972",
-    "concepts/justice-nicomachean.md.tmp.340687.d9640caa17e0",
     "log.md",
     "concepts/contemplative-life.md",
     "concepts/philia.md",
     "concepts/phronesis.md",
     "concepts/prohairesis.md",
-    "concepts/to-kalon.md",
     "concepts/hexis.md",
-    "concepts/energeia.md",
-    "concepts/eudaimonia.md"
+    "concepts/energeia.md"
   ]
 }

@@ -27,6 +27,36 @@ relationships:
 
 Per Joe Sachs's introduction, "the most important word in the whole work" after *hexis* and *[[concepts/energeia|energeia]]*, and the one translators are, in his phrase, "afraid to give you straight" — most render *to kalon* as "the noble" or "the fine," which Sachs argues drains it of its everyday force. His evidence: ordinary English still uses "beautiful" exactly the way Aristotle uses *kalon* — "that was a beautiful thing you did." ^[extracted]
 
+## Diagram
+
+The diagram radiates outward from *to kalon* itself, showing the five branches of Sachs's case for it: its two senses collapsing into one, its standing among the highest goods, the specific virtues it is named as the end of, the Bk. V/Bks. VIII-IX contrast between justice and friendship, and its extension to the cosmological.
+
+```mermaid-next
+mindmap
+  root((To Kalon<br/>the Beautiful))
+    Two senses, one meaning
+      Bodies and artifacts well-made
+      Actions well done
+      Judged by perception, not reasoning
+    Among the highest goods
+      Pleasant
+        Supervenes on the beautiful
+      Advantageous
+        Drops out: merely instrumental
+      Beautiful
+        Primary sense of the good
+    Named end of the virtues
+      Courage
+      Magnificence
+      Generosity
+    Justice vs friendship
+      Justice: kalon unmentioned in Bk V
+      Friendship: named throughout Bks VIII-IX
+    Cosmological extension
+      Unmoved mover named the beautiful, Met. XII
+      Echoes Diotima in Plato's Symposium
+```
+
 ## Key Ideas
 
 - Aristotle states repeatedly and directly that moral virtue's actions are done **for the sake of the beautiful**: courage is "for the sake of the beautiful, for this is the end of virtue" (Bk. III, ch. 8-9); magnificence is "for the sake of the beautiful, for this is common to the virtues" (Bk. IV, ch. 2); the generous person gives "for the sake of the beautiful" (Bk. IV, ch. 1). ^[extracted]

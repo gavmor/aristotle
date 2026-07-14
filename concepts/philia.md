@@ -29,6 +29,25 @@ relationships:
 
 Books VIII-IX form the Ethics' longest sustained discussion of a single topic — friendship (*philia*, a broader term than the English "friendship," covering family bonds, political alliance, and business partnership as well as intimate friendship). Aristotle calls it "a certain kind of virtue, or goes with virtue, and is also most necessary for life."
 
+## Diagram
+
+Each species scores differently across the qualities that make friendship what it is; complete friendship is distinctive for scoring high on every axis at once, which is exactly why Aristotle calls it rare.
+
+```mermaid-next
+radar-beta
+  title Three Species of Friendship
+  axis use["Usefulness"], pls["Pleasure"], end["Endurance"]
+  axis own["Loved for Own Sake"], rare["Rarity"]
+
+  curve utility["For Utility"]{5, 1, 1, 1, 1}
+  curve pleasure["For Pleasure"]{1, 5, 2, 1, 1}
+  curve complete["Complete Friendship"]{4, 4, 5, 5, 5}
+
+  max 5
+  min 0
+  graticule polygon
+```
+
 ## Key Ideas
 
 - **Three species of friendship**, corresponding to the three things that are loveable — the good, the pleasant, and the useful:

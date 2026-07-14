@@ -29,6 +29,22 @@ relationships:
 
 The second of the two forms of **particular justice** (Bk. V, ch. 2, 4-5) — the Greek is *to diorthotikon dikaion*, "the corrective just," from *diorthoun*, "to straighten/set right." Translator Joe Sachs renders it literally as "the justice that sets things straight" rather than using the Latinate "corrective" or "rectificatory," though both of those are the standard labels in the secondary literature (confirmed in this edition's own footnotes). It governs **transactions**, both **willing** (selling, buying, lending at interest, giving security, investing, entrusting, renting) and **unwilling** — subdivided into *stealthy* (theft, adultery, poisoning, corrupting slaves, false witness) and *violent* (assault, imprisonment, murder, rape, verbal abuse).
 
+## Diagram
+
+Aristotle's image is a line unequally cut: the judge (the "halver") removes the excess from the wrongdoer's side and restores it to the victim's side until both segments are equal again — corrective justice as a transition between two conditions, not a chain of steps.
+
+```mermaid
+stateDiagram-v2
+    [*] --> Unequal
+    state Unequal {
+        Excess: Excess (wrongdoer's gain)
+        Deficiency: Deficiency (victim's loss)
+    }
+    Unequal --> Equal: judge, "the halver,"\nremoves excess, restores deficiency
+    Equal: Equal position restored
+    Equal --> [*]
+```
+
 ## Key Ideas
 
 - **Structured as an arithmetic proportion**, in contrast to [[concepts/distributive-justice|distributive justice]]'s geometric proportion. The judge treats the parties as strict equals regardless of prior merit or status — "it makes no difference whether a decent person cheated a low person or the reverse" — the law looks only at the harm itself. Injustice is measured as a deviation from an equal position: the wrongdoer's illicit "gain" and the victim's "loss" are treated as unequal departures from a mean, even where "gain" and "loss" aren't literally the right words (Aristotle's example: a wound inflicted has no literal "gain" for the wounder, but the framework still applies). ^[extracted]
@@ -42,4 +58,6 @@ The second of the two forms of **particular justice** (Bk. V, ch. 2, 4-5) — th
 - [[concepts/justice-nicomachean]] — the parent discussion (general vs. particular justice) this page is one species of
 - [[concepts/distributive-justice]] — the sibling form, governing shares of common goods by geometric rather than arithmetic proportion
 - [[concepts/doctrine-of-the-mean]] — corrective justice is a "mean" realized as an equalizing quantity between excess and deficiency, not a disposition toward feeling
+- [[synthesis/virtue-taxonomy]] — treemap depicting this as one of justice's two leaves
+- [[synthesis/justice-taxonomy]] — full treemap expanding this branch into willing/unwilling and stealthy/violent transaction types
 - [[references/nicomachean-ethics]] — source text (Book V, ch. 2, 4-5)

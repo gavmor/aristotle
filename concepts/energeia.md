@@ -29,6 +29,20 @@ relationships:
 
 Per translator Joe Sachs, "the most important word in all of Aristotle's thinking." Standard translations render *energeia* as "activity" (in the [[references/nicomachean-ethics]]) or "actuality" (in Aristotle's theoretical works), obscuring that it is the same word doing the same conceptual work in both contexts — connecting Aristotle's ethics directly to his general account of nature and being. ^[extracted]
 
+## Diagram
+
+Reads left to right: the same concept of being-at-work gets put to work at successive points in the Ethics, each stage adding a new application until it reaches its summit case in contemplation.
+
+```mermaid-next
+timeline
+    title Energeia's applications across the Ethics
+    Book I : Ergon argument - happiness requires being-at-work of the human function
+    Book II : Habituation - being just produces the hexis of justice
+    Book IX, ch.9 : Life = being-at-work of soul - self-awareness is pleasant
+    Book X, ch.4 : Kinesis vs energeia - pleasure is being-at-work, not motion
+    Book X, ch.7-8 : Theoria - most complete being-at-work - eudaimonia
+```
+
 ## Key Ideas
 
 - Etymologically related to *ergon* (work): being-at-work is what is *at* work, as opposed to merely having the capacity (potency) to work. Sachs's introduction traces the word's centrality back to Book I's [[concepts/eudaimonia|ergon argument]]: human happiness turns out to require unlocking what "being-at-work" means. ^[extracted]

@@ -29,6 +29,28 @@ relationships:
 
 Aristotle's central structural claim about virtue of character (Book II, chapters 6-9, elaborated with named virtues through Book IV): virtue is "a certain kind of mean condition, since it is, at any rate, something that makes one apt to hit the mean" between two vices, one of excess and one of deficiency.
 
+## Diagram
+
+The doctrine is best read as an argument that keeps correcting misreadings of "mean" until the real thing is pinned down; the diagram treats the correct account as the effect and each misreading-plus-correction as a contributing bone, fishbone-style.
+
+```mermaid-next
+ishikawa-beta
+    What the mean actually is
+    Relative to us
+        Not one midpoint for everyone
+        Fixed by practical judgment, per person
+    An extreme, not mediocrity
+        Not "just reduce the vice"
+        Enables right action, not caution
+    Fixed by perception, not a rule
+        Lean toward the greater-error extreme
+        Counter your own natural pull
+        Distrust pleasure most
+    Only where a mean is possible
+        Named-bad acts admit no mean
+        Applies only to what's good when proportioned
+```
+
 ## Key Ideas
 
 - The mean in question is **relative to us**, not "the mean that belongs to the thing" (an arithmetic midpoint the same for everyone) — Aristotle's illustration: if ten pounds of food is a lot to eat and two pounds is little, it doesn't follow that six pounds is right for everyone, since six might be a lot for a beginner and a little for the wrestler Milo. The mean is determined "by a proportion and by the means by which a person with [[concepts/phronesis|practical judgment]] would determine it," not by a formula. ^[extracted]
@@ -36,7 +58,7 @@ Aristotle's central structural claim about virtue of character (Book II, chapter
 - **Not everything admits of a mean**: actions and feelings that are base simply by being named — adultery, theft, murder, joy at others' misfortune, envy, shamelessness — have no "right amount"; there is no such thing as committing adultery with the right woman at the right time. The mean doctrine applies only to feelings and actions that are good when proportioned and bad only in excess or defect. ^[extracted]
 - **The table of virtues** built up across Books II and IV (deficiency / mean / excess):
   - fear & confidence: cowardice / **courage** / rashness
-  - bodily pleasure: insensibility / **temperance** / dissipation (self-indulgence)
+  - bodily pleasure: insensibility / **temperance** / [[concepts/akolasia|dissipation]] (self-indulgence)
   - giving & taking money (small scale): stinginess / **generosity** / wastefulness
   - giving & taking money (large scale): chintziness / **magnificence** / vulgarity
   - honor & dishonor (large scale): smallness of soul / **greatness of soul** / vanity
@@ -54,7 +76,9 @@ Aristotle's central structural claim about virtue of character (Book II, chapter
 ## Related
 
 - [[concepts/hexis]] — virtue as this kind of active condition
+- [[concepts/akolasia]] — the named excess-vice opposite temperance, worked out in full on its own page
 - [[concepts/to-kalon]] — the mean is chosen for the sake of the beautiful, which is what makes it more than a quantitative midpoint
 - [[concepts/phronesis]] — the mean in any particular case is fixed by what a practically wise person would determine
 - [[concepts/justice-nicomachean]] — justice as a mean of a mathematically-structured kind
+- [[synthesis/virtue-taxonomy]] — treemap visualizing this whole table alongside virtue of thought's very different (non-triadic) structure
 - [[references/nicomachean-ethics]] — source text

@@ -29,6 +29,24 @@ relationships:
 
 Book X, chapters 6-8, close the Ethics' main argument (before the transitional chapter 9, which pivots to the *Politics*) by asking, in light of everything established about virtue, friendship, and pleasure, what happiness actually *is*. Aristotle's answer is a "way of being-at-work in accordance with the most powerful virtue," and he identifies this as **contemplation** (*theoria*).
 
+## Diagram
+
+Aristotle judges contemplation against moral/political virtue on the same set of criteria; contemplation wins on every one, which is exactly why it — not moral virtue — gets to count as complete happiness.
+
+```mermaid-next
+radar-beta
+  title Contemplation vs. Moral/Political Virtue
+  axis con["Continuity"], ple["Pleasure"], suf["Self-Sufficiency"]
+  axis own["Loved for Itself"], lei["Leisure"]
+
+  curve c1["Contemplation"]{5, 5, 5, 5, 5}
+  curve c2["Moral/Political Virtue"]{2, 3, 2, 2, 1}
+
+  graticule polygon
+  max 5
+  min 0
+```
+
 ## Key Ideas
 
 - **Happiness is not play**: against the view that the leisured pursuits enjoyed by tyrants and the powerful count toward happiness, Aristotle argues play is chosen for the sake of rest, and rest for the sake of being-at-work — "to work hard and undergo troubles all through one's life for the sake of playing" would be foolish and childish. Even a slave can enjoy bodily pleasure as much as the best person, but no one grants a slave a share of happiness, since happiness requires the right *kind* of activity, in accordance with virtue. ^[extracted]

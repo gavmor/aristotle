@@ -29,6 +29,19 @@ relationships:
 
 One of the two forms into which Aristotle divides **particular justice** (Bk. V, ch. 2-3) — the Greek is *to dianemetikon dikaion*, "the distributive just," from *dianemein*, "to distribute/apportion." It governs "distributions of honor or money, or as many other things as are divisible, among those who share in the political community."
 
+## Diagram
+
+How to read it: each line tracks how a share changes from a lower-merit to a higher-merit person; the rising line keeps pace with merit (a geometric proportion — just), while the flat line hands out equal shares regardless of merit (the disproportion Aristotle calls unjust here).
+
+```mermaid-next
+xychart-beta
+    title "Share as merit rises"
+    x-axis ["Lower-merit person", "Higher-merit person"]
+    y-axis "Share received" 0 --> 10
+    line "Just: proportionate to merit" [3, 6]
+    line "Unjust: equal despite merit" [4.5, 4.5]
+```
+
 ## Key Ideas
 
 - **Structured as a geometric proportion, not an equal share.** What is just is not that everyone gets the same amount, but that shares are proportionate to the people receiving them: "as person A is to person B, so should A's portion be to B's portion." Aristotle works this out formally as a four-term proportion (two people, two shares) — A:B :: C:D — and derives the "linking" of A with C and B with D as what a just distribution actually does, alternating and recombining the ratio so that "the whole is to the whole" as each person is to what they receive. Mathematicians call this *geometrical* proportionality, distinguishing it from the *arithmetic* proportionality of [[concepts/corrective-justice|corrective justice]]. ^[extracted]
@@ -41,4 +54,6 @@ One of the two forms into which Aristotle divides **particular justice** (Bk. V,
 - [[concepts/justice-nicomachean]] — the parent discussion (general vs. particular justice) this page is one species of
 - [[concepts/corrective-justice]] — the sibling form, governing transactions by arithmetic rather than geometric proportion
 - [[concepts/doctrine-of-the-mean]] — distributive justice is itself a "mean" realized as a proportion, not as a disposition toward feeling
+- [[synthesis/virtue-taxonomy]] — treemap depicting this as one of justice's two leaves
+- [[synthesis/justice-taxonomy]] — full treemap expanding this branch into honor / money / other divisible goods
 - [[references/nicomachean-ethics]] — source text (Book V, ch. 2-3)

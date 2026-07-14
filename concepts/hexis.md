@@ -29,6 +29,29 @@ relationships:
 
 Per translator Joe Sachs, "one of the most important words in the [[references/nicomachean-ethics]]" and "the foundation of Aristotle's understanding of human responsibility." Standard translations render it "habit," "disposition," or "state" — Sachs argues all three mislead, since a *hexis* is an actively-held, effortful condition, not a passive one. ^[extracted]
 
+## Diagram
+
+Aristotle's argument for *hexis* as virtue's genus works like a fishbone: it rules out two rival candidates (feelings, predispositions) as causes disqualified from the "effect" of being virtue's genus, while the acquisition path and the three conditions for full virtue stand as the causes that do hold up.
+
+```mermaid-next
+ishikawa-beta
+    Virtue's genus
+    Feelings (ruled out)
+        Not praised or blamed for these
+        Merely undergone, not acted
+    Predispositions (ruled out)
+        Natural, present from birth
+        Not up to us
+    Acquisition path
+        Habit - ethos
+        Being-at-work - energeia
+        Active condition - hexis
+    Conditions for full virtue
+        Done knowingly
+        Chosen for its own sake
+        Stable, hard to dislodge
+```
+
 ## Key Ideas
 
 - Aristotle distinguishes three things that occur in the soul: **feelings** (desire, anger, fear — things we undergo), **predispositions** (capacities to feel these), and **active conditions** (*hexeis* — the settled way we bear ourselves toward our feelings, e.g. bearing anger "violently or slackly" vs. "in a measured way"). Virtue is neither a feeling nor a predisposition (we are not praised or blamed for feelings themselves, and predispositions belong to us by nature, but we do not become good or bad by nature) — virtue must therefore be a *hexis*. ^[extracted]

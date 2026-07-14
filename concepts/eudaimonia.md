@@ -31,6 +31,26 @@ relationships:
 
 Aristotle's term for the highest human good, at stake from the opening line of the [[references/nicomachean-ethics]]: "every art and every inquiry, and likewise every action and choice, seems to aim at some good." Sachs deliberately avoids over-translating *eudaimonia* as a simple synonym for subjective contentment; it names an objective condition of a life well lived. ^[inferred]
 
+## Diagram
+
+The argument runs as a chain: two criteria for the highest good converge on the ergon argument, which yields a working definition, which is then qualified by further requirements, and finally forks in Book X into primary and secondary candidates.
+
+```mermaid
+flowchart TD
+    A{{"What is the highest good?"}} --> B["Complete:<br/>chosen for itself"]
+    A --> C["Self-sufficient:<br/>lacks nothing"]
+    B --> D["Ergon argument"]
+    C --> D
+    D --> E["Human work = soul's<br/>being-at-work in accord<br/>with reason"]
+    E --> F["Happiness = being-at-work<br/>of soul in accord<br/>with virtue"]
+    F --> G["Qualifier:<br/>over a complete life"]
+    F --> H["Qualifier:<br/>needs external goods"]
+    G --> I["Book X"]
+    H --> I
+    I --> J["Primary:<br/>contemplation"]
+    I --> K["Secondary:<br/>moral/political virtue"]
+```
+
 ## Key Ideas
 
 - Happiness is established as the highest good by two criteria: it is **complete** — chosen always for itself and never for the sake of anything else, unlike honor, pleasure, or intelligence, which people choose partly for the sake of happiness — and **self-sufficient** — by itself it makes life choiceworthy and lacking in nothing (this self-sufficiency is social, not solitary: it includes parents, children, friends, and fellow citizens). ^[extracted]

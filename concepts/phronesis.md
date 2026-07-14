@@ -31,6 +31,34 @@ relationships:
 
 Book VI turns from virtue of character to virtue of thought, dividing the rational part of the soul into a **knowing part** (contemplates what cannot be otherwise) and a **calculating/opinion-forming part** (contemplates what can be otherwise, i.e. the domain of action), and identifying five states by which the soul "discloses truth": art (*techne*), knowledge (*episteme*), practical judgment (*phronesis*), wisdom (*sophia*), and intellect (*nous*).
 
+## Diagram
+
+Book VI works like a diagnostic: each rib is a candidate for the state that governs action, ruled out (or in) by its own reason, until practical judgment alone survives.
+
+```mermaid-next
+ishikawa-beta
+    What governs right action?
+    Art (techne)
+        Concerns making, not acting
+        Can be exercised well or badly on purpose
+        Rejected as candidate
+    Knowledge (episteme)
+        Concerns the necessary and demonstrable
+        Action concerns particulars, capable of being otherwise
+        Rejected as candidate
+    Wisdom (sophia)
+        Directed at eternal, cosmic things
+        Anaxagoras, Thales: wise but not practically judicious
+        Rejected as candidate
+    Intellect (nous)
+        Grasps first sources, not the whole of action
+        Necessary but not sufficient alone
+    Practical Judgment (phronesis)
+        Deliberates about living well as a whole
+        Acting well is itself the end
+        Accepted: the master state of action
+```
+
 ## Key Ideas
 
 - **Art (*techne*)** is a true reasoned state concerned with *making* (production of something other than the activity itself, whose source is in the maker, not the thing made). **Knowledge (*episteme*)** concerns what is necessary, eternal, and demonstrable from prior, better-known sources. Both are rejected as candidates for the master virtue of action: art because it can be exercised well or badly by choice (a deliberately bad artist is, if anything, more skilled), knowledge because action concerns particulars that are "capable of being otherwise," which cannot be demonstrated. ^[extracted]
@@ -47,4 +75,5 @@ Book VI turns from virtue of character to virtue of thought, dividing the ration
 - [[concepts/prohairesis]] — practical judgment operates through deliberation and choice
 - [[concepts/akrasia]] — Aristotle argues it is impossible to have practical judgment and lack self-restraint at the same time, since practical judgment entails good character
 - [[concepts/contemplative-life]] — the unresolved tension between practical judgment's this-worldly focus and wisdom's theoretical focus is resolved (if at all) only in Book X
+- [[synthesis/virtue-taxonomy]] — treemap showing why the intellectual virtues never get the mean doctrine's triadic treatment the way virtue of character does
 - [[references/nicomachean-ethics]] — source text (Book VI)
