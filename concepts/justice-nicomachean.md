@@ -6,7 +6,7 @@ aliases: [particular justice, general justice, universal justice, equity, epieik
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-12T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: Book V's analysis of justice as complete virtue toward others, its division into particular justice's two forms, natural vs. conventional justice, and equity.
 provenance:
   extracted: 0.75
@@ -35,26 +35,27 @@ Book V's treatment of justice, which Aristotle flags as unlike the other virtues
 
 ## Diagram
 
-How to read it: each branch radiates a facet of justice from Book V's core distinction; the mean-as-quantity branch belongs to both species of particular justice alike, while general justice's incompleteness is the separate thread Sachs traces to friendship.
+A direct is-a hierarchy, not a metaphor: "justice" genuinely names two senses (general/particular), and particular justice genuinely divides into the two species below — this diagram states only that containment, nothing more. Equity, the mean-as-quantity point, and the friendship thread are separate claims *about* these classes, not further species, so they stay in prose rather than being forced into the tree.
 
 ```mermaid
-mindmap
-  root((Justice<br/>Book V))
-    General justice
-      Whole of virtue<br/>toward others
-      Incomplete alone
-        Friendship completes it
-    Particular justice
-      Distributive
+classDiagram
+    class Justice["Justice (Bk. V)"]
+    class GeneralJustice["General / Complete Justice"] {
+        Whole of virtue toward others
+    }
+    class ParticularJustice["Particular Justice"] {
+        A part of virtue: fair shares
+    }
+    class DistributiveJustice["Distributive"] {
         Geometric proportion
-      Corrective
+    }
+    class CorrectiveJustice["Corrective"] {
         Arithmetic proportion
-      Mean as a quantity
-        Excess: doing injustice
-        Mean: just share
-        Deficiency: suffering injustice
-      Equity
-        Corrects law's blind spots
+    }
+    Justice <|-- GeneralJustice
+    Justice <|-- ParticularJustice
+    ParticularJustice <|-- DistributiveJustice
+    ParticularJustice <|-- CorrectiveJustice
 ```
 
 ## Key Ideas
@@ -72,6 +73,68 @@ mindmap
 - **Equity (*epieikeia*, "the decent")** corrects law's inherent limitation: law must speak universally, but "there are some things about which it is not possible to speak rightly when speaking universally," so equity is "a setting straight of what is legally just" in the cases a well-intentioned lawmaker would have carved out if he could have foreseen them — equity is not a rival to justice but a *better form of justice* for particular cases, "not better than what is simply just, but better than the error that results from speaking simply." ^[extracted]
 - Sachs's introduction argues Aristotle ultimately treats justice as **inherently incomplete on its own account**, since Book V never invokes [[concepts/to-kalon|the beautiful]] (unlike every other virtue discussed), and Aristotle notes that lawmakers "do not take justice as seriously as friendship" and "accord friendship a higher moral stature" — read by Sachs as Aristotle's signal that the discussion of [[concepts/philia|friendship]] in Books VIII-IX effectively supersedes and completes what justice alone cannot achieve. This is an interpretive claim, not a thesis Aristotle states outright. ^[ambiguous]
 
+## Greek Gloss
+
+Source: Bk. V, ch. 1 (Bekker 1130a7–10).
+
+> αὕτη μὲν οὖν ἡ δικαιοσύνη οὐ μέρος ἀρετῆς ἀλλʼ ὅλη ἀρετή ἐστιν, οὐδʼ ἡ ἐναντία ἀδικία μέρος κακίας ἀλλʼ ὅλη κακία.
+
+| δικ- | -αιο- | -σύνη |
+|---|---|---|
+| *dik-* | *-aio-* | *-synē* |
+| root of δίκη, "judgment, a case, what is due" | adjective-forming element, as in δίκαιος, "just" | abstract-noun suffix, "-ness," a settled state or quality |
+| → **δικαιοσύνη**, "justice," the fixed condition of being δίκαιος, one who renders each party what is due | | |
+
+The morphology backs up the claim directly: δικαιοσύνη is built from "what is due" plus a suffix meaning a whole settled condition of character, which is exactly why Aristotle says here it names the whole of virtue rather than a part of it.
+
+Source: Bk. V, ch. 2 (Bekker 1130b30–1131a1).
+
+> τῆς δὲ κατὰ μέρος δικαιοσύνης καὶ τοῦ κατʼ αὐτὴν δικαίου ἓν μέν ἐστιν εἶδος τὸ ἐν ταῖς διανομαῖς τιμῆς ἢ χρημάτων ἢ τῶν ἄλλων ὅσα μεριστὰ τοῖς κοινωνοῦσι τῆς πολιτείας (ἐν τούτοις γὰρ ἔστι καὶ ἄνισον ἔχειν καὶ ἴσον ἕτερον ἑτέρου), ἓν δὲ τὸ ἐν τοῖς συναλλάγμασι διορθωτικόν.
+
+| εἶδ- | -ος |
+|---|---|
+| *eid-* | *-os* |
+| root shared with ἰδεῖν/οἶδα, "to see," hence "the shape a thing is seen to have" | neuter noun ending |
+| → **εἶδος**, "species," "form" — the distinct look each kind of thing takes | |
+
+This is the sentence where Aristotle actually performs the split named in Key Ideas: one εἶδος of particular justice in distributions, another (διορθωτικόν) in transactions — "species" is the word doing the dividing work.
+
+Source: Bk. V, ch. 11 (Bekker 1138a10–13).
+
+> διὸ καὶ ἡ πόλις ζημιοῖ, καί τις ἀτιμία πρόσεστι τῷ ἑαυτὸν διαφθείραντι ὡς τὴν πόλιν ἀδικοῦντι.
+
+| ἀ- | τιμ- | -ία |
+|---|---|---|
+| *a-* | *tim-* | *-ia* |
+| privative prefix, "not, without" | root of τιμή, "honor, worth, price" | abstract-noun suffix |
+| → **ἀτιμία**, "dishonor," loss of the standing that belongs to a full member of the city | | |
+
+The penalty Aristotle names for a man who kills himself in anger is ἀτιμία, a civic, not a personal, loss — the linguistic marker that the wrong falls on the city rather than on the man himself.
+
+Source: Bk. V, ch. 7 (Bekker 1134b18–24).
+
+> τοῦ δὲ πολιτικοῦ δικαίου τὸ μὲν φυσικόν ἐστι τὸ δὲ νομικόν, φυσικὸν μὲν τὸ πανταχοῦ τὴν αὐτὴν ἔχον δύναμιν, καὶ οὐ τῷ δοκεῖν ἢ μή, νομικὸν δὲ ὃ ἐξ ἀρχῆς μὲν οὐδὲν διαφέρει οὕτως ἢ ἄλλως, ὅταν δὲ θῶνται, διαφέρει.
+
+| νομ- | -ικόν |
+|---|---|
+| *nom-* | *-ikon* |
+| root of νόμος, "law, custom" (from νέμω, "to distribute, allot") | adjectival suffix, "pertaining to" |
+| → **νομικόν** (δίκαιον), "conventional/legal" (justice) — binding once a community has "allotted" it a fixed form | |
+
+νομικόν's root sense of allotment is precisely why Aristotle can hold that conventional justice varies by agreement without that variability infecting φυσικόν, the naturally fixed kind, alongside it.
+
+Source: Bk. V, ch. 10 (Bekker 1137b25–27).
+
+> καὶ ἔστιν αὕτη ἡ φύσις ἡ τοῦ ἐπιεικοῦς, ἐπανόρθωμα νόμου, ᾗ ἐλλείπει διὰ τὸ καθόλου.
+
+| ἐπανα- | ὀρθ- | -μα |
+|---|---|---|
+| *epana-* | *orth-* | *-ma* |
+| ἐπί, "upon," + ἀνά, "back, again," fused: "a further correction to" | root of ὀρθός, "straight, right" | result-noun suffix, "the thing done" |
+| → **ἐπανόρθωμα**, "a straightening-out," "a correction" | | |
+
+This is the line Sachs's "setting straight" language traces back to: equity is defined here, in one word, as a correction supplied exactly where law's universal wording runs short.
+
 ## Related
 
 - [[concepts/distributive-justice]] — the geometric-proportion species of particular justice
@@ -82,4 +145,7 @@ mindmap
 - [[synthesis/virtue-taxonomy]] — treemap showing justice as a 2-leaf exception even within virtue of character's otherwise-uniform triads
 - [[synthesis/justice-taxonomy]] — full treemap of every classificatory axis this page and its two children cover, plus natural/conventional, political/household, and equity
 - [[synthesis/household-justice-inheritance]] — inheritance diagram of the three cumulative properties (separate personhood, own domain, full equality) behind the wife > child > slave/property ranking
+- [[synthesis/constitutions-and-households]] — a second, distinct household classification: the same relations mapped onto constitutional forms (kingship/tyranny, aristocracy/oligarchy, timocracy/democracy) rather than graded by justice
+- [[synthesis/crown-of-virtue]] — Sachs's editorial claim that justice is the second of four successive candidates for what organizes all the virtues
+- [[concepts/decency-epieikeia]] — decency, the correction internal to justice for what a universal law leaves out in a particular case
 - [[references/nicomachean-ethics]] — source text (Book V)

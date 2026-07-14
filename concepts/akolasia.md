@@ -6,7 +6,7 @@ aliases: [dissipation, self-indulgence, indulgence, akolasia]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-12T00:00:00Z
-updated: 2026-07-12T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: The vice of excess opposite temperance — bodily indulgence in touch/taste pleasures; literally "unpruned" in Greek, and a settled character trait, not an episode.
 provenance:
   extracted: 0.72
@@ -35,26 +35,23 @@ The word trips up modern readers because English "dissipated" now mostly connote
 
 ## Diagram
 
-Both akolasia and akrasia involve giving in to bodily pleasure, but Aristotle treats them as different in *kind*, not degree — one is a fixed condition, the other a recurring cycle. The diagram models each as its own small state machine: akrasia loops (knows better → overpowered → regret → back to knowing better), while akolasia has no loop out at all.
+A direct side-by-side comparison: both conditions involve giving in to bodily pleasure, but Aristotle distinguishes them by the same four properties held to different values, not by any process or cycle.
 
 ```mermaid
-stateDiagram-v2
-    direction LR
-
-    [*] --> Akrasia
-    [*] --> Akolasia
-
-    state "Akrasia (unrestraint) - episodic" as Akrasia {
-        [*] --> KnowsBetter
-        KnowsBetter --> Overpowered : passion overwhelms judgment
-        Overpowered --> Regret : afterward
-        Regret --> KnowsBetter : resolve returns
+classDiagram
+    class Akrasia["Akrasia (Unrestraint)"] {
+        Episodic: overpowered against own judgment
+        Regret: yes, afterward
+        Curable: yes
+        Choice: acts against own choice
     }
-
-    state "Akolasia (dissipation) - chronic" as Akolasia {
-        [*] --> Committed
-        Committed --> Committed : stands by the choice, no regret
+    class Akolasia["Akolasia (Dissipation)"] {
+        Standing: a settled, chosen condition
+        Regret: no
+        Curable: no, effectively permanent
+        Choice: acts from own choice
     }
+    Akrasia -- Akolasia : contrasted, not a difference of degree
 ```
 
 How to read it: akrasia's cycle always returns to "knows better" between lapses — like the "epileptic seizures" Aristotle compares it to, it's intermittent and curable. Akolasia has no return path — the person has settled, like "dropsy and consumption," into a single self-reinforcing state with no regret to pull them out.
@@ -67,6 +64,76 @@ How to read it: akrasia's cycle always returns to "knows better" between lapses 
 - **A settled active condition ([[concepts/hexis|hexis]]), not an episode — this is the crucial line separating it from [[concepts/akrasia|akrasia]].** The dissipated person has decided, as a matter of principle, that one ought always to pursue pleasure, and acts on that conviction consistently; the unrestrained (*akratic*) person believes the opposite but is overpowered by passion in the moment. This is why Aristotle says the dissipated person feels **no regret** ("stands by his choice") while the unrestrained person always does, and why he reaches for a medical contrast: vice (including dissipation) is "like such diseases as dropsy and consumption" — continuous and effectively incurable — while unrestraint is "like epileptic seizures" — intermittent, and curable (Bk. VII, ch. 8). Aristotle explicitly ranks the merely unrestrained person as *better* than the dissipated one, "since the best thing in him, the source, is preserved." ^[extracted]
 - **Natural desires can be indulged to excess too, without being "dissipation" in the full sense.** Aristotle distinguishes overeating out of plain appetite (the "greedyguts," who merely exceeds a natural desire in amount) from dissipation proper, which is about *how* one relates to the pleasure — pursuing it by choice, indiscriminately, and beyond what is fitting, not merely eating too much on occasion (Bk. III, ch. 11). ^[extracted]
 - **Connects to habituation**: the "unpruned plant" image lines up with Book II's general claim that virtue and vice are both produced by the actions one repeatedly performs — dissipation is the specific, describable *result* of a desiring part of the soul that was never brought under the rule of reason in the way [[concepts/hexis|habituation]] is supposed to bring it, left instead to "grow" toward whatever is pleasant, the way an unpruned branch grows wherever it likes. ^[inferred]
+
+## Greek Gloss
+
+Source: Aristotle, *Ēthika Nikomacheia*, Bk. II, ch. 7 (Bekker 1107b), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+
+> μεσότης μὲν σωφροσύνη, ὑπερβολὴ δὲ ἀκολασία.
+
+Four key nouns, each broken into its morphemes:
+
+| μεσ- | -ότης |
+|---|---|
+| *mes-* | *-otēs* |
+| root of *mesos*, "middle" | abstract-noun suffix ("-ness") |
+| → **μεσότης**, "middle-ness," the mean | |
+
+| σω- | φρο- | -σύνη |
+|---|---|---|
+| *sō-* | *phro-* | *-synē* |
+| from *sōs*, "sound, safe" | combining form of *phrēn*, "mind" | abstract-noun suffix |
+| → **σωφροσύνη**, "soundness of mind," temperance | | |
+
+| ὑπερ- | βολ- | -ή |
+|---|---|---|
+| *hyper-* | *bol-* | *-ē* |
+| "over, beyond" | root of *ballō*, "to throw" | noun-forming ending |
+| → **ὑπερβολή**, "a throwing-beyond," excess | | |
+
+| ἀ- | κολασ- | -ία |
+|---|---|---|
+| *a-* | *kolas-* | *-ia* |
+| alpha-privative, "not, un-" | root of *kolazō*, "to prune, dock, check; hence chastise, discipline, punish" | abstract-noun suffix |
+| → **ἀκολασία**, "un-checked-ness" — the state of never having been pruned back | | |
+
+The root verb *kolazein* is the same one used literally of pruning branches or docking an animal's tail before it is ever extended to punishment or correction — which is exactly the "unpruned plant" image already drawn out in Key Ideas above from the footnote gloss. The adjective *akolastos* ("unpruned/undisciplined") is what the *-ia* suffix here turns into an abstract noun of state, parallel to how *sōphrosynē* is the abstract noun of the adjective *sōphrōn* ("sound-minded").
+
+Source: Bk. III, ch. 10 (Bekker 1118b).
+
+> κοινοτάτη δὴ τῶν αἰσθήσεων καθʼ ἣν ἡ ἀκολασία· καὶ δόξειεν ἂν δικαίως ἐπονείδιστος εἶναι, ὅτι οὐχ ᾗ ἄνθρωποί ἐσμεν ὑπάρχει, ἀλλʼ ᾗ ζῷα.
+
+| ἐπ- | ονειδ- | -ιστος |
+|---|---|---|
+| *ep-* | *oneid-* | *-istos* |
+| "upon, further" (intensive) | root of *oneidos*, "reproach, disgrace" | verbal-adjective suffix, "-worthy of, fit to be" |
+| → **ἐπονείδιστος**, "reproachable," deserving of blame | | |
+
+This is the sentence behind the "most reproached vice" claim in Key Ideas above: touch and taste are singled out as the senses shared most fully with other animals, so indulging them belongs to us, in Aristotle's phrase, "insofar as we are animals" rather than insofar as we are human.
+
+Source: Bk. III, ch. 11 (Bekker 1118b).
+
+> διὸ λέγονται οὗτοι γαστρίμαργοι, ὡς παρὰ τὸ δέον πληροῦντες αὐτήν.
+
+| γαστρ- | -ί- | -μαργος |
+|---|---|---|
+| *gastr-* | *-i-* | *-margos* |
+| root of *gastēr*, "belly, stomach" | linking vowel | from *margos*, "raging, ravenous, mad for" |
+| → **γαστρίμαργος**, "belly-mad" — a glutton | | |
+
+This is the actual word behind the "greedyguts" bullet above: someone who merely overfills the belly beyond what nature requires, which Aristotle treats as a lesser fault than dissipation proper because it is an error of amount, not of the settled, chosen relation to pleasure that defines *akolasia*.
+
+Source: Bk. VII, ch. 8 (Bekker 1150b).
+
+> ἔστι δʼ ὁ μὲν ἀκόλαστος, ὥσπερ ἐλέχθη, οὐ μεταμελητικός· ἐμμένει γὰρ τῇ προαιρέσει· ὁ δʼ ἀκρατὴς μεταμελητικὸς πᾶς.
+
+| μετα- | μελ- | -ητικός |
+|---|---|---|
+| *meta-* | *mel-* | *-ētikos* |
+| "after, change of" | root of *melei*, "to be a care/concern" | adjectival suffix, "disposed to, characterized by" |
+| → **μεταμελητικός**, "disposed to after-care" — prone to regret, remorseful | | |
+
+This is the exact line supporting the "no regret" claim in Key Ideas: the dissipated person is explicitly called *not* *metamelētikos*, because he "abides by his choice" (*emmenei tēi prohairesei*), while the unrestrained person is *metamelētikos* without exception — the same contrast the dropsy/consumption-vs-epilepsy medical image (drawn from this same passage) is meant to illustrate.
 
 ## Open Questions
 

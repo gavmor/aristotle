@@ -6,7 +6,7 @@ aliases: [active condition, character, state of character]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-08T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: Aristotle's term for a stable, actively-held condition of soul (as opposed to a mere passive habit or feeling) — the genus to which virtue and vice belong.
 provenance:
   extracted: 0.72
@@ -29,29 +29,6 @@ relationships:
 
 Per translator Joe Sachs, "one of the most important words in the [[references/nicomachean-ethics]]" and "the foundation of Aristotle's understanding of human responsibility." Standard translations render it "habit," "disposition," or "state" — Sachs argues all three mislead, since a *hexis* is an actively-held, effortful condition, not a passive one. ^[extracted]
 
-## Diagram
-
-Aristotle's argument for *hexis* as virtue's genus works like a fishbone: it rules out two rival candidates (feelings, predispositions) as causes disqualified from the "effect" of being virtue's genus, while the acquisition path and the three conditions for full virtue stand as the causes that do hold up.
-
-```mermaid-next
-ishikawa-beta
-    Virtue's genus
-    Feelings (ruled out)
-        Not praised or blamed for these
-        Merely undergone, not acted
-    Predispositions (ruled out)
-        Natural, present from birth
-        Not up to us
-    Acquisition path
-        Habit - ethos
-        Being-at-work - energeia
-        Active condition - hexis
-    Conditions for full virtue
-        Done knowingly
-        Chosen for its own sake
-        Stable, hard to dislodge
-```
-
 ## Key Ideas
 
 - Aristotle distinguishes three things that occur in the soul: **feelings** (desire, anger, fear — things we undergo), **predispositions** (capacities to feel these), and **active conditions** (*hexeis* — the settled way we bear ourselves toward our feelings, e.g. bearing anger "violently or slackly" vs. "in a measured way"). Virtue is neither a feeling nor a predisposition (we are not praised or blamed for feelings themselves, and predispositions belong to us by nature, but we do not become good or bad by nature) — virtue must therefore be a *hexis*. ^[extracted]
@@ -60,6 +37,22 @@ ishikawa-beta
 - We acquire active conditions **by first being at work in them**: "we become just by doing things that are just, temperate by doing things that are temperate, and courageous by doing things that are courageous," exactly as one becomes a housebuilder by building houses. Virtue and vice arise from, and are destroyed by, the same kinds of actions (excessive or deficient exercise ruins strength just as excessive or deficient indulgence ruins temperance). ^[extracted]
 - Fully virtuous action, as an active condition, requires doing the right thing (1) knowingly, (2) having chosen it for its own sake, and (3) "being in a stable condition and not able to be moved all the way out of it" (*bebaiôs kai ametakinêtôs* — Aristotle's coinage evoking a weighted toy that rights itself: not rigid, but returning to equilibrium under pressure). Someone who merely does just acts without these three conditions is not yet a just person. ^[extracted]
 - Virtue and vice as active conditions are what we are "jointly responsible for," since although we do not control how our character develops in its particulars once formed (any more than we can retroactively un-throw a stone), it was up to us at the outset not to become the sort of person we became — this underwrites Aristotle's claim (developed via [[concepts/prohairesis|choice]]) that both virtue and vice are voluntary. ^[extracted]
+
+## Greek Gloss
+
+Source: Aristotle, *Ēthika Nikomacheia*, Bk. II, ch. 6 (Bekker 1106a-b), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+
+> ἡ τοῦ ἀνθρώπου ἀρετὴ εἴη ἂν ἡ ἕξις ἀφʼ ἧς ἀγαθὸς ἄνθρωπος γίνεται καὶ ἀφʼ ἧς εὖ τὸ ἑαυτοῦ ἔργον ἀποδώσει.
+
+**ἕξις**, morpheme by morpheme:
+
+| ἐχ- | -σις |
+|---|---|
+| *ech-* | *-sis* |
+| root of *echō*, "to have, hold" (perfect stem *heh-/hex-*) | abstract noun suffix forming a noun of state/action from a verb stem |
+| → **ἕξις**, "a having," "a holding" (χ + σ → ξ by regular sound change) | |
+
+*Hexis* is a noun of state built directly on the verb "to have" — not on *ktaomai* ("to acquire, possess," as one possesses property), but on *echō* in the sense of actively holding onto or maintaining something. This is exactly what Sachs's "active condition" is trying to preserve against "habit": the word's own grammar names a *held* condition, sustained by the one who has it, not a static possession sitting in a drawer. Note also the direct echo of *ergon* ("work") in "ἀποδώσει... ἔργον" — the same root that gives [[concepts/energeia|*energeia*]] its name, tying the hexis/energeia pair together at the level of vocabulary, not just doctrine.
 
 ## Related
 

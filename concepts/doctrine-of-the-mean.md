@@ -29,28 +29,6 @@ relationships:
 
 Aristotle's central structural claim about virtue of character (Book II, chapters 6-9, elaborated with named virtues through Book IV): virtue is "a certain kind of mean condition, since it is, at any rate, something that makes one apt to hit the mean" between two vices, one of excess and one of deficiency.
 
-## Diagram
-
-The doctrine is best read as an argument that keeps correcting misreadings of "mean" until the real thing is pinned down; the diagram treats the correct account as the effect and each misreading-plus-correction as a contributing bone, fishbone-style.
-
-```mermaid-next
-ishikawa-beta
-    What the mean actually is
-    Relative to us
-        Not one midpoint for everyone
-        Fixed by practical judgment, per person
-    An extreme, not mediocrity
-        Not "just reduce the vice"
-        Enables right action, not caution
-    Fixed by perception, not a rule
-        Lean toward the greater-error extreme
-        Counter your own natural pull
-        Distrust pleasure most
-    Only where a mean is possible
-        Named-bad acts admit no mean
-        Applies only to what's good when proportioned
-```
-
 ## Key Ideas
 
 - The mean in question is **relative to us**, not "the mean that belongs to the thing" (an arithmetic midpoint the same for everyone) — Aristotle's illustration: if ten pounds of food is a lot to eat and two pounds is little, it doesn't follow that six pounds is right for everyone, since six might be a lot for a beginner and a little for the wrestler Milo. The mean is determined "by a proportion and by the means by which a person with [[concepts/phronesis|practical judgment]] would determine it," not by a formula. ^[extracted]
@@ -81,4 +59,5 @@ ishikawa-beta
 - [[concepts/phronesis]] — the mean in any particular case is fixed by what a practically wise person would determine
 - [[concepts/justice-nicomachean]] — justice as a mean of a mathematically-structured kind
 - [[synthesis/virtue-taxonomy]] — treemap visualizing this whole table alongside virtue of thought's very different (non-triadic) structure
+- [[concepts/courage]] — the mean's first fully worked-out example, with its five named look-alikes
 - [[references/nicomachean-ethics]] — source text

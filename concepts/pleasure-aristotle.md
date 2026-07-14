@@ -29,23 +29,6 @@ relationships:
 
 Aristotle treats pleasure twice: a first pass in Book VII (chapters 11-14), reopened and completed in Book X (chapters 1-5), which he says is necessary because "it is thought to belong to one who engages in philosophic inquiry about politics to examine what concerns pleasure and pain," since virtue and vice of character are defined in terms of them.
 
-## Diagram
-
-Aristotle's positive definition of pleasure is reached by ruling out two rival candidate theories, each for its own distinct reason. Read this fishbone from the tines inward: each candidate's objections are the "causes" that eliminate it, leaving the definition at the head as what survives.
-
-```mermaid-next
-ishikawa-beta
-    Pleasure = unimpeded being-at-work of a natural condition
-    Not a restoration
-        Body is restored, not the person who feels pleasure
-        Many pleasures have no prior deficiency
-        Math, memory, and hope are pleasant with no pain relieved
-    Not a motion (kinesis)
-        Motion is incomplete until finished
-        Motion takes time and has distinguishable parts
-        Pleasure, like seeing, is whole at every instant
-```
-
 ## Key Ideas
 
 - **Three received opinions** Aristotle works through: (1) no pleasure is good, (2) some pleasures are good but most are bad, (3) even if all pleasures were good, pleasure could still not be the *best* thing. He credits **Eudoxus** (arguing all things, rational and irrational, aim at pleasure, and what all things aim at is good) and reports **Plato/Speusippus's** rebuttal (a pleasant life with intelligence is more choiceworthy than pleasure alone, so pleasure cannot be *the* good, since nothing can be added to make the good itself more choiceworthy). ^[extracted]
