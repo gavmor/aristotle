@@ -1,3 +1,6 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "propertiesInDocument": "hidden",
+  "showIndentGuide": false
 }

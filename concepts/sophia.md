@@ -36,6 +36,52 @@ Book VI, ch. 7 defines *sophia* as "knowledge and intellect of the things that a
 - **Book X ch. 7-8 escalates sophia from "one of the virtues" to the candidate for complete happiness**: contemplation (*theoria*) — sophia's characteristic activity — is "the most complete, most continuous, most self-sufficient being-at-work available to a human being," and therefore [[concepts/contemplative-life|complete happiness]] itself, on the grounds that it is the activity of what is "most divine" in us and needs the fewest external conditions to be exercised. ^[extracted]
 - **This creates the tension already flagged on [[concepts/eudaimonia]] and [[concepts/contemplative-life]]**: if sophia/contemplation is complete happiness, practical judgment and the virtues of character built around it (justice, courage, [[synthesis/crown-of-virtue|friendship]]) risk looking like second-tier, merely human happiness by comparison — a hierarchy Aristotle himself seems uneasy about, given how much of the rest of the book is devoted to the practical virtues. ^[inferred]
 
+## Greek Gloss
+
+Source: Bk. VI, ch. 7 (Bekker 1141a16-20).
+
+> δεῖ ἄρα τὸν σοφὸν μὴ μόνον τὰ ἐκ τῶν ἀρχῶν εἰδέναι, ἀλλὰ καὶ περὶ τὰς ἀρχὰς ἀληθεύειν. ὥστʼ εἴη ἂν ἡ σοφία νοῦς καὶ ἐπιστήμη, ὥσπερ κεφαλὴν ἔχουσα ἐπιστήμη τῶν τιμιωτάτων.
+
+| ἐπι- | -στή- | -μη |
+|---|---|---|
+| *epi-* | *stē-*, root of *histēmi*, "to stand" | abstract noun suffix |
+| → **ἐπιστήμη**, "a standing-upon," i.e. secure, demonstrative knowledge | | |
+
+Sophia's twofold structure is right there in the morphology: it needs *nous* for the principles themselves, and *epistēmē* — knowledge that "stands upon" a foundation — for what gets demonstrated from them, exactly the combination the opening paragraph describes.
+
+Source: Bk. VI, ch. 12 (Bekker 1143b17-20).
+
+> ἡ μὲν γὰρ σοφία οὐδὲν θεωρήσει ἐξ ὧν ἔσται εὐδαίμων ἄνθρωπος (οὐδεμιᾶς γάρ ἐστι γενέσεως).
+
+| θεωρ- | -ήσει |
+|---|---|
+| root of *theōros/theōria*, "to look at, view, contemplate" | future-tense verb ending, "will..." |
+| → **θεωρήσει**, "will behold/contemplate" | |
+
+The impasse in the first bullet turns on this verb: the very activity that names sophia — beholding — is not a *making*, so it looks like it cannot, by itself, produce anything, including happiness.
+
+Source: Bk. VI, ch. 12 (Bekker 1144a3-6).
+
+> ἔπειτα καὶ ποιοῦσι μέν, οὐχ ὡς ἡ ἰατρικὴ δὲ ὑγίειαν, ἀλλʼ ὡς ἡ ὑγίεια, οὕτως ἡ σοφία εὐδαιμονίαν.
+
+| ὑγι- | -εια |
+|---|---|
+| root of *hygiēs*, "sound, healthy" | abstract noun suffix |
+| → **ὑγίεια**, "health" — the state itself, not the art that produces it | | |
+
+Aristotle's resolution of the impasse rests on exactly this noun: sophia stands to happiness as *hygieia* (the state) stands to being healthy, not as *iatrikē* (the productive art) does — it contributes by being possessed and exercised, not by manufacturing an external result.
+
+Source: Bk. X, ch. 7 (Bekker 1177b15-18).
+
+> εἴτε θεῖον ὂν καὶ αὐτὸ εἴτε τῶν ἐν ἡμῖν τὸ θειότατον, ἡ τούτου ἐνέργεια κατὰ τὴν οἰκείαν ἀρετὴν εἴη ἂν ἡ τελεία εὐδαιμονία.
+
+| θει- | -ότατον |
+|---|---|
+| root of *theos*, "god" | superlative neuter ending, "most..." |
+| → **θειότατον**, "most divine" — the most god-like thing in us | | |
+
+This superlative is Aristotle's explicit warrant, in Book X, for promoting contemplation's being-at-work to complete happiness — and so for the very hierarchy the fourth bullet worries is unstable.
+
 ## Related
 
 - [[concepts/nous]] — intellect's grasp of first principles, one of the two components sophia combines with scientific knowledge

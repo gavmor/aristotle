@@ -78,6 +78,62 @@ Three related words, aligned by their shared pieces:
 
 Sachs's "the halver" for *dichastēs* is a direct transliteration-preserving translation choice — the pun only works because *dikastēs* ("judge") and the nonce word *dichastēs* ("halver") are near-homophones in Greek, which is exactly the wordplay Aristotle is pointing at when he says the judge is, in effect, someone who "halves" a dispute back to equality.
 
+Source: Bk. V, ch. 4 (Bekker 1132a2-6).
+
+> οὐδὲν γὰρ διαφέρει, εἰ ἐπιεικὴς φαῦλον ἀπεστέρησεν ἢ φαῦλος ἐπιεικῆ, οὐδʼ εἰ ἐμοίχευσεν ἐπιεικὴς ἢ φαῦλος· ἀλλὰ πρὸς τοῦ βλάβους τὴν διαφορὰν μόνον βλέπει ὁ νόμος, καὶ χρῆται ὡς ἴσοις, εἰ ὃ μὲν ἀδικεῖ ὃ δʼ ἀδικεῖται, καὶ εἰ ἔβλαψεν ὃ δὲ βέβλαπται.
+
+**ἀπεστέρησεν**, morpheme by morpheme:
+
+| ἀπο- | ἐ- | στερη- | -σεν |
+|---|---|---|---|
+| *apo-* | *e-* | *sterē-* | *-sen* |
+| "away, off" | augment marking past tense | verbal root of *sterēsis*, "privation, deprivation" | aorist active 3rd sg. ending |
+| → **ἀπεστέρησεν**, "[he] deprived, robbed [someone] of" | | | |
+
+This is Aristotle's flattest statement of the arithmetic-proportion claim: the law's gaze falls only on the size of the "depriving," never on whether the depriver or the deprived was the better person, which is exactly the strict equality the Diagram section illustrates.
+
+Source: Bk. V, ch. 5 (Bekker 1132b21-25).
+
+> δοκεῖ δέ τισι καὶ τὸ ἀντιπεπονθὸς εἶναι ἁπλῶς δίκαιον, ὥσπερ οἱ Πυθαγόρειοι ἔφασαν· ὡρίζοντο γὰρ ἁπλῶς τὸ δίκαιον τὸ ἀντιπεπονθὸς ἄλλῳ. τὸ δʼ ἀντιπεπονθὸς οὐκ ἐφαρμόττει οὔτʼ ἐπὶ τὸ νεμητικὸν δίκαιον οὔτʼ ἐπὶ τὸ διορθωτικόν—καίτοι βούλονταί γε τοῦτο λέγειν καὶ τὸ Ῥαδαμάνθυος δίκαιον· εἴ κε πάθοι τά τʼ ἔρεξε, δίκη κʼ ἰθεῖα γένοιτο.
+
+**ἀντιπεπονθός**, morpheme by morpheme:
+
+| ἀντι- | πε- | πονθ- | -ός |
+|---|---|---|---|
+| *anti-* | *pe-* | *ponth-* | *-os* |
+| "against, in return for" | reduplication (perfect-tense marker) | root of *paschō*, "to suffer, undergo" | perfect active participle ending, neut. |
+| → **ἀντιπεπονθός**, "having-suffered-in-return," bare retaliation | | | |
+
+The word Aristotle builds and then rejects as a full definition of the just — including quoting Rhadamanthys's hexameter formula by name — is the same "suffering-in-return" logic the Key Ideas section says he explicitly refuses to let govern corrective justice on its own.
+
+Source: Bk. V, ch. 5 (Bekker 1133a25-31).
+
+> οἷον δʼ ὑπάλλαγμα τῆς χρείας τὸ νόμισμα γέγονε κατὰ συνθήκην· καὶ διὰ τοῦτο τοὔνομα ἔχει νόμισμα, ὅτι οὐ φύσει ἀλλὰ νόμῳ ἐστί, καὶ ἐφʼ ἡμῖν μεταβαλεῖν καὶ ποιῆσαι ἄχρηστον.
+
+**νόμισμα**, morpheme by morpheme:
+
+| νομ- | -ισ- | -μα |
+|---|---|---|
+| *nom-* | *-is-* | *-ma* |
+| root of *nomos*, "custom, law, usage" (from *nemō*, "to apportion") | verb-forming element (as in *nomizō*, "to hold as customary") | result-of-action noun suffix |
+| → **νόμισμα**, "currency," literally "the thing established by custom" | | |
+
+Aristotle here plays on the same *nomos*-root that gives *nomisma* its name to make an argument, not just an etymology: currency is a human convention laid over need, which is why the Key Ideas section notes he says it is "in our power to change it or make it worthless."
+
+Source: Bk. V, ch. 8 (Bekker 1135b15-20).
+
+> ὅταν μὲν οὖν παραλόγως ἡ βλάβη γένηται, ἀτύχημα· ὅταν δὲ μὴ παραλόγως, ἄνευ δὲ κακίας, ἁμάρτημα (ἁμαρτάνει μὲν γὰρ ὅταν ἡ ἀρχὴ ἐν αὐτῷ ᾖ τῆς αἰτίας, ἀτυχεῖ δʼ ὅταν ἔξωθεν)· ὅταν δὲ εἰδὼς μὲν μὴ προβουλεύσας δέ, ἀδίκημα.
+
+**ἀδίκημα**, morpheme by morpheme:
+
+| ἀ- | δικ- | -η- | -μα |
+|---|---|---|---|
+| *a-* | *dik-* | *-ē-* | *-ma* |
+| negative/privative prefix, "not, un-" | root of *dikē*, "right, judgment, justice" | linking vowel | result-of-action noun suffix |
+| → **ἀδίκημα**, "an unjust act," "a wrong done" | | | |
+
+This sentence is the textual source of the four-stage culpability scale in the Key Ideas section (accident → mistake → wrong → injustice by choice), and *adikēma* shares its *dik-* root with *dikastēs* and *dichastēs* glossed above — the same root running from "judge" through "halver" now names the top rung of culpability itself.
+
 ## Related
 
 - [[concepts/justice-nicomachean]] — the parent discussion (general vs. particular justice) this page is one species of

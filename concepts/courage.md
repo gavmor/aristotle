@@ -77,6 +77,68 @@ classDiagram
     ApparentCourage <|-- IgnorantCourage
 ```
 
+## Greek Gloss
+
+Source: Bk. III, ch. 6-7 (Bekker 1115b20-24).
+
+> τέλος δὲ πάσης ἐνεργείας ἐστὶ τὸ κατὰ τὴν ἕξιν... τοιοῦτον δὴ καὶ τὸ τέλος· ὁρίζεται γὰρ ἕκαστον τῷ τέλει. καλοῦ δὴ ἕνεκα ὁ ἀνδρεῖος ὑπομένει καὶ πράττει τὰ κατὰ τὴν ἀνδρείαν.
+
+| ἐν- | -ἐργ- | -εια |
+|---|---|---|
+| *en-* | *erg-* | *-eia* |
+| "in" | root of *ergon*, "work, deed" | abstract noun suffix |
+| → **ἐνέργεια**, "a being-in-work," "at-work-ness" | | |
+
+This is the line the page's first bullet paraphrases directly: the end (τέλος) proper to any being-at-work matches the settled disposition (ἕξις) it flows from, which is why the sentence's own conclusion — *for the sake of the beautiful the courageous person endures* — follows as a logical consequence rather than an added motive.
+
+Source: Bk. III, ch. 8 (Bekker 1116a15-17).
+
+> ἔστι μὲν οὖν ἡ ἀνδρεία τοιοῦτόν τι, λέγονται δὲ καὶ ἕτεραι κατὰ πέντε τρόπους· πρῶτον μὲν ἡ πολιτική· μάλιστα γὰρ ἔοικεν.
+
+| τροπ- | -ος |
+|---|---|
+| *trop-* | *-os* |
+| root of *trepein*, "to turn" | nominalizing suffix |
+| → **τρόπος**, "a turning," "a way," "a manner" |
+
+Each look-alike is literally a *tropos* — a "turn" away from true courage that still resembles it in outward shape; the page's five-fold classification follows this sentence's own list almost item for item, starting here with citizen-courage.
+
+Source: Bk. III, ch. 8 (Bekker 1116a25-29).
+
+> ὡμοίωται δʼ αὕτη μάλιστα τῇ πρότερον εἰρημένῃ, ὅτι διʼ ἀρετὴν γίνεται· διʼ αἰδῶ γὰρ καὶ διὰ καλοῦ ὄρεξιν (τιμῆς γάρ) καὶ φυγὴν ὀνείδους, αἰσχροῦ ὄντος.
+
+| αἰδ- | -ώς |
+|---|---|
+| *aid-* | *-ōs* |
+| root shared with *aidesthai*, "to feel shame/reverence before another" | abstract-noun ending |
+| → **αἰδώς**, "shame," "a sense of what others would think" |
+
+This names exactly what the page calls citizen-courage's "virtue-adjacent" motive: not virtue itself but *aidōs* — shame before onlookers — paired with desire for honor and flight from reproach.
+
+Source: Bk. III, ch. 8 (Bekker 1117a3-6).
+
+> φυσικωτάτη δʼ ἔοικεν ἡ διὰ τὸν θυμὸν εἶναι, καὶ προσλαβοῦσα προαίρεσιν καὶ τὸ οὗ ἕνεκα ἀνδρεία εἶναι.
+
+| θυμ- | -ός |
+|---|---|
+| *thym-* | *-os* |
+| root denoting spirited passion, anger, the seat of felt urgency | nominative masculine ending |
+| → **θυμός**, "spirit," "passion," "anger" |
+
+Aristotle here calls *thymos*-courage the most natural of the look-alikes and says outright that it becomes courage only once choice and the beautiful end are added — precisely the page's account of spirited courage as "courage's nearest neighbor."
+
+Source: Bk. III, ch. 9 (Bekker 1117a35-1117b3).
+
+> διὸ καὶ ἐπίλυπον ἡ ἀνδρεία, καὶ δικαίως ἐπαινεῖται· χαλεπώτερον γὰρ τὰ λυπηρὰ ὑπομένειν ἢ τῶν ἡδέων ἀπέχεσθαι. οὐ μὴν ἀλλὰ δόξειεν ἂν εἶναι τὸ κατὰ τὴν ἀνδρείαν τέλος ἡδύ, ὑπὸ τῶν κύκλῳ δʼ ἀφανίζεσθαι, οἷον κἀν τοῖς γυμνικοῖς ἀγῶσι γίνεται.
+
+| κύκλ- | -ῳ |
+|---|---|
+| *kykl-* | *-ōi* |
+| "circle, ring" | dative singular ending: "in," "by," "round about" |
+| → **κύκλῳ**, "in a circle," "encircling" |
+
+The image behind the page's claim that courage's pleasant end is "blocked from sight by the things that encircle it" is literally this dative, κύκλῳ — the painful things ringed around the end hide it the way a boxer's blows hide the wreath waiting past them.
+
 ## Related
 
 - [[concepts/doctrine-of-the-mean]] — courage as the mean's first fully worked example, concerning fear and confidence

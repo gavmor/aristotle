@@ -6,7 +6,7 @@ aliases: [theoria, contemplation, the philosophic life]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-08T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: Book X's argument that complete happiness is theoretical contemplation, being-at-work of the most divine part in us — ranking moral/political virtue as happy only secondarily.
 provenance:
   extracted: 0.70
@@ -46,6 +46,80 @@ Book X, chapters 6-8, close the Ethics' main argument (before the transitional c
 ## Open Questions
 
 - Aristotle never fully reconciles the "primary/complete happiness = contemplation" conclusion of Book X with Book I's ergon argument, which derived happiness generally from being-at-work "in accordance with reason" without singling out theoretical intellect specifically — see the parallel open question on [[concepts/eudaimonia]]. Commentators dispute whether this is an "inclusivist" happiness (containing both contemplative and practical elements) read into an "intellectualist" text, or whether Aristotle really does rank contemplation categorically above moral virtue. ^[ambiguous]
+
+## Greek Gloss
+
+Source: Bk. X, ch. 6 (Bekker 1176b26-30).
+
+> οὐκ ἐν παιδιᾷ ἄρα ἡ εὐδαιμονία· καὶ γὰρ ἄτοπον τὸ τέλος εἶναι παιδιάν, καὶ πραγματεύεσθαι καὶ κακοπαθεῖν τὸν βίον ἅπαντα τοῦ παίζειν χάριν.
+
+| παιδ- | -ιά |
+|---|---|
+| *paid-* | *-ia* |
+| root of *pais*, "child" | abstract noun suffix |
+| → **παιδιά**, "a child's-activity," "play" | |
+
+The word for "play" is built directly on "child," which is exactly Aristotle's point against the leisured-tyrant view: staking a whole life's labor on winning childish activity as a reward is not just wrong but a category mistake, since happiness must belong to the best part of an adult, not the part shared with children and slaves.
+
+Source: Bk. X, ch. 7 (Bekker 1177a27-30).
+
+> ἥ τε λεγομένη αὐτάρκεια περὶ τὴν θεωρητικὴν μάλιστʼ ἂν εἴη.
+
+| αὐτ- | -αρκ- | -εια |
+|---|---|---|
+| *aut-* | *-ark-* | *-eia* |
+| "self" | root of *arkeō*, "to be enough, suffice" | abstract noun suffix |
+| → **αὐτάρκεια**, "self-sufficiency," "needing nothing beyond oneself" | | |
+
+Building "enough" directly onto "self" makes vivid why contemplation, alone among virtuous activities, is said to possess this trait most fully — the wise person's own thinking supplies its own completion, unlike just or courageous action, which structurally needs other people to act toward.
+
+Source: Bk. X, ch. 7 (Bekker 1177b31-1178a2).
+
+> οὐ χρὴ δὲ κατὰ τοὺς παραινοῦντας ἀνθρώπινα φρονεῖν ἄνθρωπον ὄντα οὐδὲ θνητὰ τὸν θνητόν, ἀλλʼ ἐφʼ ὅσον ἐνδέχεται ἀθανατίζειν καὶ πάντα ποιεῖν πρὸς τὸ ζῆν κατὰ τὸ κράτιστον τῶν ἐν αὑτῷ.
+
+| ἀ- | θανατ- | -ίζειν |
+|---|---|---|
+| *a-* | *thanat-* | *-izein* |
+| privative, "not" | root of *thanatos*, "death" | verb-forming suffix, "to make/act as" |
+| → **ἀθανατίζειν**, "to act so as to be deathless," "to immortalize oneself" | | |
+
+Coining a verb out of "not-death" turns immortality from a state one merely has into an activity one does — matching this page's claim that living by intellect is a practice of stretching toward the divine, not a settled possession of it.
+
+Source: Bk. X, ch. 8 (Bekker 1178b20-22).
+
+> τῷ δὴ ζῶντι τοῦ πράττειν ἀφαιρουμένου, ἔτι δὲ μᾶλλον τοῦ ποιεῖν, τί λείπεται πλὴν θεωρία; ὥστε ἡ τοῦ θεοῦ ἐνέργεια, μακαριότητι διαφέρουσα, θεωρητικὴ ἂν εἴη.
+
+| θεωρ- | -ία |
+|---|---|
+| *theōr-* | *-ia* |
+| root of *theōros*, "spectator, one who looks on" | abstract noun suffix |
+| → **θεωρία**, "the act of looking on," "contemplation" | |
+
+Once action and production are stripped from a being with no needs or dangers, "looking on" is the only activity left standing — which is exactly how Aristotle argues from what gods can be said to do to what makes human happiness happen to resemble theirs.
+
+Source: Bk. X, ch. 8 (Bekker 1179a5-10).
+
+> καὶ Σόλων δὲ τοὺς εὐδαίμονας ἴσως ἀπεφαίνετο καλῶς, εἰπὼν μετρίως τοῖς ἐκτὸς κεχορηγημένους, πεπραγότας δὲ τὰ κάλλισθʼ, ὡς ᾤετο, καὶ βεβιωκότας σωφρόνως.
+
+| χορ- | -ηγ- | -ημένους |
+|---|---|---|
+| *khor-* | *-ēg-* | *-ēmenous* |
+| root of *choros*, "chorus, dance" | root of *hēgeomai*, "to lead" | perfect passive participle ending |
+| → **κεχορηγημένους**, "furnished/equipped" (as a wealthy sponsor equips a chorus for a festival) | | |
+
+The word Aristotle reaches for to describe having "moderate" external goods is borrowed from the civic institution of the *choregia*, where a sponsor funded a chorus's costumes and training — external goods, like a chorus's costumes, are support for the performance, never the performance itself.
+
+Source: Bk. X, ch. 8 (Bekker 1179a25-30).
+
+> ὅτι δὲ πάντα ταῦτα τῷ σοφῷ μάλισθʼ ὑπάρχει, οὐκ ἄδηλον. θεοφιλέστατος ἄρα.
+
+| θε- | -οφιλ- | -έστατος |
+|---|---|---|
+| *the-* | *-ophil-* | *-estatos* |
+| root of *theos*, "god" | root of *philos*, "dear, beloved" | superlative suffix |
+| → **θεοφιλέστατος**, "most dear to the gods" | | |
+
+Compounding "god" and "beloved" into one superlative lets Aristotle close the argument in a single word: whatever the gods favor most is whatever most resembles them, and since the wise person's activity is closest to the gods' own, the wise person collects the superlative.
 
 ## Related
 

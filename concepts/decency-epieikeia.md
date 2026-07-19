@@ -51,6 +51,76 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, ch. 10 (Bekker 1137a31-b1), Byw
 
 The adjective *epieikēs* is built on *eoika* ("to seem, to be like, to be fitting") — the same root that gives Greek its word for what's *probable* or *reasonable to expect* (*eikos*). This is precisely why "equity" misleads: the Latin-derived English word imports a technical legal doctrine (correcting strict law by a separate standard of fairness), while the Greek word's own etymology says nothing about law at all — it says "what fits, what one would reasonably expect a good person to do," which is exactly the wider, character-based sense Sachs's glossary insists on and "decency" preserves.
 
+Source: Bk. V, ch. 10 (Bekker 1137b5-7).
+
+> τό τε γὰρ ἐπιεικὲς δικαίου τινὸς ὂν βέλτιόν ἐστι δίκαιον, καὶ οὐχ ὡς ἄλλο τι γένος ὂν βέλτιόν ἐστι τοῦ δικαίου.
+
+**γένος**, morpheme by morpheme:
+
+| γεν- | -ος |
+|---|---|
+| *gen-* | *-os* |
+| root of *gignomai*, "to come to be, be born" (cf. *genesis*) | noun-forming suffix |
+| → **γένος**, "that which has come to be [as a kind]," "race, kind, class" | |
+
+Aristotle's resolution of the puzzle turns on denying that decency is a different *genos* from the just — its root sense of "a kind that has come-to-be" is exactly what he says the decent thing is *not*, relative to the just: not a separate species of goodness, only a better instance of the same one.
+
+Source: Bk. V, ch. 10 (Bekker 1137b10-11).
+
+> ποιεῖ δὲ τὴν ἀπορίαν ὅτι τὸ ἐπιεικὲς δίκαιον μέν ἐστιν, οὐ τὸ κατὰ νόμον δέ, ἀλλʼ ἐπανόρθωμα νομίμου δικαίου.
+
+**ἐπανόρθωμα**, morpheme by morpheme:
+
+| ἐπι- | ἀν- | ὀρθ- | -μα |
+|---|---|---|---|
+| *epi-* | *an-* (from *ana-*) | *orth-* | *-ma* |
+| "upon, in addition" | "back, again" | root meaning "straight, right" (cf. *orthos*) | noun suffix marking the result of an action |
+| → **ἐπανόρθωμα**, "a further setting-right," "a correction," "a rectification" | | | |
+
+This is the exact Greek behind the "setting straight" language the page already draws out between decency and corrective justice (*diorthoun*): here Aristotle names decency itself an *epanorthōma* — a straightening-back-up — of what is legally just, the same *orth-* root doing the work in both places.
+
+Source: Bk. V, ch. 10 (Bekker 1137b12-14).
+
+> αἴτιον δʼ ὅτι ὁ μὲν νόμος καθόλου πᾶς, περὶ ἐνίων δʼ οὐχ οἷόν τε ὀρθῶς εἰπεῖν καθόλου.
+
+**καθόλου**, morpheme by morpheme:
+
+| καθ- | ὅλ- | -ου |
+|---|---|---|
+| *kath-* (from *kata-*) | *hol-* | *-ou* |
+| "down along, throughout, according to" | root of *holos*, "whole, entire" | adverbial ending |
+| → **καθόλου**, "as a whole," "universally," "in general terms" | | |
+
+The word Aristotle uses for how law necessarily speaks — "throughout the whole" — is the same *hol-* root that gives English "holistic" and "catholic"; the argument for decency starts from this literal wholesale-ness of law running up against particular cases it cannot see into.
+
+Source: Bk. V, ch. 10 (Bekker 1137b29-33).
+
+> τοῦ γὰρ ἀορίστου ἀόριστος καὶ ὁ κανών ἐστιν, ὥσπερ καὶ τῆς Λεσβίας οἰκοδομίας ὁ μολίβδινος κανών· πρὸς γὰρ τὸ σχῆμα τοῦ λίθου μετακινεῖται καὶ οὐ μένει ὁ κανών, καὶ τὸ ψήφισμα πρὸς τὰ πράγματα.
+
+**ἀόριστος**, morpheme by morpheme:
+
+| ἀ- | ὁρι- | -στος |
+|---|---|---|
+| *a-* | *hori-* | *-stos* |
+| negative prefix, "not, un-" | root of *horizein*, "to bound, delimit, mark a boundary" (cf. *horos*, "boundary") | verbal-adjective suffix, "-able," "-ed" |
+| → **ἀόριστος**, "un-delimited," "indeterminate, without a fixed boundary" | | |
+
+This is the word that licenses the Lesbian-ruler image itself: because the matter of action is *aoristos*, "boundary-less," the rule fitted to it must be equally un-fixed — the lead ruler bending to the stone rather than the stone conforming to a rigid straightedge.
+
+Source: Bk. V, ch. 10 (Bekker 1138a1-3).
+
+> ὁ μὴ ἀκριβοδίκαιος ἐπὶ τὸ χεῖρον ἀλλʼ ἐλαττωτικός, καίπερ ἔχων τὸν νόμον βοηθόν, ἐπιεικής ἐστι, καὶ ἡ ἕξις αὕτη ἐπιείκεια, δικαιοσύνη τις οὖσα καὶ οὐχ ἑτέρα τις ἕξις.
+
+**ἐλαττωτικός**, morpheme by morpheme:
+
+| ἐλαττ- | -ω- | -τικός |
+|---|---|---|
+| *elatt-* | *-ō-* | *-tikos* |
+| comparative stem of *oligos/mikros*, "less, smaller" | verb-forming element (cf. *elattoun*, "to lessen, make less") | adjective suffix marking tendency or capacity, "-ic," "prone to" |
+| → **ἐλαττωτικός**, "inclined to take less," "disposed toward making do with a smaller share" | | |
+
+This single adjective carries the whole counterintuitive definition the page highlights: the decent person's habit isn't sharper legal reasoning but a standing inclination — built into the word's own *-tikos* ending — to come away with less than the law would let him keep.
+
 ## Related
 
 - [[concepts/justice-nicomachean]] — the parent discussion; decency is presented as a correction internal to justice, not a rival virtue

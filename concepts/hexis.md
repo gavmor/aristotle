@@ -54,6 +54,61 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bk. II, ch. 6 (Bekker 1106a-b), Bywate
 
 *Hexis* is a noun of state built directly on the verb "to have" — not on *ktaomai* ("to acquire, possess," as one possesses property), but on *echō* in the sense of actively holding onto or maintaining something. This is exactly what Sachs's "active condition" is trying to preserve against "habit": the word's own grammar names a *held* condition, sustained by the one who has it, not a static possession sitting in a drawer. Note also the direct echo of *ergon* ("work") in "ἀποδώσει... ἔργον" — the same root that gives [[concepts/energeia|*energeia*]] its name, tying the hexis/energeia pair together at the level of vocabulary, not just doctrine.
 
+Source: Bk. II, ch. 1 (Bekker 1103a14-18).
+
+> διττῆς δὴ τῆς ἀρετῆς οὔσης, τῆς μὲν διανοητικῆς τῆς δὲ ἠθικῆς, ἡ μὲν διανοητικὴ τὸ πλεῖον ἐκ διδασκαλίας ἔχει καὶ τὴν γένεσιν καὶ τὴν αὔξησιν, διόπερ ἐμπειρίας δεῖται καὶ χρόνου, ἡ δʼ ἠθικὴ ἐξ ἔθους περιγίνεται, ὅθεν καὶ τοὔνομα ἔσχηκε μικρὸν παρεκκλῖνον ἀπὸ τοῦ ἔθους.
+
+**ἔθος**, morpheme by morpheme:
+
+| ἐθ- | -ος |
+|---|---|
+| *eth-* | *-os* |
+| root meaning "custom, wont, habitual usage" | noun-forming suffix |
+| → **ἔθος**, "habit," "custom" (note: ἦθος, "character," is the same root in its η-grade form) | |
+
+Aristotle is explicit that *ēthikē* ("character virtue," with eta) is only "a slight turning aside" from *ethos* ("habit," with epsilon) — the same vowel-graded root spelled two ways. This is the etymological hinge Sachs's introduction leans on: habit and character share a root but are not the same word, which is exactly why habituation can be the *route to* a hexis without being identical to it.
+
+Source: Bk. II, ch. 1 (Bekker 1103b1-2).
+
+> οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα, τὰ δὲ σώφρονα σώφρονες, τὰ δʼ ἀνδρεῖα ἀνδρεῖοι.
+
+**γινόμεθα**, morpheme by morpheme:
+
+| γι- | γν- | -όμεθα |
+|---|---|---|
+| reduplicated present-stem marker | root *gen-/gn-*, "to come into being, be born" | 1st pl. middle-passive ending |
+| → **γινόμεθα**, "we come to be," "we become" | | |
+
+The verb of becoming, not being, carries the weight of the sentence: we are not just *and* then act justly, we *become* just by first doing just things — the housebuilder analogy Aristotle draws a few lines later turns on this same verb.
+
+Source: Bk. II, ch. 4 (Bekker 1105a29-1105b1).
+
+> τὰ δὲ κατὰ τὰς ἀρετὰς γινόμενα οὐκ ἐὰν αὐτά πως ἔχῃ, δικαίως ἢ σωφρόνως πράττεται, ἀλλὰ καὶ ἐὰν ὁ πράττων πῶς ἔχων πράττῃ, πρῶτον μὲν ἐὰν εἰδώς, ἔπειτʼ ἐὰν προαιρούμενος, καὶ προαιρούμενος διʼ αὐτά, τὸ δὲ τρίτον ἐὰν καὶ βεβαίως καὶ ἀμετακινήτως ἔχων πράττῃ.
+
+**ἀμετακινήτως**, morpheme by morpheme:
+
+| ἀ- | μετα- | κινη- | -τως |
+|---|---|---|---|
+| *a-* | *meta-* | *kinē-* | *-tōs* |
+| privative prefix, "not" | "across, in a way that changes position" | root of *kineō*, "to move" | adverbial suffix |
+| → **ἀμετακινήτως**, "un-shift-of-place-ably," "immovably" | | | |
+
+This is the third of Aristotle's three conditions for fully virtuous action (knowing, choosing for its own sake, and holding firm): the hexis names not a single right act but a condition that cannot be dislodged, echoing Sachs's image of a weighted toy that rights itself under pressure.
+
+Source: Bk. II, ch. 5 (Bekker 1105b19-21).
+
+> ἐπεὶ οὖν τὰ ἐν τῇ ψυχῇ γινόμενα τρία ἐστί, πάθη δυνάμεις ἕξεις, τούτων ἄν τι εἴη ἡ ἀρετή.
+
+**δύναμις**, morpheme by morpheme:
+
+| δυνα- | -μις |
+|---|---|
+| *dyna-* | *-mis* |
+| root of *dynamai*, "to be able, have power" | abstract-noun suffix |
+| → **δύναμις**, "power," "capacity," "potentiality" | |
+
+This is the threefold division of soul-contents (feelings, predispositions, active conditions) from which Aristotle argues virtue must be a *hexis* by elimination. *Dynamis* names what belongs to us by nature before any exercise of it (like the bare capacity for sensation); *hexis*, built on *echein* rather than *dynamai*, names the settled result of having actually exercised that capacity — the same potentiality/actuality contrast that underlies [[concepts/energeia|*energeia*]].
+
 ## Related
 
 - [[concepts/energeia]] — the being-at-work from which active conditions arise and through which they are exercised

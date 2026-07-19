@@ -53,6 +53,62 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bk. I, ch. 7 (Bekker 1098a7), Bywater'
 
 *Energeia* is built the same way *ergon* itself is used two words earlier in this very sentence — the prefix *en-* ("in") turns "work" into "being *in* the state of working," as opposed to merely having the capacity to work (*dynamis*). Sachs's "being-at-work" is a deliberately literal, compound rendering that keeps this internal word-formation visible; "activity" (the standard translation) preserves the sense but loses the visible link back to *ergon* — the same link this page's etymology section draws on to connect *energeia* to the ergon argument by more than just doctrine.
 
+Source: Bk. II, ch. 1 (Bekker 1103a31-b2).
+
+> τὰς δʼ ἀρετὰς λαμβάνομεν ἐνεργήσαντες πρότερον, ὥσπερ καὶ ἐπὶ τῶν ἄλλων τεχνῶν· ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί· οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα, τὰ δὲ σώφρονα σώφρονες, τὰ δʼ ἀνδρεῖα ἀνδρεῖοι.
+
+**ἐνεργήσαντες**, morpheme by morpheme:
+
+| ἐν- | -εργ- | -ήσαντες |
+|---|---|---|
+| *en-* | *erg-* | *-ēsantes* |
+| "in" | root of *ergon*, "work" | aorist active participle ending, "having done" |
+| → **ἐνεργήσαντες**, "having been at work (in them) first" | | |
+
+This is the same verb-root as *energeia* itself, put to work directly: Aristotle states the mechanism of habituation with the cognate verb *energein* — we acquire the virtues by first *ἐνεργήσαντες*, "being at work," in the relevant actions, the same dynamis-to-energeia direction this page's etymology section traces from capacity to active condition.
+
+Source: Bk. IX, ch. 9 (Bekker 1170a16-19).
+
+> τὸ δὲ ζῆν ὁρίζονται τοῖς ζῴοις δυνάμει αἰσθήσεως, ἀνθρώποις δʼ αἰσθήσεως ἢ νοήσεως· ἡ δὲ δύναμις εἰς τὴν ἐνέργειαν ἀνάγεται, τὸ δὲ κύριον ἐν τῇ ἐνεργείᾳ· ἔοικε δὴ τὸ ζῆν εἶναι κυρίως τὸ αἰσθάνεσθαι ἢ νοεῖν.
+
+**κυρίως**, morpheme by morpheme:
+
+| κυρ- | -ίω- | -ς |
+|---|---|---|
+| *kyr-* | *-iō-* | *-s* |
+| root of *kyros*, "authority, decisive power" | adjectival stem, "having authority over" | adverbial ending |
+| → **κυρίως**, "in the governing sense," "properly speaking" | | |
+
+Aristotle reduces potency to being-at-work as "the governing element" (τὸ κύριον) in one clause, then concludes that life *κυρίως* — in the governing sense — simply is perceiving-or-thinking underway, the same ergon-style move (dynamis reduced to energeia) applied directly to life itself.
+
+Source: Bk. X, ch. 4 (Bekker 1174a19-21).
+
+> ἐν χρόνῳ γὰρ πᾶσα κίνησις καὶ τέλους τινός, οἷον ἡ οἰκοδομική, καὶ τελεία ὅταν ποιήσῃ οὗ ἐφίεται.
+
+**κίνησις**, morpheme by morpheme:
+
+| κιν- | -η- | -σις |
+|---|---|---|
+| *kin-* | *-ē-* | *-sis* |
+| root of *kineîn*, "to move, set in motion" | thematic linking vowel | abstract noun suffix, "process of ___" |
+| → **κίνησις**, "motion," "a process" | | |
+
+*Kinesis* names exactly what *energeia* is not: a process aimed at an end outside itself, incomplete until that end arrives — and Aristotle reaches for housebuilding (ἡ οἰκοδομική), the same stock example this page's Key Ideas use, as the paradigm of that structure.
+
+Source: Bk. X, ch. 7 (Bekker 1177a20-24).
+
+> κρατίστη τε γὰρ αὕτη ἐστὶν ἡ ἐνέργεια· ἔτι δὲ συνεχεστάτη· θεωρεῖν γὰρ δυνάμεθα συνεχῶς μᾶλλον ἢ πράττειν ὁτιοῦν.
+
+**θεωρεῖν**, morpheme by morpheme:
+
+| θε- | -ωρ- | -εῖν |
+|---|---|---|
+| *the-* | *-ōr-* | *-ein* |
+| root of *thea*, "a viewing, a look" | agentive/verbal formant (cf. *horan*, "to see") | infinitive ending |
+| → **θεωρεῖν**, "to look at, to contemplate" (root of *theōria*) | | |
+
+*Theōrein* is singled out here as the most continuous being-at-work available to us because, unlike acting (*prattein*), it is not hemmed in by external circumstance — which is exactly why contemplation is crowned the most complete *energeia* at the summit of the inquiry.
+
 ## Related
 
 - [[concepts/eudaimonia]] — happiness defined as a being-at-work of the soul

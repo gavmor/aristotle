@@ -6,7 +6,7 @@ aliases: [the mean, virtue as a mean, golden mean]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-08T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: Aristotle's claim that virtue of character is a mean condition between vices of excess and deficiency, relative to us and determined by practical judgment, not a quantitative midpoint.
 provenance:
   extracted: 0.75
@@ -50,6 +50,66 @@ Aristotle's central structural claim about virtue of character (Book II, chapter
 - **Several means are nameless in Greek** — Aristotle repeatedly notes this (for the mean concerning honor on a small scale, and for the friendliness-like disposition in social life), and in each case coins or borrows a name for clarity, showing the doctrine is meant to map real character-space rather than existing vocabulary. ^[extracted]
 - **Practical guidance for hitting the mean** (Bk. II, ch. 9): since hitting the mean exactly is hard, (1) lean away from whichever extreme is the greater error/more contrary to the mean (for courage, that is cowardice, not rashness); (2) notice which extreme one is personally drawn toward (visible in what gives oneself pleasure or pain) and pull hard toward its opposite; (3) be most on guard against pleasure specifically, "since we do not judge it without bribes." The final judgment of "how much and how long" one may deviate before being blamed is not stated as a rule but is "in the perceiving" — a repeated refrain (also applied to anger and to justice) that practical matters are decided by perception, not by a formula ("rule," *kanôn*) — a point Sachs's notes stress Aristotle makes explicit, against a long secondary literature that speaks anachronistically of Aristotle's "rules." ^[extracted]
 - **Justice is a distinct, quasi-mathematical case** of the mean doctrine, treated separately in Book V: see [[concepts/justice-nicomachean]]. ^[inferred]
+
+## Greek Gloss
+
+Source: Bk. II, ch. 6 (Bekker 1106a30-1106b4).
+
+> οἷον εἰ τὰ δέκα πολλὰ τὰ δὲ δύο ὀλίγα, τὰ ἓξ μέσα λαμβάνουσι κατὰ τὸ πρᾶγμα· ἴσῳ γὰρ ὑπερέχει τε καὶ ὑπερέχεται· τοῦτο δὲ μέσον ἐστὶ κατὰ τὴν ἀριθμητικὴν ἀναλογίαν. τὸ δὲ πρὸς ἡμᾶς οὐχ οὕτω ληπτέον· οὐ γὰρ εἴ τῳ δέκα μναῖ φαγεῖν πολὺ δύο δὲ ὀλίγον, ὁ ἀλείπτης ἓξ μνᾶς προστάξει· ἔστι γὰρ ἴσως καὶ τοῦτο πολὺ τῷ ληψομένῳ ἢ ὀλίγον· Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ.
+
+| μεσ- | -ον |
+|---|---|
+| *mes-* | *-on* |
+| root meaning "middle," cognate with Latin *medius*, English "mid-" | neuter singular ending, used substantively: "the middle thing" |
+| → **μέσον**, "the middle," "the mean" | |
+
+This is the Milo passage itself: the "mean of the thing" (six, arithmetically between ten and two) is one and the same for everyone, but the "mean relative to us" is not — it is exactly this μέσον, not the arithmetic one, that the doctrine tracks.
+
+Source: Bk. II, ch. 6 (Bekker 1107a5-9).
+
+> διὸ κατὰ μὲν τὴν οὐσίαν καὶ τὸν λόγον τὸν τὸ τί ἦν εἶναι λέγοντα μεσότης ἐστὶν ἡ ἀρετή, κατὰ δὲ τὸ ἄριστον καὶ τὸ εὖ ἀκρότης.
+
+| ἀκρ- | -ο- | -της |
+|---|---|---|
+| *akr-* | linking vowel | abstract-noun suffix, "-ness"/state of being |
+| root meaning "topmost point, extremity" (cf. *akros*, "highest, outermost") | | → **ἀκρότης**, "extremity," "being at the peak" |
+
+This is the exact clause behind Sachs's point that virtue is a mean only "in its thinghood" (οὐσία) but an ἀκρότης — an extreme — "in what is best and well-done"; the mean is not mediocrity but the peak condition.
+
+Source: Bk. II, ch. 6 (Bekker 1107a9-12).
+
+> οὐ πᾶσα δʼ ἐπιδέχεται πρᾶξις οὐδὲ πᾶν πάθος τὴν μεσότητα· ἔνια γὰρ εὐθὺς ὠνόμασται συνειλημμένα μετὰ τῆς φαυλότητος, οἷον ἐπιχαιρεκακία ἀναισχυντία φθόνος, καὶ ἐπὶ τῶν πράξεων μοιχεία κλοπὴ ἀνδροφονία·
+
+| ἀνδρ- | -ο- | φον- | -ία |
+|---|---|---|---|
+| *andr-* | linking vowel | root of *phonos*, "killing, slaughter" | abstract-noun suffix |
+| "man" | | | → **ἀνδροφονία**, "man-slaying," murder |
+
+The word itself already names the badness — there is no proportion of ἀνδροφονία that would be "the right amount," which is exactly the limit-case the page's third bullet describes.
+
+Source: Bk. II, ch. 7 (Bekker 1107b1-4).
+
+> τῶν δʼ ὑπερβαλλόντων ὁ μὲν τῇ ἀφοβίᾳ ἀνώνυμος (πολλὰ δʼ ἐστὶν ἀνώνυμα), ὁ δʼ ἐν τῷ θαρρεῖν ὑπερβάλλων θρασύς, ὁ δʼ ἐν τῷ μὲν φοβεῖσθαι ὑπερβάλλων τῷ δὲ θαρρεῖν ἐλλείπων δειλός.
+
+| ἀ- | ὀνυμ- | -ος |
+|---|---|---|
+| *a-* | *onym-* | adjective ending |
+| negative prefix, "not/without" | root variant of *onoma*, "name" | |
+| → **ἀνώνυμος**, "nameless" | | |
+
+This is Aristotle's own aside — "there are many nameless things" — at the very moment he introduces the excess-of-fearlessness disposition later coined *aphobia*, confirming the page's point that the doctrine maps character-space wider than Greek vocabulary.
+
+Source: Bk. II, ch. 9 (Bekker 1109b20-24).
+
+> ὁ δὲ μέχρι τίνος καὶ ἐπὶ πόσον ψεκτὸς οὐ ῥᾴδιον τῷ λόγῳ ἀφορίσαι· οὐδὲ γὰρ ἄλλο οὐδὲν τῶν αἰσθητῶν· τὰ δὲ τοιαῦτα ἐν τοῖς καθʼ ἕκαστα, καὶ ἐν τῇ αἰσθήσει ἡ κρίσις.
+
+| αἰσθ- | -σις |
+|---|---|
+| *aisth-* | *-sis* |
+| root of *aisthanomai*, "to perceive, sense" | abstract noun suffix denoting an act or process |
+| → **αἴσθησις**, "perception," "sense-perception" | |
+
+This is the exact source of the page's "in the perceiving" refrain: how far one may lean before being blamed cannot be fixed by a λόγος (a stated rule) at all, because — like all particulars — the verdict lies ἐν τῇ αἰσθήσει.
 
 ## Related
 

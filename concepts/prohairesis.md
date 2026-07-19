@@ -68,6 +68,66 @@ A second, later definition folds the same idea into a single compound-style phra
 
 *Prohairesis* is literally a compound of "taking" (*hairesis*) with the prefix "before" (*pro-*) — a taking that has already been worked out in advance of the moment of action, which is exactly why Sachs and most translators render it "choice" rather than a more literal but opaque "pre-taking." The two definitions above show Aristotle deliberately straddling reason and desire in the very grammar of the definition (*ὄρεξις* "desire" modified by a reason-word in each case), which is the point the vault's existing analysis of choice as "deliberate desire" is drawing directly from the Greek's own word order.
 
+Source: Bk. III, ch. 1 (Bekker 1110a1-4).
+
+> βίαιον δὲ οὗ ἡ ἀρχὴ ἔξωθεν, τοιαύτη οὖσα ἐν ᾗ μηδὲν συμβάλλεται ὁ πράττων ἢ ὁ πάσχων, οἷον εἰ πνεῦμα κομίσαι ποι ἢ ἄνθρωποι κύριοι ὄντες.
+
+| βί- | -αιον |
+|---|---|
+| *bi-* | *-aion* |
+| root of *bia*, "force, violence" | adjective-forming suffix, "characterized by" |
+| → **βίαιον**, "a forced (act)," one compelled from outside | |
+
+This is Aristotle's own definition of the force-clause of involuntary action, and it names its condition in a single word: the *source* (ἀρχή) lies outside the agent entirely, which is the technical boundary the page's wind-carried-person and tyrant's-captive examples are built to test.
+
+Source: Bk. III, ch. 1 (Bekker 1110b25-29).
+
+> ἕτερον δʼ ἔοικε καὶ τὸ διʼ ἄγνοιαν πράττειν τοῦ ἀγνοοῦντα· ὁ γὰρ μεθύων ἢ ὀργιζόμενος οὐ δοκεῖ διʼ ἄγνοιαν πράττειν ἀλλὰ διά τι τῶν εἰρημένων, οὐκ εἰδὼς δὲ ἀλλʼ ἀγνοῶν. ἀγνοεῖ μὲν οὖν πᾶς ὁ μοχθηρὸς ἃ δεῖ πράττειν καὶ ὧν ἀφεκτέον, καὶ διὰ τὴν τοιαύτην ἁμαρτίαν ἄδικοι καὶ ὅλως κακοὶ γίνονται.
+
+| ἀ- | γνο- | -ια |
+|---|---|---|
+| *a-* | *gno-* | *-ia* |
+| privative, "not" | root of *gignōskō*, "to know" | abstract noun suffix |
+| → **ἄγνοια**, "not-knowing," ignorance | | |
+
+The drunk or angry person is said to act *ἀγνοῶν* (while not-knowing) rather than *διʼ ἄγνοιαν* (on account of not-knowing) — the same ἄγνοια-word covers both, and Aristotle relies on that ambiguity to isolate the sense in which every bad person's blanket ignorance of what to do convicts rather than excuses.
+
+Source: Bk. III, ch. 2 (Bekker 1111b20-24).
+
+> ἀλλὰ μὴν οὐδὲ βούλησίς γε, καίπερ σύνεγγυς φαινόμενον· προαίρεσις μὲν γὰρ οὐκ ἔστι τῶν ἀδυνάτων, καὶ εἴ τις φαίη προαιρεῖσθαι, δοκοίη ἂν ἠλίθιος εἶναι· βούλησις δʼ ἐστὶ καὶ τῶν ἀδυνάτων, οἷον ἀθανασίας. καὶ ἡ μὲν βούλησίς ἐστι καὶ περὶ τὰ μηδαμῶς διʼ αὑτοῦ πραχθέντα ἄν, οἷον ὑποκριτήν τινα νικᾶν ἢ ἀθλητήν.
+
+| βουλ- | -ησις |
+|---|---|
+| *boul-* | *-ēsis* |
+| root of *boulomai*, "to wish, will" | abstract noun suffix |
+| → **βούλησις**, "wishing," an act of will directed at an end | |
+
+*Boulēsis* shares an abstract-noun suffix with *pro-hairesis* but not its restriction to the possible and the agent's own doing — the actor-winning-an-award example is Aristotle's proof that wish and choice, though grammatically parallel, pick out different things.
+
+Source: Bk. III, ch. 3 (Bekker 1112b12-15).
+
+> βουλευόμεθα δʼ οὐ περὶ τῶν τελῶν ἀλλὰ περὶ τῶν πρὸς τὰ τέλη. οὔτε γὰρ ἰατρὸς βουλεύεται εἰ ὑγιάσει, οὔτε ῥήτωρ εἰ πείσει, οὔτε πολιτικὸς εἰ εὐνομίαν ποιήσει, οὐδὲ τῶν λοιπῶν οὐδεὶς περὶ τοῦ τέλους.
+
+| βουλ- | -εύ- | -εται |
+|---|---|---|
+| *boul-* | *-eu-* | *-etai* |
+| root of *boulomai*, "to wish, will" | verb-forming suffix, "to practice, engage in" | 3rd sg. present middle ending |
+| → **βουλεύεται**, "deliberates, takes counsel" | | |
+
+The same βουλ- root that supplies the "deliberate" half of *pro-hairesis* appears here as a plain verb, fixing deliberation's proper object at means alone — a doctor deliberates about *how* to heal, never *whether* to.
+
+Source: Bk. III, ch. 5 (Bekker 1114a15-21).
+
+> τότε μὲν οὖν ἐξῆν αὐτῷ μὴ νοσεῖν, προεμένῳ δʼ οὐκέτι, ὥσπερ οὐδʼ ἀφέντι λίθον ἔτʼ αὐτὸν δυνατὸν ἀναλαβεῖν· ἀλλʼ ὅμως ἐπʼ αὐτῷ τὸ βαλεῖν· ἡ γὰρ ἀρχὴ ἐν αὐτῷ. οὕτω δὲ καὶ τῷ ἀδίκῳ καὶ τῷ ἀκολάστῳ ἐξ ἀρχῆς μὲν ἐξῆν τοιούτοις μὴ γενέσθαι, διὸ ἑκόντες εἰσίν· γενομένοις δʼ οὐκέτι ἔστι μὴ εἶναι.
+
+| ἀρχ- | -ή |
+|---|---|
+| *arch-* | *-ē* |
+| root, "to begin; to be first, to rule" | fem. abstract noun ending |
+| → **ἀρχή**, "beginning, origin, first principle" (also "rule, command") | |
+
+This is the same ἀρχή as in the force-passage above, but now located *inside* the agent (ἐν αὐτῷ) rather than outside — the thrown stone cannot be recalled once released, yet the throwing itself had its ἀρχή in the thrower, which is exactly the origin/reversibility distinction the page's discussion of the unjust and dissipated person turns on.
+
 ## Related
 
 - [[concepts/hexis]] — the active conditions (virtue/vice) that choice and voluntary action, repeated over time, produce

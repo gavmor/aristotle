@@ -6,7 +6,7 @@ aliases: [threefold division of goods, external goods, goods of the soul, goods 
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-13T00:00:00Z
-updated: 2026-07-13T00:00:00Z
+updated: 2026-07-14T00:00:00Z
 summary: Aristotle's three-way classification of goods by where they reside (external, of the soul, of the body), used to argue happiness must be an activity of the soul.
 provenance:
   extracted: 0.75
@@ -58,6 +58,44 @@ classDiagram
     Good <|-- OfTheSoul
     Good <|-- OfTheBody
 ```
+
+## Greek Gloss
+
+Source: Bk. I, ch. 8 (Bekker 1098b12–18).
+
+> νενεμημένων δὴ τῶν ἀγαθῶν τριχῇ, καὶ τῶν μὲν ἐκτὸς λεγομένων τῶν δὲ περὶ ψυχὴν καὶ σῶμα, τὰ περὶ ψυχὴν κυριώτατα λέγομεν καὶ μάλιστα ἀγαθά, τὰς δὲ πράξεις καὶ τὰς ἐνεργείας τὰς ψυχικὰς περὶ ψυχὴν τίθεμεν. ὥστε καλῶς ἂν λέγοιτο κατά γε ταύτην τὴν δόξαν παλαιὰν οὖσαν καὶ ὁμολογουμένην ὑπὸ τῶν φιλοσοφούντων.
+
+| κυρι- | -ώτατ- | -α |
+|---|---|---|
+| *kyri-* | *-ōtat-* | *-a* |
+| stem of κύριος, "having authority, sovereign, decisive" | superlative-forming suffix, "most‑" | neuter plural ending |
+| → **κυριώτατα**, "the most governing/sovereign things" | | |
+
+This is the sentence the page's first two bullets both draw on: it names the threefold division itself (ἐκτός / περὶ ψυχήν / περὶ σῶμα) and calls the soul's goods κυριώτατα, "most governing" — the very authority that lets happiness, already located in the soul by the ergon argument, count as agreeing with an "ancient" and widely "agreed-upon" (ὁμολογουμένην) opinion rather than needing it as a premise.
+
+Source: Bk. I, ch. 8 (Bekker 1099b1–6).
+
+> πολλὰ μὲν γὰρ πράττεται, καθάπερ διʼ ὀργάνων, διὰ φίλων καὶ πλούτου καὶ πολιτικῆς δυνάμεως· ἐνίων δὲ τητώμενοι ῥυπαίνουσι τὸ μακάριον, οἷον εὐγενείας εὐτεκνίας κάλλους· οὐ πάνυ γὰρ εὐδαιμονικὸς ὁ τὴν ἰδέαν παναίσχης ἢ δυσγενὴς ἢ μονώτης καὶ ἄτεκνος, ἔτι δʼ ἴσως ἧττον, εἴ τῳ πάγκακοι παῖδες εἶεν ἢ φίλοι, ἢ ἀγαθοὶ ὄντες τεθνᾶσιν.
+
+| ὀργ- | -αν- | -ον |
+|---|---|---|
+| *org-* | *-an-* | *-on* |
+| root shared with *ergon*, "work, deed" (cf. ἔργον, ἐνέργεια) | instrumental suffix: "means/tool for doing X" | neuter noun ending |
+| → **ὄργανον**, "instrument, tool" — that *through which* work gets done | | |
+
+Friends, wealth, and political power are named here as ὄργανα, instruments — the same word-family as *ergon*/*energeia* but marking the external means *through* which beautiful action happens, never the being-at-work itself; that is exactly the categorical line the page draws between external goods and goods of the soul.
+
+Source: Bk. X, ch. 8 (Bekker 1178a23–25).
+
+> δόξειε δʼ ἂν καὶ τῆς ἐκτὸς χορηγίας ἐπὶ μικρὸν ἢ ἐπʼ ἔλαττον δεῖσθαι τῆς ἠθικῆς.
+
+| χορ- | -ηγ- | -ία |
+|---|---|---|
+| *chor-* | *-ēg-* | *-ia* |
+| "chorus" (cf. χορός) | root of ἡγέομαι, "to lead" | abstract-noun suffix |
+| → **χορηγία**, literally "chorus-leading" (a wealthy citizen's funding of a dramatic chorus) → "provision, supply, resources" | | |
+
+The word for "external props" is a metaphor from theater-funding: contemplation, being the being-at-work most purely located in the soul, needs the least borrowed χορηγία of any life — confirming the page's claim that bodily and external goods support action without ever being where happiness itself resides.
 
 ## Related
 
