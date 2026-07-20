@@ -2,6 +2,7 @@
 title: Aletheia
 category: concepts/virtues
 tags: [aristotle, ethics, virtue, truthfulness, aletheia, nicomachean-ethics]
+aliases: [truthfulness, truth]
 ---
 
 # Aletheia

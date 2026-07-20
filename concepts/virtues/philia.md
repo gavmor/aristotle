@@ -2,6 +2,7 @@
 title: Philia (Friendliness)
 category: concepts/virtues
 tags: [aristotle, ethics, virtues, social, character, philia]
+aliases: [friendliness, friendship]
 ---
 
 # Philia (Friendliness)

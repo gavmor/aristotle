@@ -8,6 +8,7 @@ tags:
   - honor
   - proper-ambition
   - philotimia
+aliases: [proper ambition, ambition]
 ---
 
 # Philotimia
