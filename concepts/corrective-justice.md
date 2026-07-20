@@ -134,6 +134,6 @@ when   PTCL  then  unaccountably  the.NOM  harm.NOM  occurs    misfortune  when 
 - [[concepts/doctrine-of-the-mean]] — corrective justice is a "mean" realized as an equalizing quantity between excess and deficiency, not a disposition toward feeling
 - [[synthesis/virtue-taxonomy]] — treemap depicting this as one of justice's two leaves
 - [[synthesis/justice-taxonomy]] — full treemap expanding this branch into willing/unwilling and stealthy/violent transaction types
-- [[concepts/voluntary-involuntary]] — the fuller treatment of the willing/unwilling/mixed/nonwilling machinery this page's culpability discussion is built on
+- [[concepts/voluntary-involuntary]] — the fuller treatment of the willing/unwilling/mixed/nonwilling machinery this page's culpability discussion is built on, including its asymmetric application to *suffering* injustice and the "unjust to oneself" question
 - [[concepts/decency-epieikeia]] — decency, the standard for when the letter of corrective justice's mechanism should yield to what a case calls for
 - [[references/nicomachean-ethics]] — source text (Book V, ch. 2, 4-5)

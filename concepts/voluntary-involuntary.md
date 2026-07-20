@@ -7,7 +7,7 @@ sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z
 updated: 2026-07-19T00:00:00Z
-summary: Bk. III's classification of action into willing, unwilling, mixed, and nonwilling, based on force, ignorance, and regret — the machinery choice and justice both build on.
+summary: Bk. III's classification of willing, unwilling, mixed, and nonwilling action, plus Bk. V's asymmetric application to suffering (not just doing) injustice and to whether one can be unjust to oneself.
 provenance:
   extracted: 0.85
   inferred: 0.10
@@ -23,6 +23,8 @@ relationships:
     type: uses
   - target: "[[synthesis/culpability-scale]]"
     type: related_to
+  - target: "[[concepts/akrasia]]"
+    type: uses
 ---
 
 # Willing, Unwilling, Mixed, and Nonwilling Acts
@@ -36,6 +38,8 @@ Bk. III, ch. 1 opens Aristotle's account of responsibility with the distinction 
 - **Not all ignorance excuses.** Aristotle distinguishes acting *on account of* ignorance (not knowing a relevant particular circumstance — whom one hits, with what, for what end) from acting *while* ignorant in a more general way, such as a bad person's ignorance of what one ought to do — "every bad person is ignorant of what one ought to do," but this general ignorance of what's advantageous is the *cause* of vice, not an excuse for it. He also separates ignorance from the confused states of a drunk or angry person, who "does not seem to act on account of ignorance" but from passion, "not knowing but being ignorant." Only ignorance of the *particular circumstances* of an act — who, what, with what, for the sake of what, in what manner — grounds pity and forgiveness. ^[extracted]
 - **Acts from spiritedness or desire are willing, against a tempting objection.** One might think an act done in a fit of anger or appetite isn't really "up to" the agent, but Aristotle rejects this: if it were true, "none of the other animals would any longer do anything willingly, nor would children," and it would be absurd to call the beautiful things we do from desire willing but the shameful ones unwilling, "when one thing is responsible for them." Passion is as human as reasoning, so acting from passion doesn't by itself make an act unwilling. ^[extracted]
 - **This machinery becomes load-bearing well beyond Book III.** [[concepts/corrective-justice|Corrective justice]] (Bk. V, ch. 8) redeploys the willing/unwilling distinction directly to separate "doing injustice" from merely "doing an unjust thing," and further grades unwilling harm into [[synthesis/culpability-scale|accident and negligence]] based on exactly this apparatus (source of ignorance external vs. internal, contrary to reasonable expectation or not). ^[extracted]
+- **The distinction cuts asymmetrically once applied to the passive side (Bk. V, ch. 9)** — doing injustice is always willing, but is *suffering* injustice ever unwilling in the same clean way? Aristotle raises this as an impasse via Euripides's riddle about a matricide, "willingly while she was willing, or unwillingly while she was not?" His resolution patches the definition of doing-injustice to require acting "against that person's wishes" — so even someone who, [[concepts/akrasia|through lack of self-restraint]], willingly harms himself does not thereby suffer injustice willingly, since "no one... wishes" the harm even while willing the act that causes it. Suffering injustice, on this patched definition, turns out never to be willing at all — only doing it is. ^[extracted]
+- **This resolves whether one can be unjust to oneself (Bk. V, ch. 11): no.** The reasoning stacks several of the page's own distinctions: injustice requires two parties, since the same thing can't be simultaneously subtracted from and added to itself; it requires being willing *and* chosen *and* prior in time, none of which fits an act that harms and is harmed in the same stroke; and since "having injustice done to one willingly" has just been ruled out, self-harm can never meet injustice's definition from the sufferer's side. Even suicide "out of passion" is called unjust not toward oneself but toward the city, which is why it draws a civic penalty rather than being incoherent. Doing injustice is nonetheless worse than suffering it, since only the former implicates vice. ^[extracted]
 
 ## Diagram
 

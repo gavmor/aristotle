@@ -106,6 +106,7 @@ there-are  and  some   who.NOM  to-the.DAT.PL  opinions.DAT.PL  not  abide-in   
 - [[concepts/akolasia]] — the vicious counterpart akrasia is most often confused with; distinguished by regret, curability, and whether one's own choice endorses the pleasure-seeking
 - [[concepts/phronesis]] — practical judgment and unrestraint cannot coexist in the same person
 - [[concepts/prohairesis]] — the unrestrained person acts against choice, unlike the vicious person who acts from a corrupt choice
+- [[concepts/voluntary-involuntary]] — Bk. V uses the incontinent person's self-harm as the test case for why *suffering* injustice, unlike doing it, is never willing
 - [[concepts/pleasure-aristotle]] — Book VII's provisional theory of pleasure, completed in Book X
 - [[concepts/continence]] — self-restraint, akrasia's positive counterpart, defined as a matched pair throughout Book VII
 - [[concepts/beasts-and-gods]] — brutishness and superhuman virtue, the two extremes named in the same opening passage as akrasia
