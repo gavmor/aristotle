@@ -28,6 +28,28 @@ In Book IV, Chapter 9 of Aristotle's *Nicomachean Ethics*, shame (often translat
 - **Incompatible with Decency:** No one would praise an older, mature person for being prone to shame. A decent, virtuous adult does not willingly commit base acts, and therefore has no occasion to feel shame. To feel shame implies one has done something wrong, which contradicts the steady condition of moral virtue.
 - **Hypothetical Goodness:** Shame is only "hypothetically" good (if one *were* to do something base, one *should* feel ashamed), but a true virtue is unconditionally good because it reliably produces right action.
 
+## Greek Gloss
+
+### Bk. IV, ch. 9 (Bekker 1128b21-23)
+
+```ngloss
+\ex οὐδὲ γὰρ ἐπιεικοῦς ἐστὶν ἡ αἰσχύνη, εἴπερ γίνεται ἐπὶ τοῖς φαύλοις
+\gl οὐδὲ [oude] [neither]
+    γὰρ [gar] [for]
+    ἐπιεικοῦς [epieikous] [of-decent-person.GEN.SG]
+    ἐστὶν [estin] [is]
+    ἡ [hē] [the.NOM.SG]
+    αἰσχύνη, [aischynē] [shame.NOM.SG]
+    εἴπερ [eiper] [if-indeed]
+    γίνεται [ginetai] [it-comes-about]
+    ἐπὶ [epi] [concerning]
+    τοῖς [tois] [the.DAT.PL]
+    φαύλοις [phaulois] [base-things.DAT.PL]
+\ft For neither does shame belong to a decent person, if indeed it comes about concerning base acts.
+```
+
+The word used here for shame is *aischynē* (interchangeable with *aidōs* earlier in the chapter). Because shame is a reaction to committing base acts (*phaulois*), it cannot belong to the decent person (*epieikous*), who possesses a stable active condition of character that prevents them from willingly doing anything base.
+
 ## Relationships
 - **[[concepts/feeling|Feeling vs Active Condition]]:** Shame underscores the distinction between a *feeling* (which happens to us bodily) and a [[concepts/hexis|hexis]] (an active condition we build through habit).
 - **Youth vs Maturity:** Shame serves as a stepping-stone in moral development, useful for restraining the passions of the young before they have fully developed the stable, self-directed character of a mature adult.
