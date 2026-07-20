@@ -54,6 +54,32 @@ Magnificence is a virtue concerning money, similar to liberality but distinguish
 
 Aristotle tethers the virtue of magnificence (*megaloprepeia*) directly to external resources—it is not merely an internal disposition toward generosity, but strictly requires the material capacity to spend on a large scale. A poor person (*penēs*) intrinsically lacks the foundation (*aph' hōn*, "from which") to execute these heavy expenditures, making this specific virtue categorically impossible for them to realize in action.
 
+### Bk. IV, ch. 2 (Bekker 1122b4-5)
+
+```ngloss
+\ex ὥστε τὸ μὲν ἔργον τῆς δαπάνης ἄξιον δεῖ εἶναι, τὴν δὲ δαπάνην τοῦ ἔργου, ἢ καὶ ὑπερβάλλειν.
+\gl ὥστε [hōste] [so]
+    τὸ [to] [the.ACC]
+    μὲν [men] [PTCL]
+    ἔργον [ergon] [work.ACC]
+    τῆς [tēs] [the.GEN]
+    δαπάνης [dapanēs] [expense.GEN]
+    ἄξιον [axion] [worthy.ACC]
+    δεῖ [dei] [it-must]
+    εἶναι, [einai] [be.INF]
+    τὴν [tēn] [the.ACC]
+    δὲ [de] [and]
+    δαπάνην [dapanēn] [expense.ACC]
+    τοῦ [tou] [the.GEN]
+    ἔργου, [ergou] [work.GEN]
+    ἢ [ē] [or]
+    καὶ [kai] [even]
+    ὑπερβάλλειν. [hyperballein] [exceed.INF]
+\ft So the work must be worthy of the expense, and the expense worthy of the work, or even exceed it.
+```
+
+The concept of *megaloprepeia* hinges not just on spending a large amount, but on the strict proportionality (*axion*, worthiness) between the expenditure (*dapanē*) and the work or result (*ergon*). An inappropriate expense relative to the deed fails the standard of magnificence.
+
 ## Related
 
 - [[concepts/doctrine-of-the-mean]] — the overarching framework of virtues as means between deficiency and excess.
