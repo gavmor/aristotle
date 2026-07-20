@@ -57,7 +57,7 @@ the.NOM.PL  but  refined-people.NOM  and  active-people.NOM  honor.ACC  the.GEN 
 
 *"But refined and active people [choose] honor, for this is nearly the end of the political life."* The verb of choosing is elided — Greek lets *timēn* stand alone as the understood object, which is itself a small piece of evidence for how automatic this choice is meant to sound. τέλος ("end") is the same word anchoring the whole ergon argument; this sentence supplies the second of Book I's three candidate ends (pleasure, honor, contemplation) that [[synthesis/three-lives]] tracks in full.
 
-### Bk. III, ch. 1 (Bekker 1113b21-26)
+### Bk. III, ch. 5 (Bekker 1113b21-26)
 
 > κολάζουσι γὰρ καὶ τιμωροῦνται τοὺς δρῶντας μοχθηρά, ὅσοι μὴ βίᾳ ἢ διʼ ἄγνοιαν ἧς μὴ αὐτοὶ αἴτιοι, τοὺς δὲ τὰ καλὰ πράττοντας τιμῶσιν, ὡς τοὺς μὲν προτρέψοντες τοὺς δὲ κωλύσοντες.
 
