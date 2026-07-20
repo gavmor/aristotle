@@ -133,5 +133,5 @@ the.NOM.SG  but  up-to   what.GEN  and  to   how-much.ACC  blameworthy.NOM.SG  n
 - [[concepts/phronesis]] — the mean in any particular case is fixed by what a practically wise person would determine
 - [[concepts/justice-nicomachean]] — justice as a mean of a mathematically-structured kind
 - [[synthesis/virtue-taxonomy]] — treemap visualizing this whole table alongside virtue of thought's very different (non-triadic) structure
-- [[concepts/courage]] — the mean's first fully worked-out example, with its five named look-alikes
+- [[concepts/virtues/andreia]] — the mean's first fully worked-out example, with its five named look-alikes
 - [[references/nicomachean-ethics]] — source text

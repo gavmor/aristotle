@@ -77,7 +77,21 @@
         "synthesis/character-spectrum.md",
         "synthesis/three-lives.md",
         "concepts/honor.md",
-        "concepts/seeming.md"
+        "concepts/seeming.md",
+        "concepts/feeling.md",
+        "concepts/predisposition.md",
+        "concepts/soul.md",
+        "concepts/virtues/aletheia.md",
+        "concepts/virtues/eleutheriotes.md",
+        "concepts/virtues/eutrapelia.md",
+        "concepts/virtues/megaloprepeia.md",
+        "concepts/virtues/megalopsuchia.md",
+        "concepts/virtues/philia.md",
+        "concepts/virtues/philotimia.md",
+        "concepts/virtues/praotes.md",
+        "concepts/virtues/sophrosune.md",
+        "concepts/peri.md",
+        "synthesis/chapters-four-and-five.md"
       ],
       "pages_updated": [
         "concepts/prohairesis.md",
@@ -114,6 +128,6 @@
   },
   "stats": {
     "total_sources_ingested": 3,
-    "total_pages": 39
+    "total_pages": 53
   }
 }
