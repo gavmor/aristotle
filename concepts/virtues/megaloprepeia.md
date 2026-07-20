@@ -80,6 +80,37 @@ Aristotle tethers the virtue of magnificence (*megaloprepeia*) directly to exter
 
 The concept of *megaloprepeia* hinges not just on spending a large amount, but on the strict proportionality (*axion*, worthiness) between the expenditure (*dapanē*) and the work or result (*ergon*). An inappropriate expense relative to the deed fails the standard of magnificence.
 
+### Bk. IV, ch. 2 (Bekker 1123a31-33)
+
+```ngloss
+\ex εἰσὶ μὲν οὖν αἱ ἕξεις αὗται κακίαι, οὐ μὴν ὀνείδη γʼ ἐπιφέρουσι διὰ τὸ μήτε βλαβεραὶ τῷ πέλας εἶναι μήτε λίαν ἀσχήμονες.
+\gl εἰσὶ [eisi] [are]
+    μὲν [men] [PTCL]
+    οὖν [oun] [therefore]
+    αἱ [hai] [the.NOM.PL]
+    ἕξεις [hexeis] [active-conditions.NOM.PL]
+    αὗται [hautai] [these.NOM.PL]
+    κακίαι, [kakiai] [vices.NOM.PL]
+    οὐ [ou] [not]
+    μὴν [mēn] [however]
+    ὀνείδη [oneidē] [reproaches.ACC.PL]
+    γʼ [g'] [at-least]
+    ἐπιφέρουσι [epipherousi] [they-bring]
+    διὰ [dia] [because-of]
+    τὸ [to] [the.ACC]
+    μήτε [mēte] [neither]
+    βλαβεραὶ [blaberai] [harmful.NOM.PL]
+    τῷ [tō] [the.DAT]
+    πέλας [pelas] [neighbor.DAT]
+    εἶναι [einai] [be.INF]
+    μήτε [mēte] [nor]
+    λίαν [lian] [excessively]
+    ἀσχήμονες. [aschēmones] [unseemly.NOM.PL]
+\ft These active conditions, then, are vices, yet they do not bring reproaches at least, because they are neither harmful to one's neighbor nor excessively unseemly.
+```
+
+Though vulgarity (banausia) and chintziness (mikroprepeia) are indeed vices (kakiai) — since they are failures to hit the mean of magnificent expenditure — Aristotle notes they do not incur strong moral reproach (oneidē). They are personal failings of proportion and taste that are neither actively destructive to others (blaberai tō pelas) nor shockingly unseemly (lian aschēmones).
+
 ## Related
 
 - [[concepts/doctrine-of-the-mean]] — the overarching framework of virtues as means between deficiency and excess.
