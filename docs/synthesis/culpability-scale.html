@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Four-Stage Culpability Scale for Harm — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="the-four-stage-culpability-scale-for-harm">The Four-Stage Culpability Scale for Harm</h1>
+<p>In Bk. V, ch. 8, Aristotle grades harm done to another person into stages of increasing responsibility, building directly on <a href="../concepts/prohairesis.html">the voluntary/involuntary distinction</a>. Each stage adds exactly one further condition beyond the one before it, so that culpability rises step by step rather than jumping straight from &quot;blameless&quot; to &quot;blameworthy&quot;:</p>
+<ul>
+<li><strong>Accident</strong> — harm caused through ignorance, where the result runs <em>contrary to</em> what one might reasonably expect, and the source of the ignorance is external to the actor: &quot;when the source of responsibility... is external, one causes an accident.&quot; Fully excusable. ^[extracted]</li>
+<li><strong>Negligence</strong> — harm caused through ignorance, but where the result does <em>not</em> run contrary to reasonable expectation and the source is in the actor himself, though without malice: &quot;whenever the source of responsibility is in oneself, one commits an act of negligence.&quot; Still not vice, but one step more responsible than pure accident. ^[extracted]</li>
+<li><strong>Wrong</strong> — harm done <em>knowingly</em> but not deliberately: acts &quot;done out of spiritedness or all the other passions that are necessary or natural attributes of human beings.&quot; Aristotle is explicit that such a person &quot;does injustice&quot; and the deed is &quot;an act of injustice,&quot; but the person is &quot;not on that account unjust or vicious,&quot; since &quot;the harm does not come from vice.&quot; ^[extracted]</li>
+<li><strong>Injustice by choice</strong> — harm done <em>by deliberate choice</em> (<em>prohairesis</em>): &quot;when it is from choice, the person is unjust and vicious.&quot; Only here does the harm reflect the actor&#39;s settled character rather than a passing passion or a failure of foresight. ^[extracted]</li>
+</ul>
+<p>Aristotle closes the chapter by tying this scale to forgivability directly: unwilling acts done through ignorance <em>and as a result of</em> that ignorance are forgivable, but those done &quot;as a result of a passion that is unnatural and inhuman&quot; are not — the scale is not just descriptive but grounds which harms merit pardon. ^[extracted]</p>
+<h2 id="diagram">Diagram</h2>
+<p>A literal cumulative scale: each stage is the prior stage plus exactly one added condition, stated directly in the class body, not implied by arrow direction.</p>
+<pre><code class="hljs language-mermaid">classDiagram
+    class Harm[&quot;Harm Done to Another (Bk. V, ch. 8)&quot;]
+    class Accident[&quot;Accident&quot;] {
+        Through ignorance
+        Result contrary to reasonable expectation
+        Source of ignorance: external
+        Fully excusable
+    }
+    class Negligence[&quot;Negligence&quot;] {
+        Through ignorance
+        Result NOT contrary to reasonable expectation
+        Source of ignorance: in oneself
+        Without malice; still not vice
+    }
+    class Wrong[&quot;Wrong&quot;] {
+        Done knowingly, not deliberately
+        From spiritedness or passion
+        An act of injustice, but actor not unjust/vicious
+    }
+    class InjusticeByChoice[&quot;Injustice by Choice&quot;] {
+        Done by deliberate choice
+        Reflects settled character
+        Actor is unjust and vicious
+    }
+    Harm &lt;|-- Accident
+    Harm &lt;|-- Negligence
+    Harm &lt;|-- Wrong
+    Harm &lt;|-- InjusticeByChoice
+</code></pre><h2 id="related">Related</h2>
+<ul>
+<li><a href="../concepts/corrective-justice.html">concepts/corrective-justice</a> — the chapter (Bk. V, ch. 8) this scale belongs to, immediately following the arithmetic-proportion account of transactions</li>
+<li><a href="../concepts/prohairesis.html">concepts/prohairesis</a> — the voluntary/involuntary/choice machinery this scale applies</li>
+<li><a href="household-justice-inheritance.html">synthesis/household-justice-inheritance</a> — another cumulative classDiagram built from a single source passage</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (Book V, ch. 8)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="crown-of-virtue.html" class="mdsite-prev-link">Prev</a> | <a href="justice-taxonomy.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

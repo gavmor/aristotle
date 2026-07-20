@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Four Candidate Centers That Organize the Virtues — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="four-candidate-centers-that-organize-the-virtues">Four Candidate Centers That Organize the Virtues</h1>
+<p><strong>This page documents an editorial claim, not a passage where Aristotle himself lays out a ranked progression.</strong> In the glossary entry for &quot;greatness of soul,&quot; translator Joe Sachs synthesizes four separate passages across the whole <em>Ethics</em> into a single claim: greatness of soul is &quot;the lowest of four kinds of active lives that organize all the virtues around one center (1123b 33-1124a 3), superceded successively by justice (1129b 25-27), practical judgment (1144b 30-1145a 2), and friendship (1157a 18-19, 29-31).&quot; No single passage states this four-stage ranking outright — it is Sachs&#39;s own synthesis of where each virtue sits in &quot;the inquiry&quot; as a whole, which is why this page is marked mostly <code>inferred</code> rather than <code>extracted</code>.</p>
+<h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><strong>Greatness of soul (Bk. IV, ch. 3, 1123b33-1124a3)</strong> — &quot;the well-founded attitude that one is worthy of great things,&quot; organizing the virtues around worthiness of honor. Sachs elsewhere calls it a &quot;fifth cardinal virtue&quot; alongside courage, temperance, justice, and wisdom, but notes its position in the book makes it the <em>lowest</em> of the four organizing centers, not the last word. ^[extracted]</li>
+<li><strong>Justice (1129b25-27)</strong> supersedes it — <a href="../concepts/justice-nicomachean.html">justice as complete virtue toward others</a> organizes the virtues around one&#39;s standing in a community, rather than around one&#39;s own worthiness of honor. ^[inferred]</li>
+<li><strong>Practical judgment / phronesis (1144b30-1145a2)</strong> supersedes justice — <a href="../concepts/phronesis.html">practical judgment</a> organizes the virtues around correct reasoning about action as such, the capacity without which none of the virtues of character can be exercised rightly in the first place. ^[inferred]</li>
+<li><strong>Friendship (1157a18-19, 29-31)</strong> is the last and highest of the four — <a href="../concepts/philia.html">friendship</a>, and specifically complete friendship between good people, organizes the virtues around the &quot;other self,&quot; since it is only through a friend that one&#39;s own virtuous activity can be observed and enjoyed as an object in the world. This matches the glossary&#39;s separate claim that friendship functions as &quot;an expansion of the self, through which all one&#39;s powers can approach their highest development.&quot; ^[inferred]</li>
+<li><strong>&quot;Superseded&quot; does not mean &quot;cancelled.&quot;</strong> Each later center doesn&#39;t replace the one before it so much as encompass a wider organizing frame for the same virtues — greatness of soul&#39;s concern with worthiness of honor is still present within just, prudent, and friendly activity, not discarded by it. This mirrors how <a href="../concepts/contemplative-life.html">Book X&#39;s claim that complete happiness is contemplation</a> doesn&#39;t cancel Book I&#39;s broader &quot;virtuous activity&quot; account, but narrows and completes it. ^[inferred]</li>
+</ul>
+<h2 id="diagram">Diagram</h2>
+<p>A direct supersession chain, exactly as Sachs states it — not a timeline (this is expository/interpretive ranking, not chronological order of composition or of a person&#39;s moral development).</p>
+<pre><code class="hljs language-mermaid">classDiagram
+    class GreatnessOfSoul[&quot;Greatness of Soul (1123b33-1124a3)&quot;] {
+        Worthy of great things
+        Organizes virtue around honor
+        Lowest of the four centers
+    }
+    class Justice[&quot;Justice (1129b25-27)&quot;] {
+        Complete virtue toward others
+        Organizes virtue around community standing
+    }
+    class PracticalJudgment[&quot;Practical Judgment (1144b30-1145a2)&quot;] {
+        Correct reasoning about action
+        Organizes virtue around right exercise of character
+    }
+    class Friendship[&quot;Friendship (1157a18-19, 29-31)&quot;] {
+        The other self
+        Organizes virtue around shared, observed activity
+        Highest of the four centers
+    }
+    GreatnessOfSoul &lt;|-- Justice : superseded by
+    Justice &lt;|-- PracticalJudgment : superseded by
+    PracticalJudgment &lt;|-- Friendship : superseded by
+</code></pre><h2 id="related">Related</h2>
+<ul>
+<li><a href="../concepts/justice-nicomachean.html">concepts/justice-nicomachean</a> — the second candidate center</li>
+<li><a href="../concepts/phronesis.html">concepts/phronesis</a> — the third candidate center</li>
+<li><a href="../concepts/philia.html">concepts/philia</a> — the fourth and highest candidate center</li>
+<li><a href="../concepts/contemplative-life.html">concepts/contemplative-life</a> — a parallel case of a later book narrowing rather than cancelling an earlier claim</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (glossary entry &quot;greatness of soul,&quot; citing Bks. IV, V, VI, VIII)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="five-ways-of-truth.html" class="mdsite-prev-link">Prev</a> | <a href="culpability-scale.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

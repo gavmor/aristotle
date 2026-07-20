@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Justice in the Nicomachean Ethics — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="justice-in-the-nicomachean-ethics">Justice in the Nicomachean Ethics</h1>
+<p>Book V&#39;s treatment of justice, which Aristotle flags as unlike the other virtues discussed so far because the word is used in more than one sense — general (justice as complete virtue toward others) and particular (justice as one virtue among others, concerned specifically with fair shares).</p>
+<h2 id="diagram">Diagram</h2>
+<p>A direct is-a hierarchy, not a metaphor: &quot;justice&quot; genuinely names two senses (general/particular), and particular justice genuinely divides into the two species below — this diagram states only that containment, nothing more. Equity, the mean-as-quantity point, and the friendship thread are separate claims <em>about</em> these classes, not further species, so they stay in prose rather than being forced into the tree.</p>
+<pre><code class="hljs language-mermaid">classDiagram
+    class Justice[&quot;Justice (Bk. V)&quot;]
+    class GeneralJustice[&quot;General / Complete Justice&quot;] {
+        Whole of virtue toward others
+    }
+    class ParticularJustice[&quot;Particular Justice&quot;] {
+        A part of virtue: fair shares
+    }
+    class DistributiveJustice[&quot;Distributive&quot;] {
+        Geometric proportion
+    }
+    class CorrectiveJustice[&quot;Corrective&quot;] {
+        Arithmetic proportion
+    }
+    Justice &lt;|-- GeneralJustice
+    Justice &lt;|-- ParticularJustice
+    ParticularJustice &lt;|-- DistributiveJustice
+    ParticularJustice &lt;|-- CorrectiveJustice
+</code></pre><h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><p><strong>General/&quot;complete&quot; justice</strong> is &quot;not a part of virtue but the whole of virtue... in relation to someone else&quot; — the same active condition as virtue as such, but named justice insofar as it is exercised toward other people. This is why justice &quot;often seems to be the greatest of the virtues&quot; and why &quot;ruling will reveal a man&quot; (Bias&#39;s saying) — virtue exercised only toward oneself or friends is easy compared to virtue exercised toward the political community generally. ^[extracted]</p>
+</li>
+<li><p><strong>Particular justice</strong> — justice as one virtue among others, &quot;a part of virtue&quot; rather than the whole of it — splits into two discrete species, each with its own Greek name, its own type of proportion, and its own domain:</p>
+<ul>
+<li><a href="distributive-justice.html">Distributive justice</a> (<em>to dianemetikon dikaion</em>) — shares of honor, money, and divisible common goods, structured as a <strong>geometric</strong> proportion.</li>
+<li><a href="corrective-justice.html">Corrective (rectificatory) justice</a> (<em>to diorthotikon dikaion</em>) — transactions, willing and unwilling, structured as an <strong>arithmetic</strong> proportion, and including Aristotle&#39;s treatment of reciprocity and currency.</li>
+</ul>
+<p>See those two pages for the full working-out of each; this page covers what applies to justice at the general level, above that split. ^[extracted]</p>
+</li>
+<li><p><strong>Justice, as a mean, is a distinct case of the <a href="doctrine-of-the-mean.html">mean doctrine</a></strong>: unlike courage or temperance, justice&#39;s mean is &quot;not in the same way&quot; — it is concerned with a mean <em>quantity</em> between having more (doing injustice) and having less (suffering injustice), rather than with a mean disposition toward feelings. This applies to both species of particular justice, each in its own way (see their pages for specifics). ^[extracted]</p>
+</li>
+<li><p><strong>Can one do injustice to oneself?</strong> Aristotle argues no, in the strict political sense — injustice requires two distinct parties and a proportion violated between them — though he allows a metaphorical sense in which the rational and irrational parts of one&#39;s own soul can stand toward each other as ruler and ruled, admitting an analogous &quot;justice&quot; within a single self. Suicide from passion is classed as an injustice done to the city, not to oneself. ^[extracted]</p>
+</li>
+<li><p><strong>Political justice vs. household &quot;justice&quot; (Bk. V, ch. 6)</strong> — strict/political justice presupposes &quot;an equality of ruling and being ruled&quot; between free, self-sufficient people; household relations only approximate this, and Aristotle explicitly grades how closely, using the same &quot;two distinct parties&quot; logic as the point above. A slave or piece of property, <em>insofar as</em> it is a slave or property, is &quot;just like a part of oneself&quot; — legally an extension of the master&#39;s own person, not a second party — so there is almost no room for injustice in the strict sense (though justice does apply to a slave <em>insofar as he is human</em>). A child gets the identical description (&quot;just like a part of oneself&quot;), but with an explicit expiration date — &quot;until it is of a certain age and independent&quot; — making it a transitional case, not a permanent one. A wife is never described this way; she has her own domain (&quot;as many things as are suited to a woman, he turns over to her,&quot; Bk. VIII, ch. 10), so real justice — &quot;the justice that belongs to household management&quot; — applies to her, even though Aristotle is careful to add it is still &quot;different from the political sort.&quot; The ranking (wife &gt; child &gt; slave/property) tracks degree of recognized separate personhood, not degree of moral consideration. ^[extracted]</p>
+</li>
+<li><p><strong>Natural vs. conventional justice</strong>: some just things hold &quot;the same power everywhere&quot; (naturally just), while others make no difference until a community fixes them by agreement (e.g. a specific ransom amount) — Aristotle rejects the inference (drawn by some of his contemporaries) that because conventional justice varies, <em>all</em> justice must be conventional; both kinds are, in different ways, changeable in application even though one has a fixed natural basis. ^[extracted]</p>
+</li>
+<li><p><strong>Equity (<em>epieikeia</em>, &quot;the decent&quot;)</strong> corrects law&#39;s inherent limitation: law must speak universally, but &quot;there are some things about which it is not possible to speak rightly when speaking universally,&quot; so equity is &quot;a setting straight of what is legally just&quot; in the cases a well-intentioned lawmaker would have carved out if he could have foreseen them — equity is not a rival to justice but a <em>better form of justice</em> for particular cases, &quot;not better than what is simply just, but better than the error that results from speaking simply.&quot; ^[extracted]</p>
+</li>
+<li><p>Sachs&#39;s introduction argues Aristotle ultimately treats justice as <strong>inherently incomplete on its own account</strong>, since Book V never invokes <a href="to-kalon.html">the beautiful</a> (unlike every other virtue discussed), and Aristotle notes that lawmakers &quot;do not take justice as seriously as friendship&quot; and &quot;accord friendship a higher moral stature&quot; — read by Sachs as Aristotle&#39;s signal that the discussion of <a href="philia.html">friendship</a> in Books VIII-IX effectively supersedes and completes what justice alone cannot achieve. This is an interpretive claim, not a thesis Aristotle states outright. ^[ambiguous]</p>
+</li>
+</ul>
+<h2 id="greek-gloss">Greek Gloss</h2>
+<h3 id="bk-v-ch-1-bekker-1130a710">Bk. V, ch. 1 (Bekker 1130a7–10)</h3>
+<blockquote>
+<p>αὕτη μὲν οὖν ἡ δικαιοσύνη οὐ μέρος ἀρετῆς ἀλλʼ ὅλη ἀρετή ἐστιν, οὐδʼ ἡ ἐναντία ἀδικία μέρος κακίας ἀλλʼ ὅλη κακία.</p>
+</blockquote>
+<pre><code>αὕτη   μὲν   οὖν  ἡ    δικαιοσύνη  οὐ   μέρος  ἀρετῆς      ἀλλʼ  ὅλη    ἀρετή   ἐστιν,  οὐδʼ  ἡ    ἐναντία   ἀδικία     μέρος  κακίας    ἀλλʼ  ὅλη    κακία.
+hautē  men   oun  hē   dikaiosynē  ou   meros  aretēs      all&#x27;  holē   aretē   estin,  oud&#x27;  hē   enantia   adikia     meros  kakias    all&#x27;  holē   kakia.
+this   PTCL  so   the  justice     not  part   virtue.GEN  but   whole  virtue  is      nor   the  opposite  injustice  part   vice.GEN  but   whole  vice
+</code></pre><p><em>&quot;This, then, is justice: not a part of virtue but the whole of virtue — and its opposite, injustice, is not a part of vice but the whole of vice.&quot;</em> This is the sentence the page&#39;s first bullet quotes directly, and δικαιοσύνη itself carries the argument in its bones: δικ- (root of δίκη, &quot;what is due&quot;) + -αιο- (adjectival, as in δίκαιος, &quot;just&quot;) + -σύνη (abstract-noun suffix marking a whole settled condition) — a compound built to name a settled state of character, which is exactly why Aristotle can say here it is ὅλη ἀρετή, &quot;the whole of virtue,&quot; rather than a mere μέρος, &quot;part,&quot; of it.</p>
+<h3 id="bk-v-ch-2-bekker-1130b301131a1">Bk. V, ch. 2 (Bekker 1130b30–1131a1)</h3>
+<blockquote>
+<p>τῆς δὲ κατὰ μέρος δικαιοσύνης καὶ τοῦ κατʼ αὐτὴν δικαίου ἓν μέν ἐστιν εἶδος τὸ ἐν ταῖς διανομαῖς τιμῆς ἢ χρημάτων ἢ τῶν ἄλλων ὅσα μεριστὰ τοῖς κοινωνοῦσι τῆς πολιτείας (ἐν τούτοις γὰρ ἔστι καὶ ἄνισον ἔχειν καὶ ἴσον ἕτερον ἑτέρου), ἓν δὲ τὸ ἐν τοῖς συναλλάγμασι διορθωτικόν.</p>
+</blockquote>
+<pre><code>τῆς      δὲ   κατὰ          μέρος     δικαιοσύνης  καὶ  τοῦ      κατʼ          αὐτὴν   δικαίου   ἓν   μέν   ἐστιν  εἶδος    τὸ   ἐν  ταῖς        διανομαῖς      τιμῆς      ἢ   χρημάτων   ἢ   τῶν         ἄλλων      ὅσα         μεριστὰ    τοῖς        κοινωνοῦσι      τῆς      πολιτείας         (ἐν  τούτοις    γὰρ  ἔστι         καὶ   ἄνισον       ἔχειν    καὶ  ἴσον       ἕτερον   ἑτέρου),        ἓν   δὲ   τὸ   ἐν  τοῖς        συναλλάγμασι      διορθωτικόν.
+tēs      de   kata          meros     dikaiosynēs  kai  tou      kat&#x27;          autēn   dikaiou   hen  men   estin  eidos    to   en  tais        dianomais      timēs      ē   chrēmatōn  ē   tōn         allōn      hosa        merista    tois        koinōnousi      tēs      politeias         (en  toutois    gar  esti         kai   anison       echein   kai  ison       heteron  heterou),       hen  de   to   en  tois        synallagmasi      diorthōtikon.
+the.GEN  and  according-to  part.ACC  justice.GEN  and  the.GEN  according-to  it.ACC  just.GEN  one  PTCL  is     species  the  in  the.DAT.PL  distributions  honor.GEN  or  money.GEN  or  the.GEN.PL  other.GEN  as-many-as  divisible  the.DAT.PL  share.PTCP.DAT  the.GEN  constitution.GEN  in   these.DAT  for  is-possible  both  unequal.ACC  to-have  and  equal.ACC  one.ACC  than-other.GEN  one  and  the  in  the.DAT.PL  transactions.DAT  corrective
+</code></pre><p><em>&quot;Of particular justice, and of the just as it belongs to it, one species has to do with distributions of honor or money or the other divisible things shared by members of the constitution (for in these it is possible for one person to have an unequal or an equal share relative to another), and another species is corrective, operating in transactions.&quot;</em> This is the sentence where Aristotle actually performs the split named in Key Ideas, and the word doing the dividing work is εἶδος — built from the same root as ἰδεῖν/οἶδα, &quot;to see&quot; (εἰδ-) plus a bare neuter ending (-ος), so a &quot;species&quot; is literally &quot;the shape a thing is seen to have&quot;: one εἶδος in distributions, a second (διορθωτικόν) in transactions.</p>
+<h3 id="bk-v-ch-11-bekker-1138a1013">Bk. V, ch. 11 (Bekker 1138a10–13)</h3>
+<blockquote>
+<p>διὸ καὶ ἡ πόλις ζημιοῖ, καί τις ἀτιμία πρόσεστι τῷ ἑαυτὸν διαφθείραντι ὡς τὴν πόλιν ἀδικοῦντι.</p>
+</blockquote>
+<pre><code>διὸ        καὶ   ἡ    πόλις  ζημιοῖ,    καί  τις        ἀτιμία    πρόσεστι  τῷ       ἑαυτὸν       διαφθείραντι      ὡς   τὴν      πόλιν     ἀδικοῦντι.
+dio        kai   hē   polis  zēmioi,    kai  tis        atimia    prosesti  tō       heauton      diaphtheiranti    hōs  tēn      polin     adikounti.
+therefore  also  the  city   penalizes  and  a-certain  dishonor  attaches  the.DAT  himself.ACC  destroy.PTCP.DAT  as   the.ACC  city.ACC  wrong.PTCP.DAT
+</code></pre><p><em>&quot;That is why the city imposes a penalty, and a kind of dishonor attaches to the man who destroys himself, on the ground that he is doing wrong to the city.&quot;</em> The penalty Aristotle names is ἀτιμία — ἀ-, the privative prefix &quot;not, without,&quot; plus τιμ-, the root of τιμή, &quot;honor, worth, price,&quot; plus -ία, the abstract-noun suffix — so the word itself locates the loss in a person&#39;s public standing rather than in any private harm, matching the grammar of the sentence: the participle ἀδικοῦντι governs τὴν πόλιν, &quot;the city,&quot; as the wronged party, never ἑαυτόν, &quot;himself.&quot;</p>
+<h3 id="bk-v-ch-7-bekker-1134b1824">Bk. V, ch. 7 (Bekker 1134b18–24)</h3>
+<blockquote>
+<p>τοῦ δὲ πολιτικοῦ δικαίου τὸ μὲν φυσικόν ἐστι τὸ δὲ νομικόν, φυσικὸν μὲν τὸ πανταχοῦ τὴν αὐτὴν ἔχον δύναμιν, καὶ οὐ τῷ δοκεῖν ἢ μή, νομικὸν δὲ ὃ ἐξ ἀρχῆς μὲν οὐδὲν διαφέρει οὕτως ἢ ἄλλως, ὅταν δὲ θῶνται, διαφέρει.</p>
+</blockquote>
+<pre><code>τοῦ      δὲ   πολιτικοῦ      δικαίου   τὸ   μὲν   φυσικόν   ἐστι  τὸ   δὲ   νομικόν,      φυσικὸν   μὲν   τὸ   πανταχοῦ    τὴν      αὐτὴν     ἔχον         δύναμιν,   καὶ  οὐ   τῷ       δοκεῖν   ἢ   μή,  νομικὸν       δὲ   ὃ      ἐξ    ἀρχῆς          μὲν   οὐδὲν    διαφέρει   οὕτως   ἢ   ἄλλως,     ὅταν      δὲ   θῶνται,         διαφέρει.
+tou      de   politikou      dikaiou   to   men   physikon  esti  to   de   nomikon,      physikon  men   to   pantachou   tēn      autēn     echon        dynamin,   kai  ou   tō       dokein   ē   mē,  nomikon       de   ho     ex    archēs         men   ouden    diapherei  houtōs  ē   allōs,     hotan     de   thōntai,        diapherei.
+the.GEN  and  political.GEN  just.GEN  the  PTCL  natural   is    the  and  conventional  natural   PTCL  the  everywhere  the.ACC  same.ACC  having.PTCP  power.ACC  and  not  the.DAT  seeming  or  not  conventional  and  which  from  beginning.GEN  PTCL  nothing  differs    thus    or  otherwise  whenever  and  they-establish  it-differs
+</code></pre><p><em>&quot;Of political justice, part is natural and part conventional: natural, whatever has the same force everywhere and does not depend on people&#39;s thinking it so or not; conventional, whatever makes no difference either way at the start, but once people have laid it down, does make a difference.&quot;</em> νομικόν&#39;s root sense is precisely why this holds together: νομ- is the root of νόμος, &quot;law, custom&quot; (itself from νέμω, &quot;to distribute, allot&quot;), plus -ικόν, the adjectival suffix &quot;pertaining to&quot; — conventional justice is what is fixed by an act of communal allotment, so its variability by agreement never infects φυσικόν, the naturally fixed kind standing beside it in the sentence&#39;s own μὲν...δὲ division.</p>
+<h3 id="bk-v-ch-10-bekker-1137b2527">Bk. V, ch. 10 (Bekker 1137b25–27)</h3>
+<blockquote>
+<p>καὶ ἔστιν αὕτη ἡ φύσις ἡ τοῦ ἐπιεικοῦς, ἐπανόρθωμα νόμου, ᾗ ἐλλείπει διὰ τὸ καθόλου.</p>
+</blockquote>
+<pre><code>καὶ  ἔστιν  αὕτη   ἡ    φύσις   ἡ    τοῦ      ἐπιεικοῦς,  ἐπανόρθωμα   νόμου,   ᾗ         ἐλλείπει     διὰ         τὸ   καθόλου.
+kai  estin  hautē  hē   physis  hē   tou      epieikous,  epanorthōma  nomou,   hēi       elleipei     dia         to   katholou.
+and  is     this   the  nature  the  the.GEN  decent.GEN  correction   law.GEN  in-which  falls-short  because-of  the  universal
+</code></pre><p><em>&quot;And this is the nature of the decent: a correction of law, where law falls short because of its universality.&quot;</em> This is the line Sachs&#39;s &quot;setting straight&quot; language traces back to, and the word carrying the whole definition is ἐπανόρθωμα — ἐπί, &quot;upon,&quot; fused with ἀνά, &quot;back, again&quot; (together, &quot;a further correction to&quot;), plus ὀρθ-, the root of ὀρθός, &quot;straight, right,&quot; plus -μα, the result-noun suffix naming the thing done: equity is defined here, in one compound, as a correction supplied exactly where law&#39;s universal wording runs short.</p>
+<h2 id="related">Related</h2>
+<ul>
+<li><a href="distributive-justice.html">concepts/distributive-justice</a> — the geometric-proportion species of particular justice</li>
+<li><a href="corrective-justice.html">concepts/corrective-justice</a> — the arithmetic-proportion species of particular justice, transactions and reciprocity</li>
+<li><a href="doctrine-of-the-mean.html">concepts/doctrine-of-the-mean</a> — justice as a distinctively quantitative/proportional case of the mean</li>
+<li><a href="philia.html">concepts/philia</a> — friendship and justice are said to &quot;concern the same things and be present in the same things,&quot; but per Sachs&#39;s reading, friendship completes what justice leaves incomplete</li>
+<li><a href="prohairesis.html">concepts/prohairesis</a> — Aristotle&#39;s account of voluntary/involuntary action is directly reapplied to distinguish acts of injustice from merely unjust outcomes</li>
+<li><a href="../synthesis/virtue-taxonomy.html">synthesis/virtue-taxonomy</a> — treemap showing justice as a 2-leaf exception even within virtue of character&#39;s otherwise-uniform triads</li>
+<li><a href="../synthesis/justice-taxonomy.html">synthesis/justice-taxonomy</a> — full treemap of every classificatory axis this page and its two children cover, plus natural/conventional, political/household, and equity</li>
+<li><a href="../synthesis/household-justice-inheritance.html">synthesis/household-justice-inheritance</a> — inheritance diagram of the three cumulative properties (separate personhood, own domain, full equality) behind the wife &gt; child &gt; slave/property ranking</li>
+<li><a href="../synthesis/constitutions-and-households.html">synthesis/constitutions-and-households</a> — a second, distinct household classification: the same relations mapped onto constitutional forms (kingship/tyranny, aristocracy/oligarchy, timocracy/democracy) rather than graded by justice</li>
+<li><a href="../synthesis/crown-of-virtue.html">synthesis/crown-of-virtue</a> — Sachs&#39;s editorial claim that justice is the second of four successive candidates for what organizes all the virtues</li>
+<li><a href="decency-epieikeia.html">concepts/decency-epieikeia</a> — decency, the correction internal to justice for what a universal law leaves out in a particular case</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (Book V)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="honor.html" class="mdsite-prev-link">Prev</a> | <a href="nous.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

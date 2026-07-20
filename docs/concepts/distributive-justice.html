@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Distributive Justice — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="distributive-justice">Distributive Justice</h1>
+<p>One of the two forms into which Aristotle divides <strong>particular justice</strong> (Bk. V, ch. 2-3) — the Greek is <em>to dianemetikon dikaion</em>, &quot;the distributive just,&quot; from <em>dianemein</em>, &quot;to distribute/apportion.&quot; It governs &quot;distributions of honor or money, or as many other things as are divisible, among those who share in the political community.&quot;</p>
+<h2 id="diagram">Diagram</h2>
+<p>The claim itself, stated directly with no invented numbers: justice here just <em>is</em> the equality of two ratios — merit compared to merit, share compared to share.</p>
+<pre><code class="hljs language-mermaid">classDiagram
+    class MeritRatio[&quot;Merit ratio: Person A : Person B&quot;]
+    class ShareRatio[&quot;Share ratio: Share C : Share D&quot;]
+    MeritRatio -- ShareRatio : equal ratios = just; unequal = disproportion (unjust)
+</code></pre><h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><strong>Structured as a geometric proportion, not an equal share.</strong> What is just is not that everyone gets the same amount, but that shares are proportionate to the people receiving them: &quot;as person A is to person B, so should A&#39;s portion be to B&#39;s portion.&quot; Aristotle works this out formally as a four-term proportion (two people, two shares) — A:B :: C:D — and derives the &quot;linking&quot; of A with C and B with D as what a just distribution actually does, alternating and recombining the ratio so that &quot;the whole is to the whole&quot; as each person is to what they receive. Mathematicians call this <em>geometrical</em> proportionality, distinguishing it from the <em>arithmetic</em> proportionality of <a href="corrective-justice.html">corrective justice</a>. ^[extracted]</li>
+<li><strong>Injustice here is disproportion, not mere inequality of amount.</strong> Someone who receives too much or too little <em>relative to their proportionate merit</em> is treated unjustly, even if the raw quantities look &quot;fair&quot; by some other measure; conversely equal shares to unequal people is exactly where &quot;fights and complaints&quot; arise. ^[extracted]</li>
+<li><strong>The basis of merit is itself politically contested</strong> — Aristotle notes that everyone agrees distributive justice must track <em>some</em> merit, but disagrees on which: &quot;those who favor democracy mean freedom, those who favor oligarchy mean wealth, others mean being well born, and those who favor aristocracy mean virtue.&quot; The formal structure (geometric proportion) is constant; what counts as the relevant basis of proportion is a substantive political question the <em>Ethics</em> leaves open here (and defers to the <em>Politics</em>). ^[extracted]</li>
+<li><strong>Extends to bad things too, inverted</strong>: with something bad to be apportioned, the lesser evil is treated as the &quot;greater good&quot; in the proportion, since &quot;the lesser evil is more choiceworthy than the greater, and what is chosen is good&quot; — the same proportional logic just runs in the opposite direction. ^[extracted]</li>
+</ul>
+<h2 id="greek-gloss">Greek Gloss</h2>
+<p>Source: Aristotle, <em>Ēthika Nikomacheia</em>, Bk. V, Bywater&#39;s 1894 Oxford Classical Text (Bekker 1831 pagination), via the <a href="https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/">Perseus Digital Library</a> (public domain). Every word of each cited sentence is glossed below, in order.</p>
+<h3 id="bk-v-ch-3-bekker-1131a20-24">Bk. V, ch. 3 (Bekker 1131a20-24)</h3>
+<blockquote>
+<p>εἰ γὰρ μὴ ἴσοι, οὐκ ἴσα ἕξουσιν, ἀλλʼ ἐντεῦθεν αἱ μάχαι καὶ τὰ ἐγκλήματα, ὅταν ἢ μὴ ἴσα ἴσοι ἢ μὴ ἴσοι ἴσα ἔχωσι καὶ νέμωνται.</p>
+</blockquote>
+<pre><code>εἰ  γὰρ  μὴ   ἴσοι          οὐκ  ἴσα           ἕξουσιν            ἀλλʼ  ἐντεῦθεν   αἱ            μάχαι          καὶ  τὰ            ἐγκλήματα          ὅταν      ἢ       μὴ   ἴσα           ἴσοι          ἢ   μὴ   ἴσοι          ἴσα           ἔχωσι          καὶ  νέμωνται
+ei  gar  mē   isoi          ouk  isa           hexousin           all&#x27;  enteuthen  hai           machai         kai  ta            enklēmata          hotan     ē       mē   isa           isoi          ē   mē   isoi          isa           echōsi         kai  nemōntai
+if  for  not  equal.NOM.PL  not  equal.ACC.PL  will-have.FUT.3PL  but   hence      the.NOM.PL.F  fights.NOM.PL  and  the.NOM.PL.N  grievances.NOM.PL  whenever  either  not  equal.ACC.PL  equal.NOM.PL  or  not  equal.NOM.PL  equal.ACC.PL  have.SUBJ.3PL  and  are-allotted.SUBJ.3PL
+</code></pre><p><em>&quot;For if people are not equal, they will not have equal shares — rather, this is where fights and grievances come from, whenever either unequal people have and are allotted equal shares, or equal people unequal ones.&quot;</em> This is the sentence the Key Ideas&#39; second bullet names directly: the failure mode is <em>disproportion</em> — <em>isoi</em> (equal people) against <em>isa</em> (equal shares) mismatched in either direction — not raw inequality of amount; the <em>an-</em> privative that would produce <em>anisos</em>, &quot;unequal,&quot; is the same negating prefix stacked onto <em>isos</em> seen four times over in this one sentence, underlining how the whole passage pivots on matching or mismatching that single root.</p>
+<h3 id="bk-v-ch-3-bekker-1131a24-29">Bk. V, ch. 3 (Bekker 1131a24-29)</h3>
+<blockquote>
+<p>ἔτι ἐκ τοῦ κατʼ ἀξίαν τοῦτο δῆλον· τὸ γὰρ δίκαιον ἐν ταῖς νομαῖς ὁμολογοῦσι πάντες κατʼ ἀξίαν τινὰ δεῖν εἶναι, τὴν μέντοι ἀξίαν οὐ τὴν αὐτὴν λέγουσι πάντες, ἀλλʼ οἱ μὲν δημοκρατικοὶ ἐλευθερίαν, οἱ δʼ ὀλιγαρχικοὶ πλοῦτον, οἳ δʼ εὐγένειαν, οἱ δʼ ἀριστοκρατικοὶ ἀρετήν.</p>
+</blockquote>
+<pre><code>ἔτι          ἐκ    τοῦ           κατʼ          ἀξίαν         τοῦτο          δῆλον         τὸ            γὰρ  δίκαιον      ἐν  ταῖς          νομαῖς                ὁμολογοῦσι   πάντες      κατʼ          ἀξίαν         τινὰ         δεῖν      εἶναι   τὴν           μέντοι   ἀξίαν         οὐ   τὴν           αὐτὴν        λέγουσι  πάντες      ἀλλʼ  οἱ            μὲν   δημοκρατικοὶ      ἐλευθερίαν      οἱ            δʼ   ὀλιγαρχικοὶ       πλοῦτον        οἳ                 δʼ   εὐγένειαν          οἱ            δʼ   ἀριστοκρατικοὶ      ἀρετήν
+eti          ek    tou           kat&#x27;          axian         touto          dēlon         to            gar  dikaion      en  tais          nomais                homologousi  pantes      kat&#x27;          axian         tina         dein      einai   tēn           mentoi   axian         ou   tēn           autēn        legousi  pantes      all&#x27;  hoi           men   dēmokratikoi      eleutherian     hoi           d&#x27;   oligarchikoi      plouton        hoi                d&#x27;   eugeneian          hoi           d&#x27;   aristokratikoi      aretēn
+furthermore  from  the.GEN.SG.N  according-to  worth.ACC.SG  this.NOM.SG.N  clear.NOM.SG  the.NOM.SG.N  for  just.NOM.SG  in  the.DAT.PL.F  distributions.DAT.PL  agree.3PL    all.NOM.PL  according-to  worth.ACC.SG  some.ACC.SG  must.INF  be.INF  the.ACC.SG.F  however  worth.ACC.SG  not  the.ACC.SG.F  same.ACC.SG  say.3PL  all.NOM.PL  but   the.NOM.PL.M  PTCL  democrats.NOM.PL  freedom.ACC.SG  the.NOM.PL.M  and  oligarchs.NOM.PL  wealth.ACC.SG  the-others.NOM.PL  and  good-birth.ACC.SG  the.NOM.PL.M  and  aristocrats.NOM.PL  virtue.ACC.SG
+</code></pre><p><em>&quot;Further, this is clear from the case of worth: everyone agrees that what is just in distributions must go by some worth, but they do not all name the same worth — democrats say freedom, oligarchs wealth, some good birth, and aristocrats virtue.&quot;</em> <em>Axian</em> (from <em>axios</em>, &quot;weighing as much as,&quot; itself tied to the verb <em>agō</em>, &quot;to weigh in the balance&quot;) is the single word every faction is fighting over — the Key Ideas&#39; third bullet&#39;s whole point is that the formal structure (proportion <em>kat&#39; axian</em>) is agreed while the content of <em>axia</em> is a live political dispute, and this sentence lists the four rival fillers verbatim.</p>
+<h3 id="bk-v-ch-3-bekker-1131b10-14">Bk. V, ch. 3 (Bekker 1131b10-14)</h3>
+<blockquote>
+<p>καλοῦσι δὲ τὴν τοιαύτην ἀναλογίαν γεωμετρικὴν οἱ μαθηματικοί· ἐν γὰρ τῇ γεωμετρικῇ συμβαίνει καὶ τὸ ὅλον πρὸς τὸ ὅλον ὅπερ ἑκάτερον πρὸς ἑκάτερον.</p>
+</blockquote>
+<pre><code>καλοῦσι   δὲ   τὴν           τοιαύτην     ἀναλογίαν          γεωμετρικὴν       οἱ            μαθηματικοί            ἐν  γὰρ  τῇ            γεωμετρικῇ        συμβαίνει    καὶ   τὸ            ὅλον          πρὸς    τὸ            ὅλον          ὅπερ   ἑκάτερον   πρὸς    ἑκάτερον
+kalousi   de   tēn           toiautēn     analogian          geōmetrikēn       hoi           mathēmatikoi           en  gar  tēi           geōmetrikēi       symbainei    kai   to            holon         pros    to            holon         hoper  hekateron  pros    hekateron
+call.3PL  and  the.ACC.SG.F  such.ACC.SG  proportion.ACC.SG  geometric.ACC.SG  the.NOM.PL.M  mathematicians.NOM.PL  in  for  the.DAT.SG.F  geometric.DAT.SG  happens.3SG  also  the.NOM.SG.N  whole.NOM.SG  toward  the.ACC.SG.N  whole.ACC.SG  which  each       toward  each.ACC.SG
+</code></pre><p><em>&quot;Mathematicians call this sort of proportion geometric, since in the geometric proportion it works out that the whole stands to the whole exactly as each part stands to each part.&quot;</em> <em>Geōmetrikēn</em> is built from <em>gē</em> (&quot;earth&quot;) plus the <em>-metr-</em> root of <em>metron</em> (&quot;measure&quot;) — literally &quot;earth-measuring&quot; — and this is the mathematicians&#39; own technical label for the ratio-of-ratios the page&#39;s Diagram depicts, the reason the Key Ideas&#39; first bullet contrasts it by name with the <em>arithmētikē</em> (&quot;number&quot;-based) proportion of <a href="corrective-justice.html">corrective justice</a>.</p>
+<h3 id="bk-v-ch-3-bekker-1131b20-24">Bk. V, ch. 3 (Bekker 1131b20-24)</h3>
+<blockquote>
+<p>ἐπὶ δὲ τοῦ κακοῦ ἀνάπαλιν· ἐν ἀγαθοῦ γὰρ λόγῳ γίνεται τὸ ἔλαττον κακὸν πρὸς τὸ μεῖζον κακόν· ἔστι γὰρ τὸ ἔλαττον κακὸν μᾶλλον αἱρετὸν τοῦ μείζονος, τὸ δʼ αἱρετὸν ἀγαθόν, καὶ τὸ μᾶλλον μεῖζον.</p>
+</blockquote>
+<pre><code>ἐπὶ             δὲ   τοῦ           κακοῦ       ἀνάπαλιν    ἐν  ἀγαθοῦ       γὰρ  λόγῳ            γίνεται      τὸ            ἔλαττον        κακὸν        πρὸς         τὸ            μεῖζον          κακόν        ἔστι    γὰρ  τὸ            ἔλαττον        κακὸν        μᾶλλον  αἱρετὸν              τοῦ              μείζονος        τὸ            δʼ   αἱρετὸν              ἀγαθόν       καὶ  τὸ            μᾶλλον  μεῖζον
+epi             de   tou           kakou       anapalin    en  agathou      gar  logōi           ginetai      to            elatton        kakon        pros         to            meizon          kakon        esti    gar  to            elatton        kakon        mallon  haireton             tou              meizonos        to            d&#x27;   haireton             agathon      kai  to            mallon  meizon
+in-the-case-of  but  the.GEN.SG.N  bad.GEN.SG  conversely  in  good.GEN.SG  for  account.DAT.SG  becomes.3SG  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  relative-to  the.ACC.SG.N  greater.ACC.SG  evil.ACC.SG  is.3SG  for  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  more    choiceworthy.NOM.SG  than-the.GEN.SG  greater.GEN.SG  the.NOM.SG.N  and  choiceworthy.NOM.SG  good.NOM.SG  and  the.NOM.SG.N  more    greater.NOM.SG
+</code></pre><p><em>&quot;With something bad, though, it runs the other way: the lesser evil counts, in the reckoning of a good, as the greater relative to the greater evil — for the lesser evil is more choiceworthy than the greater, and what is choiceworthy is good, and the more choiceworthy the greater good.&quot;</em> This is the Key Ideas&#39; fourth bullet&#39;s inverted case, and it turns on <em>haireton</em> (from <em>haireō</em>, &quot;to take, seize, choose,&quot; plus the <em>-t-</em> verbal-adjective suffix marking fitness, &quot;-able/-worthy&quot;): since whatever is <em>hairetos</em> counts as good, the lesser of two evils becomes the &quot;greater good&quot; of the pair simply by being the more choiceworthy of the two — the same proportional machinery, reversed in sign rather than redesigned.</p>
+<h3 id="bk-v-ch-4-bekker-1131b27-29">Bk. V, ch. 4 (Bekker 1131b27-29)</h3>
+<blockquote>
+<p>τὸ μὲν γὰρ διανεμητικὸν δίκαιον τῶν κοινῶν ἀεὶ κατὰ τὴν ἀναλογίαν ἐστὶ τὴν εἰρημένην</p>
+</blockquote>
+<pre><code>τὸ            μὲν   γὰρ  διανεμητικὸν         δίκαιον      τῶν         κοινῶν                ἀεὶ     κατὰ          τὴν           ἀναλογίαν          ἐστὶ    τὴν           εἰρημένην
+to            men   gar  dianemētikon         dikaion      tōn         koinōn                aei     kata          tēn           analogian          esti    tēn           eirēmenēn
+the.NOM.SG.N  PTCL  for  distributive.NOM.SG  just.NOM.SG  the.GEN.PL  common-things.GEN.PL  always  according-to  the.ACC.SG.F  proportion.ACC.SG  is.3SG  the.ACC.SG.F  aforementioned.PTCP.ACC.SG
+</code></pre><p><em>&quot;For the distributive form of the just, applied to common goods, always follows the proportion already described.&quot;</em> <em>Dianemētikon</em> is built from <em>dia-</em> (&quot;apart, out, distributively&quot;) plus the root of <em>nemō</em> (&quot;to allot, distribute, apportion by custom&quot;) plus the <em>-ētik-</em> suffix marking a capacity or tendency (the same work English &quot;-ive&quot; does in &quot;distribut-ive&quot;), rather than a completed act — this is the term the whole page names itself after, and the same suffix pattern makes it grammatically parallel to <a href="corrective-justice.html"><em>diorthōtikon</em></a>, a parallel no single English word preserves.</p>
+<h2 id="related">Related</h2>
+<ul>
+<li><a href="justice-nicomachean.html">concepts/justice-nicomachean</a> — the parent discussion (general vs. particular justice) this page is one species of</li>
+<li><a href="corrective-justice.html">concepts/corrective-justice</a> — the sibling form, governing transactions by arithmetic rather than geometric proportion</li>
+<li><a href="doctrine-of-the-mean.html">concepts/doctrine-of-the-mean</a> — distributive justice is itself a &quot;mean&quot; realized as a proportion, not as a disposition toward feeling</li>
+<li><a href="../synthesis/virtue-taxonomy.html">synthesis/virtue-taxonomy</a> — treemap depicting this as one of justice&#39;s two leaves</li>
+<li><a href="../synthesis/justice-taxonomy.html">synthesis/justice-taxonomy</a> — full treemap expanding this branch into honor / money / other divisible goods</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (Book V, ch. 2-3)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="decency-epieikeia.html" class="mdsite-prev-link">Prev</a> | <a href="energeia.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

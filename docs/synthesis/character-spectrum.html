@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Six-Point Character Spectrum — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="the-six-point-character-spectrum">The Six-Point Character Spectrum</h1>
+<p>Book VII&#39;s opening line names three things &quot;to be avoided&quot; (vice, unrestraint, an animal-like state) and, for two of them, their obvious opposites (virtue, self-restraint) — leaving the third opposite, superhuman virtue, to be worked out by analogy. <strong>This page assembles those six terms into one ordered scale; Aristotle himself states them as three separate opposed pairs, not as a single ranked line</strong> — the ordering from worst to best is this page&#39;s own synthesis, not a claim Aristotle makes in one place.</p>
+<h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><strong>The three pairs, as Aristotle actually gives them</strong>: vice / virtue, unrestraint / self-restraint, brutishness / superhuman virtue. Each pair concerns a different kind of failure or success — vice is a chosen, settled bad condition; unrestraint is an episodic failure to act on one&#39;s own better judgment; brutishness is off the human scale altogether, &quot;of a different kind from vice&quot; rather than a worse degree of it. ^[extracted]</li>
+<li><strong>Ordering the six by increasing soundness of character gives the spectrum below.</strong> <a href="../concepts/beasts-and-gods.html">Brutishness</a> sits outside the human scale on the bad end, not merely below vice — but for the purpose of a single ordered line, it anchors the bottom, since it is &quot;disparage[d]&quot; as worse than ordinary human badness. Vice is a full, chosen, unregretted bad condition (see <a href="../concepts/akolasia.html">concepts/akolasia</a>). <a href="../concepts/akrasia.html">Unrestraint</a> is better than vice because &quot;the best thing in him, the source, is preserved&quot; — the unrestrained person&#39;s judgment is sound even though his action isn&#39;t. <a href="../concepts/continence.html">Self-restraint</a> is better still: judgment <em>and</em> action agree, even though desire had to be overpowered to get there. Virtue is better yet: no internal struggle at all, because the person&#39;s desires are already aligned with reason. <a href="../concepts/beasts-and-gods.html">Superhuman virtue</a> anchors the top, again off the human scale, &quot;more honorable than virtue&quot; rather than merely more virtuous. ^[inferred]</li>
+<li><strong>The scale is not evenly spaced.</strong> The gap between unrestraint and self-restraint (both still struggling against base desire, differing only in outcome) is much narrower than the gap between self-restraint and full virtue (a difference in the <em>presence</em> of internal conflict, not just its resolution) — and the gaps to brutishness and superhuman virtue at either end are categorical, not gradual, since Aristotle insists those two are different <em>in kind</em>, not merely in degree. ^[inferred]</li>
+<li><strong>This scale complements, rather than duplicates, <a href="culpability-scale.html">the culpability scale</a></strong>: that one grades <em>individual harmful acts</em> by the actor&#39;s knowledge and choice in the moment (Bk. V); this one grades <em>standing character</em> by the relationship between an agent&#39;s judgment and his desires over time (Bk. VII). ^[inferred]</li>
+</ul>
+<h2 id="diagram">Diagram</h2>
+<p>An explicitly synthesized ordering, not a single passage&#39;s literal claim — the three pairs are Aristotle&#39;s; the single-line arrangement and the &quot;categorical vs. gradual&quot; gap sizes are this page&#39;s own reading, flagged here rather than presented as extracted fact.</p>
+<pre><code class="hljs language-mermaid">classDiagram
+    class CharacterCondition[&quot;Character Condition&quot;]
+    class Brutishness[&quot;Brutishness&quot;] {
+        Off the human scale (bad end)
+        Different in kind from vice, not a worse degree
+    }
+    class Vice[&quot;Vice&quot;] {
+        Chosen, settled, unregretted
+        Judgment and desire both corrupted
+    }
+    class Unrestraint[&quot;Unrestraint (Akrasia)&quot;] {
+        Judgment sound, action fails
+        Regretted afterward
+    }
+    class SelfRestraint[&quot;Self-Restraint (Enkrateia)&quot;] {
+        Judgment and action agree
+        Only by overpowering strong base desire
+    }
+    class Virtue[&quot;Virtue&quot;] {
+        Judgment and desire already aligned
+        No internal struggle
+    }
+    class SuperhumanVirtue[&quot;Superhuman Virtue&quot;] {
+        Off the human scale (good end)
+        Different in kind from virtue, not a further degree
+    }
+    Brutishness &lt;|-- Vice : better than
+    Vice &lt;|-- Unrestraint : better than
+    Unrestraint &lt;|-- SelfRestraint : better than
+    SelfRestraint &lt;|-- Virtue : better than
+    Virtue &lt;|-- SuperhumanVirtue : better than
+</code></pre><h2 id="related">Related</h2>
+<ul>
+<li><a href="../concepts/akrasia.html">concepts/akrasia</a> — unrestraint, the book&#39;s actual sustained subject</li>
+<li><a href="../concepts/continence.html">concepts/continence</a> — self-restraint, akrasia&#39;s positive counterpart</li>
+<li><a href="../concepts/beasts-and-gods.html">concepts/beasts-and-gods</a> — brutishness and superhuman virtue, the two categorical extremes bounding this scale</li>
+<li><a href="culpability-scale.html">synthesis/culpability-scale</a> — the companion grading scale for individual acts rather than standing character</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (Book VII, ch. 1)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="virtue-taxonomy.html" class="mdsite-prev-link">Prev</a> | <a href="threefold-good.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Shape of Aristotle's Virtue Taxonomy — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="the-shape-of-aristotles-virtue-taxonomy">The Shape of Aristotle&#39;s Virtue Taxonomy</h1>
+<p>A treemap synthesizing <a href="../concepts/doctrine-of-the-mean.html">concepts/doctrine-of-the-mean</a>, <a href="../concepts/akolasia.html">concepts/akolasia</a>, <a href="../concepts/phronesis.html">concepts/phronesis</a>, and <a href="../concepts/justice-nicomachean.html">concepts/justice-nicomachean</a> into a single visual: virtue of character (Bk. I, ch. 13) is structured almost uniformly by the mean doctrine, while virtue of thought is not — this page exists to make that asymmetry visible rather than just stated in prose.</p>
+<h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><strong>How to read it</strong>: every leaf is weighted <code>1</code>. Rectangle size encodes leaf-<em>count</em>, not importance — the point is the <em>shape</em> of each branch&#39;s internal structure, not a claim about which virtues matter more. ^[inferred]</li>
+<li><strong>Virtue of Character</strong> renders as a set of uniform 3-way splits — one deficiency/mean/excess triad per domain (fear, bodily pleasure, money at two scales, honor at two scales, anger, truthfulness, social pleasantness at two registers, plus the two &quot;quasi-virtue&quot; feelings shame and righteous indignation). <a href="../concepts/justice-nicomachean.html">Justice</a> is the one visible exception even inside this branch: it renders as a plain 2-way split (<a href="../concepts/distributive-justice.html">distributive</a> / <a href="../concepts/corrective-justice.html">corrective</a>), with no deficiency or excess pole at all — exactly matching Aristotle&#39;s own statement that justice is &quot;a mean... not in the same way&quot; as the rest. ^[extracted]</li>
+<li><strong>Virtue of Thought</strong> renders as irregular, shrinking branches — 2 leaves for art (true production / inartfulness), 2 for knowledge (knowledge / ignorance), 2 for <a href="../concepts/phronesis.html">practical judgment</a> (paired with cleverness misapplied), then single, undivided blocks for wisdom and intellect, to which Aristotle gives no stated contrary at all. The leaf-count irregularity is the diagram&#39;s way of showing, visually, that the intellectual virtues never get the mean doctrine&#39;s uniform triadic treatment. See <a href="../concepts/phronesis.html">concepts/phronesis</a> for the textual argument: truth-disclosure doesn&#39;t come in &quot;too much/too little&quot; the way feelings do, so the triadic structure has nothing to attach to on that side. ^[inferred]</li>
+<li><strong>Non-exhaustiveness caveat</strong>: treat the &quot;Character&quot; branch as one representative cut through the material, not a closed system — Aristotle&#39;s own virtue-of-character roster varies between his own works (13 in the <em>Nicomachean Ethics</em>, 14 in the <em>Eudemian Ethics</em>, differing by two virtues in each direction); a footnote on Bk. II, ch. 7 calls the avoidance of a fixed diagram deliberate, since forcing the particular virtues into &quot;too rigid an application of a general scheme&quot; would undermine Aristotle&#39;s actual purpose. ^[extracted]</li>
+</ul>
+<pre><code class="hljs language-mermaid-next">treemap-beta
+&quot;Virtue of Character (mean-structured)&quot;
+    &quot;Fear &amp; Confidence&quot;
+        &quot;Cowardice&quot;: 1
+        &quot;Courage&quot;: 1
+        &quot;Rashness&quot;: 1
+    &quot;Bodily Pleasure&quot;
+        &quot;Insensibility&quot;: 1
+        &quot;Temperance&quot;: 1
+        &quot;Dissipation (Akolasia)&quot;: 1
+    &quot;Money (small scale)&quot;
+        &quot;Stinginess&quot;: 1
+        &quot;Generosity&quot;: 1
+        &quot;Wastefulness&quot;: 1
+    &quot;Money (large scale)&quot;
+        &quot;Chintziness&quot;: 1
+        &quot;Magnificence&quot;: 1
+        &quot;Vulgarity&quot;: 1
+    &quot;Honor (large scale)&quot;
+        &quot;Smallness of Soul&quot;: 1
+        &quot;Greatness of Soul&quot;: 1
+        &quot;Vanity&quot;: 1
+    &quot;Honor (small scale)&quot;
+        &quot;Lacking Passion for Honor&quot;: 1
+        &quot;Proper Passion for Honor (unnamed)&quot;: 1
+        &quot;Excessive Passion for Honor&quot;: 1
+    &quot;Anger&quot;
+        &quot;Slowness to Anger&quot;: 1
+        &quot;Gentleness&quot;: 1
+        &quot;Irritability&quot;: 1
+    &quot;Self-Presentation (Truth)&quot;
+        &quot;Irony / Self-Deprecation&quot;: 1
+        &quot;Truthfulness&quot;: 1
+        &quot;Boastfulness&quot;: 1
+    &quot;Social Pleasantness (everyday life)&quot;
+        &quot;Boorishness / Contrariness&quot;: 1
+        &quot;Friendliness (unnamed)&quot;: 1
+        &quot;Obsequiousness / Flattery&quot;: 1
+    &quot;Social Pleasantness (play)&quot;
+        &quot;Boorishness&quot;: 1
+        &quot;Wit / Adroitness&quot;: 1
+        &quot;Buffoonery&quot;: 1
+    &quot;Shame (quasi-virtue, a feeling)&quot;
+        &quot;Shamelessness&quot;: 1
+        &quot;Sense of Shame&quot;: 1
+        &quot;Bashfulness&quot;: 1
+    &quot;Righteous Indignation (quasi-virtue)&quot;
+        &quot;Envy&quot;: 1
+        &quot;Righteous Indignation&quot;: 1
+        &quot;Spite (joy at misfortune)&quot;: 1
+    &quot;Justice (mean of quantity, not feeling)&quot;
+        &quot;Distributive Justice&quot;: 1
+        &quot;Corrective Justice&quot;: 1
+&quot;Virtue of Thought (no mean structure)&quot;
+    &quot;Art (Techne)&quot;
+        &quot;Art (true reasoned production)&quot;: 1
+        &quot;Inartfulness (false)&quot;: 1
+    &quot;Knowledge (Episteme)&quot;
+        &quot;Knowledge&quot;: 1
+        &quot;Ignorance&quot;: 1
+    &quot;Practical Judgment (Phronesis)&quot;
+        &quot;Practical Judgment (cleverness + virtue)&quot;: 1
+        &quot;Cleverness misapplied (shamelessness)&quot;: 1
+    &quot;Wisdom (Sophia)&quot;
+        &quot;Wisdom (no stated contrary)&quot;: 1
+    &quot;Intellect (Nous)&quot;
+        &quot;Intellect (no stated contrary)&quot;: 1
+</code></pre><h2 id="related">Related</h2>
+<ul>
+<li><a href="../concepts/doctrine-of-the-mean.html">concepts/doctrine-of-the-mean</a> — the structure this treemap visualizes for virtue of character</li>
+<li><a href="../concepts/akolasia.html">concepts/akolasia</a> — depicted as the excess leaf in the bodily-pleasure triad</li>
+<li><a href="../concepts/phronesis.html">concepts/phronesis</a> — the textual argument for why virtue of thought resists the same triadic structure</li>
+<li><a href="../concepts/justice-nicomachean.html">concepts/justice-nicomachean</a> — the one domain inside &quot;Character&quot; that already breaks the triad pattern</li>
+<li><a href="../concepts/distributive-justice.html">concepts/distributive-justice</a> — one of justice&#39;s two leaves</li>
+<li><a href="../concepts/corrective-justice.html">concepts/corrective-justice</a> — the other of justice&#39;s two leaves</li>
+<li><a href="justice-taxonomy.html">synthesis/justice-taxonomy</a> — the companion treemap that expands justice&#39;s single 2-leaf node here into its own full taxonomy</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="justice-taxonomy.html" class="mdsite-prev-link">Prev</a> | <a href="character-spectrum.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>

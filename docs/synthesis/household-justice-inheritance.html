@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Degrees of Justice in Household Relations — Aristotle Wiki</title>
+    <style>
+      body { max-width: 46rem; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, 'Times New Roman', serif; line-height: 1.6; color: #222; }
+      h1, h2, h3 { font-family: -apple-system, Helvetica, Arial, sans-serif; }
+      a { color: #7a2e2e; }
+      code, pre { font-family: 'SF Mono', Menlo, Consolas, monospace; }
+      pre { overflow-x: auto; background: #f6f4f0; padding: 0.75rem; border-radius: 4px; }
+      blockquote { border-left: 3px solid #ccc; margin-left: 0; padding-left: 1rem; color: #444; }
+      nav.mdsite-nav { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #ddd; font-family: -apple-system, Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+    </style>
+  </head>
+  <body>
+    <h1 id="degrees-of-justice-in-household-relations">Degrees of Justice in Household Relations</h1>
+<p>Book V, ch. 6 ranks household relations by how close they come to real (political) justice — closest for husband-wife, further for father-child, least of all for master-slave or bare property. An earlier version of this page tried to show that ranking as a Venn diagram (overlapping sets), and it didn&#39;t work: the ranking isn&#39;t partial overlap, it&#39;s strict accumulation — each step has everything the step before it has, plus one more property. That&#39;s a class-inheritance relationship, not a set-overlap one, so this page uses Mermaid&#39;s stable, non-beta <code>classDiagram</code> instead.</p>
+<h2 id="key-ideas">Key Ideas</h2>
+<ul>
+<li><strong>This is a deliberate analytical device, not Aristotle&#39;s own taxonomy.</strong> The three-tier class hierarchy below (HouseholdDependent → HouseholdJusticeSubject → PoliticalJusticeSubject) encodes <em>which properties each relation cumulatively has</em> — it isn&#39;t a claim that Aristotle thinks citizenship is a specialized kind of household relation. His actual domain taxonomy keeps <a href="justice-taxonomy.html">political and household justice as separate branches</a>; this diagram exists purely to make the cumulative-properties logic visible. ^[inferred]</li>
+<li><strong>The three properties, each grounded directly in the text</strong> (unchanged from the earlier attempt — the properties themselves were sound, only the diagram type was wrong):<ul>
+<li><strong>Separate Person</strong> — not legally/practically treated as &quot;a part of&quot; the ruling party: &quot;a piece of property, and a child... is just like a part of oneself&quot; (Bk. V, ch. 6).</li>
+<li><strong>Own Sphere of Authority</strong> — has some domain the ruling party doesn&#39;t control: &quot;as many things as are suited to a woman, he turns over to her&quot; (Bk. VIII, ch. 10).</li>
+<li><strong>Equality of Ruling and Being Ruled</strong> — the turn-taking equality specific to political/citizen justice (Bk. V, ch. 7).</li>
+</ul>
+</li>
+<li><strong>Master–slave/property and father–child are siblings at the base level, not chained to each other.</strong> Both currently have zero of the three properties — but each box states the crucial asymmetry between them directly: a slave&#39;s (<em>qua</em> slave) status has no expiration, while a child&#39;s is explicitly temporary (&quot;until it is of a certain age and independent&quot;). Neither inherits from the other; they&#39;re two separate leaf classes hanging off the same base class. ^[extracted]</li>
+<li><strong>Husband–wife inherits the first two properties but stops there.</strong> Aristotle is careful to say the relation, while real, is &quot;different from the political sort&quot; — genuine household-management justice, without full political equality. ^[extracted]</li>
+<li><strong>&quot;Citizens&quot; is included only as a ceiling</strong>, inheriting one property further than husband-wife, to make visible that even the best household relation never reaches full political justice. ^[inferred]</li>
+</ul>
+<pre><code class="hljs language-mermaid">classDiagram
+    class HouseholdDependent[&quot;No Recognized Separate Status&quot;] {
+        &lt;&lt;abstract&gt;&gt;
+        No recognized separate personhood at all
+    }
+    class HouseholdJusticeSubject[&quot;Household Justice Subject&quot;] {
+        &lt;&lt;abstract&gt;&gt;
+        +Separate Person
+        +Own Domain
+    }
+    class PoliticalJusticeSubject[&quot;Political Justice Subject&quot;] {
+        &lt;&lt;abstract&gt;&gt;
+        +Equality of Ruling and Being Ruled
+    }
+    HouseholdDependent &lt;|-- HouseholdJusticeSubject
+    HouseholdJusticeSubject &lt;|-- PoliticalJusticeSubject
+
+    class MasterSlaveProperty[&quot;Master-Slave / Property&quot;] {
+        Permanent status, no expiration
+    }
+    class FatherChild[&quot;Father-Child&quot;] {
+        Temporary, until a certain age and independence
+    }
+    class HusbandWife[&quot;Husband-Wife&quot;]
+    class Citizens[&quot;Citizens (for contrast)&quot;]
+
+    HouseholdDependent &lt;|-- MasterSlaveProperty
+    HouseholdDependent &lt;|-- FatherChild
+    HouseholdJusticeSubject &lt;|-- HusbandWife
+    PoliticalJusticeSubject &lt;|-- Citizens
+</code></pre><h2 id="related">Related</h2>
+<ul>
+<li><a href="../concepts/justice-nicomachean.html">concepts/justice-nicomachean</a> — the political-vs-household justice distinction this diagram expands</li>
+<li><a href="justice-taxonomy.html">synthesis/justice-taxonomy</a> — the treemap&#39;s &quot;Household &#39;Justice&#39;&quot; branch, shown here with the underlying cumulative properties that produce its ranking</li>
+<li><a href="../references/nicomachean-ethics.html">references/nicomachean-ethics</a> — source text (Book V, ch. 6-7; Book VIII, ch. 10-11)</li>
+</ul>
+    <nav class="mdsite-nav">
+      <a href="../index.html">Home</a> | <a href="index.html">Up</a> | <a href="index.html" class="mdsite-prev-link">Prev</a> | <a href="five-ways-of-truth.html" class="mdsite-next-link">Next</a>
+    </nav>
+  </body>
+</html>
