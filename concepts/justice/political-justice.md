@@ -37,6 +37,37 @@ The justice of a master over slaves or a father over children differs fundamenta
 ### 3. Justice in Household Management
 Aristotle notes that justice in relation to a wife is more akin to political justice than justice toward children or slaves. However, this is classified under **household management** (economic justice) and remains distinct from the political justice of the wider, public community.
 
+
+## Greek Gloss
+
+### Bk. V, ch. 6 (Bekker 1134a26-28)
+
+```ngloss
+\ex τοῦτο δʼ ἔστιν ἐπὶ κοινωνῶν βίου πρὸς τὸ εἶναι αὐτάρκειαν, ἐλευθέρων καὶ ἴσων ἢ κατʼ ἀναλογίαν ἢ κατʼ ἀριθμόν·
+\gl τοῦτο [touto] [this.NOM]
+    δʼ [d'] [and]
+    ἔστιν [estin] [is]
+    ἐπὶ [epi] [among]
+    κοινωνῶν [koinōnōn] [sharers.GEN.PL]
+    βίου [biou] [of-life.GEN]
+    πρὸς [pros] [toward]
+    τὸ [to] [the.ACC]
+    εἶναι [einai] [to-be.INF]
+    αὐτάρκειαν, [autarkeian] [self-sufficiency.ACC]
+    ἐλευθέρων [eleutherōn] [of-free-people.GEN.PL]
+    καὶ [kai] [and]
+    ἴσων [isōn] [of-equal-people.GEN.PL]
+    ἢ [ē] [either]
+    κατʼ [kat'] [according-to]
+    ἀναλογίαν [analogian] [proportion.ACC]
+    ἢ [ē] [or]
+    κατʼ [kat'] [according-to]
+    ἀριθμόν· [arithmon] [number.ACC]
+\ft And this exists among those who share a life aiming at self-sufficiency, who are free and equal, either proportionately or arithmetically.
+```
+
+Aristotle bases *political justice* strictly on a relationship between free and equal citizens. Unlike the household where a father or master exerts absolute rule over dependents (who are considered "parts" of him), the political community (*polis*) is made up of distinct, independent individuals sharing a life (*koinōnōn biou*) for the sake of self-sufficiency (*autarkeian*). Without freedom and equality, there is only justice "by likeness," but not true political justice.
+
 ## Relationships
 - **Law and Equality:** True justice relies on the presence of law, which itself requires individuals to be distinct and equal. When equality is missing, justice is administered differently.
 - **Household vs. City:** The distinction maps onto Aristotle's separation of the private sphere (the household, governed by household management) and the public sphere (the city/polis, governed by political justice).
