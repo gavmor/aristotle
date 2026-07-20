@@ -2,7 +2,7 @@
 title: Sophrosune
 category: concepts/virtues
 tags: [aristotle, ethics, virtue, temperance, moderation, pleasure, desire]
-aliases: [temperance, moderation, self-restraint]
+aliases: [temperance, moderation, self-restraint, insensibility, dissipation, self-indulgence]
 ---
 # Sophrosune
 

@@ -2,7 +2,7 @@
 title: Eutrapelia
 category: concepts/virtues
 tags: [aristotle, ethics, virtue, mean, eutrapelia, wit, adroitness, playfulness]
-aliases: [wit, adroitness, tact]
+aliases: [wit, adroitness, tact, boorishness, buffoonery]
 ---
 
 # Eutrapelia

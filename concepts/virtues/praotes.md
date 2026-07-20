@@ -8,7 +8,7 @@ tags:
   - praotes
   - gentleness
   - anger
-aliases: [gentleness, mildness]
+aliases: [gentleness, mildness, spiritlessness, inirascibility, irascibility, irritability]
 ---
 
 # Praotes (Gentleness / Good Temper)

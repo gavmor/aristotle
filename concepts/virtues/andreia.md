@@ -2,7 +2,7 @@
 title: "Andreia"
 category: concepts
 tags: [philosophy, ethics, virtue-ethics, ancient-greek]
-aliases: [andreia, bravery, courage, the mean concerning fear and confidence]
+aliases: [andreia, bravery, courage, the mean concerning fear and confidence, cowardice, rashness]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z

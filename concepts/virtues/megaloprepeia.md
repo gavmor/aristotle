@@ -2,7 +2,7 @@
 title: "Megaloprepeia"
 category: concepts/virtues
 tags: [philosophy, ethics, virtue-ethics, ancient-greek]
-aliases: [megaloprepeia, magnificence, large-scale expenditures]
+aliases: [megaloprepeia, magnificence, large-scale expenditures, chintziness, vulgarity]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-20T00:00:00Z

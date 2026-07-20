@@ -7,7 +7,7 @@ tags:
   - nicomachean-ethics
   - ethics
   - generosity
-aliases: [generosity, liberality]
+aliases: [generosity, liberality, stinginess, wastefulness]
 ---
 
 # Eleutheriotes
