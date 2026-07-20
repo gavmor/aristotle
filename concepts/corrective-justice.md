@@ -6,7 +6,7 @@ aliases: [diorthotikon, to diorthotikon dikaion, rectificatory justice, the just
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-12T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The species of particular justice governing transactions, willing and unwilling, structured as an arithmetic proportion that restores an equal position between parties.
 provenance:
   extracted: 0.75
@@ -53,86 +53,79 @@ classDiagram
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, ch. 4 (Bekker 1131b25, 1132a29-32), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain). Six passages, glossed word by word.
+
+### Bk. V, ch. 4 (Bekker 1131b25)
 
 > τὸ δὲ λοιπὸν ἓν τὸ διορθωτικόν, ὃ γίνεται ἐν τοῖς συναλλάγμασι καὶ τοῖς ἑκουσίοις καὶ τοῖς ἀκουσίοις.
 
-**διορθωτικόν**, morpheme by morpheme:
+```
+τὸ   δὲ    λοιπὸν     ἓν   τὸ   διορθωτικόν,   ὃ      γίνεται  ἐν  τοῖς     συναλλάγμασι      καὶ  τοῖς     ἑκουσίοις    καὶ  τοῖς     ἀκουσίοις.
+to   de    loipon     hen  to   diorthōtikon,  ho     ginetai  en  tois     synallagmasi      kai  tois     hekousiois   kai  tois     akousiois.
+the  PTCL  remaining  one  the  corrective     which  occurs   in  the.DAT  transactions.DAT  and  the.DAT  willing.DAT  and  the.DAT  unwilling.DAT
+```
 
-| δι(α)- | ὀρθ- | -ω- | -τικ- | -όν |
-|---|---|---|---|---|
-| *di(a)-* | *orth-* | *-ō-* | *-tik-* | *-on* |
-| "thoroughly, through" | root of *orthos*, "straight, upright, correct" | factitive/verb-forming ("make X," as in *orthoō* "to straighten") | capacity/tendency suffix ("-ive") | neut. nom./acc. sg. |
+*"The remaining one kind is the corrective, which occurs in transactions — both the willing and the unwilling."* This is the definitional sentence behind the page's opening line that the second species "governs transactions, both willing... and unwilling"; *diorthōtikon* itself is built from *dia-* "thoroughly, thru" + *orth-* (the root of *orthos*, "straight, upright") + *-tikon*, the adjectival "capable-of" suffix — literally "having the capacity to straighten things out."
 
-The second passage, a few lines later, is Aristotle's own etymological pun — not a modern reconstruction:
-
-> διὰ τοῦτο καὶ ὀνομάζεται δίκαιον, ὅτι δίχα ἐστίν, ὥσπερ ἂν εἴ τις εἴποι δίχαιον, καὶ ὁ δικαστὴς διχαστής.
-
-Three related words, aligned by their shared pieces:
-
-| δικ- | -αστής | | δίχ- | -α | | δίχ- | -αστής |
-|---|---|---|---|---|---|---|---|
-| *dik-* | *-astēs* | | *dich-* | *-a* | | *dich-* | *-astēs* |
-| root of *dikē*, "justice, lawsuit" | agent suffix on *-azō*-class verbs ("one who does X") | | root related to *dyo*, "two" | old adverbial ending | | (same root as *dicha*) | (same agent suffix as *dikastēs*) |
-| → **δικαστής** "judge" | | | → **δίχα** "in two, asunder" | | | → **διχαστής**, Aristotle's coined pun-word, "a halver" | |
-
-Sachs's "the halver" for *dichastēs* is a direct transliteration-preserving translation choice — the pun only works because *dikastēs* ("judge") and the nonce word *dichastēs* ("halver") are near-homophones in Greek, which is exactly the wordplay Aristotle is pointing at when he says the judge is, in effect, someone who "halves" a dispute back to equality.
-
-Source: Bk. V, ch. 4 (Bekker 1132a2-6).
+### Bk. V, ch. 4 (Bekker 1132a1-6)
 
 > οὐδὲν γὰρ διαφέρει, εἰ ἐπιεικὴς φαῦλον ἀπεστέρησεν ἢ φαῦλος ἐπιεικῆ, οὐδʼ εἰ ἐμοίχευσεν ἐπιεικὴς ἢ φαῦλος· ἀλλὰ πρὸς τοῦ βλάβους τὴν διαφορὰν μόνον βλέπει ὁ νόμος, καὶ χρῆται ὡς ἴσοις, εἰ ὃ μὲν ἀδικεῖ ὃ δʼ ἀδικεῖται, καὶ εἰ ἔβλαψεν ὃ δὲ βέβλαπται.
 
-**ἀπεστέρησεν**, morpheme by morpheme:
+```
+οὐδὲν    γὰρ   διαφέρει,   εἰ  ἐπιεικὴς    φαῦλον    ἀπεστέρησεν  ἢ   φαῦλος    ἐπιεικῆ,    οὐδʼ  εἰ  ἐμοίχευσεν          ἐπιεικὴς    ἢ   φαῦλος·   ἀλλὰ  πρὸς    τοῦ      βλάβους   τὴν      διαφορὰν        μόνον  βλέπει  ὁ        νόμος,   καὶ  χρῆται   ὡς   ἴσοις,      εἰ  ὃ            μὲν   ἀδικεῖ  ὃ              δʼ   ἀδικεῖται,  καὶ  εἰ  ἔβλαψεν   ὃ              δὲ   βέβλαπται.
+ouden    gar   diapherei,  ei  epieikēs    phaulon   apestersen   ē   phaulos   epieikē,    oud'  ei  emoicheusen         epieikēs    ē   phaulos·  alla  pros    tou      blabous   tēn      diaphoran       monon  blepei  ho       nomos,   kai  chrētai  hōs  isois,      ei  ho           men   adikei  ho             d'   adikeitai,  kai  ei  eblapsen  ho             de   beblaptai.
+nothing  PTCL  differs     if  decent.NOM  base.ACC  deprived     or  base.NOM  decent.ACC  nor   if  committed-adultery  decent.NOM  or  base.NOM  but   toward  the.GEN  harm.GEN  the.ACC  difference.ACC  only   looks   the.NOM  law.NOM  and  treats   as   equals.DAT  if  the-one.NOM  PTCL  wrongs  the-other.NOM  and  is-wronged  and  if  harmed    the-other.NOM  and  has-been-harmed
+```
 
-| ἀπο- | ἐ- | στερη- | -σεν |
-|---|---|---|---|
-| *apo-* | *e-* | *sterē-* | *-sen* |
-| "away, off" | augment marking past tense | verbal root of *sterēsis*, "privation, deprivation" | aorist active 3rd sg. ending |
-| → **ἀπεστέρησεν**, "[he] deprived, robbed [someone] of" | | | |
+*"For it makes no difference whether a decent person deprived a base one or a base one a decent one, nor whether a decent or a base person committed adultery — the law looks only at the difference the harm makes, and treats the parties as equals: whether the one does injustice and the other suffers it, whether the one harmed and the other has been harmed."* This is the sentence behind the Key Ideas bullet on strict equality regardless of prior merit. Note the privative-root pair *ἀδικεῖ*/*ἀδικεῖται* ("wrongs"/"is-wronged"): both sit on the same *a-* (privative "not/un-") + *dik-* (root of *dikē*, "right, justice") stem, active vs. passive voice being the only thing that distinguishes doer from sufferer — grammar itself enacting the symmetry the law insists on.
 
-This is Aristotle's flattest statement of the arithmetic-proportion claim: the law's gaze falls only on the size of the "depriving," never on whether the depriver or the deprived was the better person, which is exactly the strict equality the Diagram section illustrates.
+### Bk. V, ch. 4 (Bekker 1132a30-32)
 
-Source: Bk. V, ch. 5 (Bekker 1132b21-25).
+> διὰ τοῦτο καὶ ὀνομάζεται δίκαιον, ὅτι δίχα ἐστίν, ὥσπερ ἂν εἴ τις εἴποι δίχαιον, καὶ ὁ δικαστὴς διχαστής.
 
-> δοκεῖ δέ τισι καὶ τὸ ἀντιπεπονθὸς εἶναι ἁπλῶς δίκαιον, ὥσπερ οἱ Πυθαγόρειοι ἔφασαν· ὡρίζοντο γὰρ ἁπλῶς τὸ δίκαιον τὸ ἀντιπεπονθὸς ἄλλῳ. τὸ δʼ ἀντιπεπονθὸς οὐκ ἐφαρμόττει οὔτʼ ἐπὶ τὸ νεμητικὸν δίκαιον οὔτʼ ἐπὶ τὸ διορθωτικόν—καίτοι βούλονταί γε τοῦτο λέγειν καὶ τὸ Ῥαδαμάνθυος δίκαιον· εἴ κε πάθοι τά τʼ ἔρεξε, δίκη κʼ ἰθεῖα γένοιτο.
+```
+διὰ         τοῦτο  καὶ   ὀνομάζεται  δίκαιον,  ὅτι      δίχα    ἐστίν,  ὥσπερ   ἂν   εἴ  τις  εἴποι      δίχαιον,   καὶ  ὁ    δικαστὴς  διχαστής.
+dia         touto  kai   onomazetai  dikaion,  hoti     dicha   estin,  hōsper  an   ei  tis  eipoi      dichaion,  kai  ho   dikastēs  dichastēs.
+because-of  this   also  is-named    just      because  in-two  is      as      MOD  if  one  might-say  'twojust'  and  the  judge     'halver'
+```
 
-**ἀντιπεπονθός**, morpheme by morpheme:
+*"For this reason it is also named dikaion, because it is dicha ('in two') — as if one were to say dichaion — and the judge (dikastēs) is, in effect, a dichastēs ('a halver')."* This is Aristotle's own etymological pun, not a modern reconstruction, behind the Key Ideas bullet on the judge as "ensouled justice": *dikastēs* and the nonce coinage *dichastēs* are near-homophones because both share the agent suffix *-astēs* ("one who does X") bolted onto, respectively, *dik-* (root of *dikē*, "justice, lawsuit") and *dich-* (the same root that gives *dicha*, "in two," related to *dyo*, "two") — the wordplay only works aloud, in Greek, exactly as Aristotle intends it.
 
-| ἀντι- | πε- | πονθ- | -ός |
-|---|---|---|---|
-| *anti-* | *pe-* | *ponth-* | *-os* |
-| "against, in return for" | reduplication (perfect-tense marker) | root of *paschō*, "to suffer, undergo" | perfect active participle ending, neut. |
-| → **ἀντιπεπονθός**, "having-suffered-in-return," bare retaliation | | | |
+### Bk. V, ch. 5 (Bekker 1132b20-25)
 
-The word Aristotle builds and then rejects as a full definition of the just — including quoting Rhadamanthys's hexameter formula by name — is the same "suffering-in-return" logic the Key Ideas section says he explicitly refuses to let govern corrective justice on its own.
+> τὸ δʼ ἀντιπεπονθὸς οὐκ ἐφαρμόττει οὔτʼ ἐπὶ τὸ νεμητικὸν δίκαιον οὔτʼ ἐπὶ τὸ διορθωτικόν, καίτοι βούλονταί γε τοῦτο λέγειν καὶ τὸ Ῥαδαμάνθυος δίκαιον· εἴ κε πάθοι τά τʼ ἔρεξε, δίκη κʼ ἰθεῖα γένοιτο.
 
-Source: Bk. V, ch. 5 (Bekker 1133a25-31).
+```
+τὸ   δʼ   ἀντιπεπονθὸς        οὐκ  ἐφαρμόττει   οὔτʼ     ἐπὶ   τὸ       νεμητικὸν         δίκαιον   οὔτʼ  ἐπὶ   τὸ       διορθωτικόν,    καίτοι   βούλονταί  γε    τοῦτο  λέγειν  καὶ   τὸ       Ῥαδαμάνθυος       δίκαιον·     εἴ  κε   πάθοι         τά              τʼ   ἔρεξε,  δίκη         κʼ   ἰθεῖα         γένοιτο.
+to   d'   antipeponthos       ouk  epharmottei  out'     epi   to       nemētikon         dikaion   out'  epi   to       diorthōtikon,   kaitoi   boulontai  ge    touto  legein  kai   to       Rhadamanthyos     dikaion·     ei  ke   pathoi        ta              t'   erexe,  dikē         k'   itheia        genoito.
+the  but  suffered-in-return  not  fits         neither  onto  the.ACC  distributive.ACC  just.ACC  nor   onto  the.ACC  corrective.ACC  and-yet  they-wish  PTCL  this   to-say  also  the.ACC  Rhadamanthys.GEN  justice.ACC  if  MOD  might-suffer  the-things.ACC  and  did     justice.NOM  MOD  straight.NOM  would-become
+```
+
+*"But the suffered-in-return fits neither distributive nor corrective justice — though people mean this also by the justice of Rhadamanthys: 'if one should suffer what he did, that would be a straight and upright justice.'"* This is the Pythagorean/Rhadamanthine formula the Key Ideas bullet says Aristotle explicitly rejects as a full account of the just. *Antipeponthos* is built from *anti-* ("against, in return for") plus the reduplicated perfect stem of *paschō* ("to suffer, undergo") — grammatically a "having-suffered-in-return," bare mechanical retaliation — and it is this same word, glossed here in the very sentence that names and dismisses it, that a superior-striking subordinate's case (a few lines on) shows cannot be the whole story.
+
+### Bk. V, ch. 5 (Bekker 1133a25-31)
 
 > οἷον δʼ ὑπάλλαγμα τῆς χρείας τὸ νόμισμα γέγονε κατὰ συνθήκην· καὶ διὰ τοῦτο τοὔνομα ἔχει νόμισμα, ὅτι οὐ φύσει ἀλλὰ νόμῳ ἐστί, καὶ ἐφʼ ἡμῖν μεταβαλεῖν καὶ ποιῆσαι ἄχρηστον.
 
-**νόμισμα**, morpheme by morpheme:
+```
+οἷον   δʼ   ὑπάλλαγμα   τῆς      χρείας    τὸ       νόμισμα       γέγονε      κατὰ  συνθήκην·   καὶ  διὰ         τοῦτο  τοὔνομα   ἔχει   νόμισμα,    ὅτι      οὐ   φύσει      ἀλλὰ  νόμῳ       ἐστί,  καὶ  ἐφʼ   ἡμῖν    μεταβαλεῖν  καὶ  ποιῆσαι  ἄχρηστον.
+hoion  d'   hypallagma  tēs      chreias   to       nomisma       gegone      kata  synthēkēn·  kai  dia         touto  tounoma   echei  nomisma,    hoti     ou   physei     alla  nomōi      esti,  kai  eph'  hēmin   metabalein  kai  poiēsai  achrēston.
+as     but  substitute  the.GEN  need.GEN  the.NOM  currency.NOM  has-become  by    convention  and  because-of  this   the-name  has    'currency'  because  not  by-nature  but   by-custom  it-is  and  upon  us.DAT  to-change   and  to-make  useless
+```
 
-| νομ- | -ισ- | -μα |
-|---|---|---|
-| *nom-* | *-is-* | *-ma* |
-| root of *nomos*, "custom, law, usage" (from *nemō*, "to apportion") | verb-forming element (as in *nomizō*, "to hold as customary") | result-of-action noun suffix |
-| → **νόμισμα**, "currency," literally "the thing established by custom" | | |
+*"As a substitute for need, currency has come about by convention — and this is why it has the name nomisma: because it exists not by nature but by custom (nomos), and it is in our power to change it or render it useless."* This backs the Key Ideas bullet on currency as the device that makes incommensurable goods comparable. *Nomisma* leans on the same *nom-* root as *nomos* ("custom, law," itself from *nemō*, "to apportion"), plus a verb-forming *-is-* and the result-of-action suffix *-ma* — Aristotle is not merely noting an etymology but arguing from it: the word for money itself already says money is custom, not nature.
 
-Aristotle here plays on the same *nomos*-root that gives *nomisma* its name to make an argument, not just an etymology: currency is a human convention laid over need, which is why the Key Ideas section notes he says it is "in our power to change it or make it worthless."
-
-Source: Bk. V, ch. 8 (Bekker 1135b15-20).
+### Bk. V, ch. 8 (Bekker 1135b15-20)
 
 > ὅταν μὲν οὖν παραλόγως ἡ βλάβη γένηται, ἀτύχημα· ὅταν δὲ μὴ παραλόγως, ἄνευ δὲ κακίας, ἁμάρτημα (ἁμαρτάνει μὲν γὰρ ὅταν ἡ ἀρχὴ ἐν αὐτῷ ᾖ τῆς αἰτίας, ἀτυχεῖ δʼ ὅταν ἔξωθεν)· ὅταν δὲ εἰδὼς μὲν μὴ προβουλεύσας δέ, ἀδίκημα.
 
-**ἀδίκημα**, morpheme by morpheme:
+```
+ὅταν   μὲν   οὖν   παραλόγως      ἡ        βλάβη     γένηται,  ἀτύχημα·    ὅταν   δὲ   μὴ   παραλόγως,     ἄνευ     δὲ   κακίας,   ἁμάρτημα   (ἁμαρτάνει   μὲν   γὰρ  ὅταν   ἡ        ἀρχὴ        ἐν  αὐτῷ     ᾖ   τῆς      αἰτίας,    ἀτυχεῖ              δʼ   ὅταν   ἔξωθεν)·      ὅταν   δὲ   εἰδὼς    μὲν   μὴ   προβουλεύσας        δέ,  ἀδίκημα.
+hotan  men   oun   paralogōs      hē       blabē     genētai,  atychēma·   hotan  de   mē   paralogōs,     aneu     de   kakias,   hamartēma  (hamartanei  men   gar  hotan  hē       archē       en  autōi    ēi  tēs      aitias,    atychei             d'   hotan  exōthen)·     hotan  de   eidōs    men   mē   probouleusas        de,  adikēma.
+when   PTCL  then  unaccountably  the.NOM  harm.NOM  occurs    misfortune  when   but  not  unaccountably  without  and  vice.GEN  mistake    errs         PTCL  for  when   the.NOM  source.NOM  in  him.DAT  is  the.GEN  cause.GEN  suffers-misfortune  but  when   from-outside  when   but  knowing  PTCL  not  having-deliberated  but  injustice
+```
 
-| ἀ- | δικ- | -η- | -μα |
-|---|---|---|---|
-| *a-* | *dik-* | *-ē-* | *-ma* |
-| negative/privative prefix, "not, un-" | root of *dikē*, "right, judgment, justice" | linking vowel | result-of-action noun suffix |
-| → **ἀδίκημα**, "an unjust act," "a wrong done" | | | |
-
-This sentence is the textual source of the four-stage culpability scale in the Key Ideas section (accident → mistake → wrong → injustice by choice), and *adikēma* shares its *dik-* root with *dikastēs* and *dichastēs* glossed above — the same root running from "judge" through "halver" now names the top rung of culpability itself.
+*"So whenever the harm occurs unaccountably, it is misfortune; whenever it occurs not unaccountably, yet without vice, it is a mistake — one makes a mistake when the origin of the cause lies within oneself, but suffers misfortune when it lies outside; and whenever one acts knowingly but without having deliberated beforehand, it is a wrong done."* This is the textual source of the four-stage culpability scale in the Key Ideas section. *Adikēma* closes the ladder on the same *dik-* root glossed above in *dikastēs*/*dichastēs*: *a-* (privative "not/un-") + *dik-* (root of *dikē*) + linking *-ē-* + the result-noun suffix *-ma* — the root that ran from "judge" through "halver" now names the top rung of culpability, an act done unjustly rather than merely by accident or mistake.
 
 ## Related
 

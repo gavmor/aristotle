@@ -6,7 +6,7 @@ aliases: [dianemetikon, to dianemetikon dikaion, geometric proportion in justice
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-12T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The species of particular justice governing shares of divisible common goods, structured as a geometric proportion between people and their portions.
 provenance:
   extracted: 0.75
@@ -49,66 +49,67 @@ classDiagram
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, ch. 4 (Bekker 1131b27-29), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain). Every word of each cited sentence is glossed below, in order.
 
-> τὸ μὲν γὰρ διανεμητικὸν δίκαιον τῶν κοινῶν ἀεὶ κατὰ τὴν ἀναλογίαν ἐστὶ τὴν εἰρημένην
-
-**διανεμητικόν** (the operative term, morpheme by morpheme):
-
-| δια- | νεμ | -ητικ- | -όν |
-|---|---|---|---|
-| *dia-* | *nem* | *-ētik-* | *-on* |
-| "apart, out, distributively" | root of *nemō*, "allot, distribute, apportion by custom" | deverbal suffix marking capacity/tendency ("-ive/-able") | neut. nom./acc. sg. ending |
-
-Sachs renders this "the distributive just" — the *-tikos* suffix is doing the same work as English "-ive" in "distribut-ive," marking a capacity or tendency rather than a completed act; the abstract noun *dianemēsis* ("a distributing") would name the act itself, while *dianemētikon* names the *kind of justice disposed toward* that act. This is the same suffix pattern as [[concepts/corrective-justice|*diorthōtikon*]], making the two species grammatically parallel in a way no English translation fully preserves.
-
-Source: Bk. V, ch. 3 (Bekker 1131b10-14).
-
-> καλοῦσι δὲ τὴν τοιαύτην ἀναλογίαν γεωμετρικὴν οἱ μαθηματικοί· ἐν γὰρ τῇ γεωμετρικῇ συμβαίνει καὶ τὸ ὅλον πρὸς τὸ ὅλον ὅπερ ἑκάτερον πρὸς ἑκάτερον.
-
-| γεω- | -μετρ- | -ικ- | -ήν |
-|---|---|---|---|
-| *geō-* | *-metr-* | *-ik-* | *-ēn* |
-| root of *gē*, "earth" | root of *metron*, "measure" | adjective-forming suffix, "-ic," "pertaining to" | fem. acc. sg. ending |
-| → **γεωμετρική**, "geometric" — literally "earth-measuring" | | | |
-
-This is the mathematicians' own technical name for the ratio-of-ratios structure described in the Diagram above, and it is precisely why the page's Key Ideas contrast this proportionality with the *arithmetic* proportion of corrective justice — the two Greek adjectives, built from "earth-measure" versus "number" (*arithmos*), name genuinely different operations, not just two flavors of one idea.
-
-Source: Bk. V, ch. 3 (Bekker 1131a20-24).
+### Bk. V, ch. 3 (Bekker 1131a20-24)
 
 > εἰ γὰρ μὴ ἴσοι, οὐκ ἴσα ἕξουσιν, ἀλλʼ ἐντεῦθεν αἱ μάχαι καὶ τὰ ἐγκλήματα, ὅταν ἢ μὴ ἴσα ἴσοι ἢ μὴ ἴσοι ἴσα ἔχωσι καὶ νέμωνται.
 
-| ἀν- | ἴσος |
-|---|---|
-| *an-* | *isos* |
-| negative prefix, "not" (before a vowel) | "equal, fair, proportionate" |
-| → **ἄνισος**, "unequal," "disproportionate" | |
+```
+εἰ  γὰρ  μὴ   ἴσοι          οὐκ  ἴσα           ἕξουσιν            ἀλλʼ  ἐντεῦθεν   αἱ            μάχαι          καὶ  τὰ            ἐγκλήματα          ὅταν      ἢ       μὴ   ἴσα           ἴσοι          ἢ   μὴ   ἴσοι          ἴσα           ἔχωσι          καὶ  νέμωνται
+ei  gar  mē   isoi          ouk  isa           hexousin           all'  enteuthen  hai           machai         kai  ta            enklēmata          hotan     ē       mē   isa           isoi          ē   mē   isoi          isa           echōsi         kai  nemōntai
+if  for  not  equal.NOM.PL  not  equal.ACC.PL  will-have.FUT.3PL  but   hence      the.NOM.PL.F  fights.NOM.PL  and  the.NOM.PL.N  grievances.NOM.PL  whenever  either  not  equal.ACC.PL  equal.NOM.PL  or  not  equal.NOM.PL  equal.ACC.PL  have.SUBJ.3PL  and  are-allotted.SUBJ.3PL
+```
 
-The sentence names exactly the failure mode the Key Ideas describe: fights (*machai*) and grievances (*enklēmata*) arise not from raw inequality of amount but from *anisos* people receiving equal shares or equal people receiving unequal ones — disproportion, not mere unequal quantity, is the injustice.
+*"For if people are not equal, they will not have equal shares — rather, this is where fights and grievances come from, whenever either unequal people have and are allotted equal shares, or equal people unequal ones."* This is the sentence the Key Ideas' second bullet names directly: the failure mode is *disproportion* — *isoi* (equal people) against *isa* (equal shares) mismatched in either direction — not raw inequality of amount; the *an-* privative that would produce *anisos*, "unequal," is the same negating prefix stacked onto *isos* seen four times over in this one sentence, underlining how the whole passage pivots on matching or mismatching that single root.
 
-Source: Bk. V, ch. 3 (Bekker 1131a24-29).
+### Bk. V, ch. 3 (Bekker 1131a24-29)
 
 > ἔτι ἐκ τοῦ κατʼ ἀξίαν τοῦτο δῆλον· τὸ γὰρ δίκαιον ἐν ταῖς νομαῖς ὁμολογοῦσι πάντες κατʼ ἀξίαν τινὰ δεῖν εἶναι, τὴν μέντοι ἀξίαν οὐ τὴν αὐτὴν λέγουσι πάντες, ἀλλʼ οἱ μὲν δημοκρατικοὶ ἐλευθερίαν, οἱ δʼ ὀλιγαρχικοὶ πλοῦτον, οἳ δʼ εὐγένειαν, οἱ δʼ ἀριστοκρατικοὶ ἀρετήν.
 
-| ἀξ- | -ία |
-|---|---|
-| *ax-* | *-ia* |
-| root related to *agō*, "to weigh (in the balance), lead" | abstract noun suffix, "-th," "-ness" (fem.) |
-| → **ἀξία**, "worth," "value," "desert," "merit" | |
+```
+ἔτι          ἐκ    τοῦ           κατʼ          ἀξίαν         τοῦτο          δῆλον         τὸ            γὰρ  δίκαιον      ἐν  ταῖς          νομαῖς                ὁμολογοῦσι   πάντες      κατʼ          ἀξίαν         τινὰ         δεῖν      εἶναι   τὴν           μέντοι   ἀξίαν         οὐ   τὴν           αὐτὴν        λέγουσι  πάντες      ἀλλʼ  οἱ            μὲν   δημοκρατικοὶ      ἐλευθερίαν      οἱ            δʼ   ὀλιγαρχικοὶ       πλοῦτον        οἳ                 δʼ   εὐγένειαν          οἱ            δʼ   ἀριστοκρατικοὶ      ἀρετήν
+eti          ek    tou           kat'          axian         touto          dēlon         to            gar  dikaion      en  tais          nomais                homologousi  pantes      kat'          axian         tina         dein      einai   tēn           mentoi   axian         ou   tēn           autēn        legousi  pantes      all'  hoi           men   dēmokratikoi      eleutherian     hoi           d'   oligarchikoi      plouton        hoi                d'   eugeneian          hoi           d'   aristokratikoi      aretēn
+furthermore  from  the.GEN.SG.N  according-to  worth.ACC.SG  this.NOM.SG.N  clear.NOM.SG  the.NOM.SG.N  for  just.NOM.SG  in  the.DAT.PL.F  distributions.DAT.PL  agree.3PL    all.NOM.PL  according-to  worth.ACC.SG  some.ACC.SG  must.INF  be.INF  the.ACC.SG.F  however  worth.ACC.SG  not  the.ACC.SG.F  same.ACC.SG  say.3PL  all.NOM.PL  but   the.NOM.PL.M  PTCL  democrats.NOM.PL  freedom.ACC.SG  the.NOM.PL.M  and  oligarchs.NOM.PL  wealth.ACC.SG  the-others.NOM.PL  and  good-birth.ACC.SG  the.NOM.PL.M  and  aristocrats.NOM.PL  virtue.ACC.SG
+```
 
-This is the single word every faction in the sentence is fighting over: all agree distribution must go *kat' axian* ("according to worth"), and the four regime-words that follow — freedom, wealth, good birth, virtue — are simply four rival answers to "worth of what?"
+*"Further, this is clear from the case of worth: everyone agrees that what is just in distributions must go by some worth, but they do not all name the same worth — democrats say freedom, oligarchs wealth, some good birth, and aristocrats virtue."* *Axian* (from *axios*, "weighing as much as," itself tied to the verb *agō*, "to weigh in the balance") is the single word every faction is fighting over — the Key Ideas' third bullet's whole point is that the formal structure (proportion *kat' axian*) is agreed while the content of *axia* is a live political dispute, and this sentence lists the four rival fillers verbatim.
 
-Source: Bk. V, ch. 3 (Bekker 1131b20-24).
+### Bk. V, ch. 3 (Bekker 1131b10-14)
+
+> καλοῦσι δὲ τὴν τοιαύτην ἀναλογίαν γεωμετρικὴν οἱ μαθηματικοί· ἐν γὰρ τῇ γεωμετρικῇ συμβαίνει καὶ τὸ ὅλον πρὸς τὸ ὅλον ὅπερ ἑκάτερον πρὸς ἑκάτερον.
+
+```
+καλοῦσι   δὲ   τὴν           τοιαύτην     ἀναλογίαν          γεωμετρικὴν       οἱ            μαθηματικοί            ἐν  γὰρ  τῇ            γεωμετρικῇ        συμβαίνει    καὶ   τὸ            ὅλον          πρὸς    τὸ            ὅλον          ὅπερ   ἑκάτερον   πρὸς    ἑκάτερον
+kalousi   de   tēn           toiautēn     analogian          geōmetrikēn       hoi           mathēmatikoi           en  gar  tēi           geōmetrikēi       symbainei    kai   to            holon         pros    to            holon         hoper  hekateron  pros    hekateron
+call.3PL  and  the.ACC.SG.F  such.ACC.SG  proportion.ACC.SG  geometric.ACC.SG  the.NOM.PL.M  mathematicians.NOM.PL  in  for  the.DAT.SG.F  geometric.DAT.SG  happens.3SG  also  the.NOM.SG.N  whole.NOM.SG  toward  the.ACC.SG.N  whole.ACC.SG  which  each       toward  each.ACC.SG
+```
+
+*"Mathematicians call this sort of proportion geometric, since in the geometric proportion it works out that the whole stands to the whole exactly as each part stands to each part."* *Geōmetrikēn* is built from *gē* ("earth") plus the *-metr-* root of *metron* ("measure") — literally "earth-measuring" — and this is the mathematicians' own technical label for the ratio-of-ratios the page's Diagram depicts, the reason the Key Ideas' first bullet contrasts it by name with the *arithmētikē* ("number"-based) proportion of [[concepts/corrective-justice|corrective justice]].
+
+### Bk. V, ch. 3 (Bekker 1131b20-24)
 
 > ἐπὶ δὲ τοῦ κακοῦ ἀνάπαλιν· ἐν ἀγαθοῦ γὰρ λόγῳ γίνεται τὸ ἔλαττον κακὸν πρὸς τὸ μεῖζον κακόν· ἔστι γὰρ τὸ ἔλαττον κακὸν μᾶλλον αἱρετὸν τοῦ μείζονος, τὸ δʼ αἱρετὸν ἀγαθόν, καὶ τὸ μᾶλλον μεῖζον.
 
-| αἱρε- | -τ- | -όν |
-|---|---|---|
-| *haire-* | *-t-* | *-on* |
-| root of *haireō*, "to take, seize, choose" | verbal-adjective suffix marking possibility/fitness, "-able," "-worthy" | neut. nom./acc. sg. ending |
-| → **αἱρετόν**, "choiceworthy," "to-be-chosen" | | |
+```
+ἐπὶ             δὲ   τοῦ           κακοῦ       ἀνάπαλιν    ἐν  ἀγαθοῦ       γὰρ  λόγῳ            γίνεται      τὸ            ἔλαττον        κακὸν        πρὸς         τὸ            μεῖζον          κακόν        ἔστι    γὰρ  τὸ            ἔλαττον        κακὸν        μᾶλλον  αἱρετὸν              τοῦ              μείζονος        τὸ            δʼ   αἱρετὸν              ἀγαθόν       καὶ  τὸ            μᾶλλον  μεῖζον
+epi             de   tou           kakou       anapalin    en  agathou      gar  logōi           ginetai      to            elatton        kakon        pros         to            meizon          kakon        esti    gar  to            elatton        kakon        mallon  haireton             tou              meizonos        to            d'   haireton             agathon      kai  to            mallon  meizon
+in-the-case-of  but  the.GEN.SG.N  bad.GEN.SG  conversely  in  good.GEN.SG  for  account.DAT.SG  becomes.3SG  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  relative-to  the.ACC.SG.N  greater.ACC.SG  evil.ACC.SG  is.3SG  for  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  more    choiceworthy.NOM.SG  than-the.GEN.SG  greater.GEN.SG  the.NOM.SG.N  and  choiceworthy.NOM.SG  good.NOM.SG  and  the.NOM.SG.N  more    greater.NOM.SG
+```
 
-The inverted case runs on this one word: since whatever is *hairetos* counts as good, the lesser of two evils becomes the "greater good" of the pair simply by being the more choiceworthy of the two — the same proportional machinery, reversed in sign rather than redesigned.
+*"With something bad, though, it runs the other way: the lesser evil counts, in the reckoning of a good, as the greater relative to the greater evil — for the lesser evil is more choiceworthy than the greater, and what is choiceworthy is good, and the more choiceworthy the greater good."* This is the Key Ideas' fourth bullet's inverted case, and it turns on *haireton* (from *haireō*, "to take, seize, choose," plus the *-t-* verbal-adjective suffix marking fitness, "-able/-worthy"): since whatever is *hairetos* counts as good, the lesser of two evils becomes the "greater good" of the pair simply by being the more choiceworthy of the two — the same proportional machinery, reversed in sign rather than redesigned.
+
+### Bk. V, ch. 4 (Bekker 1131b27-29)
+
+> τὸ μὲν γὰρ διανεμητικὸν δίκαιον τῶν κοινῶν ἀεὶ κατὰ τὴν ἀναλογίαν ἐστὶ τὴν εἰρημένην
+
+```
+τὸ            μὲν   γὰρ  διανεμητικὸν         δίκαιον      τῶν         κοινῶν                ἀεὶ     κατὰ          τὴν           ἀναλογίαν          ἐστὶ    τὴν           εἰρημένην
+to            men   gar  dianemētikon         dikaion      tōn         koinōn                aei     kata          tēn           analogian          esti    tēn           eirēmenēn
+the.NOM.SG.N  PTCL  for  distributive.NOM.SG  just.NOM.SG  the.GEN.PL  common-things.GEN.PL  always  according-to  the.ACC.SG.F  proportion.ACC.SG  is.3SG  the.ACC.SG.F  aforementioned.PTCP.ACC.SG
+```
+
+*"For the distributive form of the just, applied to common goods, always follows the proportion already described."* *Dianemētikon* is built from *dia-* ("apart, out, distributively") plus the root of *nemō* ("to allot, distribute, apportion by custom") plus the *-ētik-* suffix marking a capacity or tendency (the same work English "-ive" does in "distribut-ive"), rather than a completed act — this is the term the whole page names itself after, and the same suffix pattern makes it grammatically parallel to [[concepts/corrective-justice|*diorthōtikon*]], a parallel no single English word preserves.
 
 ## Related
 

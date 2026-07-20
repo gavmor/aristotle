@@ -6,7 +6,7 @@ aliases: [unrestraint, incontinence, weakness of will]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Book VII's analysis of acting against one's own better judgment — a condition Aristotle treats as distinct in kind from both vice and virtue, against Socrates's denial that it is even possible.
 provenance:
   extracted: 0.75
@@ -40,65 +40,65 @@ Book VII opens by naming three things to be avoided in character: vice, lack of 
 
 ## Greek Gloss
 
-Source: Bk. VII, ch. 2 (Bekker 1145b25-28).
+### Bk. VII, ch. 2 (Bekker 1145b25-28)
 
 > Σωκράτης μὲν γὰρ ὅλως ἐμάχετο πρὸς τὸν λόγον ὡς οὐκ οὔσης ἀκρασίας· οὐθένα γὰρ ὑπολαμβάνοντα πράττειν παρὰ τὸ βέλτιστον, ἀλλὰ διʼ ἄγνοιαν.
 
-| ἀ- | γνο- | -ια |
-|---|---|---|
-| *a-* | *gno-* | *-ia* |
-| "not, without" (privative) | root of *gignōskein*, "to know" | abstract-noun suffix |
-| → **ἄγνοια**, "un-knowing," "ignorance" | | |
+```
+Σωκράτης  μὲν   γὰρ  ὅλως    ἐμάχετο   πρὸς     τὸν      λόγον         ὡς    οὐκ  οὔσης           ἀκρασίας·        οὐθένα      γὰρ  ὑπολαμβάνοντα   πράττειν  παρὰ     τὸ       βέλτιστον,  ἀλλὰ  διʼ      ἄγνοιαν.
+Sōkratēs  men   gar  holōs   emacheto  pros     ton      logon         hōs   ouk  ousēs           akrasias         outhena     gar  hypolambanonta  prattein  para     to       beltiston   alla  di'      agnoian
+Socrates  PTCL  for  wholly  fought    against  the.ACC  argument.ACC  that  not  being.PTCP.GEN  unrestraint.GEN  no-one.ACC  for  supposing.PTCP  to-act    against  the.ACC  best.ACC    but   through  ignorance.ACC
+```
 
-Socrates's whole position collapses unrestraint into this one word — if acting badly always means not-knowing, there is no third thing between vice and virtue left for *akrasia* to be; Aristotle's entire chapter is an argument for why *ἄγνοια* cannot do that much work.
+*"Socrates fought outright against the argument, on the ground that there is no such thing as unrestraint; for no one, he held, acts against what is best while supposing it to be best, but only through ignorance."* This is the sentence the page's first bullet paraphrases: Socrates's whole position collapses unrestraint into one word, and that word is **ἄγνοια** (*a-* privative "not, without" + *gno-*, the root of *gignōskein* "to know," + the abstract-noun suffix *-ia*) — literally "un-knowing." Aristotle's entire chapter is an argument for why *agnoia* cannot do that much work.
 
-Source: Bk. VII, ch. 3 (Bekker 1147a20-24).
+### Bk. VII, ch. 3 (Bekker 1147a20-24)
 
 > δεῖ γὰρ συμφυῆναι, τοῦτο δὲ χρόνου δεῖται· ὥστε καθάπερ τοὺς ὑποκρινομένους, οὕτως ὑποληπτέον λέγειν καὶ τοὺς ἀκρατευομένους.
 
-| ὑπο- | κρι- | -τής |
-|---|---|---|
-| *hypo-* | *kri-* | *-tēs* |
-| "under" | root of *krinein*, "to interpret, answer, decide" | agent-noun suffix, "one who does X" |
-| → **ὑποκριτής**, "one who answers/interprets from underneath (a mask)," i.e. "actor" (root of English "hypocrite") | | |
+```
+δεῖ              γὰρ  συμφυῆναι,        τοῦτο  δὲ   χρόνου    δεῖται·   ὥστε     καθάπερ   τοὺς        ὑποκρινομένους,     οὕτως   ὑποληπτέον        λέγειν    καὶ   τοὺς        ἀκρατευομένους.
+dei              gar  symphyēnai        touto  de   chronou   deitai    hōste    kathaper  tous        hypokrinomenous     houtōs  hypolēpteon       legein    kai   tous        akrateuomenous
+it-is-necessary  for  to-grow-together  this   and  time.GEN  requires  so-that  just-as   the.ACC.PL  actors.PTCP.ACC.PL  thus    one-must-suppose  to-speak  also  the.ACC.PL  unrestrained.PTCP.ACC.PL
+```
 
-This is the exact word behind the page's image of the unrestrained person "reciting lines like an actor": knowledge merely spoken from under a role, not knowledge at work in the one speaking it.
+*"For it must grow into one's nature, and this needs time; so one must suppose that unrestrained people speak the way actors do."* This is the exact word behind the page's image of the unrestrained person reciting knowledge like lines in a play: **ὑποκρινομένους** is built from *hypo-* "under" + *kri-*, the root of *krinein* "to interpret, answer, decide," + the participial ending that yields *hypokritēs*, "one who answers/interprets from underneath (a mask)" — an actor (and the root of English "hypocrite"). Knowledge merely spoken from under a role is not knowledge at work in the one speaking it.
 
-Source: Bk. VII, ch. 8 (Bekker 1150b31-35).
+### Bk. VII, ch. 8 (Bekker 1150b31-35)
 
 > ἀλλʼ ὃ μὲν ἀνίατος ὃ δʼ ἰατός· ἔοικε γὰρ ἡ μὲν μοχθηρία τῶν νοσημάτων οἷον ὑδέρῳ καὶ φθίσει, ἡ δʼ ἀκρασία τοῖς ἐπιληπτικοῖς· ἣ μὲν γὰρ συνεχὴς ἣ δʼ οὐ συνεχὴς πονηρία.
 
-| ἀ- | ἰα- | -τος |
-|---|---|---|
-| *a-* | *ia-* | *-tos* |
-| "not, without" (privative) | root of *iasthai*, "to heal, cure" | verbal-adjective suffix, "-able" |
-| → **ἀνίατος**, "un-healable," "incurable" | | |
+```
+ἀλλʼ  ὃ            μὲν   ἀνίατος    ὃ              δʼ   ἰατός·   ἔοικε     γὰρ  ἡ          μὲν   μοχθηρία     τῶν            νοσημάτων        οἷον   ὑδέρῳ       καὶ  φθίσει,          ἡ          δʼ   ἀκρασία          τοῖς           ἐπιληπτικοῖς·      ἣ              μὲν   γὰρ  συνεχὴς     ἣ                δʼ   οὐ   συνεχὴς     πονηρία.
+all'  ho           men   aniatos    ho             d'   iatos    eoike     gar  hē         men   mochthēria   tōn            nosēmatōn        hoion  hyderōi     kai  phthisei         hē         d'   akrasia          tois           epilēptikois       hē             men   gar  synechēs    hē               d'   ou   synechēs    ponēria
+but   the-one.NOM  PTCL  incurable  the-other.NOM  and  curable  it-seems  for  the.NOM.F  PTCL  badness.NOM  of-the.GEN.PL  diseases.GEN.PL  like   dropsy.DAT  and  consumption.DAT  the.NOM.F  but  unrestraint.NOM  to-the.DAT.PL  epileptics.DAT.PL  the-one.NOM.F  PTCL  for  continuous  the-other.NOM.F  but  not  continuous  badness.NOM
+```
 
-The vice/dropsy versus unrestraint/epilepsy comparison turns on exactly this word: one badness is *aniatos*, structural and hidden, the other merely intermittent and therefore, unlike vice, actually curable.
+*"But the one is incurable and the other curable; for badness resembles diseases like dropsy and consumption, while unrestraint resembles epilepsy — the one is a continuous bad condition, the other not continuous."* The vice/dropsy versus unrestraint/epilepsy comparison turns on **ἀνίατος** (*a-* privative + *ia-*, the root of *iasthai* "to heal, cure," + the verbal-adjective suffix *-tos*, "-able") — "un-healable." Vice is structural and hidden, hence *aniatos*; unrestraint is merely intermittent and therefore, unlike vice, actually curable.
 
-Source: Bk. VII, ch. 2 (Bekker 1146a5-9).
+### Bk. VII, ch. 2 (Bekker 1146a5-9)
 
 > ἀλλʼ ἄτοπον· ἔσται γὰρ ὁ αὐτὸς ἅμα φρόνιμος καὶ ἀκρατής, φήσειε δʼ οὐδʼ ἂν εἷς φρονίμου εἶναι τὸ πράττειν ἑκόντα τὰ φαυλότατα.
 
-| φρον- | -ιμος |
-|---|---|
-| *phron-* | *-imos* |
-| root of *phronēsis*, "practical wisdom, understanding" | adjective suffix, "characterized by" |
-| → **φρόνιμος**, "prudent," "possessed of practical judgment" | |
+```
+ἀλλʼ  ἄτοπον·  ἔσται    γὰρ  ὁ        αὐτὸς  ἅμα      φρόνιμος   καὶ  ἀκρατής,      φήσειε     δʼ   οὐδʼ      ἂν   εἷς     φρονίμου         εἶναι  τὸ       πράττειν  ἑκόντα          τὰ          φαυλότατα.
+all'  atopon   estai    gar  ho       autos  hama     phronimos  kai  akratēs       phēseie    d'   oud'      an   heis    phronimou        einai  to       prattein  hekonta         ta          phaulotata
+but   absurd   will-be  for  the.NOM  same   at-once  prudent    and  unrestrained  would-say  and  not-even  MOD  anyone  prudent-man.GEN  to-be  the.ACC  to-do     willingly.PTCP  the.ACC.PL  most-base.ACC.PL
+```
 
-This is the sentence behind the page's claim that practical judgment and unrestraint cannot coexist — Aristotle flags it here as an absurdity (*atopon*) still to be resolved, before later distinguishing the merely *clever* person from the truly *phronimos*.
+*"But this is absurd; for then the same person would at once be a person of practical judgment and unrestrained, though no one would say it belongs to a person of practical judgment to do the basest things willingly."* This is the sentence behind the page's claim that practical judgment and unrestraint cannot coexist. **φρόνιμος** (*phron-*, the root of *phronēsis* "practical wisdom," + the adjective suffix *-imos*, "characterized by") — "possessed of practical judgment" — is flagged here as an absurdity (*atopon*) still to be resolved, before Aristotle later distinguishes the merely clever person from the truly *phronimos*.
 
-Source: Bk. VII, ch. 9 (Bekker 1151b16-21).
+### Bk. VII, ch. 9 (Bekker 1151b16-21)
 
 > εἰσὶ δέ τινες οἳ τοῖς δόξασιν οὐκ ἐμμένουσιν οὐ διʼ ἀκρασίαν, οἷον ἐν τῷ Φιλοκτήτῃ τῷ Σοφοκλέους ὁ Νεοπτόλεμος· καίτοι διʼ ἡδονὴν οὐκ ἐνέμεινεν, ἀλλὰ καλήν· τὸ γὰρ ἀληθεύειν αὐτῷ καλὸν ἦν, ἐπείσθη δʼ ὑπὸ τοῦ Ὀδυσσέως ψεύδεσθαι.
 
-| ἀ- | ληθ- | -εύειν |
-|---|---|---|
-| *a-* | *lēth-* | *-euein* |
-| "not, without" (privative) | root of *lanthanein*, "to escape notice, lie hidden" | verb-forming suffix, "to be/do X" |
-| → **ἀληθεύειν**, "to un-hide," "to speak/enact the unconcealed" (cf. *alētheia*, "truth") | | |
+```
+εἰσὶ       δέ   τινες  οἳ       τοῖς           δόξασιν          οὐκ  ἐμμένουσιν  οὐ   διʼ      ἀκρασίαν,        οἷον         ἐν  τῷ       Φιλοκτήτῃ        τῷ       Σοφοκλέους     ὁ        Νεοπτόλεμος·     καίτοι   διʼ      ἡδονὴν        οὐκ  ἐνέμεινεν,  ἀλλὰ  καλήν·    τὸ       γὰρ  ἀληθεύειν       αὐτῷ        καλὸν  ἦν,  ἐπείσθη           δʼ   ὑπὸ   τοῦ      Ὀδυσσέως      ψεύδεσθαι.
+eisi       de   tines  hoi      tois           doxasin          ouk  emmenousin  ou   di'      akrasian         hoion        en  tōi      Philoktētēi      tōi      Sophokleous    ho       Neoptolemos      kaitoi   di'      hēdonēn       ouk  enemeinen   alla  kalēn     to       gar  alētheuein      autōi       kalon  ēn   epeisthē          d'   hypo  tou      Odysseōs      pseudesthai
+there-are  and  some   who.NOM  to-the.DAT.PL  opinions.DAT.PL  not  abide-in    not  through  unrestraint.ACC  for-example  in  the.DAT  Philoctetes.DAT  the.DAT  Sophocles.GEN  the.NOM  Neoptolemus.NOM  and-yet  through  pleasure.ACC  not  he-abided   but   fine.ACC  the.ACC  for  to-speak-truly  to-him.DAT  fine   was  he-was-persuaded  and  by    the.GEN  Odysseus.GEN  to-lie
+```
 
-Aristotle names *ἀληθεύειν* as the very good Neoptolemus was pulled toward abandoning his resolve for — confirming the page's point that not every failure to stand by a decision is unrestraint, since here the pleasure at stake was itself fine.
+*"There are some who do not abide by their opinions, not on account of unrestraint — as with Neoptolemus, Sophocles's character in the Philoctetes; yet it was on account of pleasure that he did not abide by his resolve, though a fine one, for speaking the truth was fine to him, and he had been persuaded by Odysseus to lie."* Aristotle names **ἀληθεύειν** (*a-* privative + *lēth-*, the root of *lanthanein* "to escape notice, lie hidden," + the verb-forming suffix *-euein*) — "to un-hide," to speak or enact the unconcealed (compare *alētheia*, "truth") — as the very good Neoptolemus was pulled toward abandoning his resolve for, confirming the page's point that not every failure to stand by a decision is unrestraint, since here the pleasure at stake was itself fine.
 
 ## Related
 

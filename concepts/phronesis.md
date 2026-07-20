@@ -6,7 +6,7 @@ aliases: [practical judgment, practical wisdom, phronesis]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Book VI's account of practical judgment (phronesis) and the other virtues of thought, and its central claim that good character and good practical judgment are mutually dependent.
 provenance:
   extracted: 0.75
@@ -43,53 +43,65 @@ Book VI turns from virtue of character to virtue of thought, dividing the ration
 
 ## Greek Gloss
 
-Source: Bk. VI, ch. 5 (Bekker 1140b4-11).
+### Bk. VI, ch. 5 (Bekker 1140b6-7)
 
-> λείπεται ἄρα αὐτὴν εἶναι ἕξιν ἀληθῆ μετὰ λόγου πρακτικὴν περὶ τὰ ἀνθρώπῳ ἀγαθὰ καὶ κακά. τῆς μὲν γὰρ ποιήσεως ἕτερον τὸ τέλος, τῆς δὲ πράξεως οὐκ ἂν εἴη· ἔστι γὰρ αὐτὴ ἡ εὐπραξία τέλος. διὰ τοῦτο Περικλέα καὶ τοὺς τοιούτους φρονίμους οἰόμεθα εἶναι, ὅτι τὰ αὑτοῖς ἀγαθὰ καὶ τὰ τοῖς ἀνθρώποις δύνανται θεωρεῖν.
+> τῆς μὲν γὰρ ποιήσεως ἕτερον τὸ τέλος, τῆς δὲ πράξεως οὐκ ἂν εἴη· ἔστι γὰρ αὐτὴ ἡ εὐπραξία τέλος.
 
-| εὐ- | πρακ- | -σία |
-|---|---|---|
-| *eu-* | *prak-* | *-sia* |
-| "well, good" | root of *prattein*, "to do, to act" | abstract noun suffix |
-| → **εὐπραξία**, "doing-well," "acting well" | | |
+```
+τῆς      μὲν   γὰρ  ποιήσεως    ἕτερον     τὸ       τέλος,  τῆς      δὲ   πράξεως     οὐκ  ἂν   εἴη·      ἔστι  γὰρ  αὐτὴ        ἡ        εὐπραξία    τέλος.
+tēs      men   gar  poiēseōs    heteron    to       telos,  tēs      de   praxeōs     ouk  an   eiē·      esti  gar  autē        hē       eupraxia    telos.
+the.GEN  PTCL  for  making.GEN  different  the.NOM  end     the.GEN  but  action.GEN  not  MOD  would-be  is    for  itself.NOM  the.NOM  doing-well  end
+```
 
-The sentence pins down practical judgment by contrast with *techne*: making always aims at a product beyond itself, but *eupraxia* — acting well — cannot be distinct from the action, because it just *is* the action's own end, which is exactly why the passage names Pericles as the paradigm of practical judgment.
+*"For the end of making is a different thing [from the making]; but of acting it would not be so, for the doing-well itself is [its own] end."* This is the sentence the page's second bullet leans on to distinguish practical judgment from *techne*: making always points past itself to a product, but *eupraxia* — built from *eu-* "well" plus the root of *prattein* "to do, act" plus the abstract-noun suffix *-sia* — names an acting-well that cannot be separated from the action, because it just *is* the action's own end.
 
-Source: Bk. VI, ch. 5 (Bekker 1140b11-15).
+### Bk. VI, ch. 5 (Bekker 1140b7-9)
 
-> ἔνθεν καὶ τὴν σωφροσύνην τούτῳ προσαγορεύομεν τῷ ὀνόματι, ὡς σῴζουσαν τὴν φρόνησιν. σῴζει δὲ τὴν τοιαύτην ὑπόληψιν. οὐ γὰρ ἅπασαν ὑπόληψιν διαφθείρει οὐδὲ διαστρέφει τὸ ἡδὺ καὶ λυπηρόν, οἷον ὅτι τὸ τρίγωνον δύο ὀρθὰς ἔχει ἢ οὐκ ἔχει, ἀλλὰ τὰς περὶ τὸ πρακτόν.
+> διὰ τοῦτο Περικλέα καὶ τοὺς τοιούτους φρονίμους οἰόμεθα εἶναι, ὅτι τὰ αὑτοῖς ἀγαθὰ καὶ τὰ τοῖς ἀνθρώποις δύνανται θεωρεῖν.
 
-| σω- | φρο- | -σύνη |
-|---|---|---|
-| *sō-* | *phro-* | *-synē* |
-| root of *sōs*, "safe, sound" | root of *phronēsis*/*phrēn*, "judgment, mind" | abstract noun suffix |
-| → **σωφροσύνη**, "soundness of judgment," temperance | | |
+```
+διὰ         τοῦτο     Περικλέα      καὶ  τοὺς        τοιούτους    φρονίμους             οἰόμεθα   εἶναι,  ὅτι      τὰ          αὑτοῖς             ἀγαθὰ      καὶ  τὰ          τοῖς        ἀνθρώποις   δύνανται  θεωρεῖν.
+dia         touto     Periklea      kai  tous        toioutous    phronimous            oiometha  einai,  hoti     ta          hautois            agatha     kai  ta          tois        anthrōpois  dynantai  theōrein.
+because-of  this.ACC  Pericles.ACC  and  the.ACC.PL  such.ACC.PL  practically-wise.ACC  we-think  to-be   because  the.ACC.PL  to-themselves.DAT  goods.ACC  and  the.ACC.PL  the.DAT.PL  humans.DAT  they-can  discern
+```
 
-Aristotle's own folk-etymology reading of the word's parts backs up the page's claim that pleasure and pain corrupt only the premises of action, not premises like a triangle's angle-sum — temperance is named for exactly the judgment it keeps intact.
+*"Because of this we think Pericles and men like him are practically judicious: because they can discern what is good for themselves and what is good for human beings [generally]."* Immediately after defining practical judgment as deliberating well about living well as a whole, Aristotle reaches for a single named example — *phronimous*, the plural of the same adjective the whole page is built around, applied to a real statesman rather than a type.
 
-Source: Bk. VI, ch. 7 (Bekker 1141b3-8).
+### Bk. VI, ch. 5 (Bekker 1140b11)
+
+> ἔνθεν καὶ τὴν σωφροσύνην τούτῳ προσαγορεύομεν τῷ ὀνόματι, ὡς σῴζουσαν τὴν φρόνησιν.
+
+```
+ἔνθεν   καὶ   τὴν      σωφροσύνην      τούτῳ     προσαγορεύομεν  τῷ       ὀνόματι,  ὡς   σῴζουσαν         τὴν      φρόνησιν.
+enthen  kai   tēn      sōphrosynēn     toutō     prosagoreuomen  tō       onomati,  hōs  sōzousan         tēn      phronēsin.
+hence   also  the.ACC  temperance.ACC  this.DAT  we-call         the.DAT  name.DAT  as   preserving.PTCP  the.ACC  practical-judgment.ACC
+```
+
+*"Hence we also address temperance by this name, as preserving practical judgment."* Aristotle is offering his own folk-etymology here: *sōphrosynē* built from the root of *sōs* "safe, sound" plus the root of *phronēsis*/*phrēn* "judgment, mind" plus the abstract-noun suffix *-synē* — the participle *sōzousan*, "preserving," is doing the etymological work the page's bullet on temperance summarizes, that pleasure and pain corrupt only the premises of action and temperance is precisely the state that keeps those premises intact.
+
+### Bk. VI, ch. 7 (Bekker 1141b3-8)
 
 > διὸ Ἀναξαγόραν καὶ Θαλῆν καὶ τοὺς τοιούτους σοφοὺς μὲν φρονίμους δʼ οὔ φασιν εἶναι, ὅταν ἴδωσιν ἀγνοοῦντας τὰ συμφέροντα ἑαυτοῖς, καὶ περιττὰ μὲν καὶ θαυμαστὰ καὶ χαλεπὰ καὶ δαιμόνια εἰδέναι αὐτούς φασιν, ἄχρηστα δʼ, ὅτι οὐ τὰ ἀνθρώπινα ἀγαθὰ ζητοῦσιν.
 
-| ἄ- | χρηστ- | -α |
-|---|---|---|
-| *a-* | *chrēst-* | *-a* |
-| negating prefix, "not, without" | root of *chrēsis*, "use, usefulness" | neuter plural adjective ending |
-| → **ἄχρηστα**, "useless things" | | |
+```
+διὸ        Ἀναξαγόραν      καὶ  Θαλῆν       καὶ  τοὺς        τοιούτους    σοφοὺς    μὲν   φρονίμους             δʼ   οὔ   φασιν     εἶναι,  ὅταν      ἴδωσιν         ἀγνοοῦντας        τὰ          συμφέροντα        ἑαυτοῖς,       καὶ  περιττὰ            μὲν   καὶ  θαυμαστὰ      καὶ  χαλεπὰ         καὶ  δαιμόνια        εἰδέναι  αὐτούς    φασιν,    ἄχρηστα      δʼ,  ὅτι      οὐ   τὰ          ἀνθρώπινα   ἀγαθὰ      ζητοῦσιν.
+dio        Anaxagoran      kai  Thalēn      kai  tous        toioutous    sophous   men   phronimous            d'   ou   phasin    einai,  hotan     idōsin         agnoountas        ta          sympheronta       heautois,      kai  peritta            men   kai  thaumasta     kai  chalepa        kai  daimonia        eidenai  autous    phasin,   achrēsta     d',  hoti     ou   ta          anthrōpina  agatha     zētousin.
+therefore  Anaxagoras.ACC  and  Thales.ACC  and  the.ACC.PL  such.ACC.PL  wise.ACC  PTCL  practically-wise.ACC  but  not  they-say  to-be   whenever  they-see.SBJV  ignorant-of.PTCP  the.ACC.PL  advantageous.ACC  to-selves.DAT  and  extraordinary.ACC  PTCL  and  wondrous.ACC  and  difficult.ACC  and  superhuman.ACC  to-know  they.ACC  they-say  useless.ACC  but  because  not  the.ACC.PL  human.ACC   goods.ACC  they-seek
+```
 
-The verdict on Anaxagoras and Thales turns on this one word: their knowledge of cosmic wonders is called *achrēsta*, useless, precisely because wisdom's grasp of the eternal does not, by itself, disclose what is good for a human being to do — the gap the page's central thesis is built on closing with practical judgment.
+*"Therefore people say Anaxagoras and Thales and men like them are wise but not practically judicious, when they see them ignorant of what is advantageous to themselves, and say that they know things extraordinary, wondrous, difficult, and superhuman — but useless, because they do not seek the human goods."* The verdict turns on one word, *achrēsta* (a- "not" + the root of *chrēsis* "use" + neuter plural -a): wisdom's grasp of the eternal cosmos is called useless precisely because it does not by itself disclose what is good for a human being to do, which is the gap the page's central thesis closes by pairing wisdom with practical judgment.
 
-Source: Bk. VI, ch. 13 (Bekker 1144a23-27).
+### Bk. VI, ch. 13 (Bekker 1144a25-27)
 
-> ἔστι δὴ δύναμις ἣν καλοῦσι δεινότητα· αὕτη δʼ ἐστὶ τοιαύτη ὥστε τὰ πρὸς τὸν ὑποτεθέντα σκοπὸν συντείνοντα δύνασθαι ταῦτα πράττειν καὶ τυγχάνειν αὐτοῦ. ἂν μὲν οὖν ὁ σκοπὸς ᾖ καλός, ἐπαινετή ἐστιν, ἐὰν δὲ φαῦλος, πανουργία· διὸ καὶ τοὺς φρονίμους δεινοὺς καὶ πανούργους φαμὲν εἶναι.
+> ἂν μὲν οὖν ὁ σκοπὸς ᾖ καλός, ἐπαινετή ἐστιν, ἐὰν δὲ φαῦλος, πανουργία· διὸ καὶ τοὺς φρονίμους δεινοὺς καὶ πανούργους φαμὲν εἶναι.
 
-| δειν- | -ότης |
-|---|---|
-| *dein-* | *-otēs* |
-| root of *deinos*, "clever, formidably able" | abstract noun suffix, "-ness" |
-| → **δεινότης**, "cleverness," bare capacity-to-achieve | | |
+```
+ἂν   μὲν   οὖν   ὁ        σκοπὸς      ᾖ        καλός,  ἐπαινετή      ἐστιν,  ἐὰν  δὲ   φαῦλος,   πανουργία·  διὸ        καὶ   τοὺς        φρονίμους             δεινοὺς     καὶ  πανούργους      φαμὲν    εἶναι.
+an   men   oun   ho       skopos      ē        kalos,  epainetē      estin,  ean  de   phaulos,  panourgia·  dio        kai   tous        phronimous            deinous     kai  panourgous      phamen   einai.
+MOD  PTCL  then  the.NOM  target.NOM  be.SBJV  noble   praiseworthy  is      if   but  base      villainy    therefore  also  the.ACC.PL  practically-wise.ACC  clever.ACC  and  villainous.ACC  we-call  to-be
+```
 
-*Deinotēs* names the neutral power to hit whatever target is set, beautiful or base alike — the passage's punchline (that practically judicious people get called both clever and shameless) is exactly the page's point that without good character this capacity is not yet practical judgment.
+*"So if the target is noble, [the capacity] is praiseworthy, but if base, it is villainy; that is why we call practically judicious people both clever and villainous."* This is the punchline of the *deinotēs* ("cleverness," from *deinos* "formidably able" plus the abstract-noun suffix *-otēs") passage: the same bare capacity to hit whatever target is set gets called praiseworthy or villainous depending only on the target, which is exactly the page's point that without good character to fix the target, this capacity is not yet practical judgment.
 
 ## Related
 

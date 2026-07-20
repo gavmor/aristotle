@@ -6,7 +6,7 @@ aliases: [choice, voluntary action, moral responsibility]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's analysis (Book III) of voluntary and involuntary action, and of choice (prohairesis) as deliberate desire — the basis of his account of moral responsibility.
 provenance:
   extracted: 0.75
@@ -40,93 +40,79 @@ Book III opens the detailed study of virtue of character by asking what makes an
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. III, ch. 2 (Bekker 1113a10-11) and Bk. VI, ch. 2 (Bekker 1139b4-5), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bk. III (Bekker 1110a-1114a), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain). Word-by-word Leipzig-style glosses of six passages underlying the Key Ideas above; every word of each cited sentence is segmented, not just the load-bearing term.
+
+### Bk. III, ch. 3 (Bekker 1113a10-11)
 
 > ἡ προαίρεσις ἂν εἴη βουλευτικὴ ὄρεξις τῶν ἐφʼ ἡμῖν
 
-**προαίρεσις**, morpheme by morpheme:
+```
+ἡ    προαίρεσις   ἂν   εἴη       βουλευτικὴ    ὄρεξις  τῶν         ἐφʼ   ἡμῖν
+hē   prohairesis  an   eiē       bouleutikē    orexis  tōn         eph'  hēmin
+the  choice       MOD  would-be  deliberative  desire  the.GEN.PL  upon  us.DAT
+```
 
-| προ- | αἱρε- | -σις |
-|---|---|---|
-| *pro-* | *haire-* | *-sis* |
-| "before" | root of *haireō* / *hairesis*, "to take, seize" (middle: "to choose") | abstract noun suffix |
-| → **προαίρεσις**, "a before-hand-taking," i.e. choice, preference | | |
+*"Choice, then, would be deliberate desire of the things that are up to us."* This is Aristotle's own capstone definition, closing the chapter's search — the vault's characterization of *prohairesis* as "deliberate desire... reasoned desire, or desiring reason, fused together" is a direct gloss of this line's grammar: *βουλευτικὴ* ("deliberative," built on the *βουλ-* "wish/counsel" root plus the *-τικ-* capacity suffix) sits as an adjective directly modifying *ὄρεξις* ("desire"), fusing reason and appetite into one grammatical unit rather than coordinating them as two.
 
-A second, later definition folds the same idea into a single compound-style phrase — διὸ ἢ ὀρεκτικὸς νοῦς ἡ προαίρεσις ἢ ὄρεξις διανοητική:
-
-| ὀρεγ- | -τικ- | -ός |
-|---|---|---|
-| *oreg-* | *-tik-* | *-os* |
-| root of *oregō*, "to reach out, stretch toward, desire" | capacity/tendency suffix | masc. sg. ending |
-| → **ὀρεκτικός** (+ **νοῦς** "intellect") = "desiring intellect" | | |
-
-| ὀρεγ- | -σις | | δια- | νο- | -ητικ- | -ή |
-|---|---|---|---|---|---|---|
-| *oreg-* | *-sis* | | *dia-* | *no-* | *-ētik-* | *-ē* |
-| (as above) | abstract noun suffix (γ+σ→ξ) | | "through, thoroughly" | root of *nous/noein*, "think" | tendency suffix | fem. sg. ending |
-| → **ὄρεξις** "desire" | | | → **διανοητική** "thinking" | | | |
-
-*Prohairesis* is literally a compound of "taking" (*hairesis*) with the prefix "before" (*pro-*) — a taking that has already been worked out in advance of the moment of action, which is exactly why Sachs and most translators render it "choice" rather than a more literal but opaque "pre-taking." The two definitions above show Aristotle deliberately straddling reason and desire in the very grammar of the definition (*ὄρεξις* "desire" modified by a reason-word in each case), which is the point the vault's existing analysis of choice as "deliberate desire" is drawing directly from the Greek's own word order.
-
-Source: Bk. III, ch. 1 (Bekker 1110a1-4).
+### Bk. III, ch. 1 (Bekker 1110a1-4)
 
 > βίαιον δὲ οὗ ἡ ἀρχὴ ἔξωθεν, τοιαύτη οὖσα ἐν ᾗ μηδὲν συμβάλλεται ὁ πράττων ἢ ὁ πάσχων, οἷον εἰ πνεῦμα κομίσαι ποι ἢ ἄνθρωποι κύριοι ὄντες.
 
-| βί- | -αιον |
-|---|---|
-| *bi-* | *-aion* |
-| root of *bia*, "force, violence" | adjective-forming suffix, "characterized by" |
-| → **βίαιον**, "a forced (act)," one compelled from outside | |
+```
+βίαιον  δὲ    οὗ        ἡ    ἀρχὴ    ἔξωθεν        τοιαύτη  οὖσα        ἐν  ᾗ          μηδὲν    συμβάλλεται  ὁ    πράττων     ἢ   ὁ    πάσχων        οἷον   εἰ  πνεῦμα  κομίσαι       ποι        ἢ   ἄνθρωποι   κύριοι      ὄντες
+biaion  de    hou       hē   archē   exōthen       toiautē  ousa        en  hēi        mēden    symballetai  ho   prattōn     ē   ho   paschōn       hoion  ei  pneuma  komisai       poi        ē   anthrōpoi  kyrioi      ontes
+forced  PTCL  of-which  the  origin  from-outside  such     being.PTCP  in  which.DAT  nothing  contributes  the  agent.PTCP  or  the  patient.PTCP  e.g.   if  wind    should-carry  somewhere  or  people     in-control  being.PTCP
+```
 
-This is Aristotle's own definition of the force-clause of involuntary action, and it names its condition in a single word: the *source* (ἀρχή) lies outside the agent entirely, which is the technical boundary the page's wind-carried-person and tyrant's-captive examples are built to test.
+*"A thing is forced whose origin is from outside, of such a kind that the one acting or the one affected contributes nothing to it — as when a wind carries someone somewhere, or people who have him in their power."* This is Aristotle's own definition of the force-clause of involuntary action, and the page's wind-carried-person example is lifted straight from it; the whole condition collapses into one word, *βίαιον* (*βί-* root of *bia* "force" + *-αιον* adjective suffix), whose *ἀρχή* ("origin," root *ἀρχ-*) lies entirely outside the agent.
 
-Source: Bk. III, ch. 1 (Bekker 1110b25-29).
+### Bk. III, ch. 1 (Bekker 1110b27-30)
 
-> ἕτερον δʼ ἔοικε καὶ τὸ διʼ ἄγνοιαν πράττειν τοῦ ἀγνοοῦντα· ὁ γὰρ μεθύων ἢ ὀργιζόμενος οὐ δοκεῖ διʼ ἄγνοιαν πράττειν ἀλλὰ διά τι τῶν εἰρημένων, οὐκ εἰδὼς δὲ ἀλλʼ ἀγνοῶν. ἀγνοεῖ μὲν οὖν πᾶς ὁ μοχθηρὸς ἃ δεῖ πράττειν καὶ ὧν ἀφεκτέον, καὶ διὰ τὴν τοιαύτην ἁμαρτίαν ἄδικοι καὶ ὅλως κακοὶ γίνονται.
+> ἀγνοεῖ μὲν οὖν πᾶς ὁ μοχθηρὸς ἃ δεῖ πράττειν καὶ ὧν ἀφεκτέον, καὶ διὰ τὴν τοιαύτην ἁμαρτίαν ἄδικοι καὶ ὅλως κακοὶ γίνονται.
 
-| ἀ- | γνο- | -ια |
-|---|---|---|
-| *a-* | *gno-* | *-ia* |
-| privative, "not" | root of *gignōskō*, "to know" | abstract noun suffix |
-| → **ἄγνοια**, "not-knowing," ignorance | | |
+```
+ἀγνοεῖ       μὲν   οὖν  πᾶς    ὁ    μοχθηρὸς    ἃ            δεῖ        πράττειν  καὶ  ὧν           ἀφεκτέον      καὶ  διὰ      τὴν      τοιαύτην  ἁμαρτίαν   ἄδικοι  καὶ  ὅλως    κακοὶ  γίνονται
+agnoei       men   oun  pas    ho   mochthēros  ha           dei        prattein  kai  hōn          aphekteon     kai  dia      tēn      toiautēn  hamartian  adikoi  kai  holōs   kakoi  ginontai
+is-ignorant  PTCL  so   every  the  bad-one     what.ACC.PL  one-ought  to-do     and  what.GEN.PL  must-abstain  and  through  the.ACC  such      error.ACC  unjust  and  wholly  bad    become
+```
 
-The drunk or angry person is said to act *ἀγνοῶν* (while not-knowing) rather than *διʼ ἄγνοιαν* (on account of not-knowing) — the same ἄγνοια-word covers both, and Aristotle relies on that ambiguity to isolate the sense in which every bad person's blanket ignorance of what to do convicts rather than excuses.
+*"So every bad person is ignorant of what one ought to do and what one ought to avoid, and it is through this kind of error that people become unjust and altogether bad."* This is the exact line behind the page's claim that "every bad person is ignorant of what one ought to do" — note *ἀφεκτέον* ("must-be-abstained-from"), a verbal adjective in *-τέον* that packs an entire obligation ("ought") into a single word, the same grammatical move that lets Aristotle treat moral ignorance as chosen rather than excusing.
 
-Source: Bk. III, ch. 2 (Bekker 1111b20-24).
+### Bk. III, ch. 2 (Bekker 1111b22-24)
 
-> ἀλλὰ μὴν οὐδὲ βούλησίς γε, καίπερ σύνεγγυς φαινόμενον· προαίρεσις μὲν γὰρ οὐκ ἔστι τῶν ἀδυνάτων, καὶ εἴ τις φαίη προαιρεῖσθαι, δοκοίη ἂν ἠλίθιος εἶναι· βούλησις δʼ ἐστὶ καὶ τῶν ἀδυνάτων, οἷον ἀθανασίας. καὶ ἡ μὲν βούλησίς ἐστι καὶ περὶ τὰ μηδαμῶς διʼ αὑτοῦ πραχθέντα ἄν, οἷον ὑποκριτήν τινα νικᾶν ἢ ἀθλητήν.
+> καὶ ἡ μὲν βούλησίς ἐστι καὶ περὶ τὰ μηδαμῶς διʼ αὑτοῦ πραχθέντα ἄν, οἷον ὑποκριτήν τινα νικᾶν ἢ ἀθλητήν.
 
-| βουλ- | -ησις |
-|---|---|
-| *boul-* | *-ēsis* |
-| root of *boulomai*, "to wish, will" | abstract noun suffix |
-| → **βούλησις**, "wishing," an act of will directed at an end | |
+```
+καὶ  ἡ    μὲν   βούλησίς  ἐστι  καὶ   περὶ   τὰ          μηδαμῶς    διʼ      αὑτοῦ        πραχθέντα    ἄν   οἷον   ὑποκριτήν   τινα      νικᾶν   ἢ   ἀθλητήν
+kai  hē   men   boulēsis  esti  kai   peri   ta          mēdamōs    di'      hautou       prachthenta  an   hoion  hypokritēn  tina      nikan   ē   athlētēn
+and  the  PTCL  wish      is    even  about  the.ACC.PL  in-no-way  through  oneself.GEN  done.PTCP    MOD  e.g.   actor.ACC   some.ACC  to-win  or  athlete.ACC
+```
 
-*Boulēsis* shares an abstract-noun suffix with *pro-hairesis* but not its restriction to the possible and the agent's own doing — the actor-winning-an-award example is Aristotle's proof that wish and choice, though grammatically parallel, pick out different things.
+*"And wishing is also directed at things that could in no way be brought about through oneself — for instance, wishing some actor or athlete to win."* This is the source of the page's actor-winning-an-award example distinguishing choice from wish: *βούλησίς* ("wish," from *βουλ-* + the same *-σις* abstract-noun suffix as *προ-αίρε-σις*) is grammatically parallel to *prohairesis* but, as this line shows, carries no restriction to what is up to the agent (*διʼ αὑτοῦ*, "through oneself").
 
-Source: Bk. III, ch. 3 (Bekker 1112b12-15).
+### Bk. III, ch. 3 (Bekker 1112b12-14)
 
-> βουλευόμεθα δʼ οὐ περὶ τῶν τελῶν ἀλλὰ περὶ τῶν πρὸς τὰ τέλη. οὔτε γὰρ ἰατρὸς βουλεύεται εἰ ὑγιάσει, οὔτε ῥήτωρ εἰ πείσει, οὔτε πολιτικὸς εἰ εὐνομίαν ποιήσει, οὐδὲ τῶν λοιπῶν οὐδεὶς περὶ τοῦ τέλους.
+> οὔτε γὰρ ἰατρὸς βουλεύεται εἰ ὑγιάσει, οὔτε ῥήτωρ εἰ πείσει, οὔτε πολιτικὸς εἰ εὐνομίαν ποιήσει, οὐδὲ τῶν λοιπῶν οὐδεὶς περὶ τοῦ τέλους.
 
-| βουλ- | -εύ- | -εται |
-|---|---|---|
-| *boul-* | *-eu-* | *-etai* |
-| root of *boulomai*, "to wish, will" | verb-forming suffix, "to practice, engage in" | 3rd sg. present middle ending |
-| → **βουλεύεται**, "deliberates, takes counsel" | | |
+```
+οὔτε     γὰρ  ἰατρὸς  βουλεύεται   εἰ       ὑγιάσει    οὔτε  ῥήτωρ   εἰ       πείσει         οὔτε  πολιτικὸς  εἰ       εὐνομίαν        ποιήσει    οὐδὲ  τῶν         λοιπῶν    οὐδεὶς  περὶ   τοῦ      τέλους
+oute     gar  iatros  bouleuetai   ei       hygiasei   oute  rhētōr  ei       peisei         oute  politikos  ei       eunomian        poiēsei    oude  tōn         loipōn    oudeis  peri   tou      telous
+neither  for  doctor  deliberates  whether  will-heal  nor   orator  whether  will-persuade  nor   statesman  whether  good-order.ACC  will-make  nor   the.GEN.PL  rest.GEN  no-one  about  the.GEN  end.GEN
+```
 
-The same βουλ- root that supplies the "deliberate" half of *pro-hairesis* appears here as a plain verb, fixing deliberation's proper object at means alone — a doctor deliberates about *how* to heal, never *whether* to.
+*"Neither does a doctor deliberate whether he will heal, nor an orator whether he will persuade, nor a statesman whether he will produce good order, nor does anyone else deliberate about the end."* This is the source of the page's doctor example for why deliberation concerns only means, never ends: *βουλεύεται* ("deliberates") is the same *βουλ-* root as the *βουλευτικὴ* of the *prohairesis* definition above, now inflected as a plain 3rd-singular verb (*-εύ-* verb-forming suffix + *-εται* middle ending) rather than an adjective, showing the one root doing double duty across the noun and verb forms of "deliberation."
 
-Source: Bk. III, ch. 5 (Bekker 1114a15-21).
+### Bk. III, ch. 5 (Bekker 1114a19-21)
 
-> τότε μὲν οὖν ἐξῆν αὐτῷ μὴ νοσεῖν, προεμένῳ δʼ οὐκέτι, ὥσπερ οὐδʼ ἀφέντι λίθον ἔτʼ αὐτὸν δυνατὸν ἀναλαβεῖν· ἀλλʼ ὅμως ἐπʼ αὐτῷ τὸ βαλεῖν· ἡ γὰρ ἀρχὴ ἐν αὐτῷ. οὕτω δὲ καὶ τῷ ἀδίκῳ καὶ τῷ ἀκολάστῳ ἐξ ἀρχῆς μὲν ἐξῆν τοιούτοις μὴ γενέσθαι, διὸ ἑκόντες εἰσίν· γενομένοις δʼ οὐκέτι ἔστι μὴ εἶναι.
+> οὕτω δὲ καὶ τῷ ἀδίκῳ καὶ τῷ ἀκολάστῳ ἐξ ἀρχῆς μὲν ἐξῆν τοιούτοις μὴ γενέσθαι, διὸ ἑκόντες εἰσίν· γενομένοις δʼ οὐκέτι ἔστι μὴ εἶναι.
 
-| ἀρχ- | -ή |
-|---|---|
-| *arch-* | *-ē* |
-| root, "to begin; to be first, to rule" | fem. abstract noun ending |
-| → **ἀρχή**, "beginning, origin, first principle" (also "rule, command") | |
+```
+οὕτω   δὲ    καὶ   τῷ       ἀδίκῳ           καὶ  τῷ       ἀκολάστῳ            ἐξ    ἀρχῆς          μὲν   ἐξῆν          τοιούτοις      μὴ   γενέσθαι   διὸ        ἑκόντες         εἰσίν     γενομένοις            δʼ   οὐκέτι     ἔστι      μὴ   εἶναι
+houtō  de    kai   tōi      adikōi          kai  tōi      akolastōi           ex    archēs         men   exēn          toioutois      mē   genesthai  dio        hekontes        eisin     genomenois            d'   ouketi     esti      mē   einai
+thus   PTCL  also  the.DAT  unjust-one.DAT  and  the.DAT  dissipated-one.DAT  from  beginning.GEN  PTCL  was-possible  such-ones.DAT  not  to-become  therefore  willing.NOM.PL  they-are  having-become.DAT.PL  but  no-longer  possible  not  to-be
+```
 
-This is the same ἀρχή as in the force-passage above, but now located *inside* the agent (ἐν αὐτῷ) rather than outside — the thrown stone cannot be recalled once released, yet the throwing itself had its ἀρχή in the thrower, which is exactly the origin/reversibility distinction the page's discussion of the unjust and dissipated person turns on.
+*"So too for the unjust person and the dissipated person, it was possible at the outset not to become such — which is why they are willing agents — but once they have become so, it is no longer possible not to be so."* This is the exact sentence the page paraphrases in its account of why vice remains voluntary even once fixed: *ἀρχῆς* ("beginning, origin") is the same word as the *ἀρχή* of the force-passage above, but here it is located *ἐξ ἀρχῆς* — "from the beginning" — inside the person's own history rather than outside the agent, which is precisely the origin/current-reversibility distinction the vault's discussion of the unjust and dissipated person turns on.
 
 ## Related
 

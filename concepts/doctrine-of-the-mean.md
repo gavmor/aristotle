@@ -6,7 +6,7 @@ aliases: [the mean, virtue as a mean, golden mean]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's claim that virtue of character is a mean condition between vices of excess and deficiency, relative to us and determined by practical judgment, not a quantitative midpoint.
 provenance:
   extracted: 0.75
@@ -53,63 +53,77 @@ Aristotle's central structural claim about virtue of character (Book II, chapter
 
 ## Greek Gloss
 
-Source: Bk. II, ch. 6 (Bekker 1106a30-1106b4).
+### Bk. II, ch. 6 (Bekker 1106a32-35)
 
-> οἷον εἰ τὰ δέκα πολλὰ τὰ δὲ δύο ὀλίγα, τὰ ἓξ μέσα λαμβάνουσι κατὰ τὸ πρᾶγμα· ἴσῳ γὰρ ὑπερέχει τε καὶ ὑπερέχεται· τοῦτο δὲ μέσον ἐστὶ κατὰ τὴν ἀριθμητικὴν ἀναλογίαν. τὸ δὲ πρὸς ἡμᾶς οὐχ οὕτω ληπτέον· οὐ γὰρ εἴ τῳ δέκα μναῖ φαγεῖν πολὺ δύο δὲ ὀλίγον, ὁ ἀλείπτης ἓξ μνᾶς προστάξει· ἔστι γὰρ ἴσως καὶ τοῦτο πολὺ τῷ ληψομένῳ ἢ ὀλίγον· Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ.
+> οἷον εἰ τὰ δέκα πολλὰ τὰ δὲ δύο ὀλίγα, τὰ ἓξ μέσα λαμβάνουσι κατὰ τὸ πρᾶγμα· ἴσῳ γὰρ ὑπερέχει τε καὶ ὑπερέχεται· τοῦτο δὲ μέσον ἐστὶ κατὰ τὴν ἀριθμητικὴν ἀναλογίαν.
 
-| μεσ- | -ον |
-|---|---|
-| *mes-* | *-on* |
-| root meaning "middle," cognate with Latin *medius*, English "mid-" | neuter singular ending, used substantively: "the middle thing" |
-| → **μέσον**, "the middle," "the mean" | |
+```
+οἷον   εἰ  τὰ          δέκα  πολλὰ        τὰ          δὲ   δύο  ὀλίγα          τὰ          ἓξ   μέσα           λαμβάνουσι  κατὰ          τὸ          πρᾶγμα  ἴσῳ           γὰρ  ὑπερέχει    τε    καὶ  ὑπερέχεται      τοῦτο        δὲ   μέσον        ἐστὶ  κατὰ          τὴν         ἀριθμητικὴν        ἀναλογίαν
+hoion  ei  ta          deka  polla        ta          de   duo  oliga          ta          hex  mesa           lambanousi  kata          to          pragma  isōi          gar  huperechei  te    kai  huperechetai    touto        de   meson        esti  kata          tēn         arithmētikēn       analogian
+e.g.   if  the.NOM.PL  ten   much.NOM.PL  the.NOM.PL  and  two  little.NOM.PL  the.ACC.PL  six  middle.ACC.PL  they-take   according-to  the.ACC.SG  thing   by-equal.DAT  for  it-exceeds  both  and  it-is-exceeded  this.NOM.SG  and  mean.NOM.SG  is    according-to  the.ACC.SG  arithmetic.ACC.SG  proportion.ACC.SG
+```
 
-This is the Milo passage itself: the "mean of the thing" (six, arithmetically between ten and two) is one and the same for everyone, but the "mean relative to us" is not — it is exactly this μέσον, not the arithmetic one, that the doctrine tracks.
+*"For example, if ten [pounds] is much and two is little, people take six as the middle amount, according to the thing itself; for it exceeds and is exceeded by an equal amount — and this is a mean according to arithmetic proportion."* This is the arithmetic-midpoint half of the page's first bullet: **μέσον** (root *mes-*, cognate with Latin *medius*, English "mid-") here names a fixed point the same for everyone, reached by simple subtraction — exactly the "mean that belongs to the thing" Aristotle is about to set aside.
 
-Source: Bk. II, ch. 6 (Bekker 1107a5-9).
+### Bk. II, ch. 6 (Bekker 1106a35-1106b4)
+
+> τὸ δὲ πρὸς ἡμᾶς οὐχ οὕτω ληπτέον· οὐ γὰρ εἴ τῳ δέκα μναῖ φαγεῖν πολὺ δύο δὲ ὀλίγον, ὁ ἀλείπτης ἓξ μνᾶς προστάξει· ἔστι γὰρ ἴσως καὶ τοῦτο πολὺ τῷ ληψομένῳ ἢ ὀλίγον· Μίλωνι μὲν γὰρ ὀλίγον, τῷ δὲ ἀρχομένῳ τῶν γυμνασίων πολύ.
+
+```
+τὸ          δὲ   πρὸς         ἡμᾶς    οὐχ   οὕτω   ληπτέον        οὐ   γὰρ  εἴ  τῳ               δέκα  μναῖ          φαγεῖν   πολὺ         δύο  δὲ   ὀλίγον         ὁ           ἀλείπτης        ἓξ   μνᾶς          προστάξει       ἔστι            γὰρ  ἴσως     καὶ   τοῦτο        πολὺ         τῷ           ληψομένῳ               ἢ   ὀλίγον         Μίλωνι        μὲν   γὰρ  ὀλίγον         τῷ           δὲ   ἀρχομένῳ            τῶν         γυμνασίων         πολύ
+to          de   pros         hēmas   ouch  houtō  lēpteon        ou   gar  ei  tōi              deka  mnai          phagein  polu         duo  de   oligon         ho          aleiptēs        hex  mnas          prostaxei       esti            gar  isōs     kai   touto        polu         tōi          lēpsomenōi             ē   oligon         Milōni        men   gar  oligon         tōi          de   archomenōi          tōn         gumnasiōn         polu
+the.NOM.SG  but  relative-to  us.ACC  not   thus   must-be-taken  not  for  if  for-someone.DAT  ten   minae.NOM.PL  to-eat   much.NOM.SG  two  but  little.NOM.SG  the.NOM.SG  trainer.NOM.SG  six  minae.ACC.PL  will-prescribe  it-is-possible  for  perhaps  even  this.NOM.SG  much.NOM.SG  for-the.DAT  who-will-receive.PTCP  or  little.NOM.SG  for-Milo.DAT  PTCL  for  little.NOM.SG  for-the.DAT  but  beginning.PTCP.DAT  the.GEN.PL  exercises.GEN.PL  much.NOM.SG
+```
+
+*"But the mean relative to us must not be taken this way: for if ten minae of food is a lot for someone to eat and two minae a little, the trainer will not for that reason prescribe six minae, since this too may be a lot or a little for the one who is to take it — a little for Milo, but a lot for the beginner at gymnastic exercises."* This is the Milo half: **πρὸς ἡμᾶς**, "relative to us," is the two-word phrase the whole doctrine hinges on, and the verbal adjective **ληπτέον** ("[it] must-be-taken," from *lambanō* + the *-τέον* suffix of obligation) frames this as a rule about method, not just an anecdote — six minae is flatly the wrong prescription whether Milo or a novice is the one eating.
+
+### Bk. II, ch. 6 (Bekker 1107a6-8)
 
 > διὸ κατὰ μὲν τὴν οὐσίαν καὶ τὸν λόγον τὸν τὸ τί ἦν εἶναι λέγοντα μεσότης ἐστὶν ἡ ἀρετή, κατὰ δὲ τὸ ἄριστον καὶ τὸ εὖ ἀκρότης.
 
-| ἀκρ- | -ο- | -της |
-|---|---|---|
-| *akr-* | linking vowel | abstract-noun suffix, "-ness"/state of being |
-| root meaning "topmost point, extremity" (cf. *akros*, "highest, outermost") | | → **ἀκρότης**, "extremity," "being at the peak" |
+```
+διὸ        κατὰ          μὲν   τὴν         οὐσίαν        καὶ  τὸν         λόγον           τὸν         τὸ          τί    ἦν   εἶναι  λέγοντα           μεσότης            ἐστὶν  ἡ           ἀρετή          κατὰ          δὲ   τὸ          ἄριστον      καὶ  τὸ          εὖ          ἀκρότης
+dio        kata          men   tēn         ousian        kai  ton         logon           ton         to          ti    ēn   einai  legonta           mesotēs            estin  hē          aretē          kata          de   to          ariston      kai  to          eu          akrotēs
+therefore  according-to  PTCL  the.ACC.SG  being.ACC.SG  and  the.ACC.SG  account.ACC.SG  the.ACC.SG  the.ACC.SG  what  was  to-be  stating.PTCP.ACC  mean-state.NOM.SG  is     the.NOM.SG  virtue.NOM.SG  according-to  but  the.ACC.SG  best.ACC.SG  and  the.ACC.SG  doing-well  extremity.NOM.SG
+```
 
-This is the exact clause behind Sachs's point that virtue is a mean only "in its thinghood" (οὐσία) but an ἀκρότης — an extreme — "in what is best and well-done"; the mean is not mediocrity but the peak condition.
+*"Hence in respect of its being — the account stating what it is to be virtue — virtue is a mean-state, but in respect of what is best and done well, it is an extremity."* This is the exact clause behind Sachs's point that virtue is a mean only "in its thinghood" (**οὐσία**) but an **ἀκρότης** — built from *akr-*, "topmost point, extremity" (cf. *akros*, "highest, outermost"), plus the linking vowel and the abstract-noun suffix *-της* — an extreme in what is best and well-done; the mean is not mediocrity but the peak condition.
 
-Source: Bk. II, ch. 6 (Bekker 1107a9-12).
+### Bk. II, ch. 6 (Bekker 1107a9-14)
 
-> οὐ πᾶσα δʼ ἐπιδέχεται πρᾶξις οὐδὲ πᾶν πάθος τὴν μεσότητα· ἔνια γὰρ εὐθὺς ὠνόμασται συνειλημμένα μετὰ τῆς φαυλότητος, οἷον ἐπιχαιρεκακία ἀναισχυντία φθόνος, καὶ ἐπὶ τῶν πράξεων μοιχεία κλοπὴ ἀνδροφονία·
+> οὐ πᾶσα δʼ ἐπιδέχεται πρᾶξις οὐδὲ πᾶν πάθος τὴν μεσότητα· ἔνια γὰρ εὐθὺς ὠνόμασται συνειλημμένα μετὰ τῆς φαυλότητος, οἷον ἐπιχαιρεκακία ἀναισχυντία φθόνος, καὶ ἐπὶ τῶν πράξεων μοιχεία κλοπὴ ἀνδροφονία· πάντα γὰρ ταῦτα καὶ τὰ τοιαῦτα λέγεται τῷ αὐτὰ φαῦλα εἶναι, ἀλλʼ οὐχ αἱ ὑπερβολαὶ αὐτῶν οὐδʼ αἱ ἐλλείψεις.
 
-| ἀνδρ- | -ο- | φον- | -ία |
-|---|---|---|---|
-| *andr-* | linking vowel | root of *phonos*, "killing, slaughter" | abstract-noun suffix |
-| "man" | | | → **ἀνδροφονία**, "man-slaying," murder |
+```
+οὐ   πᾶσα            δʼ   ἐπιδέχεται   πρᾶξις         οὐδὲ  πᾶν             πάθος           τὴν         μεσότητα           ἔνια           γὰρ  εὐθὺς         ὠνόμασται  συνειλημμένα          μετὰ           τῆς         φαυλότητος      οἷον   ἐπιχαιρεκακία               ἀναισχυντία           φθόνος       καὶ  ἐπὶ             τῶν         πράξεων         μοιχεία          κλοπὴ         ἀνδροφονία     πάντα         γὰρ  ταῦτα           καὶ  τὰ            τοιαῦτα        λέγεται     τῷ           αὐτὰ               φαῦλα        εἶναι  ἀλλʼ  οὐχ   αἱ            ὑπερβολαὶ        αὐτῶν           οὐδʼ  αἱ            ἐλλείψεις
+ou   pasa            d'   epidechetai  praxis         oude  pan             pathos          tēn         mesotēta           enia           gar  euthus        ōnomastai  suneilēmmena          meta           tēs         phaulotētos     hoion  epichairekakia              anaischuntia          phthonos     kai  epi             tōn         praxeōn         moicheia         klopē         androphonia    panta         gar  tauta           kai  ta            toiauta        legetai     tōi          auta               phaula       einai  all'  ouch  hai           huperbolai       autōn           oud'  hai           elleipseis
+not  every.NOM.SG.F  and  admits-of    action.NOM.SG  nor   every.NOM.SG.N  feeling.NOM.SG  the.ACC.SG  mean-state.ACC.SG  some.NOM.PL.N  for  straightaway  are-named  bound-up.PTCP.NOM.PL  together-with  the.GEN.SG  badness.GEN.SG  e.g.   spite-at-misfortune.NOM.SG  shamelessness.NOM.SG  envy.NOM.SG  and  in-the-case-of  the.GEN.PL  actions.GEN.PL  adultery.NOM.SG  theft.NOM.SG  murder.NOM.SG  all.NOM.PL.N  for  these.NOM.PL.N  and  the.NOM.PL.N  such.NOM.PL.N  are-called  by-the-fact  themselves.ACC.PL  base.ACC.PL  to-be  but   not   the.NOM.PL.F  excesses.NOM.PL  of-them.GEN.PL  nor   the.NOM.PL.F  deficiencies.NOM.PL
+```
 
-The word itself already names the badness — there is no proportion of ἀνδροφονία that would be "the right amount," which is exactly the limit-case the page's third bullet describes.
+*"Not every action nor every feeling admits of the mean-state; for some are named straightaway bound up with baseness — spite-at-misfortune, shamelessness, envy, and, among actions, adultery, theft, murder — for all of these, and things like them, are called [bad] because they themselves are base, not because their excesses or deficiencies are."* This is the exact list behind the page's third bullet: **ἀνδροφονία** (*andr-*, "man," + linking vowel + *phon-*, "killing, slaughter," + the abstract-noun suffix *-ία*), "man-slaying," is named badness itself, with no proportion of it that would be "the right amount."
 
-Source: Bk. II, ch. 7 (Bekker 1107b1-4).
+### Bk. II, ch. 7 (Bekker 1107b1-4)
 
 > τῶν δʼ ὑπερβαλλόντων ὁ μὲν τῇ ἀφοβίᾳ ἀνώνυμος (πολλὰ δʼ ἐστὶν ἀνώνυμα), ὁ δʼ ἐν τῷ θαρρεῖν ὑπερβάλλων θρασύς, ὁ δʼ ἐν τῷ μὲν φοβεῖσθαι ὑπερβάλλων τῷ δὲ θαρρεῖν ἐλλείπων δειλός.
 
-| ἀ- | ὀνυμ- | -ος |
-|---|---|---|
-| *a-* | *onym-* | adjective ending |
-| negative prefix, "not/without" | root variant of *onoma*, "name" | |
-| → **ἀνώνυμος**, "nameless" | | |
+```
+τῶν              δʼ   ὑπερβαλλόντων          ὁ               μὲν   τῇ             ἀφοβίᾳ               ἀνώνυμος         πολλὰ          δʼ   ἐστὶν  ἀνώνυμα            ὁ               δʼ   ἐν  τῷ          θαρρεῖν              ὑπερβάλλων             θρασύς       ὁ               δʼ   ἐν  τῷ          μὲν   φοβεῖσθαι         ὑπερβάλλων             τῷ          δὲ   θαρρεῖν              ἐλλείπων                   δειλός
+tōn              d'   huperballontōn         ho              men   tēi            aphobiāi             anōnumos         polla          d'   estin  anōnuma            ho              d'   en  tōi         tharrein             huperballōn            thrasus      ho              d'   en  tōi         men   phobeisthai       huperballōn            tōi         de   tharrein             elleipōn                   deilos
+of-those.GEN.PL  and  exceeding.PTCP.GEN.PL  the-one.NOM.SG  PTCL  in-the.DAT.SG  fearlessness.DAT.SG  nameless.NOM.SG  many.NOM.PL.N  and  are    nameless.NOM.PL.N  the-one.NOM.SG  and  in  the.DAT.SG  being-confident.INF  exceeding.PTCP.NOM.SG  rash.NOM.SG  the-one.NOM.SG  and  in  the.DAT.SG  PTCL  being-afraid.INF  exceeding.PTCP.NOM.SG  the.DAT.SG  but  being-confident.INF  falling-short.PTCP.NOM.SG  cowardly.NOM.SG
+```
 
-This is Aristotle's own aside — "there are many nameless things" — at the very moment he introduces the excess-of-fearlessness disposition later coined *aphobia*, confirming the page's point that the doctrine maps character-space wider than Greek vocabulary.
+*"Of those who exceed, the one exceeding in fearlessness is nameless (many things are nameless), the one exceeding in confidence is rash, and the one exceeding in fear while falling short in confidence is cowardly."* This is Aristotle's own aside that a name is missing — **ἀνώνυμος** (the negative prefix *a-* + *onym-*, a root variant of *onoma*, "name," + the adjective ending *-ος*), "nameless" — for the excess-of-fearlessness disposition later coined *aphobia*, confirming the page's point that the doctrine maps character-space wider than Greek vocabulary already covers.
 
-Source: Bk. II, ch. 9 (Bekker 1109b20-24).
+### Bk. II, ch. 9 (Bekker 1109b20-24)
 
 > ὁ δὲ μέχρι τίνος καὶ ἐπὶ πόσον ψεκτὸς οὐ ῥᾴδιον τῷ λόγῳ ἀφορίσαι· οὐδὲ γὰρ ἄλλο οὐδὲν τῶν αἰσθητῶν· τὰ δὲ τοιαῦτα ἐν τοῖς καθʼ ἕκαστα, καὶ ἐν τῇ αἰσθήσει ἡ κρίσις.
 
-| αἰσθ- | -σις |
-|---|---|
-| *aisth-* | *-sis* |
-| root of *aisthanomai*, "to perceive, sense" | abstract noun suffix denoting an act or process |
-| → **αἴσθησις**, "perception," "sense-perception" | |
+```
+ὁ           δὲ   μέχρι   τίνος     καὶ  ἐπὶ  πόσον         ψεκτὸς              οὐ   ῥᾴδιον       τῷ             λόγῳ            ἀφορίσαι   οὐδὲ  γὰρ  ἄλλο          οὐδὲν           τῶν            αἰσθητῶν                   τὰ            δὲ   τοιαῦτα        ἐν  τοῖς        καθʼ          ἕκαστα              καὶ  ἐν  τῇ          αἰσθήσει           ἡ           κρίσις
+ho          de   mechri  tinos     kai  epi  poson         psektos             ou   rhāidion     tōi            logōi           aphorisai  oude  gar  allo          ouden           tōn            aisthētōn                  ta            de   toiauta        en  tois        kath'         hekasta             kai  en  tēi         aisthēsei          hē          krisis
+the.NOM.SG  but  up-to   what.GEN  and  to   how-much.ACC  blameworthy.NOM.SG  not  easy.NOM.SG  by-the.DAT.SG  account.DAT.SG  to-define  nor   for  other.NOM.SG  nothing.NOM.SG  of-the.GEN.PL  perceptible-things.GEN.PL  the.NOM.PL.N  and  such.NOM.PL.N  in  the.DAT.PL  according-to  particulars.ACC.PL  and  in  the.DAT.SG  perception.DAT.SG  the.NOM.SG  judgment.NOM.SG
+```
 
-This is the exact source of the page's "in the perceiving" refrain: how far one may lean before being blamed cannot be fixed by a λόγος (a stated rule) at all, because — like all particulars — the verdict lies ἐν τῇ αἰσθήσει.
+*"Up to what point and how far one is blameworthy is not easy to mark off by a rational account — nor is anything else among perceptible things; such matters lie among particulars, and the verdict lies in perception."* This is the exact source of the page's "in the perceiving" refrain: how far one may lean before being blamed cannot be fixed by a **λόγος** (a stated rule) at all, because — like all particulars — the verdict lies ἐν τῇ **αἰσθήσει** (*aisth-*, the root of *aisthanomai*, "to perceive, sense," + the abstract-noun suffix *-σις* denoting an act or process), "perception."
 
 ## Related
 

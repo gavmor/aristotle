@@ -6,7 +6,7 @@ aliases: [happiness, human flourishing, the human good]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's answer to what the highest human good is — complete, self-sufficient being-at-work of the soul in accordance with virtue, over a whole life.
 provenance:
   extracted: 0.75
@@ -46,65 +46,65 @@ Aristotle's term for the highest human good, at stake from the opening line of t
 
 ## Greek Gloss
 
-Source: Bk. I, ch. 7 (Bekker 1097b6-11).
+### Bk. I, ch. 7 (Bekker 1097b8-11)
 
-> φαίνεται δὲ καὶ ἐκ τῆς αὐταρκείας τὸ αὐτὸ συμβαίνειν· τὸ γὰρ τέλειον ἀγαθὸν αὔταρκες εἶναι δοκεῖ. τὸ δʼ αὔταρκες λέγομεν οὐκ αὐτῷ μόνῳ, τῷ ζῶντι βίον μονώτην, ἀλλὰ καὶ γονεῦσι καὶ τέκνοις καὶ γυναικὶ καὶ ὅλως τοῖς φίλοις καὶ πολίταις, ἐπειδὴ φύσει πολιτικὸν ὁ ἄνθρωπος.
+> τὸ δʼ αὔταρκες λέγομεν οὐκ αὐτῷ μόνῳ, τῷ ζῶντι βίον μονώτην, ἀλλὰ καὶ γονεῦσι καὶ τέκνοις καὶ γυναικὶ καὶ ὅλως τοῖς φίλοις καὶ πολίταις, ἐπειδὴ φύσει πολιτικὸν ὁ ἄνθρωπος.
 
-| αὐτ- | -αρκ- | -ης |
-|---|---|---|
-| *aut-* | *ark-* | *-ēs* |
-| "self" | root of *arkeō*, "to be sufficient, suffice" | adjective-forming suffix |
-| → **αὐτάρκης**, "self-sufficient," "having enough in itself" | | |
+```
+τὸ     δʼ   αὔταρκες    λέγομεν  οὐκ  αὐτῷ     μόνῳ       τῷ       ζῶντι        βίον      μονώτην       ἀλλὰ  καὶ   γονεῦσι      καὶ  τέκνοις       καὶ  γυναικὶ   καὶ  ὅλως    τοῖς     φίλοις       καὶ  πολίταις      ἐπειδὴ  φύσει      πολιτικὸν  ὁ        ἄνθρωπος
+to     d'   autarkes    legomen  ouk  autōi    monōi      tōi      zōnti        bion      monōtēn       alla  kai   goneusi      kai  teknois       kai  gynaiki   kai  holōs   tois     philois      kai  politais      epeidē  physei     politikon  ho       anthrōpos
+the.N  and  self-suff.  we-say   not  him.DAT  alone.DAT  the.DAT  living.PTCP  life.ACC  solitary.ACC  but   also  parents.DAT  and  children.DAT  and  wife.DAT  and  wholly  the.DAT  friends.DAT  and  citizens.DAT  since   by-nature  political  the.NOM  human
+```
 
-The word's own root (arkeō) already says "enough" — Aristotle then argues that "enough" for a human being is never a solitary enough, since the sentence immediately extends self-sufficiency outward to parents, children, spouse, friends, and fellow citizens.
+*"We call the self-sufficient not what belongs to someone living a solitary life all by himself, but also to parents, children, a wife, and generally to friends and fellow citizens, since a human being is by nature a political [animal]."* The whole claim rides on a chain of datives (γονεῦσι, τέκνοις, γυναικὶ, φίλοις, πολίταις) piling up around αὔταρκες itself — αὐτ- "self" plus the ark- root of ἀρκέω, "to suffice" — so that "enough for oneself" turns out, grammatically, never to mean oneself alone.
 
-Source: Bk. I, ch. 7 (Bekker 1098a5-7).
+### Bk. I, ch. 7 (Bekker 1098a16-18)
 
-> εἰ δʼ ἐστὶν ἔργον ἀνθρώπου ψυχῆς ἐνέργεια κατὰ λόγον ἢ μὴ ἄνευ λόγου, τὸ δʼ αὐτό φαμεν ἔργον εἶναι τῷ γένει τοῦδε καὶ τοῦδε σπουδαίου, ὥσπερ κιθαριστοῦ καὶ σπουδαίου κιθαριστοῦ.
+> τὸ ἀνθρώπινον ἀγαθὸν ψυχῆς ἐνέργεια γίνεται κατʼ ἀρετήν, εἰ δὲ πλείους αἱ ἀρεταί, κατὰ τὴν ἀρίστην καὶ τελειοτάτην.
 
-| ἐργ- | -ον |
-|---|---|
-| *erg-* | *-on* |
-| root meaning "work, deed" | neuter noun-forming ending |
-| → **ἔργον**, "work," "characteristic task" | |
+```
+τὸ     ἀνθρώπινον   ἀγαθὸν   ψυχῆς     ἐνέργεια       γίνεται  κατʼ          ἀρετήν      εἰ  δὲ   πλείους  αἱ      ἀρεταί      κατὰ          τὴν      ἀρίστην   καὶ  τελειοτάτην
+to     anthrōpinon  agathon  psychēs   energeia       ginetai  kat'          aretēn      ei  de   pleious  hai     aretai      kata          tēn      aristēn   kai  teleiotatēn
+the.N  human.N      good.N   soul.GEN  being-at-work  becomes  according-to  virtue.ACC  if  and  more.PL  the.PL  virtues.PL  according-to  the.ACC  best.ACC  and  most-complete.ACC
+```
 
-This is the noun that gives [[concepts/energeia|ἐνέργεια]] its root; the sentence's whole argument turns on treating a human life itself as having an ἔργον, the way a craft or a bodily part does, so that the good becomes activity of soul in accordance with reason.
+*"The human good becomes a being-at-work of the soul in accordance with virtue, and if the virtues are several, in accordance with the best and most complete one."* This is the payoff of the [[concepts/energeia|ergon argument]]; τελειοτάτην is the superlative of τέλειος (itself from τέλος, "end, fulfillment") — the same completeness the page's first bullet uses to define happiness itself, here narrowed onto whichever single virtue, among several, is most fully realized.
 
-Source: Bk. I, ch. 7 (Bekker 1098a16-20).
+### Bk. I, ch. 7 (Bekker 1098a18-20)
 
-> τὸ ἀνθρώπινον ἀγαθὸν ψυχῆς ἐνέργεια γίνεται κατʼ ἀρετήν, εἰ δὲ πλείους αἱ ἀρεταί, κατὰ τὴν ἀρίστην καὶ τελειοτάτην. ἔτι δʼ ἐν βίῳ τελείῳ. μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα· οὕτω δὲ οὐδὲ μακάριον καὶ εὐδαίμονα μία ἡμέρα οὐδʼ ὀλίγος χρόνος.
+> μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα· οὕτω δὲ οὐδὲ μακάριον καὶ εὐδαίμονα μία ἡμέρα οὐδʼ ὀλίγος χρόνος.
 
-| τελ- | -ειος |
-|---|---|
-| *tel-* | *-eios* |
-| root of *telos*, "end, completion, fulfillment" | adjectival suffix, "characterized by" |
-| → **τέλειος**, "complete," "brought to its fulfillment" | |
+```
+μία    γὰρ  χελιδὼν   ἔαρ         οὐ   ποιεῖ  οὐδὲ  μία    ἡμέρα   οὕτω   δὲ   οὐδὲ  μακάριον     καὶ  εὐδαίμονα  μία    ἡμέρα   οὐδʼ  ὀλίγος  χρόνος
+mia    gar  chelidōn  ear         ou   poiei  oude  mia    hēmera  houtō  de   oude  makarion     kai  eudaimona  mia    hēmera  oud'  oligos  chronos
+one.F  for  swallow   spring.ACC  not  makes  nor   one.F  day     so     and  nor   blessed.ACC  and  happy.ACC  one.F  day     nor   short   time
+```
 
-The same root that names the highest good as *teleion* (complete, chosen for itself) here reappears attached to *bios*: happiness needs a whole completed life, not a single lucky day, which is the point of the swallow-and-spring proverb.
+*"For one swallow does not make a spring, nor does one day; likewise neither does one day, nor a short time, make one blessed and happy."* εὐδαίμονα — the inflected form of the very word this page is named for — fuses εὐ- "good" onto δαίμων, "guardian spirit, divine power"; Aristotle's swallow proverb (μία χελιδών) argues that this good-spirited state cannot be a single day's stroke of luck but must characterize a whole life.
 
-Source: Bk. I, ch. 8 (Bekker 1099b1-6).
+### Bk. I, ch. 8 (Bekker 1099b2-6)
 
 > ἐνίων δὲ τητώμενοι ῥυπαίνουσι τὸ μακάριον, οἷον εὐγενείας εὐτεκνίας κάλλους· οὐ πάνυ γὰρ εὐδαιμονικὸς ὁ τὴν ἰδέαν παναίσχης ἢ δυσγενὴς ἢ μονώτης καὶ ἄτεκνος, ἔτι δʼ ἴσως ἧττον, εἴ τῳ πάγκακοι παῖδες εἶεν ἢ φίλοι, ἢ ἀγαθοὶ ὄντες τεθνᾶσιν.
 
-| ἀ- | τεκν- | -ος |
-|---|---|---|
-| *a-* | *tekn-* | *-os* |
-| privative prefix, "without, lacking" | root of *teknon*, "child" (from *tiktō*, "beget, bear") | adjective ending |
-| → **ἄτεκνος**, "childless" | | |
+```
+ἐνίων     δὲ   τητώμενοι      ῥυπαίνουσι   τὸ       μακάριον       οἷον     εὐγενείας       εὐτεκνίας          κάλλους     οὐ   πάνυ  γὰρ  εὐδαιμονικὸς     ὁ        τὴν      ἰδέαν           παναίσχης     ἢ   δυσγενὴς  ἢ   μονώτης   καὶ  ἄτεκνος    ἔτι    δʼ   ἴσως     ἧττον   εἴ  τῳ           πάγκακοι        παῖδες       εἶεν       ἢ   φίλοι       ἢ   ἀγαθοὶ   ὄντες       τεθνᾶσιν
+eniōn     de   tētōmenoi      rhypainousi  to       makarion       hoion    eugeneias       euteknias          kallous     ou   panu  gar  eudaimonikos     ho       tēn      idean           panaischēs    ē   dysgenēs  ē   monōtēs   kai  ateknos    eti    d'   isōs     hētton  ei  tōi          pankakoi        paides       eien       ē   philoi      ē   agathoi  ontes       tethnasin
+some.GEN  and  deprived.PTCP  besmirch     the.ACC  blessed-state  such-as  good-birth.GEN  good-children.GEN  beauty.GEN  not  very  for  apt-to-be-happy  the-one  the.ACC  appearance.ACC  utterly-ugly  or  low-born  or  solitary  and  childless  still  and  perhaps  less    if  for-one.DAT  utterly-bad.PL  children.PL  should-be  or  friends.PL  or  good.PL  being.PTCP  have-died
+```
 
-The negative prefix does real work here: Aristotle is listing what stains or dims (*rhypainousi*) a blessed life even when the inner activity of virtue is intact — solitude, childlessness, and ugliness among them — which is exactly why external goods are needed, not just virtue.
+*"Being deprived of some of these things besmirches one's blessedness — good birth, good children, beauty; for someone who is utterly ugly in appearance, or low-born, or solitary and childless, is not very apt to be happy — still less, perhaps, if one's children or friends are utterly bad, or were good but have died."* ἄτεκνος folds the alpha-privative ἀ-, "without," onto the -τεκν- root of τέκνον, "child" (from τίκτω, "beget"); Aristotle lists childlessness alongside solitude and ugliness as exactly the kind of external deficiency that can dim (ῥυπαίνουσι, "besmirch") a life's blessedness even while the inner activity of virtue stays intact.
 
-Source: Bk. X, ch. 7 (Bekker 1177a12-19).
+### Bk. X, ch. 7 (Bekker 1177a12-19)
 
 > εἴτε δὴ νοῦς τοῦτο εἴτε ἄλλο τι, ὃ δὴ κατὰ φύσιν δοκεῖ ἄρχειν καὶ ἡγεῖσθαι καὶ ἔννοιαν ἔχειν περὶ καλῶν καὶ θείων, εἴτε θεῖον ὂν καὶ αὐτὸ εἴτε τῶν ἐν ἡμῖν τὸ θειότατον, ἡ τούτου ἐνέργεια κατὰ τὴν οἰκείαν ἀρετὴν εἴη ἂν ἡ τελεία εὐδαιμονία.
 
-| θε- | -ῖος |
-|---|---|
-| *the-* | *-ios* |
-| root of *theos*, "god" | adjectival suffix, "-like, pertaining to" |
-| → **θεῖος**, "divine," "godlike" | |
+```
+εἴτε     δὴ      νοῦς       τοῦτο  εἴτε  ἄλλο   τι         ὃ      δὴ      κατὰ          φύσιν       δοκεῖ  ἄρχειν   καὶ  ἡγεῖσθαι    καὶ  ἔννοιαν            ἔχειν    περὶ        καλῶν         καὶ  θείων          εἴτε     θεῖον     ὂν          καὶ   αὐτὸ    εἴτε  τῶν         ἐν  ἡμῖν    τὸ     θειότατον    ἡ    τούτου   ἐνέργεια       κατὰ          τὴν      οἰκείαν     ἀρετὴν      εἴη       ἂν   ἡ    τελεία    εὐδαιμονία
+eite     dē      nous       touto  eite  allo   ti         ho     dē      kata          physin      dokei  archein  kai  hēgeisthai  kai  ennoian            echein   peri        kalōn         kai  theiōn         eite     theion    on          kai   auto    eite  tōn         en  hēmin   to     theiotaton   hē   toutou   energeia       kata          tēn      oikeian     aretēn      eiē       an   hē   teleia    eudaimonia
+whether  indeed  intellect  this   or    other  something  which  indeed  according-to  nature.ACC  seems  to-rule  and  to-lead     and  understanding.ACC  to-have  concerning  noble.GEN.PL  and  divine.GEN.PL  whether  divine.N  being.PTCP  even  itself  or    the.GEN.PL  in  us.DAT  the.N  most-divine  the  its.GEN  being-at-work  according-to  the.ACC  proper.ACC  virtue.ACC  would-be  MOD  the  complete  happiness
+```
 
-Whatever this ruling element in us is called — nous or "the most divine thing in us" — Aristotle grounds Book X's claim that complete happiness is contemplation on the idea that this part of the soul is θεῖον, so its being-at-work is the most complete happiness available to a human life.
+*"Whether it is intellect, then, or something else that by nature seems to rule and lead and to have understanding about noble and divine things, whether it is itself something divine or the most divine thing in us, its being-at-work in accordance with its proper virtue would be complete happiness."* θεῖον and θειότατον both carry the θε- root of θεός, "god," plus the -ιος adjectival suffix; Book X's identification of complete happiness with [[concepts/contemplative-life|contemplation]] turns on calling this ruling part of the soul divine in exactly this sense, so that its ἐνέργεια — not virtuous activity generally — is what ἡ τελεία εὐδαιμονία, "complete happiness," ultimately names.
 
 ## Related
 

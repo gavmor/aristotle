@@ -6,7 +6,7 @@ aliases: [active condition, character, state of character]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's term for a stable, actively-held condition of soul (as opposed to a mere passive habit or feeling) — the genus to which virtue and vice belong.
 provenance:
   extracted: 0.72
@@ -40,74 +40,67 @@ Per translator Joe Sachs, "one of the most important words in the [[references/n
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. II, ch. 6 (Bekker 1106a-b), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via PerseusDL's `canonical-greekLit` TEI XML (public domain). Every word of each cited sentence is glossed below, Leipzig-interlinear style, columns computed programmatically (not hand-spaced) so the Greek, transliteration, and gloss tiers stay in lockstep.
+
+### Bk. II, ch. 6 (Bekker 1106a22-24)
 
 > ἡ τοῦ ἀνθρώπου ἀρετὴ εἴη ἂν ἡ ἕξις ἀφʼ ἧς ἀγαθὸς ἄνθρωπος γίνεται καὶ ἀφʼ ἧς εὖ τὸ ἑαυτοῦ ἔργον ἀποδώσει.
 
-**ἕξις**, morpheme by morpheme:
+```
+ἡ        τοῦ      ἀνθρώπου   ἀρετὴ       εἴη       ἂν    ἡ        ἕξις              ἀφʼ   ἧς         ἀγαθὸς    ἄνθρωπος   γίνεται  καὶ  ἀφʼ   ἧς         εὖ    τὸ       ἑαυτοῦ       ἔργον     ἀποδώσει
+hē       tou      anthrōpou  aretē       eiē       an    hē       hexis             aph'  hēs        agathos   anthrōpos  ginetai  kai  aph'  hēs        eu    to       heautou      ergon     apodōsei
+the.NOM  the.GEN  human.GEN  virtue.NOM  would-be  PTCL  the.NOM  active-condition  from  which.GEN  good.NOM  human.NOM  becomes  and  from  which.GEN  well  the.ACC  his-own.GEN  work.ACC  will-render
+```
 
-| ἐχ- | -σις |
-|---|---|
-| *ech-* | *-sis* |
-| root of *echō*, "to have, hold" (perfect stem *heh-/hex-*) | abstract noun suffix forming a noun of state/action from a verb stem |
-| → **ἕξις**, "a having," "a holding" (χ + σ → ξ by regular sound change) | |
+*"The virtue of a human being would be the active condition from which a good human being comes about, and from which he will perform his own work well."* This is the sentence the page's opening paragraph is built on: *hexis* here is a noun of state built on *echō* ("to have, hold" in an effortful, sustained sense), not on mere possession — the word's own grammar names a *held* condition, sustained by the one who has it, which is exactly what "active condition" is trying to preserve against "habit." Note too the echo of *ergon* ("work," last word) — the same root that gives [[concepts/energeia|*energeia*]] its name, tying the hexis/energeia pair together at the level of vocabulary, not just doctrine.
 
-*Hexis* is a noun of state built directly on the verb "to have" — not on *ktaomai* ("to acquire, possess," as one possesses property), but on *echō* in the sense of actively holding onto or maintaining something. This is exactly what Sachs's "active condition" is trying to preserve against "habit": the word's own grammar names a *held* condition, sustained by the one who has it, not a static possession sitting in a drawer. Note also the direct echo of *ergon* ("work") in "ἀποδώσει... ἔργον" — the same root that gives [[concepts/energeia|*energeia*]] its name, tying the hexis/energeia pair together at the level of vocabulary, not just doctrine.
-
-Source: Bk. II, ch. 1 (Bekker 1103a14-18).
+### Bk. II, ch. 1 (Bekker 1103a14-18)
 
 > διττῆς δὴ τῆς ἀρετῆς οὔσης, τῆς μὲν διανοητικῆς τῆς δὲ ἠθικῆς, ἡ μὲν διανοητικὴ τὸ πλεῖον ἐκ διδασκαλίας ἔχει καὶ τὴν γένεσιν καὶ τὴν αὔξησιν, διόπερ ἐμπειρίας δεῖται καὶ χρόνου, ἡ δʼ ἠθικὴ ἐξ ἔθους περιγίνεται, ὅθεν καὶ τοὔνομα ἔσχηκε μικρὸν παρεκκλῖνον ἀπὸ τοῦ ἔθους.
 
-**ἔθος**, morpheme by morpheme:
+```
+διττῆς       δὴ    τῆς      ἀρετῆς      οὔσης       τῆς      μὲν   διανοητικῆς  τῆς      δὲ    ἠθικῆς    ἡ        μὲν   διανοητικὴ   τὸ       πλεῖον     ἐκ    διδασκαλίας   ἔχει   καὶ  τὴν      γένεσιν     καὶ  τὴν      αὔξησιν     διόπερ     ἐμπειρίας       δεῖται  καὶ  χρόνου    ἡ        δʼ    ἠθικὴ     ἐξ    ἔθους      περιγίνεται  ὅθεν    καὶ   τοὔνομα   ἔσχηκε      μικρὸν    παρεκκλῖνον     ἀπὸ   τοῦ      ἔθους
+dittēs       dē    tēs      aretēs      ousēs       tēs      men   dianoētikēs  tēs      de    ēthikēs   hē       men   dianoētikē   to       pleion     ek    didaskalias   echei  kai  tēn      genesin     kai  tēn      auxēsin     dioper     empeirias       deitai  kai  chronou   hē       d'    ēthikē    ex    ethous     periginetai  hothen  kai   tounoma   eschēke     mikron    parekklinon     apo   tou      ethous
+twofold.GEN  PTCL  the.GEN  virtue.GEN  being.PTCP  the.GEN  PTCL  thought.GEN  the.GEN  PTCL  char.GEN  the.NOM  PTCL  thought.NOM  the.ACC  most-part  from  teaching.GEN  has    and  the.ACC  origin.ACC  and  the.ACC  growth.ACC  wherefore  experience.GEN  needs   and  time.GEN  the.NOM  PTCL  char.NOM  from  habit.GEN  arises       whence  also  the-name  has-gotten  a-little  deviating.PTCP  from  the.GEN  habit.GEN
+```
 
-| ἐθ- | -ος |
-|---|---|
-| *eth-* | *-os* |
-| root meaning "custom, wont, habitual usage" | noun-forming suffix |
-| → **ἔθος**, "habit," "custom" (note: ἦθος, "character," is the same root in its η-grade form) | |
+*"Virtue being of two kinds, one of thought and the other of character, the virtue of thought owes its origin and growth mainly to teaching, and needs experience and time; character virtue, on the other hand, comes about as a result of habit, whence also its name, formed by a slight variation from the word for habit."* Aristotle is explicit that *ēthikē* ("character virtue," eta-grade) is only a slight turning aside — *παρεκκλῖνον*, a participle built on *klinō* "to bend, incline" with the *para-* prefix "alongside" — from *ethos* ("habit," epsilon-grade): the same root spelled two ways, which is exactly why habituation can be the route to a hexis without being identical to it.
 
-Aristotle is explicit that *ēthikē* ("character virtue," with eta) is only "a slight turning aside" from *ethos* ("habit," with epsilon) — the same vowel-graded root spelled two ways. This is the etymological hinge Sachs's introduction leans on: habit and character share a root but are not the same word, which is exactly why habituation can be the *route to* a hexis without being identical to it.
-
-Source: Bk. II, ch. 1 (Bekker 1103b1-2).
+### Bk. II, ch. 1 (Bekker 1103b1-2)
 
 > οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα, τὰ δὲ σώφρονα σώφρονες, τὰ δʼ ἀνδρεῖα ἀνδρεῖοι.
 
-**γινόμεθα**, morpheme by morpheme:
+```
+οὕτω   δὴ    καὶ   τὰ          μὲν   δίκαια       πράττοντες  δίκαιοι      γινόμεθα   τὰ          δὲ    σώφρονα           σώφρονες          τὰ          δʼ    ἀνδρεῖα       ἀνδρεῖοι
+houtō  dē    kai   ta          men   dikaia       prattontes  dikaioi      ginometha  ta          de    sōphrona          sōphrones         ta          d'    andreia       andreioi
+thus   PTCL  also  the.ACC.PL  PTCL  just-things  doing.PTCP  just.NOM.PL  we-become  the.ACC.PL  PTCL  temperate-things  temperate.NOM.PL  the.ACC.PL  PTCL  brave-things  brave.NOM.PL
+```
 
-| γι- | γν- | -όμεθα |
-|---|---|---|
-| reduplicated present-stem marker | root *gen-/gn-*, "to come into being, be born" | 1st pl. middle-passive ending |
-| → **γινόμεθα**, "we come to be," "we become" | | |
+*"So too, by doing just things we become just, temperate by doing temperate things, and brave by doing brave things."* The verb of becoming, not being, carries the weight of the sentence — *γινόμεθα*, 1st-plural middle-passive of *gignomai* "to come into being" — we do not act justly because we already are just, we *become* just by first doing just things; the housebuilder analogy Aristotle draws a few lines later turns on this same verb.
 
-The verb of becoming, not being, carries the weight of the sentence: we are not just *and* then act justly, we *become* just by first doing just things — the housebuilder analogy Aristotle draws a few lines later turns on this same verb.
-
-Source: Bk. II, ch. 4 (Bekker 1105a29-1105b1).
+### Bk. II, ch. 4 (Bekker 1105a29-1105b1)
 
 > τὰ δὲ κατὰ τὰς ἀρετὰς γινόμενα οὐκ ἐὰν αὐτά πως ἔχῃ, δικαίως ἢ σωφρόνως πράττεται, ἀλλὰ καὶ ἐὰν ὁ πράττων πῶς ἔχων πράττῃ, πρῶτον μὲν ἐὰν εἰδώς, ἔπειτʼ ἐὰν προαιρούμενος, καὶ προαιρούμενος διʼ αὐτά, τὸ δὲ τρίτον ἐὰν καὶ βεβαίως καὶ ἀμετακινήτως ἔχων πράττῃ.
 
-**ἀμετακινήτως**, morpheme by morpheme:
+```
+τὰ          δὲ    κατὰ            τὰς         ἀρετὰς       γινόμενα           οὐκ  ἐὰν  αὐτά            πως      ἔχῃ               δικαίως  ἢ   σωφρόνως     πράττεται  ἀλλὰ  καὶ   ἐὰν  ὁ        πράττων         πῶς  ἔχων                 πράττῃ     πρῶτον  μὲν   ἐὰν  εἰδώς         ἔπειτʼ  ἐὰν  προαιρούμενος  καὶ  προαιρούμενος  διʼ              αὐτά            τὸ       δὲ    τρίτον     ἐὰν  καὶ   βεβαίως  καὶ  ἀμετακινήτως  ἔχων                 πράττῃ
+ta          de    kata            tas         aretas       ginomena           ouk  ean  auta            pōs      echē              dikaiōs  ē   sōphronōs    prattetai  alla  kai   ean  ho       prattōn         pōs  echōn                prattē     prōton  men   ean  eidōs         epeit'  ean  proairoumenos  kai  proairoumenos  di'              auta            to       de    triton     ean  kai   bebaiōs  kai  ametakinētōs  echōn                prattē
+the.NOM.PL  PTCL  in-accord-with  the.ACC.PL  virtues.ACC  coming-about.PTCP  not  if   themselves.NOM  somehow  be-disposed.SUBJ  justly   or  temperately  is-done    but   also  if   the.NOM  one-doing.PTCP  how  being-disposed.PTCP  acts.SUBJ  first   PTCL  if   knowing.PTCP  then    if   choosing.PTCP  and  choosing.PTCP  for-the-sake-of  themselves.ACC  the.ACC  PTCL  third.ACC  if   also  stably   and  immovably     being-disposed.PTCP  acts.SUBJ
+```
 
-| ἀ- | μετα- | κινη- | -τως |
-|---|---|---|---|
-| *a-* | *meta-* | *kinē-* | *-tōs* |
-| privative prefix, "not" | "across, in a way that changes position" | root of *kineō*, "to move" | adverbial suffix |
-| → **ἀμετακινήτως**, "un-shift-of-place-ably," "immovably" | | | |
+*"Things done in accordance with the virtues are not done justly or temperately merely because they themselves are in some condition, but only if the one acting also acts while being in a certain condition: first, knowingly; second, choosing it, and choosing it for its own sake; and third, doing it while being in a stable and immovable condition."* This is Aristotle's threefold test for fully virtuous action; *ἀμετακινήτως* stacks the privative *a-* onto *meta-kinē-tōs* ("moved-across-ly"), so "immovably" literally reads "un-shift-of-place-ably" — the hexis names not a single right act but a condition that cannot be dislodged, echoing Sachs's image of a weighted toy that rights itself under pressure.
 
-This is the third of Aristotle's three conditions for fully virtuous action (knowing, choosing for its own sake, and holding firm): the hexis names not a single right act but a condition that cannot be dislodged, echoing Sachs's image of a weighted toy that rights itself under pressure.
-
-Source: Bk. II, ch. 5 (Bekker 1105b19-21).
+### Bk. II, ch. 5 (Bekker 1105b19-21)
 
 > ἐπεὶ οὖν τὰ ἐν τῇ ψυχῇ γινόμενα τρία ἐστί, πάθη δυνάμεις ἕξεις, τούτων ἄν τι εἴη ἡ ἀρετή.
 
-**δύναμις**, morpheme by morpheme:
+```
+ἐπεὶ   οὖν   τὰ          ἐν  τῇ       ψυχῇ      γινόμενα        τρία   ἐστί  πάθη      δυνάμεις         ἕξεις              τούτων     ἄν    τι    εἴη       ἡ        ἀρετή
+epei   oun   ta          en  tē       psychē    ginomena        tria   esti  pathē     dynameis         hexeis             toutōn     an    ti    eiē       hē       aretē
+since  PTCL  the.NOM.PL  in  the.DAT  soul.DAT  occurring.PTCP  three  are   feelings  predispositions  active-conditions  these.GEN  PTCL  some  would-be  the.NOM  virtue.NOM
+```
 
-| δυνα- | -μις |
-|---|---|
-| *dyna-* | *-mis* |
-| root of *dynamai*, "to be able, have power" | abstract-noun suffix |
-| → **δύναμις**, "power," "capacity," "potentiality" | |
-
-This is the threefold division of soul-contents (feelings, predispositions, active conditions) from which Aristotle argues virtue must be a *hexis* by elimination. *Dynamis* names what belongs to us by nature before any exercise of it (like the bare capacity for sensation); *hexis*, built on *echein* rather than *dynamai*, names the settled result of having actually exercised that capacity — the same potentiality/actuality contrast that underlies [[concepts/energeia|*energeia*]].
+*"Since, then, the things that occur in the soul are three — feelings, predispositions, active conditions — virtue would be one of these."* This is the threefold division from which Aristotle argues virtue must be a *hexis* by elimination: *δυνάμεις* (from *dynamai*, "to be able, have power") names what belongs to us by nature before any exercise of it, while *ἕξεις* — plural of the very word this page is about — names the settled result of having actually exercised that capacity, the same potentiality/actuality contrast underlying [[concepts/energeia|*energeia*]].
 
 ## Related
 

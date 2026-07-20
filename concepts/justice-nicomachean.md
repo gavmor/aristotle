@@ -6,7 +6,7 @@ aliases: [particular justice, general justice, universal justice, equity, epieik
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Book V's analysis of justice as complete virtue toward others, its division into particular justice's two forms, natural vs. conventional justice, and equity.
 provenance:
   extracted: 0.75
@@ -75,65 +75,65 @@ classDiagram
 
 ## Greek Gloss
 
-Source: Bk. V, ch. 1 (Bekker 1130a7–10).
+### Bk. V, ch. 1 (Bekker 1130a7–10)
 
 > αὕτη μὲν οὖν ἡ δικαιοσύνη οὐ μέρος ἀρετῆς ἀλλʼ ὅλη ἀρετή ἐστιν, οὐδʼ ἡ ἐναντία ἀδικία μέρος κακίας ἀλλʼ ὅλη κακία.
 
-| δικ- | -αιο- | -σύνη |
-|---|---|---|
-| *dik-* | *-aio-* | *-synē* |
-| root of δίκη, "judgment, a case, what is due" | adjective-forming element, as in δίκαιος, "just" | abstract-noun suffix, "-ness," a settled state or quality |
-| → **δικαιοσύνη**, "justice," the fixed condition of being δίκαιος, one who renders each party what is due | | |
+```
+αὕτη   μὲν   οὖν  ἡ    δικαιοσύνη  οὐ   μέρος  ἀρετῆς      ἀλλʼ  ὅλη    ἀρετή   ἐστιν,  οὐδʼ  ἡ    ἐναντία   ἀδικία     μέρος  κακίας    ἀλλʼ  ὅλη    κακία.
+hautē  men   oun  hē   dikaiosynē  ou   meros  aretēs      all'  holē   aretē   estin,  oud'  hē   enantia   adikia     meros  kakias    all'  holē   kakia.
+this   PTCL  so   the  justice     not  part   virtue.GEN  but   whole  virtue  is      nor   the  opposite  injustice  part   vice.GEN  but   whole  vice
+```
 
-The morphology backs up the claim directly: δικαιοσύνη is built from "what is due" plus a suffix meaning a whole settled condition of character, which is exactly why Aristotle says here it names the whole of virtue rather than a part of it.
+*"This, then, is justice: not a part of virtue but the whole of virtue — and its opposite, injustice, is not a part of vice but the whole of vice."* This is the sentence the page's first bullet quotes directly, and δικαιοσύνη itself carries the argument in its bones: δικ- (root of δίκη, "what is due") + -αιο- (adjectival, as in δίκαιος, "just") + -σύνη (abstract-noun suffix marking a whole settled condition) — a compound built to name a settled state of character, which is exactly why Aristotle can say here it is ὅλη ἀρετή, "the whole of virtue," rather than a mere μέρος, "part," of it.
 
-Source: Bk. V, ch. 2 (Bekker 1130b30–1131a1).
+### Bk. V, ch. 2 (Bekker 1130b30–1131a1)
 
 > τῆς δὲ κατὰ μέρος δικαιοσύνης καὶ τοῦ κατʼ αὐτὴν δικαίου ἓν μέν ἐστιν εἶδος τὸ ἐν ταῖς διανομαῖς τιμῆς ἢ χρημάτων ἢ τῶν ἄλλων ὅσα μεριστὰ τοῖς κοινωνοῦσι τῆς πολιτείας (ἐν τούτοις γὰρ ἔστι καὶ ἄνισον ἔχειν καὶ ἴσον ἕτερον ἑτέρου), ἓν δὲ τὸ ἐν τοῖς συναλλάγμασι διορθωτικόν.
 
-| εἶδ- | -ος |
-|---|---|
-| *eid-* | *-os* |
-| root shared with ἰδεῖν/οἶδα, "to see," hence "the shape a thing is seen to have" | neuter noun ending |
-| → **εἶδος**, "species," "form" — the distinct look each kind of thing takes | |
+```
+τῆς      δὲ   κατὰ          μέρος     δικαιοσύνης  καὶ  τοῦ      κατʼ          αὐτὴν   δικαίου   ἓν   μέν   ἐστιν  εἶδος    τὸ   ἐν  ταῖς        διανομαῖς      τιμῆς      ἢ   χρημάτων   ἢ   τῶν         ἄλλων      ὅσα         μεριστὰ    τοῖς        κοινωνοῦσι      τῆς      πολιτείας         (ἐν  τούτοις    γὰρ  ἔστι         καὶ   ἄνισον       ἔχειν    καὶ  ἴσον       ἕτερον   ἑτέρου),        ἓν   δὲ   τὸ   ἐν  τοῖς        συναλλάγμασι      διορθωτικόν.
+tēs      de   kata          meros     dikaiosynēs  kai  tou      kat'          autēn   dikaiou   hen  men   estin  eidos    to   en  tais        dianomais      timēs      ē   chrēmatōn  ē   tōn         allōn      hosa        merista    tois        koinōnousi      tēs      politeias         (en  toutois    gar  esti         kai   anison       echein   kai  ison       heteron  heterou),       hen  de   to   en  tois        synallagmasi      diorthōtikon.
+the.GEN  and  according-to  part.ACC  justice.GEN  and  the.GEN  according-to  it.ACC  just.GEN  one  PTCL  is     species  the  in  the.DAT.PL  distributions  honor.GEN  or  money.GEN  or  the.GEN.PL  other.GEN  as-many-as  divisible  the.DAT.PL  share.PTCP.DAT  the.GEN  constitution.GEN  in   these.DAT  for  is-possible  both  unequal.ACC  to-have  and  equal.ACC  one.ACC  than-other.GEN  one  and  the  in  the.DAT.PL  transactions.DAT  corrective
+```
 
-This is the sentence where Aristotle actually performs the split named in Key Ideas: one εἶδος of particular justice in distributions, another (διορθωτικόν) in transactions — "species" is the word doing the dividing work.
+*"Of particular justice, and of the just as it belongs to it, one species has to do with distributions of honor or money or the other divisible things shared by members of the constitution (for in these it is possible for one person to have an unequal or an equal share relative to another), and another species is corrective, operating in transactions."* This is the sentence where Aristotle actually performs the split named in Key Ideas, and the word doing the dividing work is εἶδος — built from the same root as ἰδεῖν/οἶδα, "to see" (εἰδ-) plus a bare neuter ending (-ος), so a "species" is literally "the shape a thing is seen to have": one εἶδος in distributions, a second (διορθωτικόν) in transactions.
 
-Source: Bk. V, ch. 11 (Bekker 1138a10–13).
+### Bk. V, ch. 11 (Bekker 1138a10–13)
 
 > διὸ καὶ ἡ πόλις ζημιοῖ, καί τις ἀτιμία πρόσεστι τῷ ἑαυτὸν διαφθείραντι ὡς τὴν πόλιν ἀδικοῦντι.
 
-| ἀ- | τιμ- | -ία |
-|---|---|---|
-| *a-* | *tim-* | *-ia* |
-| privative prefix, "not, without" | root of τιμή, "honor, worth, price" | abstract-noun suffix |
-| → **ἀτιμία**, "dishonor," loss of the standing that belongs to a full member of the city | | |
+```
+διὸ        καὶ   ἡ    πόλις  ζημιοῖ,    καί  τις        ἀτιμία    πρόσεστι  τῷ       ἑαυτὸν       διαφθείραντι      ὡς   τὴν      πόλιν     ἀδικοῦντι.
+dio        kai   hē   polis  zēmioi,    kai  tis        atimia    prosesti  tō       heauton      diaphtheiranti    hōs  tēn      polin     adikounti.
+therefore  also  the  city   penalizes  and  a-certain  dishonor  attaches  the.DAT  himself.ACC  destroy.PTCP.DAT  as   the.ACC  city.ACC  wrong.PTCP.DAT
+```
 
-The penalty Aristotle names for a man who kills himself in anger is ἀτιμία, a civic, not a personal, loss — the linguistic marker that the wrong falls on the city rather than on the man himself.
+*"That is why the city imposes a penalty, and a kind of dishonor attaches to the man who destroys himself, on the ground that he is doing wrong to the city."* The penalty Aristotle names is ἀτιμία — ἀ-, the privative prefix "not, without," plus τιμ-, the root of τιμή, "honor, worth, price," plus -ία, the abstract-noun suffix — so the word itself locates the loss in a person's public standing rather than in any private harm, matching the grammar of the sentence: the participle ἀδικοῦντι governs τὴν πόλιν, "the city," as the wronged party, never ἑαυτόν, "himself."
 
-Source: Bk. V, ch. 7 (Bekker 1134b18–24).
+### Bk. V, ch. 7 (Bekker 1134b18–24)
 
 > τοῦ δὲ πολιτικοῦ δικαίου τὸ μὲν φυσικόν ἐστι τὸ δὲ νομικόν, φυσικὸν μὲν τὸ πανταχοῦ τὴν αὐτὴν ἔχον δύναμιν, καὶ οὐ τῷ δοκεῖν ἢ μή, νομικὸν δὲ ὃ ἐξ ἀρχῆς μὲν οὐδὲν διαφέρει οὕτως ἢ ἄλλως, ὅταν δὲ θῶνται, διαφέρει.
 
-| νομ- | -ικόν |
-|---|---|
-| *nom-* | *-ikon* |
-| root of νόμος, "law, custom" (from νέμω, "to distribute, allot") | adjectival suffix, "pertaining to" |
-| → **νομικόν** (δίκαιον), "conventional/legal" (justice) — binding once a community has "allotted" it a fixed form | |
+```
+τοῦ      δὲ   πολιτικοῦ      δικαίου   τὸ   μὲν   φυσικόν   ἐστι  τὸ   δὲ   νομικόν,      φυσικὸν   μὲν   τὸ   πανταχοῦ    τὴν      αὐτὴν     ἔχον         δύναμιν,   καὶ  οὐ   τῷ       δοκεῖν   ἢ   μή,  νομικὸν       δὲ   ὃ      ἐξ    ἀρχῆς          μὲν   οὐδὲν    διαφέρει   οὕτως   ἢ   ἄλλως,     ὅταν      δὲ   θῶνται,         διαφέρει.
+tou      de   politikou      dikaiou   to   men   physikon  esti  to   de   nomikon,      physikon  men   to   pantachou   tēn      autēn     echon        dynamin,   kai  ou   tō       dokein   ē   mē,  nomikon       de   ho     ex    archēs         men   ouden    diapherei  houtōs  ē   allōs,     hotan     de   thōntai,        diapherei.
+the.GEN  and  political.GEN  just.GEN  the  PTCL  natural   is    the  and  conventional  natural   PTCL  the  everywhere  the.ACC  same.ACC  having.PTCP  power.ACC  and  not  the.DAT  seeming  or  not  conventional  and  which  from  beginning.GEN  PTCL  nothing  differs    thus    or  otherwise  whenever  and  they-establish  it-differs
+```
 
-νομικόν's root sense of allotment is precisely why Aristotle can hold that conventional justice varies by agreement without that variability infecting φυσικόν, the naturally fixed kind, alongside it.
+*"Of political justice, part is natural and part conventional: natural, whatever has the same force everywhere and does not depend on people's thinking it so or not; conventional, whatever makes no difference either way at the start, but once people have laid it down, does make a difference."* νομικόν's root sense is precisely why this holds together: νομ- is the root of νόμος, "law, custom" (itself from νέμω, "to distribute, allot"), plus -ικόν, the adjectival suffix "pertaining to" — conventional justice is what is fixed by an act of communal allotment, so its variability by agreement never infects φυσικόν, the naturally fixed kind standing beside it in the sentence's own μὲν...δὲ division.
 
-Source: Bk. V, ch. 10 (Bekker 1137b25–27).
+### Bk. V, ch. 10 (Bekker 1137b25–27)
 
 > καὶ ἔστιν αὕτη ἡ φύσις ἡ τοῦ ἐπιεικοῦς, ἐπανόρθωμα νόμου, ᾗ ἐλλείπει διὰ τὸ καθόλου.
 
-| ἐπανα- | ὀρθ- | -μα |
-|---|---|---|
-| *epana-* | *orth-* | *-ma* |
-| ἐπί, "upon," + ἀνά, "back, again," fused: "a further correction to" | root of ὀρθός, "straight, right" | result-noun suffix, "the thing done" |
-| → **ἐπανόρθωμα**, "a straightening-out," "a correction" | | |
+```
+καὶ  ἔστιν  αὕτη   ἡ    φύσις   ἡ    τοῦ      ἐπιεικοῦς,  ἐπανόρθωμα   νόμου,   ᾗ         ἐλλείπει     διὰ         τὸ   καθόλου.
+kai  estin  hautē  hē   physis  hē   tou      epieikous,  epanorthōma  nomou,   hēi       elleipei     dia         to   katholou.
+and  is     this   the  nature  the  the.GEN  decent.GEN  correction   law.GEN  in-which  falls-short  because-of  the  universal
+```
 
-This is the line Sachs's "setting straight" language traces back to: equity is defined here, in one word, as a correction supplied exactly where law's universal wording runs short.
+*"And this is the nature of the decent: a correction of law, where law falls short because of its universality."* This is the line Sachs's "setting straight" language traces back to, and the word carrying the whole definition is ἐπανόρθωμα — ἐπί, "upon," fused with ἀνά, "back, again" (together, "a further correction to"), plus ὀρθ-, the root of ὀρθός, "straight, right," plus -μα, the result-noun suffix naming the thing done: equity is defined here, in one compound, as a correction supplied exactly where law's universal wording runs short.
 
 ## Related
 

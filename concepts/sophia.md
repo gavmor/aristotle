@@ -6,7 +6,7 @@ aliases: [sophia, theoretical wisdom, philosophic wisdom]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Theoretical wisdom, combining intellect and knowledge — Book VI's counterpart to practical judgment, and Book X's candidate for what complete happiness is.
 provenance:
   extracted: 0.80
@@ -38,49 +38,53 @@ Book VI, ch. 7 defines *sophia* as "knowledge and intellect of the things that a
 
 ## Greek Gloss
 
-Source: Bk. VI, ch. 7 (Bekker 1141a16-20).
+### Bk. VI, ch. 7 (Bekker 1141a18-20)
 
-> δεῖ ἄρα τὸν σοφὸν μὴ μόνον τὰ ἐκ τῶν ἀρχῶν εἰδέναι, ἀλλὰ καὶ περὶ τὰς ἀρχὰς ἀληθεύειν. ὥστʼ εἴη ἂν ἡ σοφία νοῦς καὶ ἐπιστήμη, ὥσπερ κεφαλὴν ἔχουσα ἐπιστήμη τῶν τιμιωτάτων.
+> ὥστʼ εἴη ἂν ἡ σοφία νοῦς καὶ ἐπιστήμη, ὥσπερ κεφαλὴν ἔχουσα ἐπιστήμη τῶν τιμιωτάτων.
 
-| ἐπι- | -στή- | -μη |
-|---|---|---|
-| *epi-* | *stē-*, root of *histēmi*, "to stand" | abstract noun suffix |
-| → **ἐπιστήμη**, "a standing-upon," i.e. secure, demonstrative knowledge | | |
+```
+ὥστʼ     εἴη       ἂν    ἡ        σοφία       νοῦς           καὶ  ἐπιστήμη,      ὥσπερ    κεφαλὴν   ἔχουσα       ἐπιστήμη       τῶν         τιμιωτάτων.
+hōst'    eiē       an    hē       sophia      nous           kai  epistēmē,      hōsper   kephalēn  echousa      epistēmē       tōn         timiōtatōn.
+so-that  would-be  PTCL  the.NOM  wisdom.NOM  intellect.NOM  and  knowledge.NOM  just-as  head.ACC  having.PTCP  knowledge.NOM  the.GEN.PL  most-honored.GEN.PL
+```
 
-Sophia's twofold structure is right there in the morphology: it needs *nous* for the principles themselves, and *epistēmē* — knowledge that "stands upon" a foundation — for what gets demonstrated from them, exactly the combination the opening paragraph describes.
+*"So wisdom would be intellect plus scientific knowledge, like knowledge that has a head on it, of the most honorable things."* This is the sentence behind the opening paragraph's claim that sophia combines nous with epistēmē: **ἐπιστήμη** (epistēmē) is built from *epi-* "upon" + *stē-*, the root of *histēmi* "to stand," + the abstract-noun suffix *-mē* — literally a "standing-upon," i.e. knowledge secure enough to stand on a demonstrated foundation, which is exactly why it needs *nous* underneath it to grasp the undemonstrable first principles it stands upon.
 
-Source: Bk. VI, ch. 12 (Bekker 1143b17-20).
+### Bk. VI, ch. 12 (Bekker 1143b17-20)
 
 > ἡ μὲν γὰρ σοφία οὐδὲν θεωρήσει ἐξ ὧν ἔσται εὐδαίμων ἄνθρωπος (οὐδεμιᾶς γάρ ἐστι γενέσεως).
 
-| θεωρ- | -ήσει |
-|---|---|
-| root of *theōros/theōria*, "to look at, view, contemplate" | future-tense verb ending, "will..." |
-| → **θεωρήσει**, "will behold/contemplate" | |
+```
+ἡ        μὲν   γὰρ  σοφία       οὐδὲν        θεωρήσει          ἐξ    ὧν            ἔσται    εὐδαίμων   ἄνθρωπος         (οὐδεμιᾶς  γάρ  ἐστι  γενέσεως).
+hē       men   gar  sophia      ouden        theōrēsei         ex    hōn           estai    eudaimōn   anthrōpos        (oudemias  gar  esti  geneseōs).
+the.NOM  PTCL  for  wisdom.NOM  nothing.ACC  will-contemplate  from  which.GEN.PL  will-be  happy.NOM  human-being.NOM  no.GEN.SG  for  is    becoming.GEN
+```
 
-The impasse in the first bullet turns on this verb: the very activity that names sophia — beholding — is not a *making*, so it looks like it cannot, by itself, produce anything, including happiness.
+*"For wisdom will contemplate none of the things from which a human being will become happy, since it belongs to no coming-into-being."* This is the sentence behind the first bullet's stated impasse: the verb **θεωρήσει** (theōrēsei) — future tense of *theōrein*, "to look at, behold, contemplate" — names sophia's one and only activity, and Aristotle's worry is that beholding is not a *making*, so on its face it cannot produce anything, happiness included.
 
-Source: Bk. VI, ch. 12 (Bekker 1144a3-6).
+### Bk. VI, ch. 12 (Bekker 1143b35-1144a5)
 
 > ἔπειτα καὶ ποιοῦσι μέν, οὐχ ὡς ἡ ἰατρικὴ δὲ ὑγίειαν, ἀλλʼ ὡς ἡ ὑγίεια, οὕτως ἡ σοφία εὐδαιμονίαν.
 
-| ὑγι- | -εια |
-|---|---|
-| root of *hygiēs*, "sound, healthy" | abstract noun suffix |
-| → **ὑγίεια**, "health" — the state itself, not the art that produces it | | |
+```
+ἔπειτα    καὶ   ποιοῦσι       μέν,  οὐχ   ὡς   ἡ        ἰατρικὴ          δὲ   ὑγίειαν,    ἀλλʼ  ὡς   ἡ        ὑγίεια,     οὕτως   ἡ        σοφία       εὐδαιμονίαν.
+epeita    kai   poiousi       men,  ouch  hōs  hē       iatrikē          de   hygieian,   all'  hōs  hē       hygieia,    houtōs  hē       sophia      eudaimonian.
+moreover  also  they-produce  PTCL  not   as   the.NOM  medical-art.NOM  but  health.ACC  but   as   the.NOM  health.NOM  so      the.NOM  wisdom.NOM  happiness.ACC
+```
 
-Aristotle's resolution of the impasse rests on exactly this noun: sophia stands to happiness as *hygieia* (the state) stands to being healthy, not as *iatrikē* (the productive art) does — it contributes by being possessed and exercised, not by manufacturing an external result.
+*"Further, they do produce something — not as medicine produces health, but as health does, so wisdom produces happiness."* This is the sentence behind the second bullet's resolution: **ὑγίεια** (hygieia), built from the root of *hygiēs* "sound, healthy" plus the abstract-noun suffix *-eia*, names the state itself rather than the art (*iatrikē*) that brings it about, and Aristotle uses that state/art contrast to say sophia contributes to happiness by being possessed and at work, not by manufacturing it as an external product.
 
-Source: Bk. X, ch. 7 (Bekker 1177b15-18).
+### Bk. X, ch. 7 (Bekker 1177a15-18)
 
 > εἴτε θεῖον ὂν καὶ αὐτὸ εἴτε τῶν ἐν ἡμῖν τὸ θειότατον, ἡ τούτου ἐνέργεια κατὰ τὴν οἰκείαν ἀρετὴν εἴη ἂν ἡ τελεία εὐδαιμονία.
 
-| θει- | -ότατον |
-|---|---|
-| root of *theos*, "god" | superlative neuter ending, "most..." |
-| → **θειότατον**, "most divine" — the most god-like thing in us | | |
+```
+εἴτε     θεῖον   ὂν          καὶ  αὐτὸ    εἴτε  τῶν         ἐν  ἡμῖν    τὸ       θειότατον,       ἡ        τούτου    ἐνέργεια      κατὰ          τὴν      οἰκείαν     ἀρετὴν      εἴη       ἂν    ἡ        τελεία        εὐδαιμονία.
+eite     theion  on          kai  auto    eite  tōn         en  hēmin   to       theiotaton,      hē       toutou    energeia      kata          tēn      oikeian     aretēn      eiē       an    hē       teleia        eudaimonia.
+whether  divine  being.PTCP  and  itself  or    the.GEN.PL  in  us.DAT  the.ACC  most-divine.ACC  the.NOM  this.GEN  activity.NOM  according-to  the.ACC  proper.ACC  virtue.ACC  would-be  PTCL  the.NOM  complete.NOM  happiness.NOM
+```
 
-This superlative is Aristotle's explicit warrant, in Book X, for promoting contemplation's being-at-work to complete happiness — and so for the very hierarchy the fourth bullet worries is unstable.
+*"Whether this itself is something divine, or whether it is the most divine thing in us, its being-at-work in accordance with its own virtue would be complete happiness."* This is the sentence behind the third and fourth bullets' escalation: **θειότατον** (theiotaton) is the superlative of *theos* "god" (root *thei-* + superlative ending *-otaton*), and it is this single word — "most divine" — that Aristotle uses as his warrant for promoting contemplation's being-at-work to complete happiness, the very move that makes the practical virtues look second-tier by comparison.
 
 ## Related
 

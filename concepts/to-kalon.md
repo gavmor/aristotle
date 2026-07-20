@@ -6,7 +6,7 @@ aliases: [the beautiful, the noble, the fine]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The end for the sake of which every virtuous action is chosen, per Aristotle — badly served, per Sachs, by the traditional translations "noble" or "fine."
 provenance:
   extracted: 0.68
@@ -38,67 +38,67 @@ Per Joe Sachs's introduction, "the most important word in the whole work" after 
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. III, ch. 9 (Bekker 1116a10-11), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain). Every word of each cited sentence is glossed below, Leipzig-interlinear style.
 
-> ὡς δεῖ δὲ καὶ ὡς ὁ λόγος ὑπομενεῖ τοῦ καλοῦ ἕνεκα· τοῦτο γὰρ τέλος τῆς ἀρετῆς.
+### Bk. III, ch. 7 (Bekker 1115b11-13)
 
-**καλόν**, morpheme by morpheme (unlike the other terms on this page, *kalos* is not a compound — just root + case ending, given here for consistency):
+> φοβήσεται μὲν οὖν καὶ τὰ τοιαῦτα, ὡς δεῖ δὲ καὶ ὡς ὁ λόγος ὑπομενεῖ τοῦ καλοῦ ἕνεκα· τοῦτο γὰρ τέλος τῆς ἀρετῆς.
 
-| καλ- | -όν |
-|---|---|
-| *kal-* | *-on* |
-| simplex adjective root, "beautiful, fine, good-looking" | neut. gen./nom./acc. sg. ending (here genitive, governed by *heneka* "for the sake of") |
-| → **τοῦ καλοῦ**, "of the beautiful [thing]" | |
+```
+φοβήσεται   μὲν   οὖν  καὶ   τὰ            τοιαῦτα,     ὡς   δεῖ       δὲ   καὶ  ὡς   ὁ        λόγος   ὑπομενεῖ     τοῦ        καλοῦ          ἕνεκα·       τοῦτο  γὰρ  τέλος     τῆς        ἀρετῆς.
+phobēsetai  men   oun  kai   ta            toiauta,     hōs  dei       de   kai  hōs  ho       logos   hypomenei    tou        kalou          heneka·      touto  gar  telos     tēs        aretēs.
+will-fear   PTCL  so   also  the.ACC.PL.N  such-things  as   is-right  but  and  as   the.NOM  reason  will-endure  the.GEN.N  beautiful.GEN  for-sake-of  this   for  end/goal  the.GEN.F  virtue.GEN
+```
 
-*Kalos* is the same everyday adjective Greek uses for a beautiful body, a beautiful house, or a beautiful sunset — there is no separate, specialized "moral beauty" word in the sentence. Sachs's argument (see Key Ideas above) turns on exactly this: *to kalon* here is grammatically identical to the *to kalon* of ordinary aesthetic praise, substantized with the neuter article the same way English can turn any adjective into "the beautiful" — Aristotle is not reaching for a technical ethical term at all.
+*"He will fear even things of that sort, but will endure them as he ought and as reason directs, for the sake of the beautiful — since this is the end that virtue aims at."* This is the sentence behind Key Ideas' claim that courage's actions are done for the sake of the beautiful: *heneka* ("for the sake of") governs a bare genitive *tou kalou*, and the following clause makes explicit that *to kalon* just is *telos tēs aretēs*, "the end that belongs to virtue" — not a reward external to the act but what the act is aimed at and defined by.
 
-Source: Bk. IV, ch. 1 (Bekker 1119b22-25).
+### Bk. IV, ch. 1 (Bekker 1120a23-25)
 
 > αἱ δὲ κατʼ ἀρετὴν πράξεις καλαὶ καὶ τοῦ καλοῦ ἕνεκα. καὶ ὁ ἐλευθέριος οὖν δώσει τοῦ καλοῦ ἕνεκα καὶ ὀρθῶς.
 
-| ἐλευθερ- | -ιος |
-|---|---|
-| *eleuther-* | *-ios* |
-| root of *eleutheros*, "free (not a slave, not owned)" | adjectival suffix, "characterized by, in the manner of" |
-| → **ἐλευθέριος**, "free-natured," "liberal, generous" | |
+```
+αἱ            δὲ   κατʼ          ἀρετὴν      πράξεις      καλαὶ             καὶ  τοῦ        καλοῦ          ἕνεκα.       καὶ  ὁ        ἐλευθέριος    οὖν  δώσει      τοῦ        καλοῦ          ἕνεκα        καὶ  ὀρθῶς.
+hai           de   kat'          aretēn      praxeis      kalai             kai  tou        kalou          heneka.      kai  ho       eleutherios   oun  dōsei      tou        kalou          heneka       kai  orthōs.
+the.NOM.PL.F  and  according-to  virtue.ACC  actions.NOM  beautiful.NOM.PL  and  the.GEN.N  beautiful.GEN  for-sake-of  and  the.NOM  generous-man  so   will-give  the.GEN.N  beautiful.GEN  for-sake-of  and  rightly
+```
 
-The generous person is named for handling wealth the way a free person does — as its master rather than its slave — and Aristotle states plainly that this is why such a person gives *for the sake of the beautiful*, echoing the courage passage above almost word for word.
+*"Actions in accord with virtue are beautiful and are for the sake of the beautiful; so the generous person, too, will give for the sake of the beautiful, and rightly."* Aristotle here states the general principle — virtuous action is *kalai* (beautiful, plural adjective agreeing with *praxeis*) and done *tou kalou heneka* — before applying it to *ho eleutherios*, a nominalized adjective built on *eleutheros* ("free"): the generous person is, by name, simply the free-natured one, handling wealth the way someone who is not owned by it does.
 
-Source: Bk. IV, ch. 2 (Bekker 1122b5-8).
+### Bk. IV, ch. 2 (Bekker 1122b5-8)
 
 > δαπανήσει δὲ τὰ τοιαῦτα ὁ μεγαλοπρεπὴς τοῦ καλοῦ ἕνεκα· κοινὸν γὰρ τοῦτο ταῖς ἀρεταῖς.
 
-| μεγαλο- | -πρεπ- | -ής |
-|---|---|---|
-| *megalo-* | *-prep-* | *-ēs* |
-| combining form of *megas*, "great, large" | root of *prepō*, "be fitting, stand out, be conspicuous" | adjective-forming suffix |
-| → **μεγαλοπρεπής**, "great in fittingness," "magnificent" | | |
+```
+δαπανήσει   δὲ   τὰ            τοιαῦτα      ὁ        μεγαλοπρεπὴς     τοῦ        καλοῦ          ἕνεκα·       κοινὸν  γὰρ  τοῦτο  ταῖς          ἀρεταῖς.
+dapanēsei   de   ta            toiauta      ho       megaloprepēs     tou        kalou          heneka·      koinon  gar  touto  tais          aretais.
+will-spend  and  the.ACC.PL.N  such-things  the.NOM  magnificent-man  the.GEN.N  beautiful.GEN  for-sake-of  common  for  this   the.DAT.PL.F  virtues.DAT
+```
 
-Aristotle's own gloss on this sentence — "for this is common to the virtues" — is the closest he comes to stating outright that *to kalon* is not one virtue's private motive but the shared end running through all of them, exactly the claim Sachs's introduction builds on.
+*"The magnificent person will spend on such things for the sake of the beautiful — for this is common to the virtues."* *Megaloprepēs* is transparently compound: *megalo-* (combining form of *megas*, "great") plus the root of *prepō* ("be fitting, stand out"), so "magnificent" literally means "great in fittingness." Aristotle's own aside — *koinon ... tais aretais*, "common to the virtues" — is the closest he comes to stating outright that the beautiful is not any single virtue's private motive but the shared end running through all of them, exactly the claim Key Ideas draws on.
 
-Source: Bk. II, ch. 3 (Bekker 1104b30-32).
+### Bk. II, ch. 3 (Bekker 1104b30-32)
 
 > τριῶν γὰρ ὄντων τῶν εἰς τὰς αἱρέσεις καὶ τριῶν τῶν εἰς τὰς φυγάς, καλοῦ συμφέροντος ἡδέος, καὶ τῶν ἐναντίων, αἰσχροῦ βλαβεροῦ λυπηροῦ, περὶ ταῦτα μὲν πάντα ὁ ἀγαθὸς κατορθωτικός ἐστιν ὁ δὲ κακὸς ἁμαρτητικός, μάλιστα δὲ περὶ τὴν ἡδονήν.
 
-| συμ- | φέρ- | -ον |
-|---|---|---|
-| *sym-* | *pher-* | *-on* |
-| assimilated form of *syn-*, "together with" | root of *pherō*, "carry, bear, bring" | neut. present-participle ending |
-| → **συμφέρον**, "that which is brought along [to one's benefit]," "the advantageous, expedient" | | |
+```
+τριῶν      γὰρ  ὄντων           τῶν         εἰς     τὰς           αἱρέσεις     καὶ  τριῶν      τῶν         εἰς     τὰς           φυγάς,          καλοῦ          συμφέροντος       ἡδέος,        καὶ  τῶν         ἐναντίων,      αἰσχροῦ       βλαβεροῦ     λυπηροῦ,     περὶ        ταῦτα        μὲν   πάντα      ὁ        ἀγαθὸς        κατορθωτικός    ἐστιν  ὁ        δὲ   κακὸς        ἁμαρτητικός,   μάλιστα      δὲ   περὶ        τὴν        ἡδονήν.
+triōn      gar  ontōn           tōn         eis     tas           haireseis    kai  triōn      tōn         eis     tas           phygas,         kalou          sympherontos      hēdeos,       kai  tōn         enantiōn,      aischrou      blaberou     lypērou,     peri        tauta        men   panta      ho       agathos       katorthōtikos   estin  ho       de   kakos        hamartētikos,  malista      de   peri        tēn        hēdonēn.
+three.GEN  for  being.GEN.PTCP  the.GEN.PL  toward  the.ACC.PL.F  choices.ACC  and  three.GEN  the.GEN.PL  toward  the.ACC.PL.F  avoidances.ACC  beautiful.GEN  advantageous.GEN  pleasant.GEN  and  the.GEN.PL  opposites.GEN  shameful.GEN  harmful.GEN  painful.GEN  concerning  these.ACC.N  PTCL  all.ACC.N  the.NOM  good-man.NOM  apt-to-succeed  is     the.NOM  but  bad-man.NOM  apt-to-err     most-of-all  and  concerning  the.ACC.F  pleasure.ACC
+```
 
-This is the sentence behind Key Ideas' claim that *kalon*, *sympheron*, and *hēdy* are Aristotle's three named objects of choice — glossing *sympheron* rather than *kalon* here shows the word Sachs argues later drops out as merely instrumental, leaving the beautiful and the pleasant standing.
+*"There being three objects of choice and three of avoidance — the beautiful, the advantageous, the pleasant, and their opposites — the good person hits the mark concerning all of these while the bad person errs, and most of all concerning pleasure."* This is the sentence behind Key Ideas' claim that *kalon*, *sympheron*, and *hēdy* are Aristotle's three named objects of choice: all three sit in a bare genitive list with no connecting particle between them, syntactically equal, which is exactly the parity Sachs's introduction says later breaks down once *sympheron* drops out as merely instrumental.
 
-Source: Bk. IX, ch. 8 (Bekker 1169a6-11).
+### Bk. IX, ch. 8 (Bekker 1169a6-11)
 
 > πάντων δὲ ἁμιλλωμένων πρὸς τὸ καλὸν καὶ διατεινομένων τὰ κάλλιστα πράττειν κοινῇ τʼ ἂν πάντʼ εἴη τὰ δέοντα καὶ ἰδίᾳ ἑκάστῳ τὰ μέγιστα τῶν ἀγαθῶν, εἴπερ ἡ ἀρετὴ τοιοῦτόν ἐστιν.
 
-| ἁμιλλ- | -ω- | -μένων |
-|---|---|---|
-| *hamill-* | *-ō-* | *-menōn* |
-| root of *hamilla*, "contest, rivalry, race" | thematic/verb-stem vowel | gen. pl. masc. pres. middle participle ending |
-| → **ἁμιλλωμένων**, "[of those] competing, racing [one another]" | | |
+```
+πάντων      δὲ   ἁμιλλωμένων         πρὸς    τὸ         καλὸν          καὶ  διατεινομένων      τὰ            κάλλιστα        πράττειν  κοινῇ      τʼ   ἂν   πάντʼ             εἴη       τὰ                δέοντα          καὶ  ἰδίᾳ       ἑκάστῳ    τὰ                μέγιστα   τῶν         ἀγαθῶν,    εἴπερ      ἡ          ἀρετὴ       τοιοῦτόν  ἐστιν.
+pantōn      de   hamillōmenōn        pros    to         kalon          kai  diateinomenōn      ta            kallista        prattein  koinēi     t'   an   pant'             eiē       ta                deonta          kai  idiāi      hekastōi  ta                megista   tōn         agathōn,   eiper      hē         aretē       toiouton  estin.
+all.GEN.PL  and  competing.GEN.PTCP  toward  the.ACC.N  beautiful.ACC  and  striving.GEN.PTCP  the.ACC.PL.N  most-beautiful  to-do     in-common  and  MOD  all.NOM/ACC.PL.N  would-be  the.NOM/ACC.PL.N  needful-things  and  privately  to-each   the.NOM/ACC.PL.N  greatest  the.GEN.PL  goods.GEN  if-indeed  the.NOM.F  virtue.NOM  such      is
+```
 
-Sachs cites this sentence as the doctrine's clearest single statement, and the image is literally agonistic: a whole community racing each other toward *to kalon* rather than dividing up a fixed stock of useful goods.
+*"If everyone competed for the beautiful and strove to do the most beautiful things, everything needed in common would be secured, and each person privately would have the greatest of goods — if virtue really is a thing of that sort."* Sachs cites this sentence as the doctrine's clearest single statement, and the Greek makes the image literally agonistic: *hamillōmenōn* is a genitive-plural present participle of *hamilla* ("contest, rivalry, race"), so the community is pictured not dividing up a fixed stock of useful goods but racing one another toward *to kalon*.
 
 ## Related
 

@@ -6,7 +6,7 @@ aliases: [epieikeia, decency, the decent, equity (rejected translation)]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Epieikeia, deliberately translated "decency" rather than "equity" — the corrective sense for what a universal law leaves out in a particular case, illustrated by the flexible Lesbian ruler.
 provenance:
   extracted: 0.85
@@ -37,89 +37,79 @@ Bk. V, ch. 10 takes up *epieikeia* — "usually translated in this chapter as 'e
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, ch. 10 (Bekker 1137a31-b1), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, ch. 10, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via [PerseusDL's canonical-greekLit](https://github.com/PerseusDL/canonical-greekLit) (public domain). Six passages, given as full sentences with every word glossed in order, covering the same ground the Key Ideas above draw on.
+
+### Bk. V, ch. 10 (Bekker 1137a31-b1)
 
 > περὶ δὲ ἐπιεικείας καὶ τοῦ ἐπιεικοῦς, πῶς ἔχει ἡ μὲν ἐπιείκεια πρὸς δικαιοσύνην τὸ δʼ ἐπιεικὲς πρὸς τὸ δίκαιον, ἐχόμενόν ἐστιν εἰπεῖν.
 
-**ἐπιείκεια**, morpheme by morpheme:
+```
+περὶ        δὲ    ἐπιεικείας   καὶ  τοῦ      ἐπιεικοῦς   πῶς  ἔχει       ἡ        μὲν   ἐπιείκεια    πρὸς    δικαιοσύνην  τὸ       δʼ   ἐπιεικὲς    πρὸς    τὸ       δίκαιον   ἐχόμενόν      ἐστιν  εἰπεῖν
+peri        de    epieikeias   kai  tou      epieikous   pōs  echei      hē       men   epieikeia    pros    dikaiosynēn  to       d'   epieikes    pros    to       dikaion   echomenon     estin  eipein
+concerning  PTCL  decency.GEN  and  the.GEN  decent.GEN  how  it-stands  the.NOM  PTCL  decency.NOM  toward  justice.ACC  the.NOM  and  decent.NOM  toward  the.ACC  just.ACC  next-in-turn  is     to-say
+```
 
-| ἐπι- | εἰκ- | -εια |
-|---|---|---|
-| *epi-* | *eik-* | *-eia* |
-| "upon, toward" | root related to *eoika*, "to seem, be like, be fitting" (cf. *eikos*, "likely, reasonable, what one would expect") | abstract noun suffix |
-| → **ἐπιείκεια**, "fittingness, reasonableness" | | |
+*"Concerning decency and the decent, how decency stands toward justice and the decent toward the just, it remains next to speak."* This is the sentence that opens the chapter and frames the whole puzzle the page's first bullet describes; note that Aristotle's own opening move already treats *epieikeia* (the trait) and *dikaiosynē* (justice) as two nouns to be measured against each other, not as competitors in the same genus.
 
-The adjective *epieikēs* is built on *eoika* ("to seem, to be like, to be fitting") — the same root that gives Greek its word for what's *probable* or *reasonable to expect* (*eikos*). This is precisely why "equity" misleads: the Latin-derived English word imports a technical legal doctrine (correcting strict law by a separate standard of fairness), while the Greek word's own etymology says nothing about law at all — it says "what fits, what one would reasonably expect a good person to do," which is exactly the wider, character-based sense Sachs's glossary insists on and "decency" preserves.
-
-Source: Bk. V, ch. 10 (Bekker 1137b5-7).
+### Bk. V, ch. 10 (Bekker 1137b5-7)
 
 > τό τε γὰρ ἐπιεικὲς δικαίου τινὸς ὂν βέλτιόν ἐστι δίκαιον, καὶ οὐχ ὡς ἄλλο τι γένος ὂν βέλτιόν ἐστι τοῦ δικαίου.
 
-**γένος**, morpheme by morpheme:
+```
+τό       τε    γὰρ  ἐπιεικὲς    δικαίου   τινὸς          ὂν          βέλτιόν  ἐστι  δίκαιον  καὶ  οὐχ   ὡς   ἄλλο       τι             γένος     ὂν          βέλτιόν  ἐστι  τοῦ      δικαίου
+to       te    gar  epieikes    dikaiou   tinos          on          beltion  esti  dikaion  kai  ouch  hōs  allo       ti             genos     on          beltion  esti  tou      dikaiou
+the.NOM  PTCL  for  decent.NOM  just.GEN  a-certain.GEN  being.PTCP  better   is    just     and  not   as   other.ACC  a-certain.ACC  kind.ACC  being.PTCP  better   is    the.GEN  just.GEN
+```
 
-| γεν- | -ος |
-|---|---|
-| *gen-* | *-os* |
-| root of *gignomai*, "to come to be, be born" (cf. *genesis*) | noun-forming suffix |
-| → **γένος**, "that which has come to be [as a kind]," "race, kind, class" | |
+*"For the decent, being a certain kind of just, is better than just, and it is not as being some other kind that it is better than the just."* This is the sentence the page's first bullet paraphrases directly — decency resolves the puzzle by being *better than a certain kind of just thing* while remaining just, and the twice-repeated participle *on* ("being") pins the decent down as still-just at the very moment it is called better.
 
-Aristotle's resolution of the puzzle turns on denying that decency is a different *genos* from the just — its root sense of "a kind that has come-to-be" is exactly what he says the decent thing is *not*, relative to the just: not a separate species of goodness, only a better instance of the same one.
-
-Source: Bk. V, ch. 10 (Bekker 1137b10-11).
+### Bk. V, ch. 10 (Bekker 1137b10-11)
 
 > ποιεῖ δὲ τὴν ἀπορίαν ὅτι τὸ ἐπιεικὲς δίκαιον μέν ἐστιν, οὐ τὸ κατὰ νόμον δέ, ἀλλʼ ἐπανόρθωμα νομίμου δικαίου.
 
-**ἐπανόρθωμα**, morpheme by morpheme:
+```
+ποιεῖ     δὲ    τὴν      ἀπορίαν     ὅτι   τὸ       ἐπιεικὲς    δίκαιον  μέν   ἐστιν  οὐ   τὸ       κατὰ          νόμον    δέ   ἀλλʼ  ἐπανόρθωμα      νομίμου    δικαίου
+poiei     de    tēn      aporian     hoti  to       epieikes    dikaion  men   estin  ou   to       kata          nomon    de   all'  epanorthōma     nomimou    dikaiou
+it-makes  PTCL  the.ACC  puzzle.ACC  that  the.NOM  decent.NOM  just     PTCL  is     not  the.NOM  according-to  law.ACC  but  but   correction.NOM  legal.GEN  just.GEN
+```
 
-| ἐπι- | ἀν- | ὀρθ- | -μα |
-|---|---|---|---|
-| *epi-* | *an-* (from *ana-*) | *orth-* | *-ma* |
-| "upon, in addition" | "back, again" | root meaning "straight, right" (cf. *orthos*) | noun suffix marking the result of an action |
-| → **ἐπανόρθωμα**, "a further setting-right," "a correction," "a rectification" | | | |
+*"What creates the puzzle is that the decent is just, but not the just according to law — rather, it is a correction of legally-just."* The word carrying the page's fifth bullet is *epanorthōma*: *epi-* ("in addition") plus *an-* ("back, again") plus the *orth-* root of *orthos* ("straight, right") plus the result-noun suffix *-ma* — literally "a further straightening-back," the same *orth-* root the page already connects to corrective justice's *diorthoun*.
 
-This is the exact Greek behind the "setting straight" language the page already draws out between decency and corrective justice (*diorthoun*): here Aristotle names decency itself an *epanorthōma* — a straightening-back-up — of what is legally just, the same *orth-* root doing the work in both places.
-
-Source: Bk. V, ch. 10 (Bekker 1137b12-14).
+### Bk. V, ch. 10 (Bekker 1137b12-14)
 
 > αἴτιον δʼ ὅτι ὁ μὲν νόμος καθόλου πᾶς, περὶ ἐνίων δʼ οὐχ οἷόν τε ὀρθῶς εἰπεῖν καθόλου.
 
-**καθόλου**, morpheme by morpheme:
+```
+αἴτιον     δʼ   ὅτι   ὁ        μὲν   νόμος    καθόλου      πᾶς    περὶ        ἐνίων     δʼ   οὐχ   οἷόν      τε    ὀρθῶς    εἰπεῖν  καθόλου
+aition     d'   hoti  ho       men   nomos    katholou     pas    peri        eniōn     d'   ouch  hoion     te    orthōs   eipein  katholou
+cause.NOM  and  that  the.NOM  PTCL  law.NOM  universally  every  concerning  some.GEN  but  not   possible  PTCL  rightly  to-say  universally
+```
 
-| καθ- | ὅλ- | -ου |
-|---|---|---|
-| *kath-* (from *kata-*) | *hol-* | *-ou* |
-| "down along, throughout, according to" | root of *holos*, "whole, entire" | adverbial ending |
-| → **καθόλου**, "as a whole," "universally," "in general terms" | | |
+*"The cause is that law is entirely universal, but about some things it is not possible to speak rightly in universal terms."* This is the sentence behind the page's second bullet on "every law is universal"; *katholou* — *kath-* ("throughout, according to") fused to *hol-* (the "whole" of *holos*, source of English "holistic" and "catholic") plus an adverbial ending — names the very wholesale-ness of law that produces the gap decency has to fill, and Aristotle repeats the word at both ends of the sentence to underline it.
 
-The word Aristotle uses for how law necessarily speaks — "throughout the whole" — is the same *hol-* root that gives English "holistic" and "catholic"; the argument for decency starts from this literal wholesale-ness of law running up against particular cases it cannot see into.
-
-Source: Bk. V, ch. 10 (Bekker 1137b29-33).
+### Bk. V, ch. 10 (Bekker 1137b29-33)
 
 > τοῦ γὰρ ἀορίστου ἀόριστος καὶ ὁ κανών ἐστιν, ὥσπερ καὶ τῆς Λεσβίας οἰκοδομίας ὁ μολίβδινος κανών· πρὸς γὰρ τὸ σχῆμα τοῦ λίθου μετακινεῖται καὶ οὐ μένει ὁ κανών, καὶ τὸ ψήφισμα πρὸς τὰ πράγματα.
 
-**ἀόριστος**, morpheme by morpheme:
+```
+τοῦ      γὰρ  ἀορίστου           ἀόριστος           καὶ   ὁ        κανών     ἐστιν  ὥσπερ    καὶ   τῆς      Λεσβίας      οἰκοδομίας    ὁ        μολίβδινος  κανών     πρὸς    γὰρ  τὸ       σχῆμα      τοῦ      λίθου      μετακινεῖται  καὶ  οὐ   μένει     ὁ        κανών     καὶ  τὸ       ψήφισμα     πρὸς    τὰ       πράγματα
+tou      gar  aoristou           aoristos           kai   ho       kanōn     estin  hōsper   kai   tēs      Lesbias      oikodomias    ho       molibdinos  kanōn     pros    gar  to       schēma     tou      lithou     metakineitai  kai  ou   menei     ho       kanōn     kai  to       psēphisma   pros    ta       pragmata
+the.GEN  for  indeterminate.GEN  indeterminate.NOM  also  the.NOM  rule.NOM  is     just-as  also  the.GEN  Lesbian.GEN  building.GEN  the.NOM  leaden.NOM  rule.NOM  toward  for  the.ACC  shape.ACC  the.GEN  stone.GEN  it-shifts     and  not  it-stays  the.NOM  rule.NOM  and  the.NOM  decree.NOM  toward  the.ACC  facts.ACC
+```
 
-| ἀ- | ὁρι- | -στος |
-|---|---|---|
-| *a-* | *hori-* | *-stos* |
-| negative prefix, "not, un-" | root of *horizein*, "to bound, delimit, mark a boundary" (cf. *horos*, "boundary") | verbal-adjective suffix, "-able," "-ed" |
-| → **ἀόριστος**, "un-delimited," "indeterminate, without a fixed boundary" | | |
+*"For of the indeterminate the rule too is indeterminate, just as the leaden rule of Lesbian building also is; for it shifts to fit the shape of the stone and the rule does not stay fixed, and so too the decree in relation to the facts."* This is the sentence behind the page's third bullet, the Lesbian ruler; *aoristos* — a-privative plus the root of *horizein* ("to bound, mark a boundary," source of English "horizon") plus a verbal-adjective suffix — names the matter of action as literally boundary-less, which is why the *kanōn* ("rule," here the flexible lead straightedge) has to bend to the stone rather than the reverse.
 
-This is the word that licenses the Lesbian-ruler image itself: because the matter of action is *aoristos*, "boundary-less," the rule fitted to it must be equally un-fixed — the lead ruler bending to the stone rather than the stone conforming to a rigid straightedge.
-
-Source: Bk. V, ch. 10 (Bekker 1138a1-3).
+### Bk. V, ch. 10 (Bekker 1138a1-3)
 
 > ὁ μὴ ἀκριβοδίκαιος ἐπὶ τὸ χεῖρον ἀλλʼ ἐλαττωτικός, καίπερ ἔχων τὸν νόμον βοηθόν, ἐπιεικής ἐστι, καὶ ἡ ἕξις αὕτη ἐπιείκεια, δικαιοσύνη τις οὖσα καὶ οὐχ ἑτέρα τις ἕξις.
 
-**ἐλαττωτικός**, morpheme by morpheme:
+```
+ὁ            μὴ   ἀκριβοδίκαιος       ἐπὶ     τὸ       χεῖρον   ἀλλʼ  ἐλαττωτικός           καίπερ    ἔχων         τὸν      νόμον    βοηθόν          ἐπιεικής    ἐστι  καὶ  ἡ        ἕξις             αὕτη      ἐπιείκεια    δικαιοσύνη   τις            οὖσα        καὶ  οὐχ   ἑτέρα      τις            ἕξις
+ho           mē   akribodikaios       epi     to       cheiron  all'  elattōtikos           kaiper    echōn        ton      nomon    boēthon         epieikēs    esti  kai  hē       hexis            hautē     epieikeia    dikaiosynē   tis            ousa        kai  ouch  hetera     tis            hexis
+the-one.NOM  not  precisely-just.NOM  toward  the.ACC  worse    but   inclined-to-less.NOM  although  having.PTCP  the.ACC  law.ACC  as-support.ACC  decent.NOM  is    and  the.NOM  disposition.NOM  this.NOM  decency.NOM  justice.NOM  a-certain.NOM  being.PTCP  and  not   other.NOM  a-certain.NOM  disposition.NOM
+```
 
-| ἐλαττ- | -ω- | -τικός |
-|---|---|---|
-| *elatt-* | *-ō-* | *-tikos* |
-| comparative stem of *oligos/mikros*, "less, smaller" | verb-forming element (cf. *elattoun*, "to lessen, make less") | adjective suffix marking tendency or capacity, "-ic," "prone to" |
-| → **ἐλαττωτικός**, "inclined to take less," "disposed toward making do with a smaller share" | | |
-
-This single adjective carries the whole counterintuitive definition the page highlights: the decent person's habit isn't sharper legal reasoning but a standing inclination — built into the word's own *-tikos* ending — to come away with less than the law would let him keep.
+*"The one who is not precisely-just toward the worse but inclined to take less, even though he has the law as his supporter, is decent, and this disposition is decency, being a certain justice and not some other disposition."* This is the sentence the page's fourth bullet turns on; *elattōtikos* — the comparative stem *elatt-* ("less, smaller") plus a verb-forming element plus the *-tikos* suffix marking a standing tendency — builds the disposition to *forgo* a legal entitlement directly into the word's own ending, rather than describing it as sharper legal reasoning.
 
 ## Related
 

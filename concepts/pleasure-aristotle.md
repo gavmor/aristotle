@@ -6,7 +6,7 @@ aliases: [hedone, pleasure]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's mature theory of pleasure (Book X, building on Book VII) as the unimpeded being-at-work of a natural capacity, not a process, restoration, or motion.
 provenance:
   extracted: 0.72
@@ -42,60 +42,65 @@ Aristotle treats pleasure twice: a first pass in Book VII (chapters 11-14), reop
 
 ## Greek Gloss
 
-Source: Bk. X, ch. 2 (Bekker 1172b9-15).
+### Bk. X, ch. 2 (Bekker 1172b1-15)
 
-> εὔδοξος μὲν οὖν τὴν ἡδονὴν τἀγαθὸν ᾤετʼ εἶναι διὰ τὸ πάνθʼ ὁρᾶν ἐφιέμενα αὐτῆς, καὶ ἔλλογα καὶ ἄλογα, ἐν πᾶσι δʼ εἶναι τὸ αἱρετὸν τὸ ἐπιεικές, καὶ τὸ μάλιστα κράτιστον· τὸ δὴ πάντʼ ἐπὶ ταὐτὸ φέρεσθαι μηνύειν ὡς πᾶσι τοῦτο ἄριστον ὄν, τὸ δὲ πᾶσιν ἀγαθόν, καὶ οὗ πάντʼ ἐφίεται, τἀγαθὸν εἶναι.
+> εὔδοξος μὲν οὖν τὴν ἡδονὴν τἀγαθὸν ᾤετʼ εἶναι διὰ τὸ πάνθʼ ὁρᾶν ἐφιέμενα αὐτῆς, καὶ ἔλλογα καὶ ἄλογα, ἐν πᾶσι δʼ εἶναι τὸ αἱρετὸν τὸ ἐπιεικές, καὶ τὸ μάλιστα κράτιστον· τὸ δὴ πάντʼ ἐπὶ ταὐτὸ φέρεσθαι μηνύειν ὡς πᾶσι τοῦτο ἄριστον ὄν (ἕκαστον γὰρ τὸ αὑτῷ ἀγαθὸν εὑρίσκειν, ὥσπερ καὶ τροφήν), τὸ δὲ πᾶσιν ἀγαθόν, καὶ οὗ πάντʼ ἐφίεται, τἀγαθὸν εἶναι.
 
-| ἐφ- | ἵε- | -ται |
-|---|---|---|
-| *eph-* from ἐπί, "at, toward" | root of ἵημι, "to send, to reach for" | 3rd-person singular middle ending |
-| → **ἐφίεται**, "it reaches itself out toward," "it aims at" | | |
+```
+εὔδοξος  μὲν   οὖν  τὴν      ἡδονὴν        τἀγαθὸν       ᾤετʼ     εἶναι  διὰ         τὸ       πάνθʼ       ὁρᾶν    ἐφιέμενα              αὐτῆς   καὶ   ἔλλογα           καὶ  ἄλογα              ἐν  πᾶσι     δʼ   εἶναι  τὸ       αἱρετὸν       τὸ       ἐπιεικές  καὶ  τὸ       μάλιστα      κράτιστον  τὸ       δὴ      πάντʼ           ἐπὶ     ταὐτὸ     φέρεσθαι       μηνύειν     ὡς    πᾶσι        τοῦτο  ἄριστον   ὄν          ἕκαστον     γὰρ  τὸ       αὑτῷ            ἀγαθὸν    εὑρίσκειν   ὥσπερ    καὶ   τροφήν    τὸ       δὲ   πᾶσιν       ἀγαθόν    καὶ  οὗ         πάντʼ           ἐφίεται         τἀγαθὸν       εἶναι
+Eudoxos  men   oun  tēn      hēdonēn       t'agathon     ōiet'    einai  dia         to       panth'      horan   ephiemena             autēs   kai   elloga           kai  aloga              en  pasi     d'   einai  to       haireton      to       epieikes  kai  to       malista      kratiston  to       dē      pant'           epi     tauto     pheresthai     mēnyein     hōs   pasi        touto  ariston   on          hekaston    gar  to       hautōi          agathon   heuriskein  hōsper   kai   trophēn   to       de   pasin       agathon   kai  hou        pant'           ephietai        t'agathon     einai
+Eudoxus  PTCL  so   the.ACC  pleasure.ACC  the-good.ACC  thought  to-be  because-of  the.ACC  all-things  to-see  reaching-toward.PTCP  it.GEN  both  rational-things  and  irrational-things  in  all.DAT  and  to-be  the.NOM  choiceworthy  the.NOM  decent    and  the.NOM  most-of-all  best       the.NOM  indeed  all-things.NOM  toward  the-same  to-be-carried  to-signify  that  to-all.DAT  this   best.NOM  being.PTCP  each-thing  for  the.ACC  for-itself.DAT  good.ACC  to-find     just-as  also  food.ACC  the.NOM  and  to-all.DAT  good.NOM  and  which.GEN  all-things.NOM  reaches-toward  the-good.NOM  to-be
+```
 
-Eudoxus's whole argument rides on this one verb: since everything, rational and irrational alike, is caught *reaching toward* (ἐφίεται) pleasure, and what everything reaches toward must be good, pleasure must be good — the premise Plato's circle then has to block by denying that addition of anything, even reason, could make the good itself more choiceworthy.
+*"Eudoxus, then, supposed pleasure to be the good, because he saw all things reaching for it, both those with reason and those without, and in all cases what is fitting and most excellent is the choiceworthy; that all things move toward the same thing shows this to be best for all — each finds its own good, just as with food — and what is good for all, and what all things reach for, is the good."* The whole inference turns on **ἐφίεται**/**ἐφιέμενα** — *epi-* "toward, at" prefixed to the root of ἵημι, "to send, to let go" — so that "reaching-toward" becomes the single predicate uniting gods, animals, and reasoners; from a shared object of striving Eudoxus infers a shared good, the very move this page credits to him before Plato's circle blocks it.
 
-Source: Bk. X, ch. 3 (Bekker 1173a29-1173b1).
+### Bk. X, ch. 3 (Bekker 1173a30-1173b1)
 
-> τὴν ἡδονὴν κίνησιν καὶ γένεσιν ἀποφαίνειν πειρῶνται. οὐ καλῶς δʼ ἐοίκασι λέγειν οὐδʼ εἶναι κίνησιν. πάσῃ γὰρ οἰκεῖον εἶναι δοκεῖ τάχος καὶ βραδυτής, καὶ εἰ μὴ καθʼ αὑτήν, οἷον τῇ τοῦ κόσμου, πρὸς ἄλλο· τῇ δʼ ἡδονῇ τούτων οὐδέτερον ὑπάρχει. ἡσθῆναι μὲν γὰρ ἔστι ταχέως ὥσπερ ὀργισθῆναι, ἥδεσθαι δʼ οὔ.
+> οὐ καλῶς δʼ ἐοίκασι λέγειν οὐδʼ εἶναι κίνησιν. πάσῃ γὰρ οἰκεῖον εἶναι δοκεῖ τάχος καὶ βραδυτής, καὶ εἰ μὴ καθʼ αὑτήν, οἷον τῇ τοῦ κόσμου, πρὸς ἄλλο· τῇ δʼ ἡδονῇ τούτων οὐδέτερον ὑπάρχει.
 
-| κίνη- | -σις |
-|---|---|
-| root of κινέω, "to move, set in motion" | abstract noun suffix, "the process/act of" |
-| → **κίνησις**, "a motion," "a process of change" | |
+```
+οὐ   καλῶς    δʼ   ἐοίκασι    λέγειν  οὐδʼ  εἶναι  κίνησιν     πάσῃ       γὰρ  οἰκεῖον  εἶναι  δοκεῖ  τάχος      καὶ  βραδυτής      καὶ  εἰ  μὴ   καθʼ          αὑτήν       οἷον     τῇ       τοῦ     κόσμου        πρὸς         ἄλλο     τῇ       δʼ   ἡδονῇ         τούτων        οὐδέτερον  ὑπάρχει
+ou   kalōs    d'   eoikasi    legein  oud'  einai  kinēsin     pasēi      gar  oikeion  einai  dokei  tachos     kai  bradytēs      kai  ei  mē   kath'         hautēn      hoion    tēi      tou     kosmou        pros         allo     tēi      d'   hēdonēi       toutōn        oudeteron  hyparchei
+not  rightly  but  they-seem  to-say  nor   to-be  motion.ACC  every.DAT  for  proper   to-be  seems  speed.NOM  and  slowness.NOM  and  if  not  according-to  itself.ACC  such-as  the.DAT  of-the  universe.GEN  relative-to  another  the.DAT  but  pleasure.DAT  of-these.GEN  neither    belongs
+```
 
-Every κίνησις, Aristotle notes, has its own proper speed or slowness because it takes time to unfold toward a still-outstanding end; pleasure has neither, which is exactly the ground for his claim that one can "become pleased" quickly (a change into pleasure) but not "feel pleasure" quickly, since the feeling itself, like seeing, is already whole at any instant.
+*"They do not seem right, however, to say that it is a motion either. For every motion seems to have its own proper speed and slowness — if not in its own right, then relative to something else, as with the motion of the heavens — but neither of these belongs to pleasure."* **κίνησις** is built from the verbal root of κινέω, "to set in motion," plus the abstract-noun suffix *-σις*, "the process of"; because every real κίνησις drags its own tempo along with it (fast or slow, absolutely or relative to some other motion), and pleasure drags neither, Aristotle concludes pleasure cannot belong to that category at all — the same reasoning behind his claim that one "becomes pleased" quickly but does not "feel pleasure" quickly.
 
-Source: Bk. X, ch. 4 (Bekker 1175a10-11).
+### Bk. X, ch. 4 (Bekker 1175a10-15)
 
 > ὀρέγεσθαι δὲ τῆς ἡδονῆς οἰηθείη τις ἂν ἅπαντας, ὅτι καὶ τοῦ ζῆν ἅπαντες ἐφίενται· ἡ δὲ ζωὴ ἐνέργειά τις ἐστί.
 
-| ζω- | -ή |
-|---|---|
-| root of ζάω/ζῆν, "to live" | feminine abstract-noun suffix |
-| → **ζωή**, "life," "the state of being alive" |  |
+```
+ὀρέγεσθαι   δὲ   τῆς      ἡδονῆς        οἰηθείη        τις      ἂν   ἅπαντας         ὅτι      καὶ   τοῦ      ζῆν      ἅπαντες   ἐφίενται   ἡ        δὲ   ζωὴ       ἐνέργειά           τις        ἐστί
+oregesthai  de   tēs      hēdonēs       oiētheiē       tis      an   hapantas        hoti     kai   tou      zēn      hapantes  ephientai  hē       de   zōē       energeia           tis        esti
+to-desire   now  the.GEN  pleasure.GEN  might-suppose  someone  MOD  all-people.ACC  because  also  the.GEN  to-live  all.NOM   aim-at     the.NOM  and  life.NOM  being-at-work.NOM  a-certain  is
+```
 
-Because ζωή itself turns out to be a kind of [[concepts/energeia|being-at-work]], not a bare fact of persisting, pleasure's job of completing whatever activity it accompanies extends to completing living as such — which is Aristotle's proposed reason (left officially undecided) why the desire for pleasure and the desire for life run together.
+*"One might suppose that all people desire pleasure because all people also reach for life; and life is a certain being-at-work."* **ζωή** is simply the root of ζάω/ζῆν, "to live," carrying the feminine abstract-noun ending *-η*: not "the fact of being alive" as a static condition, but a noun built to name living as itself an activity. Because life turns out to be a kind of [[concepts/energeia|being-at-work]] rather than a bare persisting, pleasure's job of completing whatever activity it accompanies extends automatically to completing living as such — Aristotle's proposed, officially undecided reason why the desire for pleasure and the desire for life run together.
 
-Source: Bk. X, ch. 5 (Bekker 1175a30-33).
+### Bk. X, ch. 5 (Bekker 1175a30)
 
-> συναύξει γὰρ τὴν ἐνέργειαν ἡ οἰκεία ἡδονή. μᾶλλον γὰρ ἕκαστα κρίνουσι καὶ ἐξακριβοῦσιν οἱ μεθʼ ἡδονῆς ἐνεργοῦντες, οἷον γεωμετρικοὶ γίνονται οἱ χαίροντες τῷ γεωμετρεῖν, καὶ κατανοοῦσιν ἕκαστα μᾶλλον.
+> συναύξει γὰρ τὴν ἐνέργειαν ἡ οἰκεία ἡδονή.
 
-| οἰκ- | -εία |
-|---|---|
-| root of οἶκος, "house, home, one's own" | feminine adjective suffix, "belonging to" |
-| → **οἰκεία** (fem.), "one's own," "proper," "fitting" | |
+```
+συναύξει        γὰρ  τὴν      ἐνέργειαν     ἡ        οἰκεία         ἡδονή
+synauxei        gar  tēn      energeian     hē       oikeia         hēdonē
+grows-together  for  the.ACC  activity.ACC  the.NOM  one's-own.NOM  pleasure.NOM
+```
 
-The pleasure that "grows the activity together with itself" is literally the one that belongs to that activity's own house; Aristotle's stock example is exactly the one on this page — people who enjoy geometry become sharper geometers because the pleasure is geometry's own, not borrowed from elsewhere.
+*"For its own proper pleasure grows an activity together with itself."* **οἰκεία** is the feminine of οἰκεῖος, built on οἶκος, "house, home," with an adjectival ending meaning "belonging to the household of"; the pleasure that "belongs to the house" of a given activity is the one Aristotle credits with intensifying that very activity — his own example, arriving in the sentences right after this one, is the geometry-lover who becomes a sharper geometer precisely because the pleasure taken is geometry's own, not one borrowed from elsewhere.
 
-Source: Bk. VII, ch. 14 (Bekker 1154b25-28).
+### Bk. VII, ch. 14 (Bekker 1154b25-30)
 
-> διὸ ὁ θεὸς ἀεὶ μίαν καὶ ἁπλῆν χαίρει ἡδονήν· οὐ γὰρ μόνον κινήσεώς ἐστιν ἐνέργεια ἀλλὰ καὶ ἀκινησίας, καὶ ἡδονὴ μᾶλλον ἐν ἠρεμίᾳ ἐστὶν ἢ ἐν κινήσει. μεταβολὴ δὲ πάντων γλυκύ, κατὰ τὸν ποιητήν, διὰ πονηρίαν τινά.
+> διὸ ὁ θεὸς ἀεὶ μίαν καὶ ἁπλῆν χαίρει ἡδονήν· οὐ γὰρ μόνον κινήσεώς ἐστιν ἐνέργεια ἀλλὰ καὶ ἀκινησίας, καὶ ἡδονὴ μᾶλλον ἐν ἠρεμίᾳ ἐστὶν ἢ ἐν κινήσει.
 
-| ἁ- | -πλ- | -οῦς |
-|---|---|---|
-| copulative prefix, "one, same" (cf. ἅμα, "together") | root related to πλέκω, "to fold, weave" | adjective ending |
-| → **ἁπλοῦς**, "one-fold," "simple," "uncompounded" | | |
+```
+διὸ        ὁ        θεὸς     ἀεὶ     μίαν     καὶ  ἁπλῆν       χαίρει   ἡδονήν        οὐ   γὰρ  μόνον  κινήσεώς       ἐστιν  ἐνέργεια           ἀλλὰ  καὶ   ἀκινησίας              καὶ  ἡδονὴ         μᾶλλον  ἐν  ἠρεμίᾳ    ἐστὶν  ἢ     ἐν  κινήσει
+dio        ho       theos    aei     mian     kai  haplēn      chairei  hēdonēn       ou   gar  monon  kinēseōs       estin  energeia           alla  kai   akinēsias              kai  hēdonē        mallon  en  ēremiāi   estin  ē     en  kinēsei
+therefore  the.NOM  god.NOM  always  one.ACC  and  simple.ACC  enjoys   pleasure.ACC  not  for  only   of-motion.GEN  is     being-at-work.NOM  but   also  of-motionlessness.GEN  and  pleasure.NOM  more    in  rest.DAT  is     than  in  motion.DAT
+```
 
-God's pleasure is called ἁπλῆ, "one-fold," because a wholly uncompounded nature has nothing else in it to chafe against; humans, being folded together from more than one nature, find "change in all things sweet" only on account of that inner unevenness — the "some badness" Aristotle attributes to our compound, partly perishable constitution.
+*"That is why a god always enjoys one single, simple pleasure; for being-at-work belongs not only to motion but also to motionlessness, and pleasure is more in rest than in motion."* **ἁπλῆν** descends from ἁ- (a copulative prefix meaning "one, same," related to ἅμα, "together") fused to a root related to πλέκω, "to fold, weave," plus an adjectival ending — literally "one-folded," i.e. uncompounded. A wholly simple nature has nothing else in it to chafe against, which is why it needs only one pleasure continuously; the page's larger point, that humans crave *change* only on account of "some badness" in our folded-together, partly perishable constitution, follows a few words later in the same passage.
 
 ## Related
 

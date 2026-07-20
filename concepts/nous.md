@@ -6,7 +6,7 @@ aliases: [nous, intellect, comprehension, intuitive reason]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The truth-disclosing capacity directed at first principles and ultimate particulars — the one thing knowledge, art, and practical judgment can't reach on their own.
 provenance:
   extracted: 0.80
@@ -38,53 +38,53 @@ Book VI, ch. 6 isolates *nous* by elimination: of the five ways the soul disclos
 
 ## Greek Gloss
 
-Source: Bk. VI, ch. 3 (Bekker 1139b14-17).
+### Bk. VI, ch. 3 (Bekker 1139b14-17)
 
 > ἔστω δὴ οἷς ἀληθεύει ἡ ψυχὴ τῷ καταφάναι ἢ ἀποφάναι, πέντε τὸν ἀριθμόν· ταῦτα δʼ ἐστὶ τέχνη ἐπιστήμη φρόνησις σοφία νοῦς·
 
-| νο- | -ῦς |
-|---|---|
-| *no-* | *-ûs* |
-| root of *noeô*, "to perceive with the mind, apprehend" | contracted nominal ending (< *νόος*) |
-| → **νοῦς**, "mind," "intellect," "direct apprehension" | |
+```
+ἔστω       δὴ    οἷς       ἀληθεύει      ἡ    ψυχὴ    τῷ      καταφάναι   ἢ   ἀποφάναι   πέντε  τὸν  ἀριθμόν   ταῦτα  δʼ   ἐστὶ  τέχνη   ἐπιστήμη   φρόνησις            σοφία   νοῦς
+estō       dē    hois      alētheuei     hē   psychē  tō      kataphanai  ē   apophanai  pente  ton  arithmon  tauta  d'   esti  technē  epistēmē   phronēsis           sophia  nous
+let-it-be  PTCL  by-which  speaks-truly  the  soul    by-the  to-affirm   or  to-deny    five   the  number    these  and  are   art     knowledge  practical-judgment  wisdom  intellect
+```
 
-This is the roster itself — the five states by which the soul reaches truth (see [[synthesis/five-ways-of-truth]]) — with *nous* named last as the one still to be pinned down by elimination.
+*"Let it stand that the things by which the soul reaches truth, in affirming or denying, are five in number: art, knowledge, practical judgment, wisdom, and intellect."* This is the roster itself opening Book VI's inventory of the soul's truth-bearing states (see [[synthesis/five-ways-of-truth]]), with *nous* named last as the one still to be pinned down by elimination. The word itself, *νοῦς*, is a contracted descendant of the older *νόος* — the verbal root *no-* ("to perceive with the mind," seen in *noeô*) fused with a nominal ending that collapses into the single long diphthong *-οῦς*, so the noun for the faculty is built directly on the verb for the act it performs.
 
-Source: Bk. VI, ch. 6 (Bekker 1141a2-8).
+### Bk. VI, ch. 6 (Bekker 1141a2-8)
 
 > εἰ δὴ οἷς ἀληθεύομεν καὶ μηδέποτε διαψευδόμεθα περὶ τὰ μὴ ἐνδεχόμενα ἢ καὶ ἐνδεχόμενα ἄλλως ἔχειν, ἐπιστήμη καὶ φρόνησίς ἐστι καὶ σοφία καὶ νοῦς, τούτων δὲ τῶν τριῶν μηδὲν ἐνδέχεται εἶναι (λέγω δὲ τρία φρόνησιν ἐπιστήμην σοφίαν), λείπεται νοῦν εἶναι τῶν ἀρχῶν.
 
-| ἀρχ- | -ή |
-|---|---|
-| *arkh-* | *-ē* |
-| root meaning "beginning, first thing, that which rules" | abstract feminine noun suffix |
-| → **ἀρχή**, "starting point," "first principle," "source" | |
+```
+εἰ  δὴ    οἷς       ἀληθεύομεν      καὶ  μηδέποτε  διαψευδόμεθα     περὶ        τὰ   μὴ   ἐνδεχόμενα           ἢ   καὶ   ἐνδεχόμενα   ἄλλως      ἔχειν   ἐπιστήμη   καὶ  φρόνησίς            ἐστι  καὶ  σοφία   καὶ  νοῦς       τούτων    δὲ    τῶν  τριῶν  μηδὲν    ἐνδέχεται   εἶναι  λέγω    δὲ    τρία   φρόνησιν            ἐπιστήμην  σοφίαν   λείπεται    νοῦν       εἶναι  τῶν  ἀρχῶν
+ei  dē    hois      alētheuomen     kai  mēdepote  diapseudometha   peri        ta   mē   endechomena          ē   kai   endechomena  allōs      echein  epistēmē   kai  phronēsis           esti  kai  sophia  kai  nous       toutōn    de    tōn  triōn  mēden    endechetai  einai  legō    de    tria   phronēsin           epistēmēn  sophian  leipetai    noun       einai  tōn  archōn
+if  PTCL  by-which  we-speak-truly  and  never     we-are-deceived  concerning  the  not  admitting-otherwise  or  even  admitting    otherwise  to-be   knowledge  and  practical-judgment  is    and  wisdom  and  intellect  of-these  PTCL  the  three  nothing  admits-of   to-be  I-mean  PTCL  three  practical-judgment  knowledge  wisdom   it-remains  intellect  to-be  the  principles
+```
 
-This is the exact elimination-sentence behind Key Idea 1: with *phronesis*, *episteme*, and *sophia* ("these three") disqualified, *leipetai* ("it remains") that *nous* is what grasps the *archai*.
+*"If, then, the things by which we reach truth and are never deceived, concerning what cannot be otherwise or can be otherwise, are knowledge and practical judgment and wisdom and intellect, and none of these three (I mean practical judgment, knowledge, wisdom) can be it, it remains that intellect is of the first principles."* This is the exact elimination-sentence behind Key Idea 1: with *phronēsis*, *epistēmē*, and *sophia* — "these three" — ruled out one by one, the verb *leipetai* ("it remains," a passive form of *leipō*, "to leave behind") does the argumentative work of process-of-elimination, delivering *nous* as what grasps the *archai*, the starting points.
 
-Source: Bk. VI, ch. 11 (Bekker 1143a25-29).
+### Bk. VI, ch. 11 (Bekker 1143a25-29)
 
 > εἰσὶ δὲ πᾶσαι αἱ ἕξεις εὐλόγως εἰς ταὐτὸ τείνουσαι· λέγομεν γὰρ γνώμην καὶ σύνεσιν καὶ φρόνησιν καὶ νοῦν ἐπὶ τοὺς αὐτοὺς ἐπιφέροντες γνώμην ἔχειν καὶ νοῦν ἤδη καὶ φρονίμους καὶ συνετούς. πᾶσαι γὰρ αἱ δυνάμεις αὗται τῶν ἐσχάτων εἰσὶ καὶ τῶν καθʼ ἕκαστον·
 
-| συν- | -ι/ἑ- | -σις |
-|---|---|---|
-| *syn-* | *hi-/he-* | *-sis* |
-| "together, with" | root of *hiēmi*, "to send, let go" | noun-of-action suffix |
-| → **σύνεσις**, "a putting-together," "quick comprehension," "astuteness" | | |
+```
+εἰσὶ  δὲ    πᾶσαι  αἱ   ἕξεις   εὐλόγως     εἰς     ταὐτὸ       τείνουσαι  λέγομεν  γὰρ  γνώμην          καὶ  σύνεσιν        καὶ  φρόνησιν            καὶ  νοῦν       ἐπὶ   τοὺς  αὐτοὺς  ἐπιφέροντες   γνώμην          ἔχειν    καὶ  νοῦν       ἤδη      καὶ  φρονίμους   καὶ  συνετούς       πᾶσαι  γὰρ  αἱ   δυνάμεις    αὗται   τῶν  ἐσχάτων          εἰσὶ  καὶ  τῶν  καθʼ   ἕκαστον
+eisi  de    pasai  hai  hexeis  eulogōs     eis     tauto       teinousai  legomen  gar  gnōmēn          kai  synesin        kai  phronēsin           kai  noun       epi   tous  autous  epipherontes  gnōmēn          echein   kai  noun       ēdē      kai  phronimous  kai  synetous       pasai  gar  hai  dynameis    hautai  tōn  eschatōn         eisi  kai  tōn  kath'  hekaston
+are   PTCL  all    the  states  reasonably  toward  same-thing  tending    we-say   for  thoughtfulness  and  comprehension  and  practical-judgment  and  intellect  upon  the   same    applying      thoughtfulness  to-have  and  intellect  already  and  prudent     and  comprehending  all    for  the  capacities  these   the  ultimate-things  are   and  the  PTCL   particular
+```
 
-This is the passage behind Key Idea 3: *gnomē* and *synesis* — thoughtfulness and astuteness — are said to "tend toward the same thing" as *nous* and *phronesis* precisely because all four are capacities for "the ultimate things and the particular."
+*"All these states reasonably tend toward the same thing: we speak of thoughtfulness and comprehension and practical judgment and intellect as belonging to the same people, calling them already thoughtful and having intellect, and prudent and comprehending — for all these capacities concern the ultimate things and the particular."* This is the passage behind Key Idea 3: *gnōmē* and *synesis* converge with *nous* and *phronēsis* because all four are capacities for "the ultimate things," and *synesis* itself is built from *syn-* ("together, with") plus the root of *hiēmi* ("to send, to let go"), so the word literally means a "putting-together" — the quick comprehension of holding several particulars in view at once.
 
-Source: Bk. VI, ch. 11 (Bekker 1143a35-1143b5).
+### Bk. VI, ch. 11 (Bekker 1143a35-1143b5)
 
 > καὶ ὁ νοῦς τῶν ἐσχάτων ἐπʼ ἀμφότερα· καὶ γὰρ τῶν πρώτων ὅρων καὶ τῶν ἐσχάτων νοῦς ἐστὶ καὶ οὐ λόγος, καὶ ὁ μὲν κατὰ τὰς ἀποδείξεις τῶν ἀκινήτων ὅρων καὶ πρώτων, ὁ δʼ ἐν ταῖς πρακτικαῖς τοῦ ἐσχάτου καὶ ἐνδεχομένου καὶ τῆς ἑτέρας προτάσεως· ἀρχαὶ γὰρ τοῦ οὗ ἕνεκα αὗται· ἐκ τῶν καθʼ ἕκαστα γὰρ τὰ καθόλου· τούτων οὖν ἔχειν δεῖ αἴσθησιν, αὕτη δʼ ἐστὶ νοῦς.
 
-| ἐσχ- | -ατος |
-|---|---|
-| *eskh-* | *-atos* |
-| stem tied to *echō*, "to hold, to be at a point" | superlative-forming suffix, "-most, outermost" |
-| → **ἔσχατος**, "furthest," "last," "the ultimate particular" | |
+```
+καὶ  ὁ    νοῦς       τῶν     ἐσχάτων          ἐπʼ     ἀμφότερα   καὶ  γὰρ     τῶν     πρώτων  ὅρων   καὶ  τῶν     ἐσχάτων   νοῦς       ἐστὶ  καὶ  οὐ   λόγος   καὶ  ὁ        μὲν   κατὰ        τὰς  ἀποδείξεις      τῶν     ἀκινήτων  ὅρων   καὶ  πρώτων  ὁ          δʼ   ἐν  ταῖς  πρακτικαῖς         τοῦ     ἐσχάτου   καὶ  ἐνδεχομένου   καὶ  τῆς     ἑτέρας   προτάσεως   ἀρχαὶ            γὰρ  τοῦ     οὗ     ἕνεκα            αὗται   ἐκ    τῶν  καθʼ   ἕκαστα       γὰρ  τὰ   καθόλου     τούτων    οὖν        ἔχειν    δεῖ              αἴσθησιν    αὕτη   δʼ   ἐστὶ  νοῦς
+kai  ho   nous       tōn     eschatōn         ep'     amphotera  kai  gar     tōn     prōtōn  horōn  kai  tōn     eschatōn  nous       esti  kai  ou   logos   kai  ho       men   kata        tas  apodeixeis      tōn     akinētōn  horōn  kai  prōtōn  ho         d'   en  tais  praktikais         tou     eschatou  kai  endechomenou  kai  tēs     heteras  proteaseōs  archai           gar  tou     hou    heneka           hautai  ek    tōn  kath'  hekasta      gar  ta   katholou    toutōn    oun        echein   dei              aisthēsin   hautē  d'   esti  nous
+and  the  intellect  of-the  ultimate-things  toward  both       for  indeed  of-the  first   terms  and  of-the  ultimate  intellect  is    and  not  reason  and  the-one  PTCL  concerning  the  demonstrations  of-the  unmoving  terms  and  first   the-other  and  in  the   practical-matters  of-the  ultimate  and  contingent    and  of-the  other    premise     starting-points  for  of-the  which  for-the-sake-of  these   from  the  PTCL   particulars  for  the  universals  of-these  therefore  to-have  it-is-necessary  perception  this   and  is    intellect
+```
 
-This is the textual source for Key Idea 2's "both ends" claim and for the ambiguity Sachs flags: *nous* is said to work *ep' amphotera* ("in both directions") — toward the fixed *horoi* (terms/limits) of demonstration, and toward the *eschaton* of action — and this second, practical use is explicitly called a kind of *aisthesis*, perception.
+*"And intellect concerns the ultimate things in both directions: of the first terms and the ultimate ones there is intellect and not reasoning — the one kind, tied to demonstrations, of the unmoving and first terms; the other, in practical matters, of the ultimate, contingent thing and the other premise, since these are starting points for the sake of which one acts, for it is from particulars that universals come; of these, then, one must have perception, and this is intellect."* This is the textual source for Key Idea 2's "both ends" claim and for the ambiguity Sachs flags: *nous* works *ep' amphotera* ("upon both") — toward the fixed *horoi* of demonstration and toward the *eschaton* of action — and *eschaton* itself carries the sense built into its ending: the root tied to *echō* ("to hold, to be at a point") plus *-atos*, a superlative-forming suffix meaning "-most, outermost," so the word names whatever stands furthest out, the last thing action can reach.
 
 ## Related
 

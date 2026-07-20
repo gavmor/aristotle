@@ -6,7 +6,7 @@ aliases: [andreia, bravery, the mean concerning fear and confidence]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-14T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The mean between rashness and cowardice regarding fear of death in battle, plus Aristotle's five named look-alikes that resemble but aren't true courage.
 provenance:
   extracted: 0.85
@@ -79,65 +79,65 @@ classDiagram
 
 ## Greek Gloss
 
-Source: Bk. III, ch. 6-7 (Bekker 1115b20-24).
+### Bk. III, ch. 7 (Bekker 1115b23-24)
 
-> τέλος δὲ πάσης ἐνεργείας ἐστὶ τὸ κατὰ τὴν ἕξιν... τοιοῦτον δὴ καὶ τὸ τέλος· ὁρίζεται γὰρ ἕκαστον τῷ τέλει. καλοῦ δὴ ἕνεκα ὁ ἀνδρεῖος ὑπομένει καὶ πράττει τὰ κατὰ τὴν ἀνδρείαν.
+> καλοῦ δὴ ἕνεκα ὁ ἀνδρεῖος ὑπομένει καὶ πράττει τὰ κατὰ τὴν ἀνδρείαν.
 
-| ἐν- | -ἐργ- | -εια |
-|---|---|---|
-| *en-* | *erg-* | *-eia* |
-| "in" | root of *ergon*, "work, deed" | abstract noun suffix |
-| → **ἐνέργεια**, "a being-in-work," "at-work-ness" | | |
+```
+καλοῦ          δὴ    ἕνεκα        ὁ    ἀνδρεῖος        ὑπομένει   καὶ  πράττει  τὰ          κατὰ          τὴν      ἀνδρείαν.
+kalou          dē    heneka       ho   andreios        hypomenei  kai  prattei  ta          kata          tēn      andreian
+beautiful.GEN  PTCL  for-sake-of  the  courageous-one  endures    and  does     the.ACC.PL  according-to  the.ACC  courage.ACC
+```
 
-This is the line the page's first bullet paraphrases directly: the end (τέλος) proper to any being-at-work matches the settled disposition (ἕξις) it flows from, which is why the sentence's own conclusion — *for the sake of the beautiful the courageous person endures* — follows as a logical consequence rather than an added motive.
+*So for the sake of the beautiful the courageous person endures and does what accords with courage.* This is the sentence the page's first bullet paraphrases as "acts for the sake of the beautiful": it directly follows the immediately preceding line that every being-at-work's end (τέλος) matches the settled disposition (ἕξις) it flows from, so the conclusion here is a logical consequence rather than an added motive — and note that *andreios* and *andreian* both carry the ἀνδρ- root of *anēr*, "man, adult male," courage cast grammatically as the virtue proper to manhood.
 
-Source: Bk. III, ch. 8 (Bekker 1116a15-17).
+### Bk. III, ch. 8 (Bekker 1116a15-17)
 
 > ἔστι μὲν οὖν ἡ ἀνδρεία τοιοῦτόν τι, λέγονται δὲ καὶ ἕτεραι κατὰ πέντε τρόπους· πρῶτον μὲν ἡ πολιτική· μάλιστα γὰρ ἔοικεν.
 
-| τροπ- | -ος |
-|---|---|
-| *trop-* | *-os* |
-| root of *trepein*, "to turn" | nominalizing suffix |
-| → **τρόπος**, "a turning," "a way," "a manner" |
+```
+ἔστι  μὲν   οὖν   ἡ    ἀνδρεία  τοιοῦτόν  τι,      λέγονται    δὲ   καὶ   ἕτεραι   κατὰ          πέντε  τρόπους·  πρῶτον  μὲν   ἡ    πολιτική·     μάλιστα      γὰρ  ἔοικεν.
+esti  men   oun   hē   andreia  toiouton  ti       legontai    de   kai   heterai  kata          pente  tropous   prōton  men   hē   politikē      malista      gar  eoiken
+is    PTCL  then  the  courage  such      a-thing  are-called  and  also  other    according-to  five   ways.ACC  first   PTCL  the  citizen-kind  most-of-all  for  it-seems
+```
 
-Each look-alike is literally a *tropos* — a "turn" away from true courage that still resembles it in outward shape; the page's five-fold classification follows this sentence's own list almost item for item, starting here with citizen-courage.
+*Courage, then, is a thing of this sort, but there are also others called courage in five ways; first the citizen-kind, for it seems closest.* This opens the exact five-fold list the page's third bullet reproduces almost item for item, starting with citizen-courage; each is literally a *tropos* — from *trepein*, "to turn" — a "turning" away from true courage that still keeps its outward shape.
 
-Source: Bk. III, ch. 8 (Bekker 1116a25-29).
+### Bk. III, ch. 8 (Bekker 1116a25-29)
 
 > ὡμοίωται δʼ αὕτη μάλιστα τῇ πρότερον εἰρημένῃ, ὅτι διʼ ἀρετὴν γίνεται· διʼ αἰδῶ γὰρ καὶ διὰ καλοῦ ὄρεξιν (τιμῆς γάρ) καὶ φυγὴν ὀνείδους, αἰσχροῦ ὄντος.
 
-| αἰδ- | -ώς |
-|---|---|
-| *aid-* | *-ōs* |
-| root shared with *aidesthai*, "to feel shame/reverence before another" | abstract-noun ending |
-| → **αἰδώς**, "shame," "a sense of what others would think" |
+```
+ὡμοίωται       δʼ    αὕτη      μάλιστα      τῇ       πρότερον    εἰρημένῃ,           ὅτι      διʼ      ἀρετὴν      γίνεται·        διʼ      αἰδῶ       γὰρ  καὶ  διὰ      καλοῦ          ὄρεξιν      (τιμῆς      γάρ)  καὶ  φυγὴν       ὀνείδους,     αἰσχροῦ       ὄντος.
+hōmoiōtai      d'    hautē     malista      tēi      proteron    eirēmenēi           hoti     di'      aretēn      ginetai         di'      aidō       gar  kai  dia      kalou          orexin      (timēs      gar)  kai  phygēn      oneidous      aischrou      ontos
+it-is-likened  PTCL  this-one  most-of-all  the.DAT  previously  mentioned.PTCP.DAT  because  through  virtue.ACC  it-comes-to-be  through  shame.ACC  for  and  through  beautiful.GEN  desire.ACC  (honor.GEN  for)  and  flight.ACC  reproach.GEN  shameful.GEN  being.PTCP.GEN
+```
 
-This names exactly what the page calls citizen-courage's "virtue-adjacent" motive: not virtue itself but *aidōs* — shame before onlookers — paired with desire for honor and flight from reproach.
+*This kind is likened most of all to the one spoken of before, because it comes about through virtue — through shame, and desire of the beautiful (for honor), and flight from reproach, since that is shameful.* This names exactly what the page calls citizen-courage's "virtue-adjacent" motive: not virtue itself but *aidōs* — built on the root of *aidesthai*, "to feel shame or reverence before another" — paired with desire for honor and flight from reproach.
 
-Source: Bk. III, ch. 8 (Bekker 1117a3-6).
+### Bk. III, ch. 8 (Bekker 1117a3-6)
 
 > φυσικωτάτη δʼ ἔοικεν ἡ διὰ τὸν θυμὸν εἶναι, καὶ προσλαβοῦσα προαίρεσιν καὶ τὸ οὗ ἕνεκα ἀνδρεία εἶναι.
 
-| θυμ- | -ός |
-|---|---|
-| *thym-* | *-os* |
-| root denoting spirited passion, anger, the seat of felt urgency | nominative masculine ending |
-| → **θυμός**, "spirit," "passion," "anger" |
+```
+φυσικωτάτη    δʼ    ἔοικεν    ἡ        διὰ      τὸν      θυμὸν       εἶναι,  καὶ  προσλαβοῦσα        προαίρεσιν  καὶ  τὸ       οὗ         ἕνεκα        ἀνδρεία  εἶναι.
+physikōtatē   d'    eoiken    hē       dia      ton      thymon      einai   kai  proslabousa        proairesin  kai  to       hou        heneka       andreia  einai
+most-natural  PTCL  it-seems  the-one  through  the.ACC  spirit.ACC  to-be   and  having-added.PTCP  choice.ACC  and  the.ACC  which.GEN  for-sake-of  courage  to-be
+```
 
-Aristotle here calls *thymos*-courage the most natural of the look-alikes and says outright that it becomes courage only once choice and the beautiful end are added — precisely the page's account of spirited courage as "courage's nearest neighbor."
+*The most natural kind seems to be the one through spirit, and once it has taken on choice and the end for whose sake, it is courage.* Aristotle calls *thymos*-courage the most natural of the look-alikes and says outright it becomes courage only once choice and the beautiful end are added onto it — precisely the page's account of spirited courage as "courage's nearest neighbor"; *thymos* itself names the spirited passion or seat of felt urgency, the surge Homer calls into a warrior's chest.
 
-Source: Bk. III, ch. 9 (Bekker 1117a35-1117b3).
+### Bk. III, ch. 9 (Bekker 1117b1-4)
 
-> διὸ καὶ ἐπίλυπον ἡ ἀνδρεία, καὶ δικαίως ἐπαινεῖται· χαλεπώτερον γὰρ τὰ λυπηρὰ ὑπομένειν ἢ τῶν ἡδέων ἀπέχεσθαι. οὐ μὴν ἀλλὰ δόξειεν ἂν εἶναι τὸ κατὰ τὴν ἀνδρείαν τέλος ἡδύ, ὑπὸ τῶν κύκλῳ δʼ ἀφανίζεσθαι, οἷον κἀν τοῖς γυμνικοῖς ἀγῶσι γίνεται.
+> οὐ μὴν ἀλλὰ δόξειεν ἂν εἶναι τὸ κατὰ τὴν ἀνδρείαν τέλος ἡδύ, ὑπὸ τῶν κύκλῳ δʼ ἀφανίζεσθαι, οἷον κἀν τοῖς γυμνικοῖς ἀγῶσι γίνεται.
 
-| κύκλ- | -ῳ |
-|---|---|
-| *kykl-* | *-ōi* |
-| "circle, ring" | dative singular ending: "in," "by," "round about" |
-| → **κύκλῳ**, "in a circle," "encircling" |
+```
+οὐ   μὴν   ἀλλὰ  δόξειεν        ἂν    εἶναι  τὸ   κατὰ        τὴν      ἀνδρείαν     τέλος  ἡδύ,      ὑπὸ   τῶν         κύκλῳ           δʼ    ἀφανίζεσθαι,   οἷον     κἀν      τοῖς        γυμνικοῖς      ἀγῶσι         γίνεται.
+ou   mēn   alla  doxeien        an    einai  to   kata        tēn      andreian     telos  hēdy      hypo  tōn         kyklōi          d'    aphanizesthai  hoion    kan      tois        gymnikois      agōsi         ginetai
+not  PTCL  but   it-would-seem  PTCL  to-be  the  concerning  the.ACC  courage.ACC  end    pleasant  by    the.GEN.PL  encircling.DAT  PTCL  to-be-hidden   just-as  even-in  the.DAT.PL  gymnastic.DAT  contests.DAT  it-happens
+```
 
-The image behind the page's claim that courage's pleasant end is "blocked from sight by the things that encircle it" is literally this dative, κύκλῳ — the painful things ringed around the end hide it the way a boxer's blows hide the wreath waiting past them.
+*Nevertheless the end that belongs to courage would seem to be pleasant, but hidden by the things that surround it, as also happens in athletic contests.* The image behind the page's second bullet — that courage's pleasant end is "blocked from sight by the things that encircle it" — is literally this dative, κύκλῳ, "in a circle" or "encircling": the painful blows ringed around the end hide it the way a boxer's punishment hides the wreath waiting past it.
 
 ## Related
 

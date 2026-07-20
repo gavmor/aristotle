@@ -6,7 +6,7 @@ aliases: [theoria, contemplation, the philosophic life]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Book X's argument that complete happiness is theoretical contemplation, being-at-work of the most divine part in us — ranking moral/political virtue as happy only secondarily.
 provenance:
   extracted: 0.70
@@ -49,77 +49,77 @@ Book X, chapters 6-8, close the Ethics' main argument (before the transitional c
 
 ## Greek Gloss
 
-Source: Bk. X, ch. 6 (Bekker 1176b26-30).
+### Bk. X, ch. 6 (Bekker 1176b26-30)
 
 > οὐκ ἐν παιδιᾷ ἄρα ἡ εὐδαιμονία· καὶ γὰρ ἄτοπον τὸ τέλος εἶναι παιδιάν, καὶ πραγματεύεσθαι καὶ κακοπαθεῖν τὸν βίον ἅπαντα τοῦ παίζειν χάριν.
 
-| παιδ- | -ιά |
-|---|---|
-| *paid-* | *-ia* |
-| root of *pais*, "child" | abstract noun suffix |
-| → **παιδιά**, "a child's-activity," "play" | |
+```
+οὐκ  ἐν  παιδιᾷ    ἄρα   ἡ        εὐδαιμονία·  καὶ  γὰρ  ἄτοπον  τὸ       τέλος  εἶναι  παιδιάν,  καὶ  πραγματεύεσθαι   καὶ  κακοπαθεῖν          τὸν      βίον      ἅπαντα     τοῦ      παίζειν  χάριν.
+ouk  en  paidiāi   ara   hē       eudaimonia   kai  gar  atopon  to       telos  einai  paidian   kai  pragmateuesthai  kai  kakopathein         ton      bion      hapanta    tou      paizein  charin
+not  in  play.DAT  then  the.NOM  happiness    and  for  absurd  the.NOM  end    to-be  play.ACC  and  to-labor         and  to-suffer-hardship  the.ACC  life.ACC  whole.ACC  the.GEN  to-play  for-sake-of
+```
 
-The word for "play" is built directly on "child," which is exactly Aristotle's point against the leisured-tyrant view: staking a whole life's labor on winning childish activity as a reward is not just wrong but a category mistake, since happiness must belong to the best part of an adult, not the part shared with children and slaves.
+*"Happiness, then, is not in play; for it would be absurd for the end to be play, and to labor and suffer hardship one's whole life long for the sake of playing."* This is the sentence the page's first bullet paraphrases: the word for "play," *paidia*, is built directly on *pais*, "child," which is exactly Aristotle's point against the leisured-tyrant view — staking a life's labor on winning a child's activity is a category mistake, since happiness must belong to the best part of an adult.
 
-Source: Bk. X, ch. 7 (Bekker 1177a27-30).
+### Bk. X, ch. 7 (Bekker 1177a27-28)
 
 > ἥ τε λεγομένη αὐτάρκεια περὶ τὴν θεωρητικὴν μάλιστʼ ἂν εἴη.
 
-| αὐτ- | -αρκ- | -εια |
-|---|---|---|
-| *aut-* | *-ark-* | *-eia* |
-| "self" | root of *arkeō*, "to be enough, suffice" | abstract noun suffix |
-| → **αὐτάρκεια**, "self-sufficiency," "needing nothing beyond oneself" | | |
+```
+ἥ        τε    λεγομένη        αὐτάρκεια         περὶ        τὴν      θεωρητικὴν         μάλιστʼ      ἂν   εἴη.
+hē       te    legomenē        autarkeia         peri        tēn      theōrētikēn        malist'      an   eiē
+the.NOM  PTCL  so-called.PTCP  self-sufficiency  concerning  the.ACC  contemplative.ACC  most-of-all  MOD  would-be
+```
 
-Building "enough" directly onto "self" makes vivid why contemplation, alone among virtuous activities, is said to possess this trait most fully — the wise person's own thinking supplies its own completion, unlike just or courageous action, which structurally needs other people to act toward.
+*"So-called self-sufficiency would belong most of all to the contemplative activity."* This backs the page's second bullet: *autarkeia* builds "enough" (*ark-*, root of *arkeō*, "to suffice") directly onto "self" (*aut-*), and Aristotle is arguing that this trait belongs to contemplation more fully than to any other virtuous activity, since the wise person's own thinking completes itself where just or courageous action structurally needs other people to act toward.
 
-Source: Bk. X, ch. 7 (Bekker 1177b31-1178a2).
+### Bk. X, ch. 7 (Bekker 1177b31-34)
 
 > οὐ χρὴ δὲ κατὰ τοὺς παραινοῦντας ἀνθρώπινα φρονεῖν ἄνθρωπον ὄντα οὐδὲ θνητὰ τὸν θνητόν, ἀλλʼ ἐφʼ ὅσον ἐνδέχεται ἀθανατίζειν καὶ πάντα ποιεῖν πρὸς τὸ ζῆν κατὰ τὸ κράτιστον τῶν ἐν αὑτῷ.
 
-| ἀ- | θανατ- | -ίζειν |
-|---|---|---|
-| *a-* | *thanat-* | *-izein* |
-| privative, "not" | root of *thanatos*, "death" | verb-forming suffix, "to make/act as" |
-| → **ἀθανατίζειν**, "to act so as to be deathless," "to immortalize oneself" | | |
+```
+οὐ   χρὴ          δὲ   κατὰ          τοὺς        παραινοῦντας   ἀνθρώπινα         φρονεῖν   ἄνθρωπον   ὄντα        οὐδὲ  θνητὰ              τὸν      θνητόν,     ἀλλʼ  ἐφʼ   ὅσον        ἐνδέχεται    ἀθανατίζειν     καὶ  πάντα           ποιεῖν  πρὸς    τὸ       ζῆν      κατὰ          τὸ       κράτιστον      τῶν         ἐν  αὑτῷ.
+ou   chrē         de   kata          tous        parainountas   anthrōpina        phronein  anthrōpon  onta        oude  thnēta             ton      thnēton     all'  eph'  hoson       endechetai   athanatizein    kai  panta           poiein  pros    to       zēn      kata          to       kratiston      tōn         en  hautōi
+not  it-is-right  but  according-to  the.ACC.PL  advising.PTCP  human-things.ACC  to-think  human.ACC  being.PTCP  nor   mortal-things.ACC  the.ACC  mortal.ACC  but   to    as-much-as  is-possible  to-immortalize  and  all-things.ACC  to-do   toward  the.ACC  to-live  according-to  the.ACC  strongest.ACC  the.GEN.PL  in  himself.DAT
+```
 
-Coining a verb out of "not-death" turns immortality from a state one merely has into an activity one does — matching this page's claim that living by intellect is a practice of stretching toward the divine, not a settled possession of it.
+*"One ought not, as those who urge it advise, think human thoughts since one is human, nor mortal thoughts since one is mortal, but as far as possible immortalize oneself, and do everything toward living in accordance with the most sovereign thing in oneself."* This is the sentence behind the page's third bullet. *Athanatizein* coins a verb straight out of *a-* ("not") plus *thanatos* ("death") plus the verb-forming *-izein* — turning immortality from a state one merely has into an activity one does, which matches the page's claim that living by intellect is a practice of reaching toward the divine, not a settled possession of it.
 
-Source: Bk. X, ch. 8 (Bekker 1178b20-22).
+### Bk. X, ch. 8 (Bekker 1178b20-22)
 
 > τῷ δὴ ζῶντι τοῦ πράττειν ἀφαιρουμένου, ἔτι δὲ μᾶλλον τοῦ ποιεῖν, τί λείπεται πλὴν θεωρία; ὥστε ἡ τοῦ θεοῦ ἐνέργεια, μακαριότητι διαφέρουσα, θεωρητικὴ ἂν εἴη.
 
-| θεωρ- | -ία |
-|---|---|
-| *theōr-* | *-ia* |
-| root of *theōros*, "spectator, one who looks on" | abstract noun suffix |
-| → **θεωρία**, "the act of looking on," "contemplation" | |
+```
+τῷ       δὴ    ζῶντι            τοῦ      πράττειν  ἀφαιρουμένου,        ἔτι    δὲ   μᾶλλον  τοῦ      ποιεῖν,  τί    λείπεται  πλὴν    θεωρία;        ὥστε     ἡ        τοῦ      θεοῦ     ἐνέργεια,      μακαριότητι      διαφέρουσα,     θεωρητικὴ          ἂν   εἴη.
+tōi      dē    zōnti            tou      prattein  aphairoumenou        eti    de   mallon  tou      poiein   ti    leipetai  plēn    theōria        hōste    hē       tou      theou    energeia       makariotēti      diapherousa     theōrētikē         an   eiē
+the.DAT  PTCL  living.PTCP.DAT  the.GEN  to-act    taken-away.PTCP.GEN  still  and  more    the.GEN  to-make  what  is-left   except  contemplation  so-that  the.NOM  the.GEN  god.GEN  being-at-work  blessedness.DAT  excelling.PTCP  contemplative.NOM  MOD  would-be
+```
 
-Once action and production are stripped from a being with no needs or dangers, "looking on" is the only activity left standing — which is exactly how Aristotle argues from what gods can be said to do to what makes human happiness happen to resemble theirs.
+*"So then, if acting is taken away from a living being, and still more if making is, what is left except contemplation? So the being-at-work of a god, surpassing in blessedness, would be contemplative."* This is the sentence the page's fourth bullet draws on: once action and production are stripped from a being with no needs or dangers, *theōria* — built on *theōros*, "spectator, one who looks on," plus the abstract-noun suffix *-ia* — is the only activity left standing, which is exactly how Aristotle argues from what gods can be said to do to what makes human happiness resemble theirs.
 
-Source: Bk. X, ch. 8 (Bekker 1179a5-10).
+### Bk. X, ch. 8 (Bekker 1179a9-13)
 
 > καὶ Σόλων δὲ τοὺς εὐδαίμονας ἴσως ἀπεφαίνετο καλῶς, εἰπὼν μετρίως τοῖς ἐκτὸς κεχορηγημένους, πεπραγότας δὲ τὰ κάλλισθʼ, ὡς ᾤετο, καὶ βεβιωκότας σωφρόνως.
 
-| χορ- | -ηγ- | -ημένους |
-|---|---|---|
-| *khor-* | *-ēg-* | *-ēmenous* |
-| root of *choros*, "chorus, dance" | root of *hēgeomai*, "to lead" | perfect passive participle ending |
-| → **κεχορηγημένους**, "furnished/equipped" (as a wealthy sponsor equips a chorus for a festival) | | |
+```
+καὶ   Σόλων      δὲ    τοὺς        εὐδαίμονας    ἴσως     ἀπεφαίνετο   καλῶς,  εἰπὼν             μετρίως     τοῖς        ἐκτὸς            κεχορηγημένους,       πεπραγότας               δὲ   τὰ          κάλλισθʼ,          ὡς   ᾤετο,       καὶ  βεβιωκότας                σωφρόνως.
+kai   Solōn      de    tous        eudaimonas    isōs     apephaineto  kalōs   eipōn             metriōs     tois        ektos            kechorēgēmenous       pepragotas               de   ta          kallisth'          hōs  ōieto       kai  bebiōkotas                sōphronōs
+also  Solon.NOM  PTCL  the.ACC.PL  happy.ACC.PL  perhaps  declared     well    having-said.PTCP  moderately  the.DAT.PL  external-things  equipped.PTCP.ACC.PL  having-done.PTCP.ACC.PL  and  the.ACC.PL  most-noble.ACC.PL  as   he-thought  and  having-lived.PTCP.ACC.PL  temperately
+```
 
-The word Aristotle reaches for to describe having "moderate" external goods is borrowed from the civic institution of the *choregia*, where a sponsor funded a chorus's costumes and training — external goods, like a chorus's costumes, are support for the performance, never the performance itself.
+*"And Solon, too, perhaps declared the happy well, in saying that they were people moderately furnished with external things, who had done, as he supposed, the noblest deeds, and had lived temperately."* This is the sentence the page's sixth bullet cites as an authority for moderate external goods. *Kechorēgēmenous* is borrowed from the civic institution of the *chorēgia* (root *choros*, "chorus," plus *hēg-*, "to lead," as a perfect passive participle) — where a wealthy sponsor funded a chorus's costumes and training, so external goods, like a chorus's costumes, support the performance without ever being the performance itself.
 
-Source: Bk. X, ch. 8 (Bekker 1179a25-30).
+### Bk. X, ch. 8 (Bekker 1179a22-24)
 
-> ὅτι δὲ πάντα ταῦτα τῷ σοφῷ μάλισθʼ ὑπάρχει, οὐκ ἄδηλον. θεοφιλέστατος ἄρα.
+> ὁ δὲ κατὰ νοῦν ἐνεργῶν καὶ τοῦτον θεραπεύων καὶ διακείμενος ἄριστα καὶ θεοφιλέστατος ἔοικεν.
 
-| θε- | -οφιλ- | -έστατος |
-|---|---|---|
-| *the-* | *-ophil-* | *-estatos* |
-| root of *theos*, "god" | root of *philos*, "dear, beloved" | superlative suffix |
-| → **θεοφιλέστατος**, "most dear to the gods" | | |
+```
+ὁ        δὲ    κατὰ          νοῦν           ἐνεργῶν             καὶ  τοῦτον    θεραπεύων         καὶ  διακείμενος    ἄριστα  καὶ  θεοφιλέστατος      ἔοικεν.
+ho       de    kata          noun           energōn             kai  touton    therapeuōn        kai  diakeimenos    arista  kai  theophilestatos    eoiken
+the.NOM  PTCL  according-to  intellect.ACC  being-at-work.PTCP  and  this.ACC  cultivating.PTCP  and  disposed.PTCP  best    and  most-dear-to-gods  seems
+```
 
-Compounding "god" and "beloved" into one superlative lets Aristotle close the argument in a single word: whatever the gods favor most is whatever most resembles them, and since the wise person's activity is closest to the gods' own, the wise person collects the superlative.
+*"And the one who is at work according to intellect, and cultivates it, and is disposed best, seems also to be most dear to the gods."* This is the sentence behind the page's seventh bullet: *theophilestatos* compounds *theos* ("god") with the root of *philos* ("dear, beloved") into a single superlative, letting Aristotle close the argument in one word — whatever the gods favor most resembles them most, and the wise person's activity is closest to the gods' own.
 
 ## Related
 

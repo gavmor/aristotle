@@ -6,7 +6,7 @@ aliases: [being-at-work, activity, actuality]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Aristotle's central ontological term for a complete, self-contained activity (as opposed to a process aimed at an external end); the ground of his account of happiness and pleasure.
 provenance:
   extracted: 0.70
@@ -39,75 +39,67 @@ Per translator Joe Sachs, "the most important word in all of Aristotle's thinkin
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. I, ch. 7 (Bekker 1098a7), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via PerseusDL's canonical-greekLit repository (CC-BY-SA / public domain). Every word of each cited sentence is glossed below, Leipzig-interlinear style: Greek, transliteration, gloss (lexical sense or grammatical tag).
+
+### Bk. I, ch. 7 (Bekker 1098a7)
 
 > εἰ δʼ ἐστὶν ἔργον ἀνθρώπου ψυχῆς ἐνέργεια κατὰ λόγον ἢ μὴ ἄνευ λόγου
 
-**ἐνέργεια**, morpheme by morpheme:
+```
+εἰ  δʼ   ἐστὶν  ἔργον     ἀνθρώπου   ψυχῆς     ἐνέργεια           κατὰ          λόγον       ἢ   μὴ   ἄνευ     λόγου
+ei  d'   estin  ergon     anthrōpou  psychēs   energeia           kata          logon       ē   mē   aneu     logou
+if  but  is     work.NOM  man.GEN    soul.GEN  being-at-work.NOM  according-to  reason.ACC  or  not  without  reason.GEN
+```
 
-| ἐν- | ἐργ- | -εια |
-|---|---|---|
-| *en-* | *erg-* | *-eia* |
-| "in" | root of *ergon*, "work, deed" | abstract noun suffix |
-| → **ἐνέργεια**, "a being-in-work," "at-work-ness" | | |
+*"But if there is a work of man [that is] the soul's being-at-work in accord with reason, or not without reason..."* This is the protasis of Aristotle's ergon argument, the clause the page's first Key Idea traces the whole word back to: *ἐνέργεια* sits in apposition to *ἔργον* ("work") two words earlier in the same clause, and its own formation makes the kinship visible — the preposition *en-* ("in") prefixed directly onto the *erg-* root of *ergon*, plus the abstract-noun suffix *-eia*, literally "a being-in-work." Sachs's "being-at-work" keeps that internal derivation visible in English where "activity" does not.
 
-*Energeia* is built the same way *ergon* itself is used two words earlier in this very sentence — the prefix *en-* ("in") turns "work" into "being *in* the state of working," as opposed to merely having the capacity to work (*dynamis*). Sachs's "being-at-work" is a deliberately literal, compound rendering that keeps this internal word-formation visible; "activity" (the standard translation) preserves the sense but loses the visible link back to *ergon* — the same link this page's etymology section draws on to connect *energeia* to the ergon argument by more than just doctrine.
-
-Source: Bk. II, ch. 1 (Bekker 1103a31-b2).
+### Bk. II, ch. 1 (Bekker 1103a31-b2)
 
 > τὰς δʼ ἀρετὰς λαμβάνομεν ἐνεργήσαντες πρότερον, ὥσπερ καὶ ἐπὶ τῶν ἄλλων τεχνῶν· ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί· οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα, τὰ δὲ σώφρονα σώφρονες, τὰ δʼ ἀνδρεῖα ἀνδρεῖοι.
 
-**ἐνεργήσαντες**, morpheme by morpheme:
+```
+τὰς         δʼ   ἀρετὰς       λαμβάνομεν  ἐνεργήσαντες              πρότερον  ὥσπερ    καὶ   ἐπὶ         τῶν         ἄλλων      τεχνῶν    ἃ             γὰρ  δεῖ              μαθόντας             ποιεῖν  ταῦτα      ποιοῦντες   μανθάνομεν   οἷον         οἰκοδομοῦντες  οἰκοδόμοι     γίνονται     καὶ  κιθαρίζοντες       κιθαρισταί        οὕτω   δὴ      καὶ   τὰ          μὲν   δίκαια           πράττοντες  δίκαιοι      γινόμεθα   τὰ          δὲ   σώφρονα               σώφρονες          τὰ          δʼ   ἀνδρεῖα           ἀνδρεῖοι
+tas         d'   aretas       lambanomen  energēsantes              proteron  hōsper   kai   epi         tōn         allōn      technōn   ha            gar  dei              mathontas            poiein  tauta      poiountes   manthanomen  hoion        oikodomountes  oikodomoi     ginontai     kai  kitharizontes      kitharistai       houtō  dē      kai   ta          men   dikaia           prattontes  dikaioi      ginometha  ta          de   sōphrona              sōphrones         ta          d'   andreia           andreioi
+the.ACC.PL  but  virtues.ACC  we-acquire  having-been-at-work.PTCP  first     just-as  also  in-case-of  the.GEN.PL  other.GEN  arts.GEN  which.ACC.PL  for  it-is-necessary  having-learned.PTCP  to-do   these.ACC  doing.PTCP  we-learn     for-example  building.PTCP  builders.NOM  they-become  and  lyre-playing.PTCP  lyre-players.NOM  thus   indeed  also  the.ACC.PL  PTCL  just-things.ACC  doing.PTCP  just.NOM.PL  we-become  the.ACC.PL  and  temperate-things.ACC  temperate.NOM.PL  the.ACC.PL  and  brave-things.ACC  brave.NOM.PL
+```
 
-| ἐν- | -εργ- | -ήσαντες |
-|---|---|---|
-| *en-* | *erg-* | *-ēsantes* |
-| "in" | root of *ergon*, "work" | aorist active participle ending, "having done" |
-| → **ἐνεργήσαντες**, "having been at work (in them) first" | | |
+*"We acquire the virtues by first being at work in them, just as with the other arts too — the things we must do once we have learned them, we learn by doing, as people become builders by building and lyre-players by playing the lyre; so too we become just by doing just things, moderate by doing moderate things, brave by doing brave things."* This is the mechanism behind [[concepts/hexis|habituation]] the page's third Key Idea describes: the verb *ἐνεργήσαντες* (aorist participle "having been at work") is built on the same *en- + erg-* root as *ἐνέργεια* itself, so Aristotle is quite literally saying the active condition (*hexis*) is produced by prior *energeia* — the dynamis-to-energeia direction runs backward through the sentence, from finished virtue to the repeated actions that built it.
 
-This is the same verb-root as *energeia* itself, put to work directly: Aristotle states the mechanism of habituation with the cognate verb *energein* — we acquire the virtues by first *ἐνεργήσαντες*, "being at work," in the relevant actions, the same dynamis-to-energeia direction this page's etymology section traces from capacity to active condition.
-
-Source: Bk. IX, ch. 9 (Bekker 1170a16-19).
+### Bk. IX, ch. 9 (Bekker 1170a16-19)
 
 > τὸ δὲ ζῆν ὁρίζονται τοῖς ζῴοις δυνάμει αἰσθήσεως, ἀνθρώποις δʼ αἰσθήσεως ἢ νοήσεως· ἡ δὲ δύναμις εἰς τὴν ἐνέργειαν ἀνάγεται, τὸ δὲ κύριον ἐν τῇ ἐνεργείᾳ· ἔοικε δὴ τὸ ζῆν εἶναι κυρίως τὸ αἰσθάνεσθαι ἢ νοεῖν.
 
-**κυρίως**, morpheme by morpheme:
+```
+τὸ       δὲ   ζῆν          ὁρίζονται    τοῖς        ζῴοις        δυνάμει     αἰσθήσεως       ἀνθρώποις   δʼ   αἰσθήσεως       ἢ   νοήσεως      ἡ        δὲ   δύναμις      εἰς   τὴν      ἐνέργειαν          ἀνάγεται    τὸ       δὲ   κύριον                 ἐν  τῇ       ἐνεργείᾳ           ἔοικε     δὴ      τὸ       ζῆν          εἶναι      κυρίως              τὸ       αἰσθάνεσθαι      ἢ   νοεῖν
+to       de   zēn          horizontai   tois        zōois        dynamei     aisthēseōs      anthrōpois  d'   aisthēseōs      ē   noēseōs      hē       de   dynamis      eis   tēn      energeian          anagetai    to       de   kyrion                 en  tē       energeiai          eoike     dē      to       zēn          einai      kyriōs              to       aisthanesthai    ē   noein
+the.NOM  and  to-live.INF  they-define  the.DAT.PL  animals.DAT  by-potency  perception.GEN  humans.DAT  but  perception.GEN  or  thought.GEN  the.NOM  and  potency.NOM  into  the.ACC  being-at-work.ACC  is-reduced  the.NOM  and  governing-element.NOM  in  the.DAT  being-at-work.DAT  it-seems  indeed  the.NOM  to-live.INF  to-be.INF  in-governing-sense  the.ACC  to-perceive.INF  or  to-think.INF
+```
 
-| κυρ- | -ίω- | -ς |
-|---|---|---|
-| *kyr-* | *-iō-* | *-s* |
-| root of *kyros*, "authority, decisive power" | adjectival stem, "having authority over" | adverbial ending |
-| → **κυρίως**, "in the governing sense," "properly speaking" | | |
+*"Living is defined, for animals, by a potency for perception, and for humans by perception or thought; but the potency is led back to the being-at-work, and the governing element is in the being-at-work; so it seems that living, in the governing sense, is perceiving or thinking."* This backs the page's fourth Key Idea directly: Aristotle reduces *dynamis* to *energeia* as "the governing element" (τὸ κύριον) and then applies that same move to life itself via the adverb *κυρίως* — built from *kyros* ("authority") plus an adjectival stem and adverbial ending, "in the governing sense" — so that being aware one is alive turns out to be awareness of one's own being-at-work underway.
 
-Aristotle reduces potency to being-at-work as "the governing element" (τὸ κύριον) in one clause, then concludes that life *κυρίως* — in the governing sense — simply is perceiving-or-thinking underway, the same ergon-style move (dynamis reduced to energeia) applied directly to life itself.
-
-Source: Bk. X, ch. 4 (Bekker 1174a19-21).
+### Bk. X, ch. 4 (Bekker 1174a19-21)
 
 > ἐν χρόνῳ γὰρ πᾶσα κίνησις καὶ τέλους τινός, οἷον ἡ οἰκοδομική, καὶ τελεία ὅταν ποιήσῃ οὗ ἐφίεται.
 
-**κίνησις**, morpheme by morpheme:
+```
+ἐν  χρόνῳ     γὰρ  πᾶσα       κίνησις     καὶ  τέλους   τινός     οἷον         ἡ        οἰκοδομική         καὶ  τελεία        ὅταν      ποιήσῃ       οὗ         ἐφίεται
+en  chronō    gar  pasa       kinēsis     kai  telous   tinos     hoion        hē       oikodomikē         kai  teleia        hotan     poiēsē       hou        ephietai
+in  time.DAT  for  every.NOM  motion.NOM  and  end.GEN  some.GEN  for-example  the.NOM  housebuilding.NOM  and  complete.NOM  whenever  it-produces  which.GEN  it-aims-at
+```
 
-| κιν- | -η- | -σις |
-|---|---|---|
-| *kin-* | *-ē-* | *-sis* |
-| root of *kineîn*, "to move, set in motion" | thematic linking vowel | abstract noun suffix, "process of ___" |
-| → **κίνησις**, "motion," "a process" | | |
+*"Every motion takes time and is of some end, as housebuilding is, and is complete only when it produces that at which it aims."* This is the page's second Key Idea's chief argument against pleasure being a process: *κίνησις* (built from the root of *kineîn*, "to move," plus the abstract-noun suffix *-sis*, "a process of...") is defined here as inherently incomplete until an external end arrives — Aristotle reaches for the same housebuilding example (ἡ οἰκοδομική) the page uses — which is precisely the structure *energeia* lacks.
 
-*Kinesis* names exactly what *energeia* is not: a process aimed at an end outside itself, incomplete until that end arrives — and Aristotle reaches for housebuilding (ἡ οἰκοδομική), the same stock example this page's Key Ideas use, as the paradigm of that structure.
-
-Source: Bk. X, ch. 7 (Bekker 1177a20-24).
+### Bk. X, ch. 7 (Bekker 1177a20-24)
 
 > κρατίστη τε γὰρ αὕτη ἐστὶν ἡ ἐνέργεια· ἔτι δὲ συνεχεστάτη· θεωρεῖν γὰρ δυνάμεθα συνεχῶς μᾶλλον ἢ πράττειν ὁτιοῦν.
 
-**θεωρεῖν**, morpheme by morpheme:
+```
+κρατίστη  τε    γὰρ  αὕτη      ἐστὶν  ἡ        ἐνέργεια           ἔτι          δὲ   συνεχεστάτη          θεωρεῖν             γὰρ  δυνάμεθα     συνεχῶς       μᾶλλον  ἢ     πράττειν    ὁτιοῦν
+kratistē  te    gar  hautē     estin  hē       energeia           eti          de   synechestatē         theōrein            gar  dynametha    synechōs      mallon  ē     prattein    hotioun
+best.NOM  PTCL  for  this.NOM  is     the.NOM  being-at-work.NOM  furthermore  and  most-continuous.NOM  to-contemplate.INF  for  we-are-able  continuously  more    than  to-act.INF  anything-whatever
+```
 
-| θε- | -ωρ- | -εῖν |
-|---|---|---|
-| *the-* | *-ōr-* | *-ein* |
-| root of *thea*, "a viewing, a look" | agentive/verbal formant (cf. *horan*, "to see") | infinitive ending |
-| → **θεωρεῖν**, "to look at, to contemplate" (root of *theōria*) | | |
-
-*Theōrein* is singled out here as the most continuous being-at-work available to us because, unlike acting (*prattein*), it is not hemmed in by external circumstance — which is exactly why contemplation is crowned the most complete *energeia* at the summit of the inquiry.
+*"For this is the best being-at-work; and further, the most continuous one, since we are able to contemplate more continuously than to do anything else at all."* This is the sentence behind the page's final Key Idea: *θεωρεῖν* (built from the root of *thea*, "a viewing," plus a verbal formant related to *horan*, "to see") is singled out as most continuous precisely because, unlike acting (*prattein*), it is not hemmed in by external circumstance — which is why contemplation is crowned the most complete *energeia* at the summit of the inquiry.
 
 ## Related
 

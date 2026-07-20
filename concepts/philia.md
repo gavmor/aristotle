@@ -6,7 +6,7 @@ aliases: [friendship, philia]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-08T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: Books VIII-IX's account of friendship in three species (utility, pleasure, virtue), culminating in the claim that a friend is "another self" and that happiness requires friends.
 provenance:
   extracted: 0.75
@@ -73,41 +73,53 @@ classDiagram
 
 ## Greek Gloss
 
-Source: Bk. IX, ch. 4 (Bekker 1166a30-32).
+### Bk. VIII, ch. 3 (Bekker 1156a26-30)
 
-> τῷ δὴ πρὸς αὑτὸν ἕκαστα τούτων ὑπάρχειν τῷ ἐπιεικεῖ, πρὸς δὲ τὸν φίλον ἔχειν ὥσπερ πρὸς αὑτόν (ἔστι γὰρ ὁ φίλος ἄλλος αὐτός), καὶ ἡ φιλία τούτων εἶναί τι δοκεῖ, καὶ φίλοι οἷς ταῦθʼ ὑπάρχει.
+> ἔτι δὲ προσδεῖται χρόνου καὶ συνηθείας· κατὰ τὴν παροιμίαν γὰρ οὐκ ἔστιν εἰδῆσαι ἀλλήλους πρὶν τοὺς λεγομένους ἅλας συναναλῶσαι· οὐδʼ ἀποδέξασθαι δὴ πρότερον οὐδʼ εἶναι φίλους, πρὶν ἂν ἑκάτερος ἑκατέρῳ φανῇ φιλητὸς καὶ πιστευθῇ.
 
-| ἀλ- | -λος |
-|---|---|
-| *al-* | *-los* |
-| root meaning "other, different" (cf. Latin *alius*) | adjective-forming suffix |
-| → **ἄλλος**, "other," "another" | |
+```
+ἔτι   δὲ    προσδεῖται  χρόνου    καὶ  συνηθείας     κατὰ          τὴν      παροιμίαν    γὰρ  οὐκ  ἔστιν        εἰδῆσαι  ἀλλήλους         πρὶν    τοὺς        λεγομένους      ἅλας      συναναλῶσαι         οὐδʼ  ἀποδέξασθαι   δὴ    πρότερον    οὐδʼ  εἶναι  φίλους       πρὶν    ἂν    ἑκάτερος   ἑκατέρῳ   φανῇ     φιλητὸς   καὶ  πιστευθῇ
+eti   de    prosdeitai  chronou   kai  synētheias    kata          tēn      paroimian    gar  ouk  estin        eidēsai  allēlous         prin    tous        legomenous      halas     synanalōsai         oud'  apodexasthai  dē    proteron    oud'  einai  philous      prin    an    hekateros  hekaterō  phanē    philētos  kai  pisteuthē
+also  PTCL  requires    time.GEN  and  intimacy.GEN  according-to  the.ACC  proverb.ACC  for  not  is-possible  to-know  one-another.ACC  before  the.ACC.PL  so-called.PTCP  salt.ACC  to-use-up-together  nor   to-accept     PTCL  beforehand  nor   to-be  friends.ACC  before  PTCL  each.NOM   each.DAT  appears  lovable   and  is-trusted
+```
 
-Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self" — since all these decent-making traits belong to a person in relation to himself, and he relates to a friend just as to himself, ἄλλος marks the friend as a second instance of the same self rather than a wholly separate other.
+*"Besides, it also needs time and familiarity; as the proverb says, people cannot know each other before they have used up the proverbial quantity of salt together, nor can they accept each other or be friends until each has appeared lovable to the other and been trusted."* This is the textual source behind the page's claim that complete friendship "requires extended time and trust" and "is not possible... until people use up the proverbial amount of salt together": *synētheia* (σύν- "together" + *ēthos*, "custom, character" — the same root that gives *ēthikē*, "ethics" — plus the abstract-noun suffix *-eia*) names the slow-built shared disposition that alone breeds the mutual trust Aristotle says friendship of the complete kind cannot do without.
 
-Source: Bk. IX, ch. 5 (Bekker 1167a10-14).
+### Bk. IX, ch. 5 (Bekker 1167a10-14)
 
 > διὸ μεταφέρων φαίη τις ἂν αὐτὴν ἀργὴν εἶναι φιλίαν, χρονιζομένην δὲ καὶ εἰς συνήθειαν ἀφικνουμένην γίνεσθαι φιλίαν, οὐ τὴν διὰ τὸ χρήσιμον οὐδὲ τὴν διὰ τὸ ἡδύ· οὐδὲ γὰρ εὔνοια ἐπὶ τούτοις γίνεται.
 
-| ἀ- | ἐργ- | -ός |
-|---|---|---|
-| *a-* | *erg-* | *-os* |
-| "not, without" (privative alpha) | root of *ergon*, "work, deed" | adjective-forming suffix |
-| → **ἀργός**, "without work," "idle, inactive" | | |
+```
+διὸ        μεταφέρων            φαίη       τις      ἂν    αὐτὴν   ἀργὴν     εἶναι  φιλίαν          χρονιζομένην    δὲ    καὶ  εἰς   συνήθειαν     ἀφικνουμένην   γίνεσθαι   φιλίαν          οὐ   τὴν      διὰ      τὸ       χρήσιμον   οὐδὲ  τὴν      διὰ      τὸ       ἡδύ       οὐδὲ  γὰρ  εὔνοια    ἐπὶ     τούτοις    γίνεται
+dio        metapherōn           phaiē      tis      an    autēn   argēn     einai  philian         chronizomenēn   de    kai  eis   synētheian    aphiknoumenēn  ginesthai  philian         ou   tēn      dia      to       chrēsimon  oude  tēn      dia      to       hēdy      oude  gar  eunoia    epi     toutois    ginetai
+therefore  using-metaphor.PTCP  might-say  someone  PTCL  it.ACC  idle.ACC  to-be  friendship.ACC  lingering.PTCP  PTCL  and  into  intimacy.ACC  arriving.PTCP  becomes    friendship.ACC  not  the.ACC  through  the.ACC  useful     nor   the.ACC  through  the.ACC  pleasant  nor   for  goodwill  toward  these.DAT  arises
+```
 
-This is the line behind the page's claim that goodwill is "friendship out-of-work": Aristotle literally calls goodwill an *ἀργή* (un-worked, inactive) friendship, built from the same *ergon* root as [[concepts/energeia]] but negated — goodwill is friendship that hasn't yet become a being-at-work.
+*"So someone speaking by transference might call it an idle friendship — one that, lingering on and arriving at familiarity, becomes friendship, though not the friendship based on utility or on pleasure, since goodwill does not arise from those either."* This is the line behind the page's claim that goodwill is "friendship out-of-work": *argēn* (privative *a-* "not, without" + *erg-*, the root of *ergon*, "work, deed" + the adjectival suffix *-os*) is built from the very same *erg-* root as [[concepts/energeia]] but negated — goodwill is friendship that has not yet become a being-at-work.
 
-Source: Bk. VIII, ch. 11 (Bekker 1161a29-34).
+### Bk. VIII, ch. 11 (Bekker 1161a30-34)
 
 > ἐν δὲ ταῖς παρεκβάσεσιν, ὥσπερ καὶ τὸ δίκαιον ἐπὶ μικρόν ἐστιν, οὕτω καὶ ἡ φιλία, καὶ ἥκιστα ἐν τῇ χειρίστῃ· ἐν τυραννίδι γὰρ οὐδὲν ἢ μικρὸν φιλίας.
 
-| δίκ- | -αιον |
-|---|---|
-| *dik-* | *-aion* |
-| root of *dikē*, "custom, right, judgment, lawsuit" | adjective/substantive-forming suffix |
-| → **δίκαιον**, "the just," "what is right" | |
+```
+ἐν  δὲ    ταῖς        παρεκβάσεσιν       ὥσπερ    καὶ   τὸ   δίκαιον     ἐπὶ  μικρόν        ἐστιν  οὕτω   καὶ   ἡ    φιλία       καὶ  ἥκιστα   ἐν  τῇ       χειρίστῃ   ἐν  τυραννίδι    γὰρ  οὐδὲν    ἢ   μικρὸν  φιλίας
+en  de    tais        parekbasesin       hōsper   kai   to   dikaion     epi  mikron        estin  houtō  kai   hē   philia      kai  hēkista  en  tē       cheiristē  en  tyrannidi    gar  ouden    ē   mikron  philias
+in  PTCL  the.DAT.PL  deviant-forms.DAT  just-as  also  the  just-thing  to   small-extent  is     so     also  the  friendship  and  least    in  the.DAT  worst.DAT  in  tyranny.DAT  for  nothing  or  little  friendship.GEN
+```
 
-This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *τὸ δίκαιον* shrinks in the deviant regimes, so does *φιλία*, vanishing almost entirely under tyranny — confirming that the two concepts scale together rather than merely resembling one another.
+*"But among the deviant constitutions, just as the just is present only to a small extent, so too is friendship, and least of all in the worst one; for in a tyranny there is little or no friendship."* This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
+
+### Bk. IX, ch. 4 (Bekker 1166a30-33)
+
+> τῷ δὴ πρὸς αὑτὸν ἕκαστα τούτων ὑπάρχειν τῷ ἐπιεικεῖ, πρὸς δὲ τὸν φίλον ἔχειν ὥσπερ πρὸς αὑτόν (ἔστι γὰρ ὁ φίλος ἄλλος αὐτός), καὶ ἡ φιλία τούτων εἶναί τι δοκεῖ, καὶ φίλοι οἷς ταῦθʼ ὑπάρχει.
+
+```
+τῷ       δὴ    πρὸς    αὑτὸν        ἕκαστα       τούτων        ὑπάρχειν    τῷ       ἐπιεικεῖ        πρὸς    δὲ    τὸν      φίλον       ἔχειν      ὥσπερ    πρὸς    αὑτόν        ἔστι  γὰρ  ὁ    φίλος   ἄλλος  αὐτός  καὶ  ἡ    φιλία       τούτων        εἶναί  τι         δοκεῖ  καὶ  φίλοι        οἷς          ταῦθʼ         ὑπάρχει
+tō       dē    pros    hauton       hekasta      toutōn        hyparchein  tō       epieikei        pros    de    ton      philon      echein     hōsper   pros    hauton       esti  gar  ho   philos  allos  autos  kai  hē   philia      toutōn        einai  ti         dokei  kai  philoi       hois         tauth'        hyparchei
+the.DAT  PTCL  toward  himself.ACC  each.ACC.PL  of-these.GEN  to-belong   the.DAT  decent-man.DAT  toward  PTCL  the.ACC  friend.ACC  to-relate  just-as  toward  himself.ACC  is    for  the  friend  other  self   and  the  friendship  of-these.GEN  to-be  something  seems  and  friends.NOM  to-whom.DAT  these-things  belong
+```
+
+*"Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends."* Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
 
 ## Related
 

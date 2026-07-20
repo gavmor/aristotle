@@ -6,7 +6,7 @@ aliases: [dissipation, self-indulgence, indulgence, akolasia]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-12T00:00:00Z
-updated: 2026-07-14T00:00:00Z
+updated: 2026-07-19T00:00:00Z
 summary: The vice of excess opposite temperance — bodily indulgence in touch/taste pleasures; literally "unpruned" in Greek, and a settled character trait, not an episode.
 provenance:
   extracted: 0.72
@@ -67,73 +67,55 @@ How to read it: akrasia's cycle always returns to "knows better" between lapses 
 
 ## Greek Gloss
 
-Source: Aristotle, *Ēthika Nikomacheia*, Bk. II, ch. 7 (Bekker 1107b), Bywater's 1894 Oxford Classical Text, via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain).
+Source for all four passages: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via the [Perseus Digital Library](https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010/) (public domain). Every word of each cited sentence is glossed below, Leipzig-interlinear style.
+
+### Bk. II, ch. 7 (Bekker 1107b5-6)
 
 > μεσότης μὲν σωφροσύνη, ὑπερβολὴ δὲ ἀκολασία.
 
-Four key nouns, each broken into its morphemes:
+```
+μεσότης   μὲν   σωφροσύνη       ὑπερβολὴ    δὲ   ἀκολασία
+mesotēs   men   sōphrosynē      hyperbolē   de   akolasia
+mean.NOM  PTCL  temperance.NOM  excess.NOM  but  dissipation.NOM
+```
 
-| μεσ- | -ότης |
-|---|---|
-| *mes-* | *-otēs* |
-| root of *mesos*, "middle" | abstract-noun suffix ("-ness") |
-| → **μεσότης**, "middle-ness," the mean | |
+*"The mean is temperance, and the excess is dissipation."* This is the bare equation that anchors the temperance row of the mean table: **ἀκολασία** (*akolasia*) is built from alpha-privative *a-* ("not, un-") plus the root of *kolazō* ("to prune, dock, chastise") plus the abstract-noun suffix *-ia* — literally "un-checked-ness," the state of a branch never pruned back, set here in flat grammatical parallel against *sōphrosynē* ("soundness of mind") as its opposite pole.
 
-| σω- | φρο- | -σύνη |
-|---|---|---|
-| *sō-* | *phro-* | *-synē* |
-| from *sōs*, "sound, safe" | combining form of *phrēn*, "mind" | abstract-noun suffix |
-| → **σωφροσύνη**, "soundness of mind," temperance | | |
-
-| ὑπερ- | βολ- | -ή |
-|---|---|---|
-| *hyper-* | *bol-* | *-ē* |
-| "over, beyond" | root of *ballō*, "to throw" | noun-forming ending |
-| → **ὑπερβολή**, "a throwing-beyond," excess | | |
-
-| ἀ- | κολασ- | -ία |
-|---|---|---|
-| *a-* | *kolas-* | *-ia* |
-| alpha-privative, "not, un-" | root of *kolazō*, "to prune, dock, check; hence chastise, discipline, punish" | abstract-noun suffix |
-| → **ἀκολασία**, "un-checked-ness" — the state of never having been pruned back | | |
-
-The root verb *kolazein* is the same one used literally of pruning branches or docking an animal's tail before it is ever extended to punishment or correction — which is exactly the "unpruned plant" image already drawn out in Key Ideas above from the footnote gloss. The adjective *akolastos* ("unpruned/undisciplined") is what the *-ia* suffix here turns into an abstract noun of state, parallel to how *sōphrosynē* is the abstract noun of the adjective *sōphrōn* ("sound-minded").
-
-Source: Bk. III, ch. 10 (Bekker 1118b).
+### Bk. III, ch. 10 (Bekker 1118b1-3)
 
 > κοινοτάτη δὴ τῶν αἰσθήσεων καθʼ ἣν ἡ ἀκολασία· καὶ δόξειεν ἂν δικαίως ἐπονείδιστος εἶναι, ὅτι οὐχ ᾗ ἄνθρωποί ἐσμεν ὑπάρχει, ἀλλʼ ᾗ ζῷα.
 
-| ἐπ- | ονειδ- | -ιστος |
-|---|---|---|
-| *ep-* | *oneid-* | *-istos* |
-| "upon, further" (intensive) | root of *oneidos*, "reproach, disgrace" | verbal-adjective suffix, "-worthy of, fit to be" |
-| → **ἐπονείδιστος**, "reproachable," deserving of blame | | |
+```
+κοινοτάτη        δὴ    τῶν         αἰσθήσεων   καθʼ          ἣν         ἡ        ἀκολασία·        καὶ  δόξειεν         ἂν   δικαίως  ἐπονείδιστος      εἶναι,  ὅτι      οὐχ   ᾗ           ἄνθρωποί    ἐσμεν   ὑπάρχει,   ἀλλʼ  ᾗ           ζῷα.
+koinotatē        dē    tōn         aisthēseōn  kath'         hēn        hē       akolasia         kai  doxeien         an   dikaiōs  eponeidistos      einai   hoti     ouch  hēi         anthrōpoi   esmen   hyparchei  all'  hēi         zōia
+most-common.NOM  PTCL  the.GEN.PL  senses.GEN  according-to  which.ACC  the.NOM  dissipation.NOM  and  might-seem.OPT  MOD  justly   reproachable.NOM  to-be   because  not   insofar-as  humans.NOM  we-are  belongs    but   insofar-as  animals.NOM
+```
 
-This is the sentence behind the "most reproached vice" claim in Key Ideas above: touch and taste are singled out as the senses shared most fully with other animals, so indulging them belongs to us, in Aristotle's phrase, "insofar as we are animals" rather than insofar as we are human.
+*"The most common of the senses is the one dissipation belongs to; and it might justly seem reproachable, because it belongs to us not insofar as we are human beings, but insofar as we are animals."* This is the sentence behind the "most reproached vice" claim in Key Ideas: touch is singled out as the sense shared most fully with other animals, and **ἐπονείδιστος** (*eponeidistos*, "reproachable") is built from intensive *ep-* + the root of *oneidos* ("reproach, disgrace") + the verbal-adjective suffix *-istos* ("worthy of, fit to be") — grammatically marking dissipation as a state that *deserves* blame, not merely one that happens to attract it.
 
-Source: Bk. III, ch. 11 (Bekker 1118b).
+### Bk. III, ch. 11 (Bekker 1118b19-20)
 
 > διὸ λέγονται οὗτοι γαστρίμαργοι, ὡς παρὰ τὸ δέον πληροῦντες αὐτήν.
 
-| γαστρ- | -ί- | -μαργος |
-|---|---|---|
-| *gastr-* | *-i-* | *-margos* |
-| root of *gastēr*, "belly, stomach" | linking vowel | from *margos*, "raging, ravenous, mad for" |
-| → **γαστρίμαργος**, "belly-mad" — a glutton | | |
+```
+διὸ        λέγονται    οὗτοι      γαστρίμαργοι,  ὡς   παρὰ    τὸ       δέον         πληροῦντες    αὐτήν.
+dio        legontai    houtoi     gastrimargoi   hōs  para    to       deon         plērountes    autēn
+therefore  are-called  these.NOM  gluttons.NOM   as   beyond  the.ACC  fitting.ACC  filling.PTCP  it.ACC
+```
 
-This is the actual word behind the "greedyguts" bullet above: someone who merely overfills the belly beyond what nature requires, which Aristotle treats as a lesser fault than dissipation proper because it is an error of amount, not of the settled, chosen relation to pleasure that defines *akolasia*.
+*"That is why these people are called belly-mad, as filling it beyond what is fitting."* This is the actual word behind the "greedyguts" bullet: **γαστρίμαργος** (*gastrimargos*) fuses the root of *gastēr* ("belly, stomach") to *margos* ("raging, ravenous, mad for") via a linking vowel, naming someone who merely overfills the belly past what nature requires — an error of amount that Aristotle treats as a lesser fault than dissipation proper, which is about the chosen *relation* to pleasure, not the quantity consumed.
 
-Source: Bk. VII, ch. 8 (Bekker 1150b).
+### Bk. VII, ch. 8 (Bekker 1150b25-30)
 
 > ἔστι δʼ ὁ μὲν ἀκόλαστος, ὥσπερ ἐλέχθη, οὐ μεταμελητικός· ἐμμένει γὰρ τῇ προαιρέσει· ὁ δʼ ἀκρατὴς μεταμελητικὸς πᾶς.
 
-| μετα- | μελ- | -ητικός |
-|---|---|---|
-| *meta-* | *mel-* | *-ētikos* |
-| "after, change of" | root of *melei*, "to be a care/concern" | adjectival suffix, "disposed to, characterized by" |
-| → **μεταμελητικός**, "disposed to after-care" — prone to regret, remorseful | | |
+```
+ἔστι  δʼ   ὁ        μὲν   ἀκόλαστος,          ὥσπερ    ἐλέχθη,   οὐ   μεταμελητικός·  ἐμμένει    γὰρ  τῇ       προαιρέσει·  ὁ        δʼ   ἀκρατὴς               μεταμελητικὸς  πᾶς.
+esti  d'   ho       men   akolastos           hōsper   elechthē  ou   metamelētikos   emmenei    gar  tēi      prohairesei  ho       d'   akratēs               metamelētikos  pas
+is    and  the.NOM  PTCL  dissipated-man.NOM  just-as  was-said  not  regretful.NOM   abides-by  for  the.DAT  choice.DAT   the.NOM  and  unrestrained-man.NOM  regretful.NOM  every
+```
 
-This is the exact line supporting the "no regret" claim in Key Ideas: the dissipated person is explicitly called *not* *metamelētikos*, because he "abides by his choice" (*emmenei tēi prohairesei*), while the unrestrained person is *metamelētikos* without exception — the same contrast the dropsy/consumption-vs-epilepsy medical image (drawn from this same passage) is meant to illustrate.
+*"The dissipated person, as was said, is not prone to regret — for he abides by his choice; but the unrestrained person is always prone to regret."* This is the exact line supporting the "no regret" claim in Key Ideas: **μεταμελητικός** (*metamelētikos*) is built from *meta-* ("after, change of") + the root of *melei* ("to be a care/concern") + the adjectival suffix *-ētikos* ("disposed to, characterized by") — "disposed to after-care," i.e. prone to regret — and the dissipated man is flatly denied this disposition while the unrestrained man is said to have it *without exception* (*pas*, "every, wholly"), the same contrast the dropsy/consumption-vs-epilepsy medical image is meant to illustrate.
 
 ## Open Questions
 
