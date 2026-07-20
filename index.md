@@ -21,6 +21,7 @@
 - [[concepts/voluntary-involuntary]] — Willing, unwilling, mixed, and nonwilling acts; plus the asymmetric case of suffering injustice and whether one can be unjust to oneself ( #philosophy #ethics #moral-psychology)
 - [[concepts/courage]] — The mean between rashness and cowardice concerning fear of death in battle, plus five named look-alikes ( #philosophy #ethics #virtue-ethics)
 - [[concepts/honor]] — Timē across the Ethics: goal of political life, lawmakers' lever, the greatest external good, and civic currency ( #philosophy #ethics #political-philosophy #virtue-ethics)
+- [[concepts/seeming]] — Three distinct Greek "seem" verbs (phainetai, dokei, eoikasi) — appearing, being opined, resembling — used in three consecutive sentences ( #philosophy #epistemology #ancient-greek)
 - [[concepts/continence]] — Enkrateia, overpowering strong base desires by reason; ranked below temperance, above akrasia ( #philosophy #ethics #moral-psychology)
 - [[concepts/beasts-and-gods]] — Brutishness and superhuman virtue, the two extremes beyond ordinary vice and virtue ( #philosophy #ethics #moral-psychology)
 - [[concepts/nous]] — Intellect/comprehension, grasping first principles and ultimate particulars that can't be demonstrated ( #philosophy #ethics #epistemology)

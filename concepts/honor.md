@@ -6,7 +6,7 @@ aliases: [timē, honor and dishonor, greatest external good]
 sources:
   - "Nicomachean Ethics - Aristotle.txt"
 created: 2026-07-19T00:00:00Z
-updated: 2026-07-19T00:00:00Z
+updated: 2026-07-20T00:00:00Z
 summary: Timē across the Ethics — goal of political life, lawmakers' lever, the greatest external good, and the civic currency communities pay instead of money.
 provenance:
   extracted: 0.85
@@ -142,4 +142,5 @@ classDiagram
 - [[concepts/voluntary-involuntary]] — lawmakers' honor/punishment pairing as evidence virtue and vice are both voluntary
 - [[concepts/doctrine-of-the-mean]] — greatness of soul's mean-table row, built on honor as the greatest external good
 - [[concepts/philia]] — where honor's "greatest external good" status gets revisited and qualified
+- [[concepts/seeming]] — the three distinct Greek "seem" verbs (phainetai, dokei, eoikasi) this page's Bk. I passage uses in three consecutive sentences
 - [[references/nicomachean-ethics]] — source text (Bk. I ch. 5; Bk. III ch. 1, 8; Bk. IV ch. 3; Bk. VIII ch. 14)
