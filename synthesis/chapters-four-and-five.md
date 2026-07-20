@@ -16,7 +16,7 @@ In Book II, Chapters 4 and 5 lay the ontological and psychological groundwork fo
 
 ## Book IV: The Exploratory Applications (Character)
 By Book IV, the mean doctrine is fully established, and Aristotle is working through the catalog of virtues. Chapters 4 and 5 test the doctrine's explanatory power against the messy reality of human character and the limitations of the Greek language.
-- **Chapter 4 (Proper Ambition):** Aristotle applies the doctrine to the domain of small honors, discovering that the mean is completely unnamed in Greek. He proves that the structure of the mean exists in reality even when vocabulary fails, forcing him to map the conceptual space manually. (See [[concepts/virtues/philotimia]])
+- **Chapter 4 (Proper Ambition):** Aristotle applies the doctrine to the domain of small honors, discovering that the mean is completely unnamed in Greek. He uses the doctrine to model reality even when vocabulary fails, forcing him to map the conceptual space manually. (See [[concepts/virtues/philotimia]])
 - **Chapter 5 (Gentleness):** Aristotle applies the doctrine to anger, acknowledging that the mean (gentleness) leans heavily toward the deficiency (inirascibility) rather than sitting neatly in the middle. (See [[concepts/virtues/praotes]])
 - **Synthesis:** Here, Chapters 4 and 5 are exploratory. Aristotle uses the established doctrine as a probe to explore edge cases—unnamed virtues and skewed means—demonstrating its robust applicability to complex psychological terrain.
 
