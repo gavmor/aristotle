@@ -62,10 +62,10 @@ Here, Aristotle logically binds *megalopsuchia* (greatness of soul) to total mor
 
 Here, Aristotle explains why the great-souled person remains somewhat detached even from the greatest honors bestowed by serious and good people. Even though honor is the proper prize for virtue, *complete virtue* (*aretēs pantelous*) is of such magnitude that no external honor could ever actually equal its worth. The great-souled person accepts it only because others have nothing greater to give, but always recognizes that the external reward falls short of the internal excellence.
 
-### Bk. IV, ch. 3 (Bekker 1124b17-20)
+### Bk. IV, ch. 3 (Bekker 1124b17-23)
 
 ```ngloss
-\ex μεγαλοψύχου δὲ καὶ τὸ μηδενὸς δεῖσθαι ἢ μόλις, ὑπηρετεῖν δὲ προθύμως, καὶ πρὸς μὲν τοὺς ἐν ἀξιώματι καὶ εὐτυχίαις μέγαν εἶναι, πρὸς δὲ τοὺς μέσους μέτριον·
+\ex μεγαλοψύχου δὲ καὶ τὸ μηδενὸς δεῖσθαι ἢ μόλις, ὑπηρετεῖν δὲ προθύμως, καὶ πρὸς μὲν τοὺς ἐν ἀξιώματι καὶ εὐτυχίαις μέγαν εἶναι, πρὸς δὲ τοὺς μέσους μέτριον· τῶν μὲν γὰρ ὑπερέχειν χαλεπὸν καὶ σεμνόν, τῶν δὲ ῥᾴδιον, καὶ ἐπʼ ἐκείνοις μὲν σεμνύνεσθαι οὐκ ἀγεννές, ἐν δὲ τοῖς ταπεινοῖς φορτικόν, ὥσπερ εἰς τοὺς ἀσθενεῖς ἰσχυρίζεσθαι·
 \gl μεγαλοψύχου [megalopsuchou] [great-souled-person.GEN]
     δὲ [de] [and]
     καὶ [kai] [also]
@@ -92,10 +92,37 @@ Here, Aristotle explains why the great-souled person remains somewhat detached e
     τοὺς [tous] [the.ACC.PL]
     μέσους [mesous] [middle-ones.ACC.PL]
     μέτριον· [metrion] [moderate.ACC]
-\ft And it is a characteristic of the great-souled person to ask for nothing, or scarcely anything, but to serve eagerly, and to be great toward those in dignity and good fortune, but moderate toward those in the middle.
+    τῶν [tōn] [the-former.GEN.PL]
+    μὲν [men] [PTCL]
+    γὰρ [gar] [for]
+    ὑπερέχειν [hyperechein] [to-be-superior.INF]
+    χαλεπὸν [chalepon] [difficult.NOM]
+    καὶ [kai] [and]
+    σεμνόν, [semnon] [dignified.NOM]
+    τῶν [tōn] [the-latter.GEN.PL]
+    δὲ [de] [but]
+    ῥᾴδιον, [rhadion] [easy.NOM]
+    καὶ [kai] [and]
+    ἐπʼ [ep'] [among]
+    ἐκείνοις [ekeinois] [those.DAT.PL]
+    μὲν [men] [PTCL]
+    σεμνύνεσθαι [semnunesthai] [to-be-haughty.INF]
+    οὐκ [ouk] [not]
+    ἀγεννές, [agennes] [ill-bred.NOM]
+    ἐν [en] [among]
+    δὲ [de] [but]
+    τοῖς [tois] [the.DAT.PL]
+    ταπεινοῖς [tapeinois] [lowly.DAT.PL]
+    φορτικόν, [phortikon] [vulgar.NOM]
+    ὥσπερ [hōsper] [just-as]
+    εἰς [eis] [against]
+    τοὺς [tous] [the.ACC.PL]
+    ἀσθενεῖς [astheneis] [weak.ACC.PL]
+    ἰσχυρίζεσθαι· [ischurizesthai] [to-assert-strength.INF]
+\ft And it is a characteristic of the great-souled person to ask for nothing, or scarcely anything, but to serve eagerly, and to be great toward those in dignity and good fortune, but moderate toward those in the middle; for to be superior among the former is difficult and dignified, but among the latter it is easy, and to be haughty among the former is not ill-bred, but among the lowly it is vulgar, just as it is to assert one's strength against the weak.
 ```
 
-Aristotle roots the pride of *megalopsuchia* not in arrogant dependence, but in radical self-sufficiency (*mēdenos deisthai*, needing nothing) and an eagerness to serve others (*hypēretein de prothymōs*). The great-souled person exerts their "greatness" (*megan*) specifically when interacting with the powerful and dignified, but actively tempers it to be "moderate" (*metrion*) when dealing with regular people, avoiding the vulgarity of punching down.
+Aristotle roots the pride of *megalopsuchia* not in arrogant dependence, but in radical self-sufficiency (*mēdenos deisthai*, needing nothing) and an eagerness to serve others (*hypēretein de prothymōs*). The great-souled person exerts their "greatness" (*megan*) specifically when interacting with the powerful and dignified, but actively tempers it to be "moderate" (*metrion*) when dealing with regular people. To be haughty or high-handed (*semnunesthai*) towards elites is dignified (*semnon*), but deploying that same superiority against the lowly (*tapeinois*) is crude and vulgar (*phortikon*)—akin to a strong man flexing his muscles to intimidate the weak (*astheneis*).
 
 ### Bk. IV, ch. 3 (Bekker 1125a34-35)
 
