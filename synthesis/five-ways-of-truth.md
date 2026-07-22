@@ -27,7 +27,7 @@ relationships:
 
 # Five Ways the Soul Discloses Truth
 
-Book VI, ch. 3 sets down the full classification at once: "let those powers with which the soul discloses truth by affirming and denying be five in number, and these are art, knowledge, practical judgment, wisdom, and intellect." The chapters that follow (4-7, 11) define each largely *by elimination against the others* — art is ruled out of practical judgment's domain because making and acting differ in kind; wisdom and practical judgment are both ruled out of intellect's domain because both concern things "capable of being otherwise," etc.
+Book VI, ch. 3 sets down the full classification at once: "let those powers with which the soul discloses truth by affirming and denying be five in number, and these are art, knowledge, practical judgment, wisdom, and intellect." The chapters that follow (4-7, 11) define each largely *by elimination against the others* — art is ruled out of practical judgment's domain because making and acting differ in kind; wisdom and practical judgment are both ruled out of intellect's domain because both concern things "[[synthesis/necessity-and-contingency|capable of being otherwise]]," etc.
 
 ## Key Ideas
 

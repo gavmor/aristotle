@@ -57,75 +57,207 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (
 
 ### Bk. V, ch. 4 (Bekker 1131b25)
 
-> τὸ δὲ λοιπὸν ἓν τὸ διορθωτικόν, ὃ γίνεται ἐν τοῖς συναλλάγμασι καὶ τοῖς ἑκουσίοις καὶ τοῖς ἀκουσίοις.
-
+```ngloss
+\ex τὸ δὲ λοιπὸν ἓν τὸ διορθωτικόν, ὃ γίνεται ἐν τοῖς συναλλάγμασι καὶ τοῖς ἑκουσίοις καὶ τοῖς ἀκουσίοις.
+\gl τὸ [to] [the]
+    δὲ [de] [PTCL]
+    λοιπὸν [loipon] [remaining]
+    ἓν [hen] [one]
+    τὸ [to] [the]
+    διορθωτικόν, [diorthōtikon,] [corrective]
+    ὃ [ho] [which]
+    γίνεται [ginetai] [occurs]
+    ἐν [en] [in]
+    τοῖς [tois] [the.DAT]
+    συναλλάγμασι [synallagmasi] [transactions.DAT]
+    καὶ [kai] [and]
+    τοῖς [tois] [the.DAT]
+    ἑκουσίοις [hekousiois] [willing.DAT]
+    καὶ [kai] [and]
+    τοῖς [tois] [the.DAT]
+    ἀκουσίοις. [akousiois.] [unwilling.DAT]
+\ft The remaining one kind is the corrective, which occurs in transactions — both the willing and the unwilling.
 ```
-τὸ   δὲ    λοιπὸν     ἓν   τὸ   διορθωτικόν,   ὃ      γίνεται  ἐν  τοῖς     συναλλάγμασι      καὶ  τοῖς     ἑκουσίοις    καὶ  τοῖς     ἀκουσίοις.
-to   de    loipon     hen  to   diorthōtikon,  ho     ginetai  en  tois     synallagmasi      kai  tois     hekousiois   kai  tois     akousiois.
-the  PTCL  remaining  one  the  corrective     which  occurs   in  the.DAT  transactions.DAT  and  the.DAT  willing.DAT  and  the.DAT  unwilling.DAT
-```
-
-*"The remaining one kind is the corrective, which occurs in transactions — both the willing and the unwilling."* This is the definitional sentence behind the page's opening line that the second species "governs transactions, both willing... and unwilling"; *diorthōtikon* itself is built from *dia-* "thoroughly, thru" + *orth-* (the root of *orthos*, "straight, upright") + *-tikon*, the adjectival "capable-of" suffix — literally "having the capacity to straighten things out."
+ This is the definitional sentence behind the page's opening line that the second species "governs transactions, both willing... and unwilling"; *diorthōtikon* itself is built from *dia-* "thoroughly, thru" + *orth-* (the root of *orthos*, "straight, upright") + *-tikon*, the adjectival "capable-of" suffix — literally "having the capacity to straighten things out."
 
 ### Bk. V, ch. 4 (Bekker 1132a1-6)
 
-> οὐδὲν γὰρ διαφέρει, εἰ ἐπιεικὴς φαῦλον ἀπεστέρησεν ἢ φαῦλος ἐπιεικῆ, οὐδʼ εἰ ἐμοίχευσεν ἐπιεικὴς ἢ φαῦλος· ἀλλὰ πρὸς τοῦ βλάβους τὴν διαφορὰν μόνον βλέπει ὁ νόμος, καὶ χρῆται ὡς ἴσοις, εἰ ὃ μὲν ἀδικεῖ ὃ δʼ ἀδικεῖται, καὶ εἰ ἔβλαψεν ὃ δὲ βέβλαπται.
-
+```ngloss
+\ex οὐδὲν γὰρ διαφέρει, εἰ ἐπιεικὴς φαῦλον ἀπεστέρησεν ἢ φαῦλος ἐπιεικῆ, οὐδʼ εἰ ἐμοίχευσεν ἐπιεικὴς ἢ φαῦλος· ἀλλὰ πρὸς τοῦ βλάβους τὴν διαφορὰν μόνον βλέπει ὁ νόμος, καὶ χρῆται ὡς ἴσοις, εἰ ὃ μὲν ἀδικεῖ ὃ δʼ ἀδικεῖται, καὶ εἰ ἔβλαψεν ὃ δὲ βέβλαπται.
+\gl οὐδὲν [ouden] [nothing]
+    γὰρ [gar] [PTCL]
+    διαφέρει, [diapherei,] [differs]
+    εἰ [ei] [if]
+    ἐπιεικὴς [epieikēs] [decent.NOM]
+    φαῦλον [phaulon] [base.ACC]
+    ἀπεστέρησεν [apestersen] [deprived]
+    ἢ [ē] [or]
+    φαῦλος [phaulos] [base.NOM]
+    ἐπιεικῆ, [epieikē,] [decent.ACC]
+    οὐδʼ [oud'] [nor]
+    εἰ [ei] [if]
+    ἐμοίχευσεν [emoicheusen] [committed-adultery]
+    ἐπιεικὴς [epieikēs] [decent.NOM]
+    ἢ [ē] [or]
+    φαῦλος· [phaulos·] [base.NOM]
+    ἀλλὰ [alla] [but]
+    πρὸς [pros] [toward]
+    τοῦ [tou] [the.GEN]
+    βλάβους [blabous] [harm.GEN]
+    τὴν [tēn] [the.ACC]
+    διαφορὰν [diaphoran] [difference.ACC]
+    μόνον [monon] [only]
+    βλέπει [blepei] [looks]
+    ὁ [ho] [the.NOM]
+    νόμος, [nomos,] [law.NOM]
+    καὶ [kai] [and]
+    χρῆται [chrētai] [treats]
+    ὡς [hōs] [as]
+    ἴσοις, [isois,] [equals.DAT]
+    εἰ [ei] [if]
+    ὃ [ho] [the-one.NOM]
+    μὲν [men] [PTCL]
+    ἀδικεῖ [adikei] [wrongs]
+    ὃ [ho] [the-other.NOM]
+    δʼ [d'] [and]
+    ἀδικεῖται, [adikeitai,] [is-wronged]
+    καὶ [kai] [and]
+    εἰ [ei] [if]
+    ἔβλαψεν [eblapsen] [harmed]
+    ὃ [ho] [the-other.NOM]
+    δὲ [de] [and]
+    βέβλαπται. [beblaptai.] [has-been-harmed]
+\ft For it makes no difference whether a decent person deprived a base one or a base one a decent one, nor whether a decent or a base person committed adultery — the law looks only at the difference the harm makes, and treats the parties as equals: whether the one does injustice and the other suffers it, whether the one harmed and the other has been harmed.
 ```
-οὐδὲν    γὰρ   διαφέρει,   εἰ  ἐπιεικὴς    φαῦλον    ἀπεστέρησεν  ἢ   φαῦλος    ἐπιεικῆ,    οὐδʼ  εἰ  ἐμοίχευσεν          ἐπιεικὴς    ἢ   φαῦλος·   ἀλλὰ  πρὸς    τοῦ      βλάβους   τὴν      διαφορὰν        μόνον  βλέπει  ὁ        νόμος,   καὶ  χρῆται   ὡς   ἴσοις,      εἰ  ὃ            μὲν   ἀδικεῖ  ὃ              δʼ   ἀδικεῖται,  καὶ  εἰ  ἔβλαψεν   ὃ              δὲ   βέβλαπται.
-ouden    gar   diapherei,  ei  epieikēs    phaulon   apestersen   ē   phaulos   epieikē,    oud'  ei  emoicheusen         epieikēs    ē   phaulos·  alla  pros    tou      blabous   tēn      diaphoran       monon  blepei  ho       nomos,   kai  chrētai  hōs  isois,      ei  ho           men   adikei  ho             d'   adikeitai,  kai  ei  eblapsen  ho             de   beblaptai.
-nothing  PTCL  differs     if  decent.NOM  base.ACC  deprived     or  base.NOM  decent.ACC  nor   if  committed-adultery  decent.NOM  or  base.NOM  but   toward  the.GEN  harm.GEN  the.ACC  difference.ACC  only   looks   the.NOM  law.NOM  and  treats   as   equals.DAT  if  the-one.NOM  PTCL  wrongs  the-other.NOM  and  is-wronged  and  if  harmed    the-other.NOM  and  has-been-harmed
-```
+ This is the sentence behind the Key Ideas bullet on strict equality regardless of prior merit. Note the privative-root pair *ἀδικεῖ*/*ἀδικεῖται* ("wrongs"/"is-wronged"): both sit on the same *a-* (privative "not/un-") + *dik-* (root of *dikē*, "right, justice") stem, active vs. passive voice being the only thing that distinguishes doer from sufferer — grammar itself enacting the symmetry the law insists on.
 
-*"For it makes no difference whether a decent person deprived a base one or a base one a decent one, nor whether a decent or a base person committed adultery — the law looks only at the difference the harm makes, and treats the parties as equals: whether the one does injustice and the other suffers it, whether the one harmed and the other has been harmed."* This is the sentence behind the Key Ideas bullet on strict equality regardless of prior merit. Note the privative-root pair *ἀδικεῖ*/*ἀδικεῖται* ("wrongs"/"is-wronged"): both sit on the same *a-* (privative "not/un-") + *dik-* (root of *dikē*, "right, justice") stem, active vs. passive voice being the only thing that distinguishes doer from sufferer — grammar itself enacting the symmetry the law insists on.
+### Bk. V, ch. 4 (Bekker 1132a7-8)
+
+```ngloss
+\ex ὥστε τὸ ἄδικον τοῦτο ἄνισον ὂν ἰσάζειν πειρᾶται ὁ δικαστής·
+\gl ὥστε [hōste] [so]
+    τὸ [to] [the.ACC]
+    ἄδικον [adikon] [unjust-thing.ACC]
+    τοῦτο [touto] [this.ACC]
+    ἄνισον [anison] [unequal.ACC]
+    ὂν [on] [being.PTCP.ACC]
+    ἰσάζειν [isazein] [to-equalize]
+    πειρᾶται [peiratai] [tries]
+    ὁ [ho] [the.NOM]
+    δικαστής· [dikastēs] [judge.NOM]
+\ft So the judge tries to equalize this unjust thing, which is unequal.
+```
+ This continues the same thought: since the injustice is a departure from equality, the judge's specific role is to act as the equalizer, restoring the balance.
 
 ### Bk. V, ch. 4 (Bekker 1132a30-32)
 
-> διὰ τοῦτο καὶ ὀνομάζεται δίκαιον, ὅτι δίχα ἐστίν, ὥσπερ ἂν εἴ τις εἴποι δίχαιον, καὶ ὁ δικαστὴς διχαστής.
-
+```ngloss
+\ex διὰ τοῦτο καὶ ὀνομάζεται δίκαιον, ὅτι δίχα ἐστίν, ὥσπερ ἂν εἴ τις εἴποι δίχαιον, καὶ ὁ δικαστὴς διχαστής.
+\gl διὰ [dia] [because-of]
+    τοῦτο [touto] [this]
+    καὶ [kai] [also]
+    ὀνομάζεται [onomazetai] [is-named]
+    δίκαιον, [dikaion,] [just]
+    ὅτι [hoti] [because]
+    δίχα [dicha] [in-two]
+    ἐστίν, [estin,] [is]
+    ὥσπερ [hōsper] [as]
+    ἂν [an] [MOD]
+    εἴ [ei] [if]
+    τις [tis] [one]
+    εἴποι [eipoi] [might-say]
+    δίχαιον, [dichaion,] ['twojust']
+    καὶ [kai] [and]
+    ὁ [ho] [the]
+    δικαστὴς [dikastēs] [judge]
+    διχαστής. [dichastēs.] ['halver']
+\ft For this reason it is also named dikaion, because it is dicha ('in two') — as if one were to say dichaion — and the judge (dikastēs) is, in effect, a dichastēs ('a halver').
 ```
-διὰ         τοῦτο  καὶ   ὀνομάζεται  δίκαιον,  ὅτι      δίχα    ἐστίν,  ὥσπερ   ἂν   εἴ  τις  εἴποι      δίχαιον,   καὶ  ὁ    δικαστὴς  διχαστής.
-dia         touto  kai   onomazetai  dikaion,  hoti     dicha   estin,  hōsper  an   ei  tis  eipoi      dichaion,  kai  ho   dikastēs  dichastēs.
-because-of  this   also  is-named    just      because  in-two  is      as      MOD  if  one  might-say  'twojust'  and  the  judge     'halver'
-```
-
-*"For this reason it is also named dikaion, because it is dicha ('in two') — as if one were to say dichaion — and the judge (dikastēs) is, in effect, a dichastēs ('a halver')."* This is Aristotle's own etymological pun, not a modern reconstruction, behind the Key Ideas bullet on the judge as "ensouled justice": *dikastēs* and the nonce coinage *dichastēs* are near-homophones because both share the agent suffix *-astēs* ("one who does X") bolted onto, respectively, *dik-* (root of *dikē*, "justice, lawsuit") and *dich-* (the same root that gives *dicha*, "in two," related to *dyo*, "two") — the wordplay only works aloud, in Greek, exactly as Aristotle intends it.
-
-### Bk. V, ch. 5 (Bekker 1132b20-25)
-
-> τὸ δʼ ἀντιπεπονθὸς οὐκ ἐφαρμόττει οὔτʼ ἐπὶ τὸ νεμητικὸν δίκαιον οὔτʼ ἐπὶ τὸ διορθωτικόν, καίτοι βούλονταί γε τοῦτο λέγειν καὶ τὸ Ῥαδαμάνθυος δίκαιον· εἴ κε πάθοι τά τʼ ἔρεξε, δίκη κʼ ἰθεῖα γένοιτο.
-
-```
-τὸ   δʼ   ἀντιπεπονθὸς        οὐκ  ἐφαρμόττει   οὔτʼ     ἐπὶ   τὸ       νεμητικὸν         δίκαιον   οὔτʼ  ἐπὶ   τὸ       διορθωτικόν,    καίτοι   βούλονταί  γε    τοῦτο  λέγειν  καὶ   τὸ       Ῥαδαμάνθυος       δίκαιον·     εἴ  κε   πάθοι         τά              τʼ   ἔρεξε,  δίκη         κʼ   ἰθεῖα         γένοιτο.
-to   d'   antipeponthos       ouk  epharmottei  out'     epi   to       nemētikon         dikaion   out'  epi   to       diorthōtikon,   kaitoi   boulontai  ge    touto  legein  kai   to       Rhadamanthyos     dikaion·     ei  ke   pathoi        ta              t'   erexe,  dikē         k'   itheia        genoito.
-the  but  suffered-in-return  not  fits         neither  onto  the.ACC  distributive.ACC  just.ACC  nor   onto  the.ACC  corrective.ACC  and-yet  they-wish  PTCL  this   to-say  also  the.ACC  Rhadamanthys.GEN  justice.ACC  if  MOD  might-suffer  the-things.ACC  and  did     justice.NOM  MOD  straight.NOM  would-become
-```
-
-*"But the suffered-in-return fits neither distributive nor corrective justice — though people mean this also by the justice of Rhadamanthys: 'if one should suffer what he did, that would be a straight and upright justice.'"* This is the Pythagorean/Rhadamanthine formula the Key Ideas bullet says Aristotle explicitly rejects as a full account of the just. *Antipeponthos* is built from *anti-* ("against, in return for") plus the reduplicated perfect stem of *paschō* ("to suffer, undergo") — grammatically a "having-suffered-in-return," bare mechanical retaliation — and it is this same word, glossed here in the very sentence that names and dismisses it, that a superior-striking subordinate's case (a few lines on) shows cannot be the whole story.
+ This is Aristotle's own etymological pun, not a modern reconstruction, behind the Key Ideas bullet on the judge as "ensouled justice": *dikastēs* and the nonce coinage *dichastēs* are near-homophones because both share the agent suffix *-astēs* ("one who does X") bolted onto, respectively, *dik-* (root of *dikē*, "justice, lawsuit") and *dich-* (the same root that gives *dicha*, "in two," related to *dyo*, "two") — the wordplay only works aloud, in Greek, exactly as Aristotle intends it.
 
 ### Bk. V, ch. 5 (Bekker 1133a25-31)
 
-> οἷον δʼ ὑπάλλαγμα τῆς χρείας τὸ νόμισμα γέγονε κατὰ συνθήκην· καὶ διὰ τοῦτο τοὔνομα ἔχει νόμισμα, ὅτι οὐ φύσει ἀλλὰ νόμῳ ἐστί, καὶ ἐφʼ ἡμῖν μεταβαλεῖν καὶ ποιῆσαι ἄχρηστον.
-
+```ngloss
+\ex οἷον δʼ ὑπάλλαγμα τῆς χρείας τὸ νόμισμα γέγονε κατὰ συνθήκην· καὶ διὰ τοῦτο τοὔνομα ἔχει νόμισμα, ὅτι οὐ φύσει ἀλλὰ νόμῳ ἐστί, καὶ ἐφʼ ἡμῖν μεταβαλεῖν καὶ ποιῆσαι ἄχρηστον.
+\gl οἷον [hoion] [as]
+    δʼ [d'] [but]
+    ὑπάλλαγμα [hypallagma] [substitute]
+    τῆς [tēs] [the.GEN]
+    χρείας [chreias] [need.GEN]
+    τὸ [to] [the.NOM]
+    νόμισμα [nomisma] [currency.NOM]
+    γέγονε [gegone] [has-become]
+    κατὰ [kata] [by]
+    συνθήκην· [synthēkēn·] [convention]
+    καὶ [kai] [and]
+    διὰ [dia] [because-of]
+    τοῦτο [touto] [this]
+    τοὔνομα [tounoma] [the-name]
+    ἔχει [echei] [has]
+    νόμισμα, [nomisma,] ['currency']
+    ὅτι [hoti] [because]
+    οὐ [ou] [not]
+    φύσει [physei] [by-nature]
+    ἀλλὰ [alla] [but]
+    νόμῳ [nomōi] [by-custom]
+    ἐστί, [esti,] [it-is]
+    καὶ [kai] [and]
+    ἐφʼ [eph'] [upon]
+    ἡμῖν [hēmin] [us.DAT]
+    μεταβαλεῖν [metabalein] [to-change]
+    καὶ [kai] [and]
+    ποιῆσαι [poiēsai] [to-make]
+    ἄχρηστον. [achrēston.] [useless]
+\ft As a substitute for need, currency has come about by convention — and this is why it has the name nomisma: because it exists not by nature but by custom (nomos), and it is in our power to change it or render it useless.
 ```
-οἷον   δʼ   ὑπάλλαγμα   τῆς      χρείας    τὸ       νόμισμα       γέγονε      κατὰ  συνθήκην·   καὶ  διὰ         τοῦτο  τοὔνομα   ἔχει   νόμισμα,    ὅτι      οὐ   φύσει      ἀλλὰ  νόμῳ       ἐστί,  καὶ  ἐφʼ   ἡμῖν    μεταβαλεῖν  καὶ  ποιῆσαι  ἄχρηστον.
-hoion  d'   hypallagma  tēs      chreias   to       nomisma       gegone      kata  synthēkēn·  kai  dia         touto  tounoma   echei  nomisma,    hoti     ou   physei     alla  nomōi      esti,  kai  eph'  hēmin   metabalein  kai  poiēsai  achrēston.
-as     but  substitute  the.GEN  need.GEN  the.NOM  currency.NOM  has-become  by    convention  and  because-of  this   the-name  has    'currency'  because  not  by-nature  but   by-custom  it-is  and  upon  us.DAT  to-change   and  to-make  useless
-```
-
-*"As a substitute for need, currency has come about by convention — and this is why it has the name nomisma: because it exists not by nature but by custom (nomos), and it is in our power to change it or render it useless."* This backs the Key Ideas bullet on currency as the device that makes incommensurable goods comparable. *Nomisma* leans on the same *nom-* root as *nomos* ("custom, law," itself from *nemō*, "to apportion"), plus a verb-forming *-is-* and the result-of-action suffix *-ma* — Aristotle is not merely noting an etymology but arguing from it: the word for money itself already says money is custom, not nature.
+ This backs the Key Ideas bullet on currency as the device that makes incommensurable goods comparable. *Nomisma* leans on the same *nom-* root as *nomos* ("custom, law," itself from *nemō*, "to apportion"), plus a verb-forming *-is-* and the result-of-action suffix *-ma* — Aristotle is not merely noting an etymology but arguing from it: the word for money itself already says money is custom, not nature.
 
 ### Bk. V, ch. 8 (Bekker 1135b15-20)
 
-> ὅταν μὲν οὖν παραλόγως ἡ βλάβη γένηται, ἀτύχημα· ὅταν δὲ μὴ παραλόγως, ἄνευ δὲ κακίας, ἁμάρτημα (ἁμαρτάνει μὲν γὰρ ὅταν ἡ ἀρχὴ ἐν αὐτῷ ᾖ τῆς αἰτίας, ἀτυχεῖ δʼ ὅταν ἔξωθεν)· ὅταν δὲ εἰδὼς μὲν μὴ προβουλεύσας δέ, ἀδίκημα.
-
+```ngloss
+\ex ὅταν μὲν οὖν παραλόγως ἡ βλάβη γένηται, ἀτύχημα· ὅταν δὲ μὴ παραλόγως, ἄνευ δὲ κακίας, ἁμάρτημα (ἁμαρτάνει μὲν γὰρ ὅταν ἡ ἀρχὴ ἐν αὐτῷ ᾖ τῆς αἰτίας, ἀτυχεῖ δʼ ὅταν ἔξωθεν)· ὅταν δὲ εἰδὼς μὲν μὴ προβουλεύσας δέ, ἀδίκημα.
+\gl ὅταν [hotan] [when]
+    μὲν [men] [PTCL]
+    οὖν [oun] [then]
+    παραλόγως [paralogōs] [unaccountably]
+    ἡ [hē] [the.NOM]
+    βλάβη [blabē] [harm.NOM]
+    γένηται, [genētai,] [occurs]
+    ἀτύχημα· [atychēma·] [misfortune]
+    ὅταν [hotan] [when]
+    δὲ [de] [but]
+    μὴ [mē] [not]
+    παραλόγως, [paralogōs,] [unaccountably]
+    ἄνευ [aneu] [without]
+    δὲ [de] [and]
+    κακίας, [kakias,] [vice.GEN]
+    ἁμάρτημα [hamartēma] [mistake]
+    (ἁμαρτάνει [(hamartanei] [errs]
+    μὲν [men] [PTCL]
+    γὰρ [gar] [for]
+    ὅταν [hotan] [when]
+    ἡ [hē] [the.NOM]
+    ἀρχὴ [archē] [source.NOM]
+    ἐν [en] [in]
+    αὐτῷ [autōi] [him.DAT]
+    ᾖ [ēi] [is]
+    τῆς [tēs] [the.GEN]
+    αἰτίας, [aitias,] [cause.GEN]
+    ἀτυχεῖ [atychei] [suffers-misfortune]
+    δʼ [d'] [but]
+    ὅταν [hotan] [when]
+    ἔξωθεν)· [exōthen)·] [from-outside]
+    ὅταν [hotan] [when]
+    δὲ [de] [but]
+    εἰδὼς [eidōs] [knowing]
+    μὲν [men] [PTCL]
+    μὴ [mē] [not]
+    προβουλεύσας [probouleusas] [having-deliberated]
+    δέ, [de,] [but]
+    ἀδίκημα. [adikēma.] [injustice]
+\ft So whenever the harm occurs unaccountably, it is misfortune; whenever it occurs not unaccountably, yet without vice, it is a mistake — one makes a mistake when the origin of the cause lies within oneself, but suffers misfortune when it lies outside; and whenever one acts knowingly but without having deliberated beforehand, it is a wrong done.
 ```
-ὅταν   μὲν   οὖν   παραλόγως      ἡ        βλάβη     γένηται,  ἀτύχημα·    ὅταν   δὲ   μὴ   παραλόγως,     ἄνευ     δὲ   κακίας,   ἁμάρτημα   (ἁμαρτάνει   μὲν   γὰρ  ὅταν   ἡ        ἀρχὴ        ἐν  αὐτῷ     ᾖ   τῆς      αἰτίας,    ἀτυχεῖ              δʼ   ὅταν   ἔξωθεν)·      ὅταν   δὲ   εἰδὼς    μὲν   μὴ   προβουλεύσας        δέ,  ἀδίκημα.
-hotan  men   oun   paralogōs      hē       blabē     genētai,  atychēma·   hotan  de   mē   paralogōs,     aneu     de   kakias,   hamartēma  (hamartanei  men   gar  hotan  hē       archē       en  autōi    ēi  tēs      aitias,    atychei             d'   hotan  exōthen)·     hotan  de   eidōs    men   mē   probouleusas        de,  adikēma.
-when   PTCL  then  unaccountably  the.NOM  harm.NOM  occurs    misfortune  when   but  not  unaccountably  without  and  vice.GEN  mistake    errs         PTCL  for  when   the.NOM  source.NOM  in  him.DAT  is  the.GEN  cause.GEN  suffers-misfortune  but  when   from-outside  when   but  knowing  PTCL  not  having-deliberated  but  injustice
-```
-
-*"So whenever the harm occurs unaccountably, it is misfortune; whenever it occurs not unaccountably, yet without vice, it is a mistake — one makes a mistake when the origin of the cause lies within oneself, but suffers misfortune when it lies outside; and whenever one acts knowingly but without having deliberated beforehand, it is a wrong done."* This is the textual source of the four-stage culpability scale in the Key Ideas section. *Adikēma* closes the ladder on the same *dik-* root glossed above in *dikastēs*/*dichastēs*: *a-* (privative "not/un-") + *dik-* (root of *dikē*) + linking *-ē-* + the result-noun suffix *-ma* — the root that ran from "judge" through "halver" now names the top rung of culpability, an act done unjustly rather than merely by accident or mistake.
+ This is the textual source of the four-stage culpability scale in the Key Ideas section. *Adikēma* closes the ladder on the same *dik-* root glossed above in *dikastēs*/*dichastēs*: *a-* (privative "not/un-") + *dik-* (root of *dikē*) + linking *-ē-* + the result-noun suffix *-ma* — the root that ran from "judge" through "halver" now names the top rung of culpability, an act done unjustly rather than merely by accident or mistake.
 
 ## Related
 

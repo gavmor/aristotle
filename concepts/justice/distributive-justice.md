@@ -53,63 +53,184 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bk. V, Bywater's 1894 Oxford Classical
 
 ### Bk. V, ch. 3 (Bekker 1131a20-24)
 
-> εἰ γὰρ μὴ ἴσοι, οὐκ ἴσα ἕξουσιν, ἀλλʼ ἐντεῦθεν αἱ μάχαι καὶ τὰ ἐγκλήματα, ὅταν ἢ μὴ ἴσα ἴσοι ἢ μὴ ἴσοι ἴσα ἔχωσι καὶ νέμωνται.
-
+```ngloss
+\ex εἰ γὰρ μὴ ἴσοι, οὐκ ἴσα ἕξουσιν, ἀλλʼ ἐντεῦθεν αἱ μάχαι καὶ τὰ ἐγκλήματα, ὅταν ἢ μὴ ἴσα ἴσοι ἢ μὴ ἴσοι ἴσα ἔχωσι καὶ νέμωνται.
+\gl εἰ [ei] [if]
+    γὰρ [gar] [for]
+    μὴ [mē] [not]
+    ἴσοι [isoi] [equal.NOM.PL]
+    οὐκ [ouk] [not]
+    ἴσα [isa] [equal.ACC.PL]
+    ἕξουσιν [hexousin] [will-have.FUT.3PL]
+    ἀλλʼ [all'] [but]
+    ἐντεῦθεν [enteuthen] [hence]
+    αἱ [hai] [the.NOM.PL.F]
+    μάχαι [machai] [fights.NOM.PL]
+    καὶ [kai] [and]
+    τὰ [ta] [the.NOM.PL.N]
+    ἐγκλήματα [enklēmata] [grievances.NOM.PL]
+    ὅταν [hotan] [whenever]
+    ἢ [ē] [either]
+    μὴ [mē] [not]
+    ἴσα [isa] [equal.ACC.PL]
+    ἴσοι [isoi] [equal.NOM.PL]
+    ἢ [ē] [or]
+    μὴ [mē] [not]
+    ἴσοι [isoi] [equal.NOM.PL]
+    ἴσα [isa] [equal.ACC.PL]
+    ἔχωσι [echōsi] [have.SUBJ.3PL]
+    καὶ [kai] [and]
+    νέμωνται [nemōntai] [are-allotted.SUBJ.3PL]
+\ft For if people are not equal, they will not have equal shares — rather, this is where fights and grievances come from, whenever either unequal people have and are allotted equal shares, or equal people unequal ones.
 ```
-εἰ  γὰρ  μὴ   ἴσοι          οὐκ  ἴσα           ἕξουσιν            ἀλλʼ  ἐντεῦθεν   αἱ            μάχαι          καὶ  τὰ            ἐγκλήματα          ὅταν      ἢ       μὴ   ἴσα           ἴσοι          ἢ   μὴ   ἴσοι          ἴσα           ἔχωσι          καὶ  νέμωνται
-ei  gar  mē   isoi          ouk  isa           hexousin           all'  enteuthen  hai           machai         kai  ta            enklēmata          hotan     ē       mē   isa           isoi          ē   mē   isoi          isa           echōsi         kai  nemōntai
-if  for  not  equal.NOM.PL  not  equal.ACC.PL  will-have.FUT.3PL  but   hence      the.NOM.PL.F  fights.NOM.PL  and  the.NOM.PL.N  grievances.NOM.PL  whenever  either  not  equal.ACC.PL  equal.NOM.PL  or  not  equal.NOM.PL  equal.ACC.PL  have.SUBJ.3PL  and  are-allotted.SUBJ.3PL
-```
-
-*"For if people are not equal, they will not have equal shares — rather, this is where fights and grievances come from, whenever either unequal people have and are allotted equal shares, or equal people unequal ones."* This is the sentence the Key Ideas' second bullet names directly: the failure mode is *disproportion* — *isoi* (equal people) against *isa* (equal shares) mismatched in either direction — not raw inequality of amount; the *an-* privative that would produce *anisos*, "unequal," is the same negating prefix stacked onto *isos* seen four times over in this one sentence, underlining how the whole passage pivots on matching or mismatching that single root.
+ This is the sentence the Key Ideas' second bullet names directly: the failure mode is *disproportion* — *isoi* (equal people) against *isa* (equal shares) mismatched in either direction — not raw inequality of amount; the *an-* privative that would produce *anisos*, "unequal," is the same negating prefix stacked onto *isos* seen four times over in this one sentence, underlining how the whole passage pivots on matching or mismatching that single root.
 
 ### Bk. V, ch. 3 (Bekker 1131a24-29)
 
-> ἔτι ἐκ τοῦ κατʼ ἀξίαν τοῦτο δῆλον· τὸ γὰρ δίκαιον ἐν ταῖς νομαῖς ὁμολογοῦσι πάντες κατʼ ἀξίαν τινὰ δεῖν εἶναι, τὴν μέντοι ἀξίαν οὐ τὴν αὐτὴν λέγουσι πάντες, ἀλλʼ οἱ μὲν δημοκρατικοὶ ἐλευθερίαν, οἱ δʼ ὀλιγαρχικοὶ πλοῦτον, οἳ δʼ εὐγένειαν, οἱ δʼ ἀριστοκρατικοὶ ἀρετήν.
-
+```ngloss
+\ex ἔτι ἐκ τοῦ κατʼ ἀξίαν τοῦτο δῆλον· τὸ γὰρ δίκαιον ἐν ταῖς νομαῖς ὁμολογοῦσι πάντες κατʼ ἀξίαν τινὰ δεῖν εἶναι, τὴν μέντοι ἀξίαν οὐ τὴν αὐτὴν λέγουσι πάντες, ἀλλʼ οἱ μὲν δημοκρατικοὶ ἐλευθερίαν, οἱ δʼ ὀλιγαρχικοὶ πλοῦτον, οἳ δʼ εὐγένειαν, οἱ δʼ ἀριστοκρατικοὶ ἀρετήν.
+\gl ἔτι [eti] [furthermore]
+    ἐκ [ek] [from]
+    τοῦ [tou] [the.GEN.SG.N]
+    κατʼ [kat'] [according-to]
+    ἀξίαν [axian] [worth.ACC.SG]
+    τοῦτο [touto] [this.NOM.SG.N]
+    δῆλον [dēlon] [clear.NOM.SG]
+    τὸ [to] [the.NOM.SG.N]
+    γὰρ [gar] [for]
+    δίκαιον [dikaion] [just.NOM.SG]
+    ἐν [en] [in]
+    ταῖς [tais] [the.DAT.PL.F]
+    νομαῖς [nomais] [distributions.DAT.PL]
+    ὁμολογοῦσι [homologousi] [agree.3PL]
+    πάντες [pantes] [all.NOM.PL]
+    κατʼ [kat'] [according-to]
+    ἀξίαν [axian] [worth.ACC.SG]
+    τινὰ [tina] [some.ACC.SG]
+    δεῖν [dein] [must.INF]
+    εἶναι [einai] [be.INF]
+    τὴν [tēn] [the.ACC.SG.F]
+    μέντοι [mentoi] [however]
+    ἀξίαν [axian] [worth.ACC.SG]
+    οὐ [ou] [not]
+    τὴν [tēn] [the.ACC.SG.F]
+    αὐτὴν [autēn] [same.ACC.SG]
+    λέγουσι [legousi] [say.3PL]
+    πάντες [pantes] [all.NOM.PL]
+    ἀλλʼ [all'] [but]
+    οἱ [hoi] [the.NOM.PL.M]
+    μὲν [men] [PTCL]
+    δημοκρατικοὶ [dēmokratikoi] [democrats.NOM.PL]
+    ἐλευθερίαν [eleutherian] [freedom.ACC.SG]
+    οἱ [hoi] [the.NOM.PL.M]
+    δʼ [d'] [and]
+    ὀλιγαρχικοὶ [oligarchikoi] [oligarchs.NOM.PL]
+    πλοῦτον [plouton] [wealth.ACC.SG]
+    οἳ [hoi] [the-others.NOM.PL]
+    δʼ [d'] [and]
+    εὐγένειαν [eugeneian] [good-birth.ACC.SG]
+    οἱ [hoi] [the.NOM.PL.M]
+    δʼ [d'] [and]
+    ἀριστοκρατικοὶ [aristokratikoi] [aristocrats.NOM.PL]
+    ἀρετήν [aretēn] [virtue.ACC.SG]
+\ft Further, this is clear from the case of worth: everyone agrees that what is just in distributions must go by some worth, but they do not all name the same worth — democrats say freedom, oligarchs wealth, some good birth, and aristocrats virtue.
 ```
-ἔτι          ἐκ    τοῦ           κατʼ          ἀξίαν         τοῦτο          δῆλον         τὸ            γὰρ  δίκαιον      ἐν  ταῖς          νομαῖς                ὁμολογοῦσι   πάντες      κατʼ          ἀξίαν         τινὰ         δεῖν      εἶναι   τὴν           μέντοι   ἀξίαν         οὐ   τὴν           αὐτὴν        λέγουσι  πάντες      ἀλλʼ  οἱ            μὲν   δημοκρατικοὶ      ἐλευθερίαν      οἱ            δʼ   ὀλιγαρχικοὶ       πλοῦτον        οἳ                 δʼ   εὐγένειαν          οἱ            δʼ   ἀριστοκρατικοὶ      ἀρετήν
-eti          ek    tou           kat'          axian         touto          dēlon         to            gar  dikaion      en  tais          nomais                homologousi  pantes      kat'          axian         tina         dein      einai   tēn           mentoi   axian         ou   tēn           autēn        legousi  pantes      all'  hoi           men   dēmokratikoi      eleutherian     hoi           d'   oligarchikoi      plouton        hoi                d'   eugeneian          hoi           d'   aristokratikoi      aretēn
-furthermore  from  the.GEN.SG.N  according-to  worth.ACC.SG  this.NOM.SG.N  clear.NOM.SG  the.NOM.SG.N  for  just.NOM.SG  in  the.DAT.PL.F  distributions.DAT.PL  agree.3PL    all.NOM.PL  according-to  worth.ACC.SG  some.ACC.SG  must.INF  be.INF  the.ACC.SG.F  however  worth.ACC.SG  not  the.ACC.SG.F  same.ACC.SG  say.3PL  all.NOM.PL  but   the.NOM.PL.M  PTCL  democrats.NOM.PL  freedom.ACC.SG  the.NOM.PL.M  and  oligarchs.NOM.PL  wealth.ACC.SG  the-others.NOM.PL  and  good-birth.ACC.SG  the.NOM.PL.M  and  aristocrats.NOM.PL  virtue.ACC.SG
-```
-
-*"Further, this is clear from the case of worth: everyone agrees that what is just in distributions must go by some worth, but they do not all name the same worth — democrats say freedom, oligarchs wealth, some good birth, and aristocrats virtue."* *Axian* (from *axios*, "weighing as much as," itself tied to the verb *agō*, "to weigh in the balance") is the single word every faction is fighting over — the Key Ideas' third bullet's whole point is that the formal structure (proportion *kat' axian*) is agreed while the content of *axia* is a live political dispute, and this sentence lists the four rival fillers verbatim.
+ *Axian* (from *axios*, "weighing as much as," itself tied to the verb *agō*, "to weigh in the balance") is the single word every faction is fighting over — the Key Ideas' third bullet's whole point is that the formal structure (proportion *kat' axian*) is agreed while the content of *axia* is a live political dispute, and this sentence lists the four rival fillers verbatim.
 
 ### Bk. V, ch. 3 (Bekker 1131b10-14)
 
-> καλοῦσι δὲ τὴν τοιαύτην ἀναλογίαν γεωμετρικὴν οἱ μαθηματικοί· ἐν γὰρ τῇ γεωμετρικῇ συμβαίνει καὶ τὸ ὅλον πρὸς τὸ ὅλον ὅπερ ἑκάτερον πρὸς ἑκάτερον.
-
+```ngloss
+\ex καλοῦσι δὲ τὴν τοιαύτην ἀναλογίαν γεωμετρικὴν οἱ μαθηματικοί· ἐν γὰρ τῇ γεωμετρικῇ συμβαίνει καὶ τὸ ὅλον πρὸς τὸ ὅλον ὅπερ ἑκάτερον πρὸς ἑκάτερον.
+\gl καλοῦσι [kalousi] [call.3PL]
+    δὲ [de] [and]
+    τὴν [tēn] [the.ACC.SG.F]
+    τοιαύτην [toiautēn] [such.ACC.SG]
+    ἀναλογίαν [analogian] [proportion.ACC.SG]
+    γεωμετρικὴν [geōmetrikēn] [geometric.ACC.SG]
+    οἱ [hoi] [the.NOM.PL.M]
+    μαθηματικοί [mathēmatikoi] [mathematicians.NOM.PL]
+    ἐν [en] [in]
+    γὰρ [gar] [for]
+    τῇ [tēi] [the.DAT.SG.F]
+    γεωμετρικῇ [geōmetrikēi] [geometric.DAT.SG]
+    συμβαίνει [symbainei] [happens.3SG]
+    καὶ [kai] [also]
+    τὸ [to] [the.NOM.SG.N]
+    ὅλον [holon] [whole.NOM.SG]
+    πρὸς [pros] [toward]
+    τὸ [to] [the.ACC.SG.N]
+    ὅλον [holon] [whole.ACC.SG]
+    ὅπερ [hoper] [which]
+    ἑκάτερον [hekateron] [each]
+    πρὸς [pros] [toward]
+    ἑκάτερον [hekateron] [each.ACC.SG]
+\ft Mathematicians call this sort of proportion geometric, since in the geometric proportion it works out that the whole stands to the whole exactly as each part stands to each part.
 ```
-καλοῦσι   δὲ   τὴν           τοιαύτην     ἀναλογίαν          γεωμετρικὴν       οἱ            μαθηματικοί            ἐν  γὰρ  τῇ            γεωμετρικῇ        συμβαίνει    καὶ   τὸ            ὅλον          πρὸς    τὸ            ὅλον          ὅπερ   ἑκάτερον   πρὸς    ἑκάτερον
-kalousi   de   tēn           toiautēn     analogian          geōmetrikēn       hoi           mathēmatikoi           en  gar  tēi           geōmetrikēi       symbainei    kai   to            holon         pros    to            holon         hoper  hekateron  pros    hekateron
-call.3PL  and  the.ACC.SG.F  such.ACC.SG  proportion.ACC.SG  geometric.ACC.SG  the.NOM.PL.M  mathematicians.NOM.PL  in  for  the.DAT.SG.F  geometric.DAT.SG  happens.3SG  also  the.NOM.SG.N  whole.NOM.SG  toward  the.ACC.SG.N  whole.ACC.SG  which  each       toward  each.ACC.SG
-```
-
-*"Mathematicians call this sort of proportion geometric, since in the geometric proportion it works out that the whole stands to the whole exactly as each part stands to each part."* *Geōmetrikēn* is built from *gē* ("earth") plus the *-metr-* root of *metron* ("measure") — literally "earth-measuring" — and this is the mathematicians' own technical label for the ratio-of-ratios the page's Diagram depicts, the reason the Key Ideas' first bullet contrasts it by name with the *arithmētikē* ("number"-based) proportion of [[concepts/corrective-justice|corrective justice]].
+ *Geōmetrikēn* is built from *gē* ("earth") plus the *-metr-* root of *metron* ("measure") — literally "earth-measuring" — and this is the mathematicians' own technical label for the ratio-of-ratios the page's Diagram depicts, the reason the Key Ideas' first bullet contrasts it by name with the *arithmētikē* ("number"-based) proportion of [[concepts/corrective-justice|corrective justice]].
 
 ### Bk. V, ch. 3 (Bekker 1131b20-24)
 
-> ἐπὶ δὲ τοῦ κακοῦ ἀνάπαλιν· ἐν ἀγαθοῦ γὰρ λόγῳ γίνεται τὸ ἔλαττον κακὸν πρὸς τὸ μεῖζον κακόν· ἔστι γὰρ τὸ ἔλαττον κακὸν μᾶλλον αἱρετὸν τοῦ μείζονος, τὸ δʼ αἱρετὸν ἀγαθόν, καὶ τὸ μᾶλλον μεῖζον.
-
+```ngloss
+\ex ἐπὶ δὲ τοῦ κακοῦ ἀνάπαλιν· ἐν ἀγαθοῦ γὰρ λόγῳ γίνεται τὸ ἔλαττον κακὸν πρὸς τὸ μεῖζον κακόν· ἔστι γὰρ τὸ ἔλαττον κακὸν μᾶλλον αἱρετὸν τοῦ μείζονος, τὸ δʼ αἱρετὸν ἀγαθόν, καὶ τὸ μᾶλλον μεῖζον.
+\gl ἐπὶ [epi] [in-the-case-of]
+    δὲ [de] [but]
+    τοῦ [tou] [the.GEN.SG.N]
+    κακοῦ [kakou] [bad.GEN.SG]
+    ἀνάπαλιν [anapalin] [conversely]
+    ἐν [en] [in]
+    ἀγαθοῦ [agathou] [good.GEN.SG]
+    γὰρ [gar] [for]
+    λόγῳ [logōi] [account.DAT.SG]
+    γίνεται [ginetai] [becomes.3SG]
+    τὸ [to] [the.NOM.SG.N]
+    ἔλαττον [elatton] [lesser.NOM.SG]
+    κακὸν [kakon] [evil.NOM.SG]
+    πρὸς [pros] [relative-to]
+    τὸ [to] [the.ACC.SG.N]
+    μεῖζον [meizon] [greater.ACC.SG]
+    κακόν [kakon] [evil.ACC.SG]
+    ἔστι [esti] [is.3SG]
+    γὰρ [gar] [for]
+    τὸ [to] [the.NOM.SG.N]
+    ἔλαττον [elatton] [lesser.NOM.SG]
+    κακὸν [kakon] [evil.NOM.SG]
+    μᾶλλον [mallon] [more]
+    αἱρετὸν [haireton] [choiceworthy.NOM.SG]
+    τοῦ [tou] [than-the.GEN.SG]
+    μείζονος [meizonos] [greater.GEN.SG]
+    τὸ [to] [the.NOM.SG.N]
+    δʼ [d'] [and]
+    αἱρετὸν [haireton] [choiceworthy.NOM.SG]
+    ἀγαθόν [agathon] [good.NOM.SG]
+    καὶ [kai] [and]
+    τὸ [to] [the.NOM.SG.N]
+    μᾶλλον [mallon] [more]
+    μεῖζον [meizon] [greater.NOM.SG]
+\ft With something bad, though, it runs the other way: the lesser evil counts, in the reckoning of a good, as the greater relative to the greater evil — for the lesser evil is more choiceworthy than the greater, and what is choiceworthy is good, and the more choiceworthy the greater good.
 ```
-ἐπὶ             δὲ   τοῦ           κακοῦ       ἀνάπαλιν    ἐν  ἀγαθοῦ       γὰρ  λόγῳ            γίνεται      τὸ            ἔλαττον        κακὸν        πρὸς         τὸ            μεῖζον          κακόν        ἔστι    γὰρ  τὸ            ἔλαττον        κακὸν        μᾶλλον  αἱρετὸν              τοῦ              μείζονος        τὸ            δʼ   αἱρετὸν              ἀγαθόν       καὶ  τὸ            μᾶλλον  μεῖζον
-epi             de   tou           kakou       anapalin    en  agathou      gar  logōi           ginetai      to            elatton        kakon        pros         to            meizon          kakon        esti    gar  to            elatton        kakon        mallon  haireton             tou              meizonos        to            d'   haireton             agathon      kai  to            mallon  meizon
-in-the-case-of  but  the.GEN.SG.N  bad.GEN.SG  conversely  in  good.GEN.SG  for  account.DAT.SG  becomes.3SG  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  relative-to  the.ACC.SG.N  greater.ACC.SG  evil.ACC.SG  is.3SG  for  the.NOM.SG.N  lesser.NOM.SG  evil.NOM.SG  more    choiceworthy.NOM.SG  than-the.GEN.SG  greater.GEN.SG  the.NOM.SG.N  and  choiceworthy.NOM.SG  good.NOM.SG  and  the.NOM.SG.N  more    greater.NOM.SG
-```
-
-*"With something bad, though, it runs the other way: the lesser evil counts, in the reckoning of a good, as the greater relative to the greater evil — for the lesser evil is more choiceworthy than the greater, and what is choiceworthy is good, and the more choiceworthy the greater good."* This is the Key Ideas' fourth bullet's inverted case, and it turns on *haireton* (from *haireō*, "to take, seize, choose," plus the *-t-* verbal-adjective suffix marking fitness, "-able/-worthy"): since whatever is *hairetos* counts as good, the lesser of two evils becomes the "greater good" of the pair simply by being the more choiceworthy of the two — the same proportional machinery, reversed in sign rather than redesigned.
+ This is the Key Ideas' fourth bullet's inverted case, and it turns on *haireton* (from *haireō*, "to take, seize, choose," plus the *-t-* verbal-adjective suffix marking fitness, "-able/-worthy"): since whatever is *hairetos* counts as good, the lesser of two evils becomes the "greater good" of the pair simply by being the more choiceworthy of the two — the same proportional machinery, reversed in sign rather than redesigned.
 
 ### Bk. V, ch. 4 (Bekker 1131b27-29)
 
-> τὸ μὲν γὰρ διανεμητικὸν δίκαιον τῶν κοινῶν ἀεὶ κατὰ τὴν ἀναλογίαν ἐστὶ τὴν εἰρημένην
-
+```ngloss
+\ex τὸ μὲν γὰρ διανεμητικὸν δίκαιον τῶν κοινῶν ἀεὶ κατὰ τὴν ἀναλογίαν ἐστὶ τὴν εἰρημένην
+\gl τὸ [to] [the.NOM.SG.N]
+    μὲν [men] [PTCL]
+    γὰρ [gar] [for]
+    διανεμητικὸν [dianemētikon] [distributive.NOM.SG]
+    δίκαιον [dikaion] [just.NOM.SG]
+    τῶν [tōn] [the.GEN.PL]
+    κοινῶν [koinōn] [common-things.GEN.PL]
+    ἀεὶ [aei] [always]
+    κατὰ [kata] [according-to]
+    τὴν [tēn] [the.ACC.SG.F]
+    ἀναλογίαν [analogian] [proportion.ACC.SG]
+    ἐστὶ [esti] [is.3SG]
+    τὴν [tēn] [the.ACC.SG.F]
+    εἰρημένην [eirēmenēn] [aforementioned.PTCP.ACC.SG]
+\ft For the distributive form of the just, applied to common goods, always follows the proportion already described.
 ```
-τὸ            μὲν   γὰρ  διανεμητικὸν         δίκαιον      τῶν         κοινῶν                ἀεὶ     κατὰ          τὴν           ἀναλογίαν          ἐστὶ    τὴν           εἰρημένην
-to            men   gar  dianemētikon         dikaion      tōn         koinōn                aei     kata          tēn           analogian          esti    tēn           eirēmenēn
-the.NOM.SG.N  PTCL  for  distributive.NOM.SG  just.NOM.SG  the.GEN.PL  common-things.GEN.PL  always  according-to  the.ACC.SG.F  proportion.ACC.SG  is.3SG  the.ACC.SG.F  aforementioned.PTCP.ACC.SG
-```
-
-*"For the distributive form of the just, applied to common goods, always follows the proportion already described."* *Dianemētikon* is built from *dia-* ("apart, out, distributively") plus the root of *nemō* ("to allot, distribute, apportion by custom") plus the *-ētik-* suffix marking a capacity or tendency (the same work English "-ive" does in "distribut-ive"), rather than a completed act — this is the term the whole page names itself after, and the same suffix pattern makes it grammatically parallel to [[concepts/corrective-justice|*diorthōtikon*]], a parallel no single English word preserves.
+ *Dianemētikon* is built from *dia-* ("apart, out, distributively") plus the root of *nemō* ("to allot, distribute, apportion by custom") plus the *-ētik-* suffix marking a capacity or tendency (the same work English "-ive" does in "distribut-ive"), rather than a completed act — this is the term the whole page names itself after, and the same suffix pattern makes it grammatically parallel to [[concepts/corrective-justice|*diorthōtikon*]], a parallel no single English word preserves.
 
 ## Related
 

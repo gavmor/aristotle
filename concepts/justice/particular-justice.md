@@ -24,6 +24,36 @@ In Book V, Chapter 2 of the *Nicomachean Ethics*, Aristotle distinguishes "parti
   1. **Distributive Justice:** Concerned with the fair allocation of divisible goods (like wealth or honors) among members of a political community. This type of justice operates on proportional equality, meaning goods are distributed according to an individual's merit or contribution.
   2. **Corrective (or Rectificatory) Justice:** Concerned with "setting things straight" in transactions between individuals. It focuses on arithmetic equality, aiming to rectify unfair gains or losses to restore the original balance. This applies to both willing transactions (like buying, selling, or lending) and unwilling ones (such as theft, assault, or fraud).
 
+## Greek Gloss
+
+Source: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 Oxford Classical Text (Bekker 1831 pagination), via PerseusDL's `canonical-greekLit` TEI XML (public domain).
+
+### Bk. V, ch. 6 (Bekker 1134a19-21)
+
+```ngloss
+\ex καὶ γὰρ ἂν συγγένοιτο γυναικὶ εἰδὼς τὸ ᾗ, ἀλλʼ οὐ διὰ προαιρέσεως ἀρχὴν ἀλλὰ διὰ πάθος.
+\gl καὶ [kai] [and]
+    γὰρ [gar] [for]
+    ἂν [an] [MOD]
+    συγγένοιτο [syngenoito] [might-sleep-with]
+    γυναικὶ [gynaiki] [a-woman.DAT]
+    εἰδὼς [eidōs] [knowing.PTCP]
+    τὸ [to] [the]
+    ᾗ, [hēi,] [who-she-is]
+    ἀλλʼ [all'] [but]
+    οὐ [ou] [not]
+    διὰ [dia] [through]
+    προαιρέσεως [proaireseōs] [choice.GEN]
+    ἀρχὴν [archēn] [source.ACC]
+    ἀλλὰ [alla] [but]
+    διὰ [dia] [through]
+    πάθος. [pathos.] [passion.ACC]
+\ft For someone might sleep with a woman, knowing who she is, but the act having its source not in choice but through passion.
+```
+
+Here Aristotle draws the crucial distinction between committing an unjust act and being an unjust person. The presence or absence of *[[concepts/prohairesis|prohairesis]]* (deliberate choice) determines character. The man driven by *[[feeling|pathos]]* (passion) does commit an injustice, but because the act does not originate in deliberate choice, he is not classed as an "adulterer" by character. This reinforces the broader point about motive separating particular injustice (driven by grasping for gain) from other vices or momentary passions.
+
+
 ## Relationships
 - **[[distributive-justice|Distributive Justice]]:** One of the two primary sub-categories of particular justice, focusing on proportional allocation.
 - **[[corrective-justice|Corrective Justice]]:** The second primary sub-category of particular justice, focusing on restoring arithmetic equality in transactions.

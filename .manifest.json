@@ -104,7 +104,14 @@
         "concepts/philia.md",
         "concepts/eudaimonia.md",
         "concepts/voluntary-involuntary.md",
-        "concepts/honor.md"
+        "concepts/honor.md",
+        "concepts/soul/knowing-part.md",
+        "concepts/soul/calculating-part.md"
+      ],
+      "last_ingested": "2026-07-21T23:47:34.651040+00:00",
+      "pages_produced": [
+        "concepts/praxis.md",
+        "synthesis/necessity-and-contingency.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {

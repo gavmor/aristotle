@@ -1,6 +1,8 @@
 {
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
   "readableLineLength": false,
-  "showInlineTitle": true,
-  "propertiesInDocument": "hidden",
-  "showIndentGuide": false
+  "propertiesInDocument": "hidden"
 }

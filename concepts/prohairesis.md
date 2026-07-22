@@ -44,75 +44,179 @@ Source: Aristotle, *Ēthika Nikomacheia*, Bk. III (Bekker 1110a-1114a), Bywater'
 
 ### Bk. III, ch. 3 (Bekker 1113a10-11)
 
-> ἡ προαίρεσις ἂν εἴη βουλευτικὴ ὄρεξις τῶν ἐφʼ ἡμῖν
-
+```ngloss
+\ex ἡ προαίρεσις ἂν εἴη βουλευτικὴ ὄρεξις τῶν ἐφʼ ἡμῖν
+\gl ἡ [hē] [the]
+    προαίρεσις [prohairesis] [choice]
+    ἂν [an] [MOD]
+    εἴη [eiē] [would-be]
+    βουλευτικὴ [bouleutikē] [deliberative]
+    ὄρεξις [orexis] [desire]
+    τῶν [tōn] [the.GEN.PL]
+    ἐφʼ [eph'] [upon]
+    ἡμῖν [hēmin] [us.DAT]
+\ft Choice, then, would be deliberate desire of the things that are up to us.
 ```
-ἡ    προαίρεσις   ἂν   εἴη       βουλευτικὴ    ὄρεξις  τῶν         ἐφʼ   ἡμῖν
-hē   prohairesis  an   eiē       bouleutikē    orexis  tōn         eph'  hēmin
-the  choice       MOD  would-be  deliberative  desire  the.GEN.PL  upon  us.DAT
-```
 
-*"Choice, then, would be deliberate desire of the things that are up to us."* This is Aristotle's own capstone definition, closing the chapter's search — the vault's characterization of *prohairesis* as "deliberate desire... reasoned desire, or desiring reason, fused together" is a direct gloss of this line's grammar: *βουλευτικὴ* ("deliberative," built on the *βουλ-* "wish/counsel" root plus the *-τικ-* capacity suffix) sits as an adjective directly modifying *ὄρεξις* ("desire"), fusing reason and appetite into one grammatical unit rather than coordinating them as two.
+This is Aristotle's own capstone definition, closing the chapter's search — the vault's characterization of *prohairesis* as "deliberate desire... reasoned desire, or desiring reason, fused together" is a direct gloss of this line's grammar: *βουλευτικὴ* ("deliberative," built on the *βουλ-* "wish/counsel" root plus the *-τικ-* capacity suffix) sits as an adjective directly modifying *ὄρεξις* ("desire"), fusing reason and appetite into one grammatical unit rather than coordinating them as two.
 
 ### Bk. III, ch. 1 (Bekker 1110a1-4)
 
-> βίαιον δὲ οὗ ἡ ἀρχὴ ἔξωθεν, τοιαύτη οὖσα ἐν ᾗ μηδὲν συμβάλλεται ὁ πράττων ἢ ὁ πάσχων, οἷον εἰ πνεῦμα κομίσαι ποι ἢ ἄνθρωποι κύριοι ὄντες.
-
+```ngloss
+\ex βίαιον δὲ οὗ ἡ ἀρχὴ ἔξωθεν, τοιαύτη οὖσα ἐν ᾗ μηδὲν συμβάλλεται ὁ πράττων ἢ ὁ πάσχων, οἷον εἰ πνεῦμα κομίσαι ποι ἢ ἄνθρωποι κύριοι ὄντες.
+\gl βίαιον [biaion] [forced]
+    δὲ [de] [PTCL]
+    οὗ [hou] [of-which]
+    ἡ [hē] [the]
+    ἀρχὴ [archē] [origin]
+    ἔξωθεν, [exōthen,] [from-outside]
+    τοιαύτη [toiautē] [such]
+    οὖσα [ousa] [being.PTCP]
+    ἐν [en] [in]
+    ᾗ [hēi] [which.DAT]
+    μηδὲν [mēden] [nothing]
+    συμβάλλεται [symballetai] [contributes]
+    ὁ [ho] [the]
+    πράττων [prattōn] [agent.PTCP]
+    ἢ [ē] [or]
+    ὁ [ho] [the]
+    πάσχων, [paschōn,] [patient.PTCP]
+    οἷον [hoion] [e.g.]
+    εἰ [ei] [if]
+    πνεῦμα [pneuma] [wind]
+    κομίσαι [komisai] [should-carry]
+    ποι [poi] [somewhere]
+    ἢ [ē] [or]
+    ἄνθρωποι [anthrōpoi] [people]
+    κύριοι [kyrioi] [in-control]
+    ὄντες. [ontes.] [being.PTCP]
+\ft A thing is forced whose origin is from outside, of such a kind that the one acting or the one affected contributes nothing to it — as when a wind carries someone somewhere, or people who have him in their power.
 ```
-βίαιον  δὲ    οὗ        ἡ    ἀρχὴ    ἔξωθεν        τοιαύτη  οὖσα        ἐν  ᾗ          μηδὲν    συμβάλλεται  ὁ    πράττων     ἢ   ὁ    πάσχων        οἷον   εἰ  πνεῦμα  κομίσαι       ποι        ἢ   ἄνθρωποι   κύριοι      ὄντες
-biaion  de    hou       hē   archē   exōthen       toiautē  ousa        en  hēi        mēden    symballetai  ho   prattōn     ē   ho   paschōn       hoion  ei  pneuma  komisai       poi        ē   anthrōpoi  kyrioi      ontes
-forced  PTCL  of-which  the  origin  from-outside  such     being.PTCP  in  which.DAT  nothing  contributes  the  agent.PTCP  or  the  patient.PTCP  e.g.   if  wind    should-carry  somewhere  or  people     in-control  being.PTCP
-```
 
-*"A thing is forced whose origin is from outside, of such a kind that the one acting or the one affected contributes nothing to it — as when a wind carries someone somewhere, or people who have him in their power."* This is Aristotle's own definition of the force-clause of involuntary action, and the page's wind-carried-person example is lifted straight from it; the whole condition collapses into one word, *βίαιον* (*βί-* root of *bia* "force" + *-αιον* adjective suffix), whose *ἀρχή* ("origin," root *ἀρχ-*) lies entirely outside the agent.
+This is Aristotle's own definition of the force-clause of involuntary action, and the page's wind-carried-person example is lifted straight from it; the whole condition collapses into one word, *βίαιον* (*βί-* root of *bia* "force" + *-αιον* adjective suffix), whose *ἀρχή* ("origin," root *ἀρχ-*) lies entirely outside the agent.
 
 ### Bk. III, ch. 1 (Bekker 1110b27-30)
 
-> ἀγνοεῖ μὲν οὖν πᾶς ὁ μοχθηρὸς ἃ δεῖ πράττειν καὶ ὧν ἀφεκτέον, καὶ διὰ τὴν τοιαύτην ἁμαρτίαν ἄδικοι καὶ ὅλως κακοὶ γίνονται.
-
+```ngloss
+\ex ἀγνοεῖ μὲν οὖν πᾶς ὁ μοχθηρὸς ἃ δεῖ πράττειν καὶ ὧν ἀφεκτέον, καὶ διὰ τὴν τοιαύτην ἁμαρτίαν ἄδικοι καὶ ὅλως κακοὶ γίνονται.
+\gl ἀγνοεῖ [agnoei] [is-ignorant]
+    μὲν [men] [PTCL]
+    οὖν [oun] [so]
+    πᾶς [pas] [every]
+    ὁ [ho] [the]
+    μοχθηρὸς [mochthēros] [bad-one]
+    ἃ [ha] [what.ACC.PL]
+    δεῖ [dei] [one-ought]
+    πράττειν [prattein] [to-do]
+    καὶ [kai] [and]
+    ὧν [hōn] [what.GEN.PL]
+    ἀφεκτέον, [aphekteon,] [must-abstain]
+    καὶ [kai] [and]
+    διὰ [dia] [through]
+    τὴν [tēn] [the.ACC]
+    τοιαύτην [toiautēn] [such]
+    ἁμαρτίαν [hamartian] [error.ACC]
+    ἄδικοι [adikoi] [unjust]
+    καὶ [kai] [and]
+    ὅλως [holōs] [wholly]
+    κακοὶ [kakoi] [bad]
+    γίνονται. [ginontai.] [become]
+\ft So every bad person is ignorant of what one ought to do and what one ought to avoid, and it is through this kind of error that people become unjust and altogether bad.
 ```
-ἀγνοεῖ       μὲν   οὖν  πᾶς    ὁ    μοχθηρὸς    ἃ            δεῖ        πράττειν  καὶ  ὧν           ἀφεκτέον      καὶ  διὰ      τὴν      τοιαύτην  ἁμαρτίαν   ἄδικοι  καὶ  ὅλως    κακοὶ  γίνονται
-agnoei       men   oun  pas    ho   mochthēros  ha           dei        prattein  kai  hōn          aphekteon     kai  dia      tēn      toiautēn  hamartian  adikoi  kai  holōs   kakoi  ginontai
-is-ignorant  PTCL  so   every  the  bad-one     what.ACC.PL  one-ought  to-do     and  what.GEN.PL  must-abstain  and  through  the.ACC  such      error.ACC  unjust  and  wholly  bad    become
-```
 
-*"So every bad person is ignorant of what one ought to do and what one ought to avoid, and it is through this kind of error that people become unjust and altogether bad."* This is the exact line behind the page's claim that "every bad person is ignorant of what one ought to do" — note *ἀφεκτέον* ("must-be-abstained-from"), a verbal adjective in *-τέον* that packs an entire obligation ("ought") into a single word, the same grammatical move that lets Aristotle treat moral ignorance as chosen rather than excusing.
+This is the exact line behind the page's claim that "every bad person is ignorant of what one ought to do" — note *ἀφεκτέον* ("must-be-abstained-from"), a verbal adjective in *-τέον* that packs an entire obligation ("ought") into a single word, the same grammatical move that lets Aristotle treat moral ignorance as chosen rather than excusing.
 
 ### Bk. III, ch. 2 (Bekker 1111b22-24)
 
-> καὶ ἡ μὲν βούλησίς ἐστι καὶ περὶ τὰ μηδαμῶς διʼ αὑτοῦ πραχθέντα ἄν, οἷον ὑποκριτήν τινα νικᾶν ἢ ἀθλητήν.
-
+```ngloss
+\ex καὶ ἡ μὲν βούλησίς ἐστι καὶ περὶ τὰ μηδαμῶς διʼ αὑτοῦ πραχθέντα ἄν, οἷον ὑποκριτήν τινα νικᾶν ἢ ἀθλητήν.
+\gl καὶ [kai] [and]
+    ἡ [hē] [the]
+    μὲν [men] [PTCL]
+    βούλησίς [boulēsis] [wish]
+    ἐστι [esti] [is]
+    καὶ [kai] [even]
+    περὶ [peri] [about]
+    τὰ [ta] [the.ACC.PL]
+    μηδαμῶς [mēdamōs] [in-no-way]
+    διʼ [di'] [through]
+    αὑτοῦ [hautou] [oneself.GEN]
+    πραχθέντα [prachthenta] [done.PTCP]
+    ἄν, [an,] [MOD]
+    οἷον [hoion] [e.g.]
+    ὑποκριτήν [hypokritēn] [actor.ACC]
+    τινα [tina] [some.ACC]
+    νικᾶν [nikan] [to-win]
+    ἢ [ē] [or]
+    ἀθλητήν. [athlētēn.] [athlete.ACC]
+\ft And wishing is also directed at things that could in no way be brought about through oneself — for instance, wishing some actor or athlete to win.
 ```
-καὶ  ἡ    μὲν   βούλησίς  ἐστι  καὶ   περὶ   τὰ          μηδαμῶς    διʼ      αὑτοῦ        πραχθέντα    ἄν   οἷον   ὑποκριτήν   τινα      νικᾶν   ἢ   ἀθλητήν
-kai  hē   men   boulēsis  esti  kai   peri   ta          mēdamōs    di'      hautou       prachthenta  an   hoion  hypokritēn  tina      nikan   ē   athlētēn
-and  the  PTCL  wish      is    even  about  the.ACC.PL  in-no-way  through  oneself.GEN  done.PTCP    MOD  e.g.   actor.ACC   some.ACC  to-win  or  athlete.ACC
-```
 
-*"And wishing is also directed at things that could in no way be brought about through oneself — for instance, wishing some actor or athlete to win."* This is the source of the page's actor-winning-an-award example distinguishing choice from wish: *βούλησίς* ("wish," from *βουλ-* + the same *-σις* abstract-noun suffix as *προ-αίρε-σις*) is grammatically parallel to *prohairesis* but, as this line shows, carries no restriction to what is up to the agent (*διʼ αὑτοῦ*, "through oneself").
+This is the source of the page's actor-winning-an-award example distinguishing choice from wish: *βούλησίς* ("wish," from *βουλ-* + the same *-σις* abstract-noun suffix as *προ-αίρε-σις*) is grammatically parallel to *prohairesis* but, as this line shows, carries no restriction to what is up to the agent (*διʼ αὑτοῦ*, "through oneself").
 
 ### Bk. III, ch. 3 (Bekker 1112b12-14)
 
-> οὔτε γὰρ ἰατρὸς βουλεύεται εἰ ὑγιάσει, οὔτε ῥήτωρ εἰ πείσει, οὔτε πολιτικὸς εἰ εὐνομίαν ποιήσει, οὐδὲ τῶν λοιπῶν οὐδεὶς περὶ τοῦ τέλους.
-
+```ngloss
+\ex οὔτε γὰρ ἰατρὸς βουλεύεται εἰ ὑγιάσει, οὔτε ῥήτωρ εἰ πείσει, οὔτε πολιτικὸς εἰ εὐνομίαν ποιήσει, οὐδὲ τῶν λοιπῶν οὐδεὶς περὶ τοῦ τέλους.
+\gl οὔτε [oute] [neither]
+    γὰρ [gar] [for]
+    ἰατρὸς [iatros] [doctor]
+    βουλεύεται [bouleuetai] [deliberates]
+    εἰ [ei] [whether]
+    ὑγιάσει, [hygiasei,] [will-heal]
+    οὔτε [oute] [nor]
+    ῥήτωρ [rhētōr] [orator]
+    εἰ [ei] [whether]
+    πείσει, [peisei,] [will-persuade]
+    οὔτε [oute] [nor]
+    πολιτικὸς [politikos] [statesman]
+    εἰ [ei] [whether]
+    εὐνομίαν [eunomian] [good-order.ACC]
+    ποιήσει, [poiēsei,] [will-make]
+    οὐδὲ [oude] [nor]
+    τῶν [tōn] [the.GEN.PL]
+    λοιπῶν [loipōn] [rest.GEN]
+    οὐδεὶς [oudeis] [no-one]
+    περὶ [peri] [about]
+    τοῦ [tou] [the.GEN]
+    τέλους. [telous.] [end.GEN]
+\ft Neither does a doctor deliberate whether he will heal, nor an orator whether he will persuade, nor a statesman whether he will produce good order, nor does anyone else deliberate about the end.
 ```
-οὔτε     γὰρ  ἰατρὸς  βουλεύεται   εἰ       ὑγιάσει    οὔτε  ῥήτωρ   εἰ       πείσει         οὔτε  πολιτικὸς  εἰ       εὐνομίαν        ποιήσει    οὐδὲ  τῶν         λοιπῶν    οὐδεὶς  περὶ   τοῦ      τέλους
-oute     gar  iatros  bouleuetai   ei       hygiasei   oute  rhētōr  ei       peisei         oute  politikos  ei       eunomian        poiēsei    oude  tōn         loipōn    oudeis  peri   tou      telous
-neither  for  doctor  deliberates  whether  will-heal  nor   orator  whether  will-persuade  nor   statesman  whether  good-order.ACC  will-make  nor   the.GEN.PL  rest.GEN  no-one  about  the.GEN  end.GEN
-```
 
-*"Neither does a doctor deliberate whether he will heal, nor an orator whether he will persuade, nor a statesman whether he will produce good order, nor does anyone else deliberate about the end."* This is the source of the page's doctor example for why deliberation concerns only means, never ends: *βουλεύεται* ("deliberates") is the same *βουλ-* root as the *βουλευτικὴ* of the *prohairesis* definition above, now inflected as a plain 3rd-singular verb (*-εύ-* verb-forming suffix + *-εται* middle ending) rather than an adjective, showing the one root doing double duty across the noun and verb forms of "deliberation."
+This is the source of the page's doctor example for why deliberation concerns only means, never ends: *βουλεύεται* ("deliberates") is the same *βουλ-* root as the *βουλευτικὴ* of the *prohairesis* definition above, now inflected as a plain 3rd-singular verb (*-εύ-* verb-forming suffix + *-εται* middle ending) rather than an adjective, showing the one root doing double duty across the noun and verb forms of "deliberation."
 
 ### Bk. III, ch. 5 (Bekker 1114a19-21)
 
-> οὕτω δὲ καὶ τῷ ἀδίκῳ καὶ τῷ ἀκολάστῳ ἐξ ἀρχῆς μὲν ἐξῆν τοιούτοις μὴ γενέσθαι, διὸ ἑκόντες εἰσίν· γενομένοις δʼ οὐκέτι ἔστι μὴ εἶναι.
-
+```ngloss
+\ex οὕτω δὲ καὶ τῷ ἀδίκῳ καὶ τῷ ἀκολάστῳ ἐξ ἀρχῆς μὲν ἐξῆν τοιούτοις μὴ γενέσθαι, διὸ ἑκόντες εἰσίν· γενομένοις δʼ οὐκέτι ἔστι μὴ εἶναι.
+\gl οὕτω [houtō] [thus]
+    δὲ [de] [PTCL]
+    καὶ [kai] [also]
+    τῷ [tōi] [the.DAT]
+    ἀδίκῳ [adikōi] [unjust-one.DAT]
+    καὶ [kai] [and]
+    τῷ [tōi] [the.DAT]
+    ἀκολάστῳ [akolastōi] [dissipated-one.DAT]
+    ἐξ [ex] [from]
+    ἀρχῆς [archēs] [beginning.GEN]
+    μὲν [men] [PTCL]
+    ἐξῆν [exēn] [was-possible]
+    τοιούτοις [toioutois] [such-ones.DAT]
+    μὴ [mē] [not]
+    γενέσθαι, [genesthai,] [to-become]
+    διὸ [dio] [therefore]
+    ἑκόντες [hekontes] [willing.NOM.PL]
+    εἰσίν· [eisin·] [they-are]
+    γενομένοις [genomenois] [having-become.DAT.PL]
+    δʼ [d'] [but]
+    οὐκέτι [ouketi] [no-longer]
+    ἔστι [esti] [possible]
+    μὴ [mē] [not]
+    εἶναι. [einai.] [to-be]
+\ft So too for the unjust person and the dissipated person, it was possible at the outset not to become such — which is why they are willing agents — but once they have become so, it is no longer possible not to be so.
 ```
-οὕτω   δὲ    καὶ   τῷ       ἀδίκῳ           καὶ  τῷ       ἀκολάστῳ            ἐξ    ἀρχῆς          μὲν   ἐξῆν          τοιούτοις      μὴ   γενέσθαι   διὸ        ἑκόντες         εἰσίν     γενομένοις            δʼ   οὐκέτι     ἔστι      μὴ   εἶναι
-houtō  de    kai   tōi      adikōi          kai  tōi      akolastōi           ex    archēs         men   exēn          toioutois      mē   genesthai  dio        hekontes        eisin     genomenois            d'   ouketi     esti      mē   einai
-thus   PTCL  also  the.DAT  unjust-one.DAT  and  the.DAT  dissipated-one.DAT  from  beginning.GEN  PTCL  was-possible  such-ones.DAT  not  to-become  therefore  willing.NOM.PL  they-are  having-become.DAT.PL  but  no-longer  possible  not  to-be
-```
 
-*"So too for the unjust person and the dissipated person, it was possible at the outset not to become such — which is why they are willing agents — but once they have become so, it is no longer possible not to be so."* This is the exact sentence the page paraphrases in its account of why vice remains voluntary even once fixed: *ἀρχῆς* ("beginning, origin") is the same word as the *ἀρχή* of the force-passage above, but here it is located *ἐξ ἀρχῆς* — "from the beginning" — inside the person's own history rather than outside the agent, which is precisely the origin/current-reversibility distinction the vault's discussion of the unjust and dissipated person turns on.
+This is the exact sentence the page paraphrases in its account of why vice remains voluntary even once fixed: *ἀρχῆς* ("beginning, origin") is the same word as the *ἀρχή* of the force-passage above, but here it is located *ἐξ ἀρχῆς* — "from the beginning" — inside the person's own history rather than outside the agent, which is precisely the origin/current-reversibility distinction the vault's discussion of the unjust and dissipated person turns on.
 
 ## Related
 

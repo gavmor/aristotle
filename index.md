@@ -29,6 +29,7 @@
 - [[concepts/beasts-and-gods]] — Brutishness and superhuman virtue, the two extremes beyond ordinary vice and virtue ( #philosophy #ethics #moral-psychology)
 - [[concepts/nous]] — Intellect/comprehension, grasping first principles and ultimate particulars that can't be demonstrated ( #philosophy #ethics #epistemology)
 - [[concepts/sophia]] — Theoretical wisdom, combining intellect and knowledge; Book X's candidate for complete happiness ( #philosophy #ethics #epistemology #metaphysics)
+- [[concepts/art]] — Art/craft (technē), a productive state involving true reasoning, operating in the contingent realm alongside chance ( #philosophy #ethics #epistemology)
 - [[concepts/self-love]] — Philautia in its reproached and its good sense (loving one's own reason and beautiful action) ( #philosophy #ethics #moral-psychology)
 - [[concepts/virtues/aletheia]] — Truthfulness, the mean concerning self-presentation ( #philosophy #ethics #virtue-ethics)
 - [[concepts/virtues/eleutheriotes]] — Generosity, the mean concerning the giving and taking of wealth ( #philosophy #ethics #virtue-ethics)
@@ -42,6 +43,7 @@
 - [[concepts/peri]] — The Greek preposition structurally defining the domain or sphere of operation for each virtue ( #philosophy #ethics #ancient-greek)
 
 ## Synthesis
+- [[synthesis/necessity-and-contingency]] — Aristotle's fundamental ontological division between things that are incapable of being otherwise (necessity) and things that are capable of being otherwise (contingency) ( #philosophy #ethics #metaphysics)
 - [[synthesis/chapters-four-and-five]] — Structural analysis: how Chapters 4 and 5 progress from foundational definitions in Book II to exploratory applications of the mean in Books IV and V ( #philosophy #ethics #virtue-ethics #structure)
 - [[synthesis/virtue-taxonomy]] — Treemap: virtue of character's uniform mean-triads vs. virtue of thought's irregular structure ( #philosophy #ethics #virtue-ethics #visualization)
 - [[synthesis/justice-taxonomy]] — Treemap: every classificatory axis Book V applies to justice, species through the metaphorical intra-soul case ( #philosophy #ethics #political-philosophy #visualization)
@@ -60,3 +62,7 @@
 
 ## References
 - [[references/nicomachean-ethics]] — Aristotle's ten-book inquiry into happiness, virtue, and the good life (Joe Sachs translation) ( #philosophy #ethics #virtue-ethics #ancient-greek)
+
+## Journal
+- [[journal/2026-07-21-aristotelian-justice-taxonomy-updates]] — Captured updates to the Aristotle Justice taxonomy, including Equity, Reciprocity, and the `speak-greek` workflow tweaks ( #justice #taxonomy #aristotle)
+
