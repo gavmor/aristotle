@@ -34,3 +34,5 @@
 - [2026-07-22T08:20:00-07:00] EDIT pages_updated=3 pages_created=0 note="Updated concepts/soul/rational-part.md, concepts/soul/knowing-part.md, and concepts/soul/calculating-part.md to include the Bk. VI, ch. 1 Greek gloss explicitly linking them to their respective objects of contemplation (necessity vs. contingency)."
 - [2026-07-22T08:22:00-07:00] EDIT pages_updated=4 pages_created=2 note="Created dedicated top-level concept pages concepts/capable-of-being-otherwise.md and concepts/incapable-of-being-otherwise.md at user's request. Updated wikilinks across the vault to point directly to these concepts."
 - [2026-07-22T08:24:00-07:00] EDIT pages_updated=4 pages_created=0 note="Refactored synthesis/necessity-and-contingency.md into a sparse structural hub. Updated existing articles (art.md, phronesis.md, nous.md, rational-part.md) to link directly to the new top-level necessity/contingency concepts."
+- [2026-07-22T14:50:00Z] CAPTURE type=concept page="projects/slog/concepts/mupanda-os.md" title="Mupanda OS Backend"
+- [2026-07-22T14:50:00Z] CAPTURE type=project page="projects/slog/slog.md" title="SLOG Project"

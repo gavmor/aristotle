@@ -1,8 +1,8 @@
 ---
 title: Hot Cache
-updated: 2026-07-21T16:03:30Z
----
+updated: 2026-07-22T14:50:00Z
 ## Recent Activity
+- `/wiki-capture` used to preserve the foundational worldbuilding of the *Mupanda* digital ecosystem from the SLOG project, outlining how Bantu ontology replaces Western OOP, the use of Class 14 for relational states (rather than Booleans), locatives for network architecture, and Class 9/10 for malware ("digital fauna").
 - `/wiki-capture` used to record a session outlining Aristotelian Justice Taxonomy updates, capturing the addition of Equity as a corrective, Household Justice, and Reciprocity as an exchange mechanism. We also noted standardizing the `ngloss` interlinear format and locking the `speak-greek` playback speed to `-60%`.
 - Close reading of `honor.md`'s Bk. I passage (via `/classical-gloss`, conversational back-and-forth on individual clauses) turned up two things: a genuine citation error (the lawmakers' honor/punishment sentence was mislabeled "Bk. III ch. 1" — the source XML's div structure confirms it's actually ch. 5; fixed and pushed), and a new concept page, [[concepts/seeming]], distinguishing three Greek "seem" verbs used in three consecutive sentences at Bekker 1095b22-27: *phainetai* (appearing/manifestation), *dokei* (being opined, root of "doxa"), and *eoikasi* (resembling, root of "icon") — English "seem/appear" flattens all three into one word. Also flagged the plain-locative literalism of "en...einai" ("to be in") applied to honor's supposed location in the giver.
 - `/wiki-ingest` on "willing, unwilling, mixed" turned up unmined material: Bk. V, ch. 9-11's asymmetric application of the same machinery to *suffering* (not just doing) injustice, and whether one can be unjust to oneself. Added two new bullets to [[concepts/voluntary-involuntary]] (already tier: core) rather than spinning off a new page. Separately, a forked agent independently produced [[concepts/honor]] (timē across Bks. I/III/IV/VIII); three of its five Greek citations were spot-checked directly against the primary source (all confirmed correct once verified with a precise offset-based script rather than a crude line-range grep).

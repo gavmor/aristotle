@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/phronesis.md",
+                "file": "concepts/philia.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phronesis"
+              "title": "philia"
             }
           }
         ]
@@ -188,15 +188,19 @@
   },
   "active": "beacd329df1889c3",
   "lastOpenFiles": [
-    "concepts/cleverness.md",
+    "concepts/active-conditions/philia.md",
     "concepts/phronesis.md",
+    "projects/slog/concepts/mupanda-os.md",
+    "projects/slog/concepts",
+    "projects/slog/slog.md",
+    "projects/slog",
+    "concepts/cleverness.md",
     "concepts/akrasia.md",
     "concepts/hexis.md",
     "concepts/soul/knowing-part.md",
     "concepts/active-conditions/sophrosune.md",
     "concepts/active-conditions/praotes.md",
     "concepts/active-conditions/philotimia.md",
-    "concepts/active-conditions/philia.md",
     "concepts/active-conditions/megalopsuchia.md",
     "concepts/active-conditions/megaloprepeia.md",
     "concepts/active-conditions/eutrapelia.md",
@@ -219,10 +223,6 @@
     "concepts/soul/rational-part.md",
     "concepts/praxis.md",
     "out_chunk_9.md",
-    "out_chunk_0.md",
-    "out_chunk_3.md",
-    "out_chunk_6.md",
-    "gen.py",
-    "assets/audio/1140b20.mp3"
+    "out_chunk_0.md"
   ]
 }

@@ -121,6 +121,27 @@ the.DAT  PTCL  toward  himself.ACC  each.ACC.PL  of-these.GEN  to-belong   the.D
 
 *"Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends."* Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
 
+### Bk. IX, ch. 10 (Bekker 1171a3-4)
+
+```ngloss
+\ex ὅτι δʼ οὐχ οἷόν τε πολλοῖς συζῆν καὶ διανέμειν ἑαυτόν, οὐκ ἄδηλον.
+\gl ὅτι [hoti] [that]
+    δʼ [d'] [but]
+    οὐχ [ouch] [not]
+    οἷόν [hoion] [possible]
+    τε [te] [PTCL]
+    πολλοῖς [pollois] [many.DAT]
+    συζῆν [suzēn] [to-live-with]
+    καὶ [kai] [and]
+    διανέμειν [dianemein] [to-distribute]
+    ἑαυτόν, [heauton,] [oneself.ACC]
+    οὐκ [ouk] [not]
+    ἄδηλον. [adēlon.] [unclear]
+\ft "But that it is not possible to live together with many people and distribute oneself [among them], is not unclear."
+```
+
+This sentence comes right at the heart of Aristotle's argument about the limits on the number of true friends a person can have. He argues that because complete friendship (*philia*) requires actually sharing a life (*suzēn* — literally "living together" from *sun-* "together" plus *zēn* "to live") and distributing one's time and self (*dianemein heauton*), it is practically impossible to do this with many people. True friendship is bottlenecked by the finite nature of a single human life.
+
 ## Related
 
 - [[concepts/to-kalon]] — per Sachs, the fullest working-out of the beautiful's role in virtuous action occurs in the friendship books

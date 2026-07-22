@@ -68,3 +68,7 @@
 ## Journal
 - [[journal/2026-07-21-aristotelian-justice-taxonomy-updates]] — Captured updates to the Aristotle Justice taxonomy, including Equity, Reciprocity, and the `speak-greek` workflow tweaks ( #justice #taxonomy #aristotle)
 
+
+## Projects
+- [[projects/slog/slog]] — The overarching project for the Kisangani story world ( #project #worldbuilding)
+- [[projects/slog/concepts/mupanda-os]] — The Bantu ontology-based operating system architecture of the Kisangani fleet ( #concept #worldbuilding #os)
