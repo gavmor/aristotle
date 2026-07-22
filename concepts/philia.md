@@ -75,51 +75,168 @@ classDiagram
 
 ### Bk. VIII, ch. 3 (Bekker 1156a26-30)
 
-> ἔτι δὲ προσδεῖται χρόνου καὶ συνηθείας· κατὰ τὴν παροιμίαν γὰρ οὐκ ἔστιν εἰδῆσαι ἀλλήλους πρὶν τοὺς λεγομένους ἅλας συναναλῶσαι· οὐδʼ ἀποδέξασθαι δὴ πρότερον οὐδʼ εἶναι φίλους, πρὶν ἂν ἑκάτερος ἑκατέρῳ φανῇ φιλητὸς καὶ πιστευθῇ.
-
+```ngloss
+\ex ἔτι δὲ προσδεῖται χρόνου καὶ συνηθείας· κατὰ τὴν παροιμίαν γὰρ οὐκ ἔστιν εἰδῆσαι ἀλλήλους πρὶν τοὺς λεγομένους ἅλας συναναλῶσαι· οὐδʼ ἀποδέξασθαι δὴ πρότερον οὐδʼ εἶναι φίλους, πρὶν ἂν ἑκάτερος ἑκατέρῳ φανῇ φιλητὸς καὶ πιστευθῇ.
+\gl ἔτι [eti] [also]
+    δὲ [de] [PTCL]
+    προσδεῖται [prosdeitai] [requires]
+    χρόνου [chronou] [time.GEN]
+    καὶ [kai] [and]
+    συνηθείας· [synētheias] [intimacy.GEN]
+    κατὰ [kata] [according-to]
+    τὴν [tēn] [the.ACC]
+    παροιμίαν [paroimian] [proverb.ACC]
+    γὰρ [gar] [for]
+    οὐκ [ouk] [not]
+    ἔστιν [estin] [is-possible]
+    εἰδῆσαι [eidēsai] [to-know]
+    ἀλλήλους [allēlous] [one-another.ACC]
+    πρὶν [prin] [before]
+    τοὺς [tous] [the.ACC.PL]
+    λεγομένους [legomenous] [so-called.PTCP]
+    ἅλας [halas] [salt.ACC]
+    συναναλῶσαι· [synanalōsai] [to-use-up-together]
+    οὐδʼ [oud'] [nor]
+    ἀποδέξασθαι [apodexasthai] [to-accept]
+    δὴ [dē] [PTCL]
+    πρότερον [proteron] [beforehand]
+    οὐδʼ [oud'] [nor]
+    εἶναι [einai] [to-be]
+    φίλους, [philous,] [friends.ACC]
+    πρὶν [prin] [before]
+    ἂν [an] [PTCL]
+    ἑκάτερος [hekateros] [each.NOM]
+    ἑκατέρῳ [hekaterō] [each.DAT]
+    φανῇ [phanē] [appears]
+    φιλητὸς [philētos] [lovable]
+    καὶ [kai] [and]
+    πιστευθῇ. [pisteuthē.] [is-trusted]
+\ft Besides, it also needs time and familiarity; as the proverb says, people cannot know each other before they have used up the proverbial quantity of salt together, nor can they accept each other or be friends until each has appeared lovable to the other and been trusted.
 ```
-ἔτι   δὲ    προσδεῖται  χρόνου    καὶ  συνηθείας     κατὰ          τὴν      παροιμίαν    γὰρ  οὐκ  ἔστιν        εἰδῆσαι  ἀλλήλους         πρὶν    τοὺς        λεγομένους      ἅλας      συναναλῶσαι         οὐδʼ  ἀποδέξασθαι   δὴ    πρότερον    οὐδʼ  εἶναι  φίλους       πρὶν    ἂν    ἑκάτερος   ἑκατέρῳ   φανῇ     φιλητὸς   καὶ  πιστευθῇ
-eti   de    prosdeitai  chronou   kai  synētheias    kata          tēn      paroimian    gar  ouk  estin        eidēsai  allēlous         prin    tous        legomenous      halas     synanalōsai         oud'  apodexasthai  dē    proteron    oud'  einai  philous      prin    an    hekateros  hekaterō  phanē    philētos  kai  pisteuthē
-also  PTCL  requires    time.GEN  and  intimacy.GEN  according-to  the.ACC  proverb.ACC  for  not  is-possible  to-know  one-another.ACC  before  the.ACC.PL  so-called.PTCP  salt.ACC  to-use-up-together  nor   to-accept     PTCL  beforehand  nor   to-be  friends.ACC  before  PTCL  each.NOM   each.DAT  appears  lovable   and  is-trusted
-```
 
-*"Besides, it also needs time and familiarity; as the proverb says, people cannot know each other before they have used up the proverbial quantity of salt together, nor can they accept each other or be friends until each has appeared lovable to the other and been trusted."* This is the textual source behind the page's claim that complete friendship "requires extended time and trust" and "is not possible... until people use up the proverbial amount of salt together": *synētheia* (σύν- "together" + *ēthos*, "custom, character" — the same root that gives *ēthikē*, "ethics" — plus the abstract-noun suffix *-eia*) names the slow-built shared disposition that alone breeds the mutual trust Aristotle says friendship of the complete kind cannot do without.
+This is the textual source behind the page's claim that complete friendship "requires extended time and trust" and "is not possible... until people use up the proverbial amount of salt together": *synētheia* (σύν- "together" + *ēthos*, "custom, character" — the same root that gives *ēthikē*, "ethics" — plus the abstract-noun suffix *-eia*) names the slow-built shared disposition that alone breeds the mutual trust Aristotle says friendship of the complete kind cannot do without.
 
 ### Bk. IX, ch. 5 (Bekker 1167a10-14)
 
-> διὸ μεταφέρων φαίη τις ἂν αὐτὴν ἀργὴν εἶναι φιλίαν, χρονιζομένην δὲ καὶ εἰς συνήθειαν ἀφικνουμένην γίνεσθαι φιλίαν, οὐ τὴν διὰ τὸ χρήσιμον οὐδὲ τὴν διὰ τὸ ἡδύ· οὐδὲ γὰρ εὔνοια ἐπὶ τούτοις γίνεται.
-
+```ngloss
+\ex διὸ μεταφέρων φαίη τις ἂν αὐτὴν ἀργὴν εἶναι φιλίαν, χρονιζομένην δὲ καὶ εἰς συνήθειαν ἀφικνουμένην γίνεσθαι φιλίαν, οὐ τὴν διὰ τὸ χρήσιμον οὐδὲ τὴν διὰ τὸ ἡδύ· οὐδὲ γὰρ εὔνοια ἐπὶ τούτοις γίνεται.
+\gl διὸ [dio] [therefore]
+    μεταφέρων [metapherōn] [using-metaphor.PTCP]
+    φαίη [phaiē] [might-say]
+    τις [tis] [someone]
+    ἂν [an] [PTCL]
+    αὐτὴν [autēn] [it.ACC]
+    ἀργὴν [argēn] [idle.ACC]
+    εἶναι [einai] [to-be]
+    φιλίαν, [philian,] [friendship.ACC]
+    χρονιζομένην [chronizomenēn] [lingering.PTCP]
+    δὲ [de] [PTCL]
+    καὶ [kai] [and]
+    εἰς [eis] [into]
+    συνήθειαν [synētheian] [intimacy.ACC]
+    ἀφικνουμένην [aphiknoumenēn] [arriving.PTCP]
+    γίνεσθαι [ginesthai] [becomes]
+    φιλίαν, [philian,] [friendship.ACC]
+    οὐ [ou] [not]
+    τὴν [tēn] [the.ACC]
+    διὰ [dia] [through]
+    τὸ [to] [the.ACC]
+    χρήσιμον [chrēsimon] [useful]
+    οὐδὲ [oude] [nor]
+    τὴν [tēn] [the.ACC]
+    διὰ [dia] [through]
+    τὸ [to] [the.ACC]
+    ἡδύ· [hēdy] [pleasant]
+    οὐδὲ [oude] [nor]
+    γὰρ [gar] [for]
+    εὔνοια [eunoia] [goodwill]
+    ἐπὶ [epi] [toward]
+    τούτοις [toutois] [these.DAT]
+    γίνεται. [ginetai.] [arises]
+\ft So someone speaking by transference might call it an idle friendship — one that, lingering on and arriving at familiarity, becomes friendship, though not the friendship based on utility or on pleasure, since goodwill does not arise from those either.
 ```
-διὸ        μεταφέρων            φαίη       τις      ἂν    αὐτὴν   ἀργὴν     εἶναι  φιλίαν          χρονιζομένην    δὲ    καὶ  εἰς   συνήθειαν     ἀφικνουμένην   γίνεσθαι   φιλίαν          οὐ   τὴν      διὰ      τὸ       χρήσιμον   οὐδὲ  τὴν      διὰ      τὸ       ἡδύ       οὐδὲ  γὰρ  εὔνοια    ἐπὶ     τούτοις    γίνεται
-dio        metapherōn           phaiē      tis      an    autēn   argēn     einai  philian         chronizomenēn   de    kai  eis   synētheian    aphiknoumenēn  ginesthai  philian         ou   tēn      dia      to       chrēsimon  oude  tēn      dia      to       hēdy      oude  gar  eunoia    epi     toutois    ginetai
-therefore  using-metaphor.PTCP  might-say  someone  PTCL  it.ACC  idle.ACC  to-be  friendship.ACC  lingering.PTCP  PTCL  and  into  intimacy.ACC  arriving.PTCP  becomes    friendship.ACC  not  the.ACC  through  the.ACC  useful     nor   the.ACC  through  the.ACC  pleasant  nor   for  goodwill  toward  these.DAT  arises
-```
 
-*"So someone speaking by transference might call it an idle friendship — one that, lingering on and arriving at familiarity, becomes friendship, though not the friendship based on utility or on pleasure, since goodwill does not arise from those either."* This is the line behind the page's claim that goodwill is "friendship out-of-work": *argēn* (privative *a-* "not, without" + *erg-*, the root of *ergon*, "work, deed" + the adjectival suffix *-os*) is built from the very same *erg-* root as [[concepts/energeia]] but negated — goodwill is friendship that has not yet become a being-at-work.
+This is the line behind the page's claim that goodwill is "friendship out-of-work": *argēn* (privative *a-* "not, without" + *erg-*, the root of *ergon*, "work, deed" + the adjectival suffix *-os*) is built from the very same *erg-* root as [[concepts/energeia]] but negated — goodwill is friendship that has not yet become a being-at-work.
 
 ### Bk. VIII, ch. 11 (Bekker 1161a30-34)
 
-> ἐν δὲ ταῖς παρεκβάσεσιν, ὥσπερ καὶ τὸ δίκαιον ἐπὶ μικρόν ἐστιν, οὕτω καὶ ἡ φιλία, καὶ ἥκιστα ἐν τῇ χειρίστῃ· ἐν τυραννίδι γὰρ οὐδὲν ἢ μικρὸν φιλίας.
-
+```ngloss
+\ex ἐν δὲ ταῖς παρεκβάσεσιν, ὥσπερ καὶ τὸ δίκαιον ἐπὶ μικρόν ἐστιν, οὕτω καὶ ἡ φιλία, καὶ ἥκιστα ἐν τῇ χειρίστῃ· ἐν τυραννίδι γὰρ οὐδὲν ἢ μικρὸν φιλίας.
+\gl ἐν [en] [in]
+    δὲ [de] [PTCL]
+    ταῖς [tais] [the.DAT.PL]
+    παρεκβάσεσιν, [parekbasesin,] [deviant-forms.DAT]
+    ὥσπερ [hōsper] [just-as]
+    καὶ [kai] [also]
+    τὸ [to] [the]
+    δίκαιον [dikaion] [just-thing]
+    ἐπὶ [epi] [to]
+    μικρόν [mikron] [small-extent]
+    ἐστιν, [estin,] [is]
+    οὕτω [houtō] [so]
+    καὶ [kai] [also]
+    ἡ [hē] [the]
+    φιλία, [philia,] [friendship]
+    καὶ [kai] [and]
+    ἥκιστα [hēkista] [least]
+    ἐν [en] [in]
+    τῇ [tē] [the.DAT]
+    χειρίστῃ· [cheiristē] [worst.DAT]
+    ἐν [en] [in]
+    τυραννίδι [tyrannidi] [tyranny.DAT]
+    γὰρ [gar] [for]
+    οὐδὲν [ouden] [nothing]
+    ἢ [ē] [or]
+    μικρὸν [mikron] [little]
+    φιλίας. [philias.] [friendship.GEN]
+\ft But among the deviant constitutions, just as the just is present only to a small extent, so too is friendship, and least of all in the worst one; for in a tyranny there is little or no friendship.
 ```
-ἐν  δὲ    ταῖς        παρεκβάσεσιν       ὥσπερ    καὶ   τὸ   δίκαιον     ἐπὶ  μικρόν        ἐστιν  οὕτω   καὶ   ἡ    φιλία       καὶ  ἥκιστα   ἐν  τῇ       χειρίστῃ   ἐν  τυραννίδι    γὰρ  οὐδὲν    ἢ   μικρὸν  φιλίας
-en  de    tais        parekbasesin       hōsper   kai   to   dikaion     epi  mikron        estin  houtō  kai   hē   philia      kai  hēkista  en  tē       cheiristē  en  tyrannidi    gar  ouden    ē   mikron  philias
-in  PTCL  the.DAT.PL  deviant-forms.DAT  just-as  also  the  just-thing  to   small-extent  is     so     also  the  friendship  and  least    in  the.DAT  worst.DAT  in  tyranny.DAT  for  nothing  or  little  friendship.GEN
-```
 
-*"But among the deviant constitutions, just as the just is present only to a small extent, so too is friendship, and least of all in the worst one; for in a tyranny there is little or no friendship."* This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
+This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
 
 ### Bk. IX, ch. 4 (Bekker 1166a30-33)
 
-> τῷ δὴ πρὸς αὑτὸν ἕκαστα τούτων ὑπάρχειν τῷ ἐπιεικεῖ, πρὸς δὲ τὸν φίλον ἔχειν ὥσπερ πρὸς αὑτόν (ἔστι γὰρ ὁ φίλος ἄλλος αὐτός), καὶ ἡ φιλία τούτων εἶναί τι δοκεῖ, καὶ φίλοι οἷς ταῦθʼ ὑπάρχει.
-
+```ngloss
+\ex τῷ δὴ πρὸς αὑτὸν ἕκαστα τούτων ὑπάρχειν τῷ ἐπιεικεῖ, πρὸς δὲ τὸν φίλον ἔχειν ὥσπερ πρὸς αὑτόν (ἔστι γὰρ ὁ φίλος ἄλλος αὐτός), καὶ ἡ φιλία τούτων εἶναί τι δοκεῖ, καὶ φίλοι οἷς ταῦθʼ ὑπάρχει.
+\gl τῷ [tō] [the.DAT]
+    δὴ [dē] [PTCL]
+    πρὸς [pros] [toward]
+    αὑτὸν [hauton] [himself.ACC]
+    ἕκαστα [hekasta] [each.ACC.PL]
+    τούτων [toutōn] [of-these.GEN]
+    ὑπάρχειν [hyparchein] [to-belong]
+    τῷ [tō] [the.DAT]
+    ἐπιεικεῖ, [epieikei,] [decent-man.DAT]
+    πρὸς [pros] [toward]
+    δὲ [de] [PTCL]
+    τὸν [ton] [the.ACC]
+    φίλον [philon] [friend.ACC]
+    ἔχειν [echein] [to-relate]
+    ὥσπερ [hōsper] [just-as]
+    πρὸς [pros] [toward]
+    αὑτόν [hauton] [himself.ACC]
+    (ἔστι [(esti] [is]
+    γὰρ [gar] [for]
+    ὁ [ho] [the]
+    φίλος [philos] [friend]
+    ἄλλος [allos] [other]
+    αὐτός), [autos),] [self]
+    καὶ [kai] [and]
+    ἡ [hē] [the]
+    φιλία [philia] [friendship]
+    τούτων [toutōn] [of-these.GEN]
+    εἶναί [einai] [to-be]
+    τι [ti] [something]
+    δοκεῖ, [dokei,] [seems]
+    καὶ [kai] [and]
+    φίλοι [philoi] [friends.NOM]
+    οἷς [hois] [to-whom.DAT]
+    ταῦθʼ [tauth'] [these-things]
+    ὑπάρχει. [hyparchei.] [belong]
+\ft Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends.
 ```
-τῷ       δὴ    πρὸς    αὑτὸν        ἕκαστα       τούτων        ὑπάρχειν    τῷ       ἐπιεικεῖ        πρὸς    δὲ    τὸν      φίλον       ἔχειν      ὥσπερ    πρὸς    αὑτόν        ἔστι  γὰρ  ὁ    φίλος   ἄλλος  αὐτός  καὶ  ἡ    φιλία       τούτων        εἶναί  τι         δοκεῖ  καὶ  φίλοι        οἷς          ταῦθʼ         ὑπάρχει
-tō       dē    pros    hauton       hekasta      toutōn        hyparchein  tō       epieikei        pros    de    ton      philon      echein     hōsper   pros    hauton       esti  gar  ho   philos  allos  autos  kai  hē   philia      toutōn        einai  ti         dokei  kai  philoi       hois         tauth'        hyparchei
-the.DAT  PTCL  toward  himself.ACC  each.ACC.PL  of-these.GEN  to-belong   the.DAT  decent-man.DAT  toward  PTCL  the.ACC  friend.ACC  to-relate  just-as  toward  himself.ACC  is    for  the  friend  other  self   and  the  friendship  of-these.GEN  to-be  something  seems  and  friends.NOM  to-whom.DAT  these-things  belong
-```
 
-*"Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends."* Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
+Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
 
 ### Bk. IX, ch. 10 (Bekker 1171a3-4)
 
@@ -137,7 +254,7 @@ the.DAT  PTCL  toward  himself.ACC  each.ACC.PL  of-these.GEN  to-belong   the.D
     ἑαυτόν, [heauton,] [oneself.ACC]
     οὐκ [ouk] [not]
     ἄδηλον. [adēlon.] [unclear]
-\ft "But that it is not possible to live together with many people and distribute oneself [among them], is not unclear."
+\ft But that it is not possible to live together with many people and distribute oneself [among them], is not unclear.
 ```
 
 This sentence comes right at the heart of Aristotle's argument about the limits on the number of true friends a person can have. He argues that because complete friendship (*philia*) requires actually sharing a life (*suzēn* — literally "living together" from *sun-* "together" plus *zēn* "to live") and distributing one's time and self (*dianemein heauton*), it is practically impossible to do this with many people. True friendship is bottlenecked by the finite nature of a single human life.
