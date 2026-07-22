@@ -41,6 +41,27 @@ Book VI turns from virtue of character to virtue of thought, dividing the ration
 - Aristotle credits and partly corrects **Socrates**: Socrates was right that there is no virtue without wise judgment, but wrong to think the virtues simply *are* forms of knowledge — Aristotle's correction is that virtue is an active condition that **involves** right reason (practical judgment), not one that reduces to it. ^[extracted]
 - Book VI closes by noting a tension it does not fully resolve: **wisdom (theoretical)** seems to contribute nothing directly to right action, since it is not directed at any coming-into-being — Aristotle's initial answer is that wisdom "produces happiness... by being possessed and being at work," the way health produces health rather than the way medicine produces health, deferring fuller treatment to Book X's account of [[concepts/contemplative-life|contemplation]]. ^[extracted]
 
+## The Components of Phronesis
+
+```mermaid
+ishikawa-beta
+    Practical Judgment (Phronesis)
+    Cleverness (Deinotēs)
+        Calculates the means
+        Enables achieving the set object
+        The raw, morally neutral engine
+    Virtue of Character
+        Sets the noble target (the end)
+        Provides the correct starting point
+        Prevents pleasure/pain from warping judgment
+    Intellect (Nous)
+        Grasps the ultimate particulars of the situation
+        Recognizes the context for action
+    Choice (Prohairesis)
+        Deliberate desire
+        Leverages cleverness toward the decided end
+```
+
 ## Greek Gloss
 
 ### Bk. VI, ch. 5 (Bekker 1140a24-26)
