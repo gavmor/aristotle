@@ -197,48 +197,19 @@ This is the line behind the page's claim that goodwill is "friendship out-of-wor
 
 This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
 
-### Bk. IX, ch. 4 (Bekker 1166a30-33)
+### Bk. IX, ch. 4 (Bekker 1166a31-32)
 
 ```ngloss
-\ex τῷ δὴ πρὸς αὑτὸν ἕκαστα τούτων ὑπάρχειν τῷ ἐπιεικεῖ, πρὸς δὲ τὸν φίλον ἔχειν ὥσπερ πρὸς αὑτόν (ἔστι γὰρ ὁ φίλος ἄλλος αὐτός), καὶ ἡ φιλία τούτων εἶναί τι δοκεῖ, καὶ φίλοι οἷς ταῦθʼ ὑπάρχει.
-\gl τῷ [tō] [the.DAT]
-    δὴ [dē] [PTCL]
-    πρὸς [pros] [toward]
-    αὑτὸν [hauton] [himself.ACC]
-    ἕκαστα [hekasta] [each.ACC.PL]
-    τούτων [toutōn] [of-these.GEN]
-    ὑπάρχειν [hyparchein] [to-belong]
-    τῷ [tō] [the.DAT]
-    ἐπιεικεῖ, [epieikei,] [decent-man.DAT]
-    πρὸς [pros] [toward]
-    δὲ [de] [PTCL]
-    τὸν [ton] [the.ACC]
-    φίλον [philon] [friend.ACC]
-    ἔχειν [echein] [to-relate]
-    ὥσπερ [hōsper] [just-as]
-    πρὸς [pros] [toward]
-    αὑτόν [hauton] [himself.ACC]
-    (ἔστι [(esti] [is]
+\ex ἔστι γὰρ ὁ φίλος ἄλλος αὐτός.
+\gl ἔστι [esti] [is]
     γὰρ [gar] [for]
-    ὁ [ho] [the]
-    φίλος [philos] [friend]
-    ἄλλος [allos] [other]
-    αὐτός), [autos),] [self]
-    καὶ [kai] [and]
-    ἡ [hē] [the]
-    φιλία [philia] [friendship]
-    τούτων [toutōn] [of-these.GEN]
-    εἶναί [einai] [to-be]
-    τι [ti] [something]
-    δοκεῖ, [dokei,] [seems]
-    καὶ [kai] [and]
-    φίλοι [philoi] [friends.NOM]
-    οἷς [hois] [to-whom.DAT]
-    ταῦθʼ [tauth'] [these-things]
-    ὑπάρχει. [hyparchei.] [belong]
-\ft Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends.
+    ὁ [ho] [the.NOM]
+    φίλος [philos] [friend.NOM]
+    ἄλλος [allos] [another.NOM]
+    αὐτός. [autos.] [self.NOM]
+\ft For a friend is another self.
 ```
-![[1166a30.mp3]]
+![[1166a31.mp3]]
 
 Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
 
