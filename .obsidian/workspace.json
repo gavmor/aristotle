@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/hexis.md",
+                "file": "concepts/phronesis.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hexis"
+              "title": "phronesis"
             }
           }
         ]
@@ -188,6 +188,9 @@
   },
   "active": "beacd329df1889c3",
   "lastOpenFiles": [
+    "concepts/cleverness.md",
+    "concepts/akrasia.md",
+    "concepts/hexis.md",
     "concepts/soul/knowing-part.md",
     "concepts/active-conditions/sophrosune.md",
     "concepts/active-conditions/praotes.md",
@@ -219,10 +222,7 @@
     "out_chunk_0.md",
     "out_chunk_3.md",
     "out_chunk_6.md",
-    "out_chunk_4.md",
     "gen.py",
-    "out_chunk_7.md",
-    "out_chunk_8.md",
     "assets/audio/1140b20.mp3"
   ]
 }
