@@ -113,6 +113,7 @@ classDiagram
     πιστευθῇ. [pisteuthē.] [is-trusted]
 \ft Besides, it also needs time and familiarity; as the proverb says, people cannot know each other before they have used up the proverbial quantity of salt together, nor can they accept each other or be friends until each has appeared lovable to the other and been trusted.
 ```
+![[1156a26.mp3]]
 
 This is the textual source behind the page's claim that complete friendship "requires extended time and trust" and "is not possible... until people use up the proverbial amount of salt together": *synētheia* (σύν- "together" + *ēthos*, "custom, character" — the same root that gives *ēthikē*, "ethics" — plus the abstract-noun suffix *-eia*) names the slow-built shared disposition that alone breeds the mutual trust Aristotle says friendship of the complete kind cannot do without.
 
@@ -155,6 +156,7 @@ This is the textual source behind the page's claim that complete friendship "req
     γίνεται. [ginetai.] [arises]
 \ft So someone speaking by transference might call it an idle friendship — one that, lingering on and arriving at familiarity, becomes friendship, though not the friendship based on utility or on pleasure, since goodwill does not arise from those either.
 ```
+![[1167a10.mp3]]
 
 This is the line behind the page's claim that goodwill is "friendship out-of-work": *argēn* (privative *a-* "not, without" + *erg-*, the root of *ergon*, "work, deed" + the adjectival suffix *-os*) is built from the very same *erg-* root as [[concepts/energeia]] but negated — goodwill is friendship that has not yet become a being-at-work.
 
@@ -191,6 +193,7 @@ This is the line behind the page's claim that goodwill is "friendship out-of-wor
     φιλίας. [philias.] [friendship.GEN]
 \ft But among the deviant constitutions, just as the just is present only to a small extent, so too is friendship, and least of all in the worst one; for in a tyranny there is little or no friendship.
 ```
+![[1161a30.mp3]]
 
 This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
 
@@ -235,6 +238,7 @@ This is the textual basis for the page's claim that friendship and justice track
     ὑπάρχει. [hyparchei.] [belong]
 \ft Since each of these traits belongs to the decent person in relation to himself, and he relates to a friend just as to himself (for a friend is another self), friendship is thought to be something of this sort, and those to whom these things belong are friends.
 ```
+![[1166a30.mp3]]
 
 Aristotle states outright here the formula the page's Key Ideas paraphrase as "a friend is another self": *allos* (the root *al-*, "other, different" — cognate with Latin *alius* — plus the adjective-forming suffix *-los*) marks the friend as a second instance of the same self rather than a wholly separate other.
 
@@ -256,6 +260,7 @@ Aristotle states outright here the formula the page's Key Ideas paraphrase as "a
     ἄδηλον. [adēlon.] [unclear]
 \ft But that it is not possible to live together with many people and distribute oneself [among them], is not unclear.
 ```
+![[1171a3.mp3]]
 
 This sentence comes right at the heart of Aristotle's argument about the limits on the number of true friends a person can have. He argues that because complete friendship (*philia*) requires actually sharing a life (*suzēn* — literally "living together" from *sun-* "together" plus *zēn* "to live") and distributing one's time and self (*dianemein heauton*), it is practically impossible to do this with many people. True friendship is bottlenecked by the finite nature of a single human life.
 
