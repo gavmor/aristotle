@@ -160,40 +160,20 @@ This is the textual source behind the page's claim that complete friendship "req
 
 This is the line behind the page's claim that goodwill is "friendship out-of-work": *argēn* (privative *a-* "not, without" + *erg-*, the root of *ergon*, "work, deed" + the adjectival suffix *-os*) is built from the very same *erg-* root as [[concepts/energeia]] but negated — goodwill is friendship that has not yet become a being-at-work.
 
-### Bk. VIII, ch. 11 (Bekker 1161a30-34)
+### Bk. VIII, ch. 11 (Bekker 1161a32-33)
 
 ```ngloss
-\ex ἐν δὲ ταῖς παρεκβάσεσιν, ὥσπερ καὶ τὸ δίκαιον ἐπὶ μικρόν ἐστιν, οὕτω καὶ ἡ φιλία, καὶ ἥκιστα ἐν τῇ χειρίστῃ· ἐν τυραννίδι γὰρ οὐδὲν ἢ μικρὸν φιλίας.
+\ex ἐν τυραννίδι γὰρ οὐδὲν ἢ μικρὸν φιλίας.
 \gl ἐν [en] [in]
-    δὲ [de] [PTCL]
-    ταῖς [tais] [the.DAT.PL]
-    παρεκβάσεσιν, [parekbasesin,] [deviant-forms.DAT]
-    ὥσπερ [hōsper] [just-as]
-    καὶ [kai] [also]
-    τὸ [to] [the]
-    δίκαιον [dikaion] [just-thing]
-    ἐπὶ [epi] [to]
-    μικρόν [mikron] [small-extent]
-    ἐστιν, [estin,] [is]
-    οὕτω [houtō] [so]
-    καὶ [kai] [also]
-    ἡ [hē] [the]
-    φιλία, [philia,] [friendship]
-    καὶ [kai] [and]
-    ἥκιστα [hēkista] [least]
-    ἐν [en] [in]
-    τῇ [tē] [the.DAT]
-    χειρίστῃ· [cheiristē] [worst.DAT]
-    ἐν [en] [in]
     τυραννίδι [tyrannidi] [tyranny.DAT]
     γὰρ [gar] [for]
     οὐδὲν [ouden] [nothing]
     ἢ [ē] [or]
     μικρὸν [mikron] [little]
     φιλίας. [philias.] [friendship.GEN]
-\ft But among the deviant constitutions, just as the just is present only to a small extent, so too is friendship, and least of all in the worst one; for in a tyranny there is little or no friendship.
+\ft For in a tyranny there is little or no friendship.
 ```
-![[1161a30.mp3]]
+![[1161a32.mp3]]
 
 This is the textual basis for the page's claim that friendship and justice track each other across the constitutions: Aristotle says explicitly that as *dikaion* (δίκ-, the root of *dikē*, "custom, right, judgment" + the substantive-forming suffix *-aion*) shrinks in the deviant regimes, so does *philia*, vanishing almost entirely under tyranny — the two concepts scale together rather than merely resembling each other.
 
