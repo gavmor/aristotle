@@ -36,7 +36,7 @@ Aristotle's central structural claim about virtue of character (Book II, chapter
 - **Not everything admits of a mean**: actions and feelings that are base simply by being named — adultery, theft, murder, joy at others' misfortune, envy, shamelessness — have no "right amount"; there is no such thing as committing adultery with the right woman at the right time. The mean doctrine applies only to feelings and actions that are good when proportioned and bad only in excess or defect. ^[extracted]
 - **The table of virtues** built up across Books II and IV (deficiency / mean / excess):
   - fear & confidence: cowardice / **courage** / rashness
-  - bodily pleasure: insensibility / **temperance** / [[concepts/akolasia|dissipation]] (self-indulgence)
+  - bodily pleasure: insensibility / **temperance** / [[concepts/active-conditions/akolasia|dissipation]] (self-indulgence)
   - giving & taking money (small scale): stinginess / **generosity** / wastefulness
   - giving & taking money (large scale): chintziness / **magnificence** / vulgarity
   - honor & dishonor (large scale): smallness of soul / **greatness of soul** / vanity
@@ -128,10 +128,10 @@ the.NOM.SG  but  up-to   what.GEN  and  to   how-much.ACC  blameworthy.NOM.SG  n
 ## Related
 
 - [[concepts/hexis]] — virtue as this kind of active condition
-- [[concepts/akolasia]] — the named excess-vice opposite temperance, worked out in full on its own page
+- [[concepts/active-conditions/akolasia]] — the named excess-vice opposite temperance, worked out in full on its own page
 - [[concepts/to-kalon]] — the mean is chosen for the sake of the beautiful, which is what makes it more than a quantitative midpoint
 - [[concepts/phronesis]] — the mean in any particular case is fixed by what a practically wise person would determine
 - [[concepts/justice-nicomachean]] — justice as a mean of a mathematically-structured kind
 - [[synthesis/virtue-taxonomy]] — treemap visualizing this whole table alongside virtue of thought's very different (non-triadic) structure
-- [[concepts/virtues/andreia]] — the mean's first fully worked-out example, with its five named look-alikes
+- [[concepts/active-conditions/andreia]] — the mean's first fully worked-out example, with its five named look-alikes
 - [[references/nicomachean-ethics]] — source text

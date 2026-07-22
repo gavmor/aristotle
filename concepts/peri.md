@@ -15,14 +15,14 @@ When Aristotle defines a virtue, he almost always specifies what it is *peri* (c
 It is crucial to understand that being *peri* something does not mean a person is psychologically obsessed with it or entirely defined by it. Rather, it means that this particular feeling, action, or external good is the field of action where the *hexis* (active condition) of the virtue operates.
 
 For example:
-- [[concepts/virtues/andreia|Courage]] is *peri* fear and confidence.
-- [[concepts/virtues/sophrosune|Temperance]] is *peri* bodily pleasures.
-- [[concepts/virtues/eleutheriotes|Generosity]] is *peri* giving and taking wealth.
-- [[concepts/virtues/megalopsuchia|Greatness of Soul]] is *peri* great honor.
-- [[concepts/virtues/praotes|Gentleness]] is *peri* anger.
+- [[concepts/active-conditions/andreia|Courage]] is *peri* fear and confidence.
+- [[concepts/active-conditions/sophrosune|Temperance]] is *peri* bodily pleasures.
+- [[concepts/active-conditions/eleutheriotes|Generosity]] is *peri* giving and taking wealth.
+- [[concepts/active-conditions/megalopsuchia|Greatness of Soul]] is *peri* great honor.
+- [[concepts/active-conditions/praotes|Gentleness]] is *peri* anger.
 
 In each case, the virtue consists not in avoiding the domain, but in knowing exactly *how* to handle the material of that domain (in the right way, towards the right people, at the right time, and to the right degree).
 
 ## Relationships
 - [[concepts/doctrine-of-the-mean]] — The master framework where every virtue is defined by its *peri* domain.
-- [[concepts/virtues/megalopsuchia|Megalopsuchia]] — Contains the explicit gloss for 1125a34-35 showing how greatness of soul is *peri* great honor without being a psychological obsession.
+- [[concepts/active-conditions/megalopsuchia|Megalopsuchia]] — Contains the explicit gloss for 1125a34-35 showing how greatness of soul is *peri* great honor without being a psychological obsession.

@@ -27,7 +27,7 @@ relationships:
 
 # Nous (Intellect / Comprehension)
 
-Book VI, ch. 6 isolates *nous* by elimination: of the five ways the soul discloses truth (see [[synthesis/five-ways-of-truth]]), knowledge (*episteme*) is ruled out because it only *demonstrates* things from sources it doesn't itself supply, and [[concepts/phronesis|practical judgment]] and art are ruled out because both concern things "capable of being otherwise," not the fixed sources a demonstration rests on. "It remains for intellect to be directed at the sources" — the starting points that can't themselves be proven, on pain of infinite regress.
+Book VI, ch. 6 isolates *nous* by elimination: of the five ways the soul discloses truth (see [[synthesis/five-ways-of-truth]]), knowledge (*episteme*) is ruled out because it only *demonstrates* things from sources it doesn't itself supply, and [[concepts/phronesis|practical judgment]] and art are ruled out because both concern things "[[concepts/capable-of-being-otherwise|capable of being otherwise]]," not the fixed sources a demonstration rests on. "It remains for intellect to be directed at the sources" — the starting points that can't themselves be proven, on pain of infinite regress.
 
 ## Key Ideas
 

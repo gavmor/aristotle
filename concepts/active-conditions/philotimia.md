@@ -1,6 +1,6 @@
 ---
 title: Philotimia
-category: concepts/virtues
+category: concepts/active-conditions
 tags:
   - aristotle
   - ethics

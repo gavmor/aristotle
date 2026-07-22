@@ -1,6 +1,6 @@
 ---
 title: Eutrapelia
-category: concepts/virtues
+category: concepts/active-conditions
 tags: [aristotle, ethics, virtue, mean, eutrapelia, wit, adroitness, playfulness]
 aliases: [wit, adroitness, tact, boorishness, buffoonery]
 ---

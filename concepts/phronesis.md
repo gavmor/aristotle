@@ -29,7 +29,7 @@ relationships:
 
 # Phronesis (Practical Judgment) and the Intellectual Virtues
 
-Book VI turns from virtue of character to virtue of thought, dividing the rational part of the soul into a **knowing part** (contemplates what cannot be otherwise) and a **calculating/opinion-forming part** (contemplates what can be otherwise, i.e. the domain of action), and identifying five states by which the soul "discloses truth": art (*techne*), knowledge (*episteme*), practical judgment (*phronesis*), wisdom (*sophia*), and intellect (*nous*).
+Book VI turns from virtue of character to virtue of thought, dividing the rational part of the soul into a **knowing part** (contemplates what [[concepts/incapable-of-being-otherwise|cannot be otherwise]]) and a **calculating/opinion-forming part** (contemplates what [[concepts/capable-of-being-otherwise|can be otherwise]], i.e. the domain of action), and identifying five states by which the soul "discloses truth": art (*techne*), knowledge (*episteme*), practical judgment (*phronesis*), wisdom (*sophia*), and intellect (*nous*).
 
 ## Key Ideas
 

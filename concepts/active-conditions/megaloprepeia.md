@@ -1,6 +1,6 @@
 ---
 title: "Megaloprepeia"
-category: concepts/virtues
+category: concepts/active-conditions
 tags: [philosophy, ethics, virtue-ethics, ancient-greek]
 aliases: [megaloprepeia, magnificence, large-scale expenditures, chintziness, vulgarity]
 sources:

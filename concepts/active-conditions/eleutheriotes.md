@@ -1,6 +1,6 @@
 ---
 title: Eleutheriotes
-category: concepts/virtues
+category: concepts/active-conditions
 tags:
   - aristotle
   - virtue

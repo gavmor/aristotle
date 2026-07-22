@@ -19,7 +19,7 @@ tier: supporting
 relationships:
   - target: "[[concepts/akrasia]]"
     type: contradicts
-  - target: "[[concepts/akolasia]]"
+  - target: "[[concepts/active-conditions/akolasia]]"
     type: related_to
   - target: "[[synthesis/character-spectrum]]"
     type: uses
@@ -102,6 +102,6 @@ since  and  according-to  resemblance.ACC  many-things  are-said  also  the  sel
 ## Related
 
 - [[concepts/akrasia]] — the negative counterpart; the two are defined as a matched pair throughout Book VII
-- [[concepts/akolasia]] — dissipation, the vice self-restraint is often confused with but categorically differs from (chosen and unregretted vs. resisted and internally opposed)
+- [[concepts/active-conditions/akolasia]] — dissipation, the vice self-restraint is often confused with but categorically differs from (chosen and unregretted vs. resisted and internally opposed)
 - [[synthesis/character-spectrum]] — places self-restraint on the full six-point scale from brutishness to superhuman virtue
 - [[references/nicomachean-ethics]] — source text (Book VII, ch. 1-3, 7, 9)

@@ -1,6 +1,6 @@
 ---
 title: Megalopsuchia
-category: concepts/virtues
+category: concepts/active-conditions
 tags: [aristotle, ethics, virtue, character, honor, pride]
 aliases: [greatness of soul, magnanimity, pride, smallness of soul, vanity]
 ---

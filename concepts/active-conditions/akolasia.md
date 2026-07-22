@@ -71,51 +71,121 @@ Source for all four passages: Aristotle, *Ēthika Nikomacheia*, Bywater's 1894 O
 
 ### Bk. II, ch. 7 (Bekker 1107b5-6)
 
-> μεσότης μὲν σωφροσύνη, ὑπερβολὴ δὲ ἀκολασία.
+![[1107b5.mp3]]
 
-```
-μεσότης   μὲν   σωφροσύνη       ὑπερβολὴ    δὲ   ἀκολασία
-mesotēs   men   sōphrosynē      hyperbolē   de   akolasia
-mean.NOM  PTCL  temperance.NOM  excess.NOM  but  dissipation.NOM
+```ngloss
+\ex μεσότης μὲν σωφροσύνη, ὑπερβολὴ δὲ ἀκολασία.
+\gl μεσότης [mesotēs] [mean.NOM]
+    μὲν [men] [PTCL]
+    σωφροσύνη, [sōphrosynē,] [temperance.NOM]
+    ὑπερβολὴ [hyperbolē] [excess.NOM]
+    δὲ [de] [but]
+    ἀκολασία. [akolasia.] [dissipation.NOM]
+\ft The mean is temperance, and the excess is dissipation.
 ```
 
 *"The mean is temperance, and the excess is dissipation."* This is the bare equation that anchors the temperance row of the mean table: **ἀκολασία** (*akolasia*) is built from alpha-privative *a-* ("not, un-") plus the root of *kolazō* ("to prune, dock, chastise") plus the abstract-noun suffix *-ia* — literally "un-checked-ness," the state of a branch never pruned back, set here in flat grammatical parallel against *sōphrosynē* ("soundness of mind") as its opposite pole.
 
 ### Bk. III, ch. 10 (Bekker 1118b1-3)
 
-> κοινοτάτη δὴ τῶν αἰσθήσεων καθʼ ἣν ἡ ἀκολασία· καὶ δόξειεν ἂν δικαίως ἐπονείδιστος εἶναι, ὅτι οὐχ ᾗ ἄνθρωποί ἐσμεν ὑπάρχει, ἀλλʼ ᾗ ζῷα.
+![[1118b1.mp3]]
 
-```
-κοινοτάτη        δὴ    τῶν         αἰσθήσεων   καθʼ          ἣν         ἡ        ἀκολασία·        καὶ  δόξειεν         ἂν   δικαίως  ἐπονείδιστος      εἶναι,  ὅτι      οὐχ   ᾗ           ἄνθρωποί    ἐσμεν   ὑπάρχει,   ἀλλʼ  ᾗ           ζῷα.
-koinotatē        dē    tōn         aisthēseōn  kath'         hēn        hē       akolasia         kai  doxeien         an   dikaiōs  eponeidistos      einai   hoti     ouch  hēi         anthrōpoi   esmen   hyparchei  all'  hēi         zōia
-most-common.NOM  PTCL  the.GEN.PL  senses.GEN  according-to  which.ACC  the.NOM  dissipation.NOM  and  might-seem.OPT  MOD  justly   reproachable.NOM  to-be   because  not   insofar-as  humans.NOM  we-are  belongs    but   insofar-as  animals.NOM
+```ngloss
+\ex κοινοτάτη δὴ τῶν αἰσθήσεων καθʼ ἣν ἡ ἀκολασία· καὶ δόξειεν ἂν δικαίως ἐπονείδιστος εἶναι, ὅτι οὐχ ᾗ ἄνθρωποί ἐσμεν ὑπάρχει, ἀλλʼ ᾗ ζῷα.
+\gl κοινοτάτη [koinotatē] [most-common.NOM]
+    δὴ [dē] [PTCL]
+    τῶν [tōn] [the.GEN.PL]
+    αἰσθήσεων [aisthēseōn] [senses.GEN]
+    καθʼ [kath'] [according-to]
+    ἣν [hēn] [which.ACC]
+    ἡ [hē] [the.NOM]
+    ἀκολασία· [akolasia;] [dissipation.NOM]
+    καὶ [kai] [and]
+    δόξειεν [doxeien] [might-seem.OPT]
+    ἂν [an] [MOD]
+    δικαίως [dikaiōs] [justly]
+    ἐπονείδιστος [eponeidistos] [reproachable.NOM]
+    εἶναι, [einai,] [to-be]
+    ὅτι [hoti] [because]
+    οὐχ [ouch] [not]
+    ᾗ [hēi] [insofar-as]
+    ἄνθρωποί [anthrōpoi] [humans.NOM]
+    ἐσμεν [esmen] [we-are]
+    ὑπάρχει, [hyparchei,] [belongs]
+    ἀλλʼ [all'] [but]
+    ᾗ [hēi] [insofar-as]
+    ζῷα. [zōia.] [animals.NOM]
+\ft The most common of the senses is the one dissipation belongs to; and it might justly seem reproachable, because it belongs to us not insofar as we are human beings, but insofar as we are animals.
 ```
 
 *"The most common of the senses is the one dissipation belongs to; and it might justly seem reproachable, because it belongs to us not insofar as we are human beings, but insofar as we are animals."* This is the sentence behind the "most reproached vice" claim in Key Ideas: touch is singled out as the sense shared most fully with other animals, and **ἐπονείδιστος** (*eponeidistos*, "reproachable") is built from intensive *ep-* + the root of *oneidos* ("reproach, disgrace") + the verbal-adjective suffix *-istos* ("worthy of, fit to be") — grammatically marking dissipation as a state that *deserves* blame, not merely one that happens to attract it.
 
 ### Bk. III, ch. 11 (Bekker 1118b19-20)
 
-> διὸ λέγονται οὗτοι γαστρίμαργοι, ὡς παρὰ τὸ δέον πληροῦντες αὐτήν.
+![[1118b19.mp3]]
 
-```
-διὸ        λέγονται    οὗτοι      γαστρίμαργοι,  ὡς   παρὰ    τὸ       δέον         πληροῦντες    αὐτήν.
-dio        legontai    houtoi     gastrimargoi   hōs  para    to       deon         plērountes    autēn
-therefore  are-called  these.NOM  gluttons.NOM   as   beyond  the.ACC  fitting.ACC  filling.PTCP  it.ACC
+```ngloss
+\ex διὸ λέγονται οὗτοι γαστρίμαργοι, ὡς παρὰ τὸ δέον πληροῦντες αὐτήν.
+\gl διὸ [dio] [therefore]
+    λέγονται [legontai] [are-called]
+    οὗτοι [houtoi] [these.NOM]
+    γαστρίμαργοι, [gastrimargoi,] [gluttons.NOM]
+    ὡς [hōs] [as]
+    παρὰ [para] [beyond]
+    τὸ [to] [the.ACC]
+    δέον [deon] [fitting.ACC]
+    πληροῦντες [plērountes] [filling.PTCP]
+    αὐτήν. [autēn.] [it.ACC]
+\ft That is why these people are called belly-mad, as filling it beyond what is fitting.
 ```
 
 *"That is why these people are called belly-mad, as filling it beyond what is fitting."* This is the actual word behind the "greedyguts" bullet: **γαστρίμαργος** (*gastrimargos*) fuses the root of *gastēr* ("belly, stomach") to *margos* ("raging, ravenous, mad for") via a linking vowel, naming someone who merely overfills the belly past what nature requires — an error of amount that Aristotle treats as a lesser fault than dissipation proper, which is about the chosen *relation* to pleasure, not the quantity consumed.
 
 ### Bk. VII, ch. 8 (Bekker 1150b25-30)
 
-> ἔστι δʼ ὁ μὲν ἀκόλαστος, ὥσπερ ἐλέχθη, οὐ μεταμελητικός· ἐμμένει γὰρ τῇ προαιρέσει· ὁ δʼ ἀκρατὴς μεταμελητικὸς πᾶς.
+![[1150b25.mp3]]
 
-```
-ἔστι  δʼ   ὁ        μὲν   ἀκόλαστος,          ὥσπερ    ἐλέχθη,   οὐ   μεταμελητικός·  ἐμμένει    γὰρ  τῇ       προαιρέσει·  ὁ        δʼ   ἀκρατὴς               μεταμελητικὸς  πᾶς.
-esti  d'   ho       men   akolastos           hōsper   elechthē  ou   metamelētikos   emmenei    gar  tēi      prohairesei  ho       d'   akratēs               metamelētikos  pas
-is    and  the.NOM  PTCL  dissipated-man.NOM  just-as  was-said  not  regretful.NOM   abides-by  for  the.DAT  choice.DAT   the.NOM  and  unrestrained-man.NOM  regretful.NOM  every
+```ngloss
+\ex ἔστι δʼ ὁ μὲν ἀκόλαστος, ὥσπερ ἐλέχθη, οὐ μεταμελητικός· ἐμμένει γὰρ τῇ προαιρέσει· ὁ δʼ ἀκρατὴς μεταμελητικὸς πᾶς.
+\gl ἔστι [esti] [is]
+    δʼ [d'] [and]
+    ὁ [ho] [the.NOM]
+    μὲν [men] [PTCL]
+    ἀκόλαστος, [akolastos,] [dissipated-man.NOM]
+    ὥσπερ [hōsper] [just-as]
+    ἐλέχθη, [elechthē,] [was-said]
+    οὐ [ou] [not]
+    μεταμελητικός· [metamelētikos;] [regretful.NOM]
+    ἐμμένει [emmenei] [abides-by]
+    γὰρ [gar] [for]
+    τῇ [tēi] [the.DAT]
+    προαιρέσει· [prohairesei;] [choice.DAT]
+    ὁ [ho] [the.NOM]
+    δʼ [d'] [and]
+    ἀκρατὴς [akratēs] [unrestrained-man.NOM]
+    μεταμελητικὸς [metamelētikos] [regretful.NOM]
+    πᾶς. [pas.] [every]
+\ft The dissipated person, as was said, is not prone to regret — for he abides by his choice; but the unrestrained person is always prone to regret.
 ```
 
 *"The dissipated person, as was said, is not prone to regret — for he abides by his choice; but the unrestrained person is always prone to regret."* This is the exact line supporting the "no regret" claim in Key Ideas: **μεταμελητικός** (*metamelētikos*) is built from *meta-* ("after, change of") + the root of *melei* ("to be a care/concern") + the adjectival suffix *-ētikos* ("disposed to, characterized by") — "disposed to after-care," i.e. prone to regret — and the dissipated man is flatly denied this disposition while the unrestrained man is said to have it *without exception* (*pas*, "every, wholly"), the same contrast the dropsy/consumption-vs-epilepsy medical image is meant to illustrate.
+
+### Bk. VII, ch. 8 (Bekker 1150a31-32)
+
+![[1150a31.mp3]]
+
+```ngloss
+\ex διὸ ὁ ἀκόλαστος χείρων τοῦ ἀκρατοῦς.
+\gl διὸ [dio] [therefore]
+    ὁ [ho] [the.NOM]
+    ἀκόλαστος [akolastos] [dissipated-person.NOM]
+    χείρων [cheirōn] [worse.NOM]
+    τοῦ [tou] [the.GEN]
+    ἀκρατοῦς. [akratous.] [unrestrained-person.GEN]
+\ft Therefore the dissipated person is worse than the unrestrained person.
+```
+
+This short sentence functions as the concluding verdict of the comparison in Book VII, grounded in the fact that the unrestrained person still possesses the right principles (they are just overpowered), whereas the dissipated person's principles are completely corrupted.
 
 ## Open Questions
 

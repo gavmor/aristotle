@@ -25,7 +25,7 @@ relationships:
 
 # Art / Craft (Technē)
 
-In Book VI of the *Nicomachean Ethics*, Aristotle defines art (*technē*) as a "productive state involving true reason." It is one of the five ways the soul grasps truth (along with knowledge, practical judgment, wisdom, and intellect). Art specifically concerns **making** (production, *poiēsis*), not **doing** (action, *praxis*), and it operates entirely within the realm of things that are capable of being otherwise (the contingent).
+In Book VI of the *Nicomachean Ethics*, Aristotle defines art (*technē*) as a "productive state involving true reason." It is one of the five ways the soul grasps truth (along with knowledge, practical judgment, wisdom, and intellect). Art specifically concerns **making** (production, *poiēsis*), not **doing** (action, *praxis*), and it operates entirely within the realm of things that are [[concepts/capable-of-being-otherwise|capable of being otherwise]] (the contingent).
 
 ## Key Ideas
 

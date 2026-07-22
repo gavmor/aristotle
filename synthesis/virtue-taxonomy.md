@@ -19,7 +19,7 @@ tier: core
 relationships:
   - target: "[[concepts/doctrine-of-the-mean]]"
     type: uses
-  - target: "[[concepts/akolasia]]"
+  - target: "[[concepts/active-conditions/akolasia]]"
     type: uses
   - target: "[[concepts/phronesis]]"
     type: uses
@@ -33,7 +33,7 @@ relationships:
 
 # The Shape of Aristotle's Virtue Taxonomy
 
-A treemap synthesizing [[concepts/doctrine-of-the-mean]], [[concepts/akolasia]], [[concepts/phronesis]], and [[concepts/justice-nicomachean]] into a single visual: virtue of character (Bk. I, ch. 13) is structured almost uniformly by the mean doctrine, while virtue of thought is not — this page exists to make that asymmetry visible rather than just stated in prose.
+A treemap synthesizing [[concepts/doctrine-of-the-mean]], [[concepts/active-conditions/akolasia]], [[concepts/phronesis]], and [[concepts/justice-nicomachean]] into a single visual: virtue of character (Bk. I, ch. 13) is structured almost uniformly by the mean doctrine, while virtue of thought is not — this page exists to make that asymmetry visible rather than just stated in prose.
 
 ## Key Ideas
 
@@ -115,7 +115,7 @@ treemap-beta
 ## Related
 
 - [[concepts/doctrine-of-the-mean]] — the structure this treemap visualizes for virtue of character
-- [[concepts/akolasia]] — depicted as the excess leaf in the bodily-pleasure triad
+- [[concepts/active-conditions/akolasia]] — depicted as the excess leaf in the bodily-pleasure triad
 - [[concepts/phronesis]] — the textual argument for why virtue of thought resists the same triadic structure
 - [[concepts/justice-nicomachean]] — the one domain inside "Character" that already breaks the triad pattern
 - [[concepts/distributive-justice]] — one of justice's two leaves

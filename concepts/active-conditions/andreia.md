@@ -267,5 +267,5 @@ The image behind the page's second bullet — that courage's pleasant end is "bl
 - [[concepts/doctrine-of-the-mean]] — courage as the mean's first fully worked example, concerning fear and confidence
 - [[concepts/to-kalon]] — the beautiful, the end that distinguishes true courage from all five look-alikes
 - [[concepts/voluntary-involuntary]] — courage is exercised precisely in facing what is fearsome by choice, not merely willingly
-- [[concepts/akolasia]] — temperance and dissipation, the mean and vice Bk. III, ch. 10-12 treats immediately after courage
+- [[concepts/active-conditions/akolasia]] — temperance and dissipation, the mean and vice Bk. III, ch. 10-12 treats immediately after courage
 - [[references/nicomachean-ethics]] — source text (Book III, ch. 6-9)

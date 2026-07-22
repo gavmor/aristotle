@@ -1,6 +1,6 @@
 ---
 title: Philia (Friendliness)
-category: concepts/virtues
+category: concepts/active-conditions
 tags: [aristotle, ethics, virtues, social, character, philia]
 aliases: [friendliness, friendship, churlishness, obsequiousness, flattery]
 ---

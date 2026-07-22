@@ -19,7 +19,7 @@ tier: supporting
 relationships:
   - target: "[[concepts/eudaimonia]]"
     type: related_to
-  - target: "[[concepts/virtues/andreia]]"
+  - target: "[[concepts/active-conditions/andreia]]"
     type: uses
   - target: "[[concepts/voluntary-involuntary]]"
     type: uses
@@ -37,7 +37,7 @@ relationships:
 
 - **Bk. I: honor as the goal of political life, and why it's too superficial.** "Refined and active people choose honor, for this is pretty much the goal of political life" — but Aristotle immediately objects that honor "seems to be in the ones who give honor rather than in the one who is honored," making it depend on others rather than being securely one's own. This is why the ergon argument ultimately looks past it; see [[concepts/eudaimonia]] and [[synthesis/three-lives]] for the fuller three-lives comparison this passage sets up. ^[extracted]
 - **Bk. III: lawmakers use honor and punishment as a pair.** Aristotle treats the fact that lawmakers "punish and take vengeance on those who do bad things... but honor those who do beautiful things, so as to encourage some and restrain others" as evidence that virtue and vice are both voluntary — see [[concepts/voluntary-involuntary]]. Honor here isn't abstract praise; it's a lever legislators pull deliberately. ^[extracted]
-- **Bk. III: honor (alongside legal penalty and reproach) is also what makes citizen-courage look like courage.** Citizens "seem to endure dangers because of the penalties that come from the laws, and the reproaches, and because of the honors" — this is the *closest* of [[concepts/virtues/andreia]]'s five look-alikes to the real thing, precisely because honor and shame are at least virtue-adjacent motives, unlike fear of punishment alone. ^[extracted]
+- **Bk. III: honor (alongside legal penalty and reproach) is also what makes citizen-courage look like courage.** Citizens "seem to endure dangers because of the penalties that come from the laws, and the reproaches, and because of the honors" — this is the *closest* of [[concepts/active-conditions/andreia]]'s five look-alikes to the real thing, precisely because honor and shame are at least virtue-adjacent motives, unlike fear of punishment alone. ^[extracted]
 - **Bk. IV: honor is named outright as "the greatest of external goods."** In the discussion of greatness of soul, honor is "the prize given for the most beautiful deeds... for this is the greatest of external goods" — see [[concepts/doctrine-of-the-mean]] for the small-souled/great-souled/vain triad this grounds. Sachs's glossary flags that this conclusion is explicitly *not* the Ethics' last word: it gets overturned later once friendship is on the table (1159a, 1169b), where money, honor, and everything people compete for turn out to be things a person of serious worth will forgo for the sake of [[concepts/to-kalon|the beautiful]]. ^[extracted]
 - **Bk. VIII: honor functions as a community's alternative currency, and the two can't be drawn on at once.** "It is not possible at the same time to make money from the common fund and be honored" — communities allot honor to whoever takes *less* money, and money to whoever takes bribes, treating the two as reciprocal compensations rather than things anyone gets both of. This is the household/political-community reward structure [[concepts/philia]] and [[synthesis/constitutions-and-households]] describe from the friendship side. ^[extracted]
 
@@ -133,7 +133,7 @@ Honor and punishment appear as one deliberately symmetrical mechanism — the ve
 \ft For citizens seem to endure dangers because of the penalties that come from the laws, and the reproaches, and because of the honors.
 ```
 
-This is citizen-courage, the closest of [[concepts/virtues/andreia]]'s five look-alikes to the real thing — τιμάς here sits alongside legal *epitimia* ("penalties," an ironic near-homonym of *timē*) and *oneidē* ("reproaches") as one bundle of civic motivation, not yet acting "for the sake of the beautiful" the way true courage does.
+This is citizen-courage, the closest of [[concepts/active-conditions/andreia]]'s five look-alikes to the real thing — τιμάς here sits alongside legal *epitimia* ("penalties," an ironic near-homonym of *timē*) and *oneidē* ("reproaches") as one bundle of civic motivation, not yet acting "for the sake of the beautiful" the way true courage does.
 
 ### Bk. IV, ch. 3 (Bekker 1123b18-20)
 
@@ -243,7 +243,7 @@ classDiagram
 
 - [[concepts/eudaimonia]] — honor as one of Book I's rejected candidates for the highest good
 - [[synthesis/three-lives]] — the three-way comparison (enjoyment, honor, contemplation) Bk. I's honor passage belongs to
-- [[concepts/virtues/andreia]] — citizen-courage, the look-alike motivated partly by honor and legal penalty
+- [[concepts/active-conditions/andreia]] — citizen-courage, the look-alike motivated partly by honor and legal penalty
 - [[concepts/voluntary-involuntary]] — lawmakers' honor/punishment pairing as evidence virtue and vice are both voluntary
 - [[concepts/doctrine-of-the-mean]] — greatness of soul's mean-table row, built on honor as the greatest external good
 - [[concepts/philia]] — where honor's "greatest external good" status gets revisited and qualified

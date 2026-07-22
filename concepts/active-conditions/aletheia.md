@@ -1,6 +1,6 @@
 ---
 title: Aletheia
-category: concepts/virtues
+category: concepts/active-conditions
 tags: [aristotle, ethics, virtue, truthfulness, aletheia, nicomachean-ethics]
 aliases: [truthfulness, truth, self-deprecation, irony, boastfulness]
 ---

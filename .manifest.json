@@ -26,7 +26,7 @@
         "concepts/contemplative-life.md",
         "concepts/distributive-justice.md",
         "concepts/corrective-justice.md",
-        "concepts/akolasia.md",
+        "concepts/active-conditions/akolasia.md",
         "synthesis/virtue-taxonomy.md",
         "synthesis/justice-taxonomy.md",
         "synthesis/household-justice-inheritance.md",
@@ -41,7 +41,7 @@
         "concepts/doctrine-of-the-mean.md",
         "concepts/akrasia.md",
         "concepts/prohairesis.md",
-        "concepts/akolasia.md",
+        "concepts/active-conditions/akolasia.md",
         "concepts/phronesis.md",
         "concepts/distributive-justice.md",
         "concepts/corrective-justice.md",
@@ -81,15 +81,15 @@
         "concepts/feeling.md",
         "concepts/predisposition.md",
         "concepts/soul.md",
-        "concepts/virtues/aletheia.md",
-        "concepts/virtues/eleutheriotes.md",
-        "concepts/virtues/eutrapelia.md",
-        "concepts/virtues/megaloprepeia.md",
-        "concepts/virtues/megalopsuchia.md",
-        "concepts/virtues/philia.md",
-        "concepts/virtues/philotimia.md",
-        "concepts/virtues/praotes.md",
-        "concepts/virtues/sophrosune.md",
+        "concepts/active-conditions/aletheia.md",
+        "concepts/active-conditions/eleutheriotes.md",
+        "concepts/active-conditions/eutrapelia.md",
+        "concepts/active-conditions/megaloprepeia.md",
+        "concepts/active-conditions/megalopsuchia.md",
+        "concepts/active-conditions/philia.md",
+        "concepts/active-conditions/philotimia.md",
+        "concepts/active-conditions/praotes.md",
+        "concepts/active-conditions/sophrosune.md",
         "concepts/peri.md",
         "synthesis/chapters-four-and-five.md"
       ],
@@ -111,7 +111,9 @@
       "last_ingested": "2026-07-21T23:47:34.651040+00:00",
       "pages_produced": [
         "concepts/praxis.md",
-        "synthesis/necessity-and-contingency.md"
+        "synthesis/necessity-and-contingency.md",
+        "concepts/capable-of-being-otherwise.md",
+        "concepts/incapable-of-being-otherwise.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {
@@ -124,7 +126,7 @@
       "pages_updated": [
         "concepts/distributive-justice.md",
         "concepts/corrective-justice.md",
-        "concepts/akolasia.md",
+        "concepts/active-conditions/akolasia.md",
         "concepts/hexis.md",
         "concepts/energeia.md",
         "concepts/to-kalon.md",
