@@ -29,7 +29,9 @@ relationships:
 
 Books VIII-IX form the Ethics' longest sustained discussion of a single topic — friendship (*philia*, a broader term than the English "friendship," covering family bonds, political alliance, and business partnership as well as intimate friendship). Aristotle calls it "a certain kind of virtue, or goes with virtue, and is also most necessary for life."
 
-## Diagram
+## Diagrams
+
+### The Three Species of Friendship
 
 A direct is-a hierarchy: Aristotle names three species of friendship, each defined by a different one of the three loveable things (the useful, the pleasant, the good). No scores or rankings are invented here — the classes state only what each species actually is, per the text.
 
@@ -55,6 +57,35 @@ classDiagram
     Philia <|-- ForUtility
     Philia <|-- ForPleasure
     Philia <|-- CompleteFriendship
+```
+
+### The Anatomy of Complete Friendship
+
+An Ishikawa (fishbone) diagram mapping the necessary conditions and constituent parts that must come together to form true, complete friendship.
+
+```mermaid
+ishikawa-beta
+    Complete Friendship (True Philia)
+    Reciprocal Affection
+        Active choice of loving
+        Mutual awareness
+        Wishing good for the other
+    Defining Purpose
+        Rooted in the good
+        Loving the other for themselves
+    Living Together
+        Sharing life and activities
+        Conversing and thinking together
+    Equality & Proportion
+        Equal relationship
+        Proportional affection if unequal
+    Time & Trust
+        Consuming the proverbial salt
+        Thorough testing
+        Intimate acquaintance
+    Another Self
+        Sharing intimately in pain and enjoyment
+        Extension of oneself
 ```
 
 ## Key Ideas
