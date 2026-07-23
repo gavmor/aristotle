@@ -113,7 +113,8 @@
         "concepts/praxis.md",
         "synthesis/necessity-and-contingency.md",
         "concepts/capable-of-being-otherwise.md",
-        "concepts/incapable-of-being-otherwise.md"
+        "concepts/incapable-of-being-otherwise.md",
+        "concepts/makarios.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {
@@ -137,6 +138,6 @@
   },
   "stats": {
     "total_sources_ingested": 3,
-    "total_pages": 53
+    "total_pages": 54
   }
 }

@@ -1,5 +1,7 @@
 ## Log
 
+- [2026-07-23T08:22:00Z] INGEST source="Nicomachean Ethics - Aristotle.txt" pages_updated=2 pages_created=1 mode=append note="/wiki-ingest requested for 'The blessed person (makarios)', distilling Aristotle's portrait of the ultimate human ideal. Created concepts/makarios.md (covering being-at-work in virtue/contemplation, self-sufficiency and external goods, resilience against fortune, and the highest need for complete friends). Cross-linked from concepts/eudaimonia.md and concepts/philia/complete-friendship.md; updated index.md and .manifest.json."
+
 - [2026-07-08T00:00:00Z] INGEST source="Nicomachean Ethics - Aristotle.epub" pages_updated=0 pages_created=15 mode=full
 - [2026-07-12T00:00:00Z] INGEST source="Nicomachean Ethics - Aristotle.epub" pages_updated=1 pages_created=2 mode=append note="split justice-nicomachean.md into concepts/distributive-justice.md and concepts/corrective-justice.md; root page trimmed to hub/overview"
 - [2026-07-12T00:00:00Z] INGEST source="Nicomachean Ethics - Aristotle.epub" pages_updated=3 pages_created=1 mode=append note="new concepts/active-conditions/akolasia.md (dissipation/akolasia, literal 'unpruned'); wired cross-links from doctrine-of-the-mean.md, akrasia.md, prohairesis.md"
