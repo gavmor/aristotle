@@ -119,7 +119,8 @@
         "concepts/athanatizein.md",
         "concepts/nomothetike.md",
         "synthesis/primary-and-secondary-happiness.md",
-        "concepts/eia.md"
+        "concepts/eia.md",
+        "concepts/autarkeia.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {
@@ -143,6 +144,6 @@
   },
   "stats": {
     "total_sources_ingested": 3,
-    "total_pages": 59
+    "total_pages": 60
   }
 }

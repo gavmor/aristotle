@@ -4,6 +4,7 @@
 - [[concepts/eudaimonia]] — Happiness as complete, self-sufficient being-at-work of the soul in accordance with virtue ( #philosophy #ethics #virtue-ethics)
 - [[concepts/makarios]] — Blessedness / The Blessed Person: the ultimate ideal of human flourishing, self-sufficient, resilient, and fulfilled in virtue and friendship ( #philosophy #ethics #virtue-ethics)
 - [[concepts/energeia]] — Being-at-work, Aristotle's central ontological term distinguishing complete activity from mere process ( #philosophy #ethics #metaphysics)
+- [[concepts/autarkeia]] — Autarkeia: self-sufficiency as the defining formal criterion of eudaimonia ( #philosophy #ethics #virtue-ethics)
 - [[concepts/eia]] — The -eia Suffix: morphological catalog of abstract nouns of condition and activity (energeia, andreia, aletheia, enkrateia, politeia) ( #philosophy #ethics #ancient-greek #linguistics)
 - [[concepts/hexis]] — Active condition/character, the genus of virtue and vice, acquired by habituation ( #philosophy #ethics #virtue-ethics)
 - [[concepts/feeling]] — Pathos, the passive experiences and emotions we undergo, accompanied by pleasure or pain ( #philosophy #ethics #moral-psychology)
