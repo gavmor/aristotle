@@ -59,3 +59,4 @@ the.ACC  but  self-sufficient.ACC we-posi  which.NOM being-isolated.PTCP choicew
 - [[concepts/contemplative-life]] — theoretical contemplation as the most self-sufficient activity
 - [[concepts/philia/philia]] — friendship as indispensable for human self-sufficiency
 - [[concepts/eia]] — the morphological catalog of -eia nouns containing autarkeia
+- [[synthesis/megalopsuchia-and-moderate-sufficiency]] — synthesis: the same word licenses opposite material postures — moderate means here, beautiful-but-useless luxury for the great-souled person

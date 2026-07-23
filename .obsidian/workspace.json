@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/active-conditions/friendliness.md",
-                "mode": "preview",
+                "file": "concepts/active-conditions/megalopsuchia.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "friendliness"
+              "title": "megalopsuchia"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,41 +187,41 @@
   },
   "active": "beacd329df1889c3",
   "lastOpenFiles": [
+    "hot.md.tmp.50021.dc68af8ed720",
+    "hot.md.tmp.50021.2cc78151298b",
+    "log.md.tmp.50021.45d15e6b75ea",
+    "index.md.tmp.50021.7a525438edaf",
+    "concepts/goods-of-the-soul.md.tmp.50021.c2ac45f3109f",
+    "concepts/autarkeia.md.tmp.50021.a86405eceaba",
+    "concepts/contemplative-life.md.tmp.50021.1891250fad0f",
+    "concepts/active-conditions/megalopsuchia.md.tmp.50021.2bbf38fa3429",
+    "synthesis/megalopsuchia-and-moderate-sufficiency.md",
+    "synthesis/megalopsuchia-and-moderate-sufficiency.md.tmp.50021.aebb1611e2b5",
+    "concepts/contemplative-life.md",
+    "concepts/contemplative-life.md.tmp.50021.d9eb06e03e7e",
+    "concepts/contemplative-life.md.tmp.50021.113034ea83ff",
+    "_raw/2026-07-23-claude-code-agent-ignore-mechanism.md",
+    "_raw/2026-07-23-gloss-format-migration-status.md",
+    "concepts/politics/basileia.md",
+    "concepts/politics/dynasteia.md",
+    "synthesis/primary-and-secondary-happiness.md",
+    "concepts/nous.md",
+    "concepts/mathematics.md",
+    "concepts/pleasure.md",
+    "concepts/eia.md",
+    "concepts/politics/eugeneia.md",
+    "concepts/politics/paideia.md",
+    "concepts/politics/douleia.md",
+    "concepts/politics/politeia.md",
+    "concepts/autarkeia.md",
+    "concepts/energeia.md",
+    "concepts/makarios.md",
+    "concepts/nomothetike.md",
+    "concepts/athanatizein.md",
+    "concepts/epiginomenon-telos.md",
     "concepts/philia/complete-friendship.md",
-    "concepts/philia/pleasure-friendship.md",
-    "concepts/philia/utility-friendship.md",
-    "concepts/philia/homonoia.md",
-    "concepts/philia/eunoia.md",
-    "concepts/philia/self-love.md",
-    "concepts/philia/philia.md",
-    "concepts/philia",
-    "concepts/self-love.md",
-    "concepts/active-conditions/philia.md",
-    "concepts/active-conditions/friendliness.md",
-    "assets/audio/1126b21.mp3",
-    "concepts/active-conditions/philotimia.md",
-    "append_audio.py",
-    "assets/audio/1169a11.mp3",
-    "assets/audio/1169a32.mp3",
-    "assets/audio/1169a3.mp3",
-    "assets/audio/1168b30.mp3",
-    "assets/audio/1168b19.mp3",
-    "concepts/philia.md",
-    "assets/audio/1161a32.mp3",
-    "assets/audio/1166a31.mp3",
-    "concepts/phronesis.md",
-    "projects/slog/concepts/mupanda-os.md",
-    "projects/slog/slog.md",
-    "concepts/cleverness.md",
-    "concepts/akrasia.md",
     "concepts/hexis.md",
-    "concepts/soul/knowing-part.md",
-    "concepts/active-conditions/sophrosune.md",
-    "concepts/active-conditions/praotes.md",
-    "concepts/active-conditions/megalopsuchia.md",
-    "concepts/active-conditions/megaloprepeia.md",
-    "concepts/active-conditions/eutrapelia.md",
-    "concepts/active-conditions/eleutheriotes.md",
-    "concepts/active-conditions/andreia.md"
+    "concepts/philia/suzo.md",
+    "concepts/active-conditions/friendliness.md"
   ]
 }

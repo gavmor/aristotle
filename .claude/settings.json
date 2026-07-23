@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./docs/**)",
+      "Edit(./docs/**)",
+      "Write(./docs/**)",
+      "Read(./Nicomachean Ethics - Aristotle.epub)",
+      "Edit(./Nicomachean Ethics - Aristotle.txt)",
+      "Write(./Nicomachean Ethics - Aristotle.txt)"
+    ]
+  }
+}

@@ -48,3 +48,4 @@
 - [2026-07-22T08:24:00-07:00] EDIT pages_updated=4 pages_created=0 note="Refactored synthesis/necessity-and-contingency.md into a sparse structural hub. Updated existing articles (art.md, phronesis.md, nous.md, rational-part.md) to link directly to the new top-level necessity/contingency concepts."
 - [2026-07-22T14:50:00Z] CAPTURE type=concept page="projects/slog/concepts/mupanda-os.md" title="Mupanda OS Backend"
 - [2026-07-22T14:50:00Z] CAPTURE type=project page="projects/slog/slog.md" title="SLOG Project"
+- [2026-07-23T21:59:21Z] WIKI_SYNTHESIZE pages_scanned=4 synthesis_created=1 candidates_skipped=0 note="Targeted synthesis from a user-flagged textual tension (not the full co-occurrence scan): created synthesis/megalopsuchia-and-moderate-sufficiency.md connecting concepts/active-conditions/megalopsuchia.md, concepts/autarkeia.md, concepts/contemplative-life.md, and concepts/goods-of-the-soul.md. Backlinked all four source pages."

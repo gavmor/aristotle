@@ -29,7 +29,7 @@ Before Aristotle constructs the [[concepts/eudaimonia|ergon argument]], Bk. I, c
 
 ## Key Ideas
 
-- **The life of enjoyment** is dismissed fastest and most bluntly: choosing pleasure as the good is a "life devoted to enjoyment," and "most people show themselves to be completely slavish by choosing a life that belongs to fatted cattle." Aristotle allows that "not without reason" do most people assume this, given how most lives actually look, but the verdict is scornful rather than argued at length here — the fuller, fairer treatment of pleasure comes later (see [[concepts/pleasure-aristotle]]). ^[extracted]
+- **The life of enjoyment** is dismissed fastest and most bluntly: choosing pleasure as the good is a "life devoted to enjoyment," and "most people show themselves to be completely slavish by choosing a life that belongs to fatted cattle." Aristotle allows that "not without reason" do most people assume this, given how most lives actually look, but the verdict is scornful rather than argued at length here — the fuller, fairer treatment of pleasure comes later (see [[pleasure]]). ^[extracted]
 - **The political life** fares better, since "refined and active people choose honor" as its goal — but Aristotle finds honor "too superficial to be what is sought," for two reasons: it "seems to be in the ones who give honor rather than in the one who is honored" (so it depends on others, not on oneself), and people who pursue it are really after confirmation that they *are* good, seeking honor specifically "from the wise and by those who know them, and for virtue." This reveals that **virtue, not honor, is what such people actually take to be the deeper end of political life** — but even virtue "seems too incomplete," since one could "have virtue" while "asleep or inactive throughout life," or crushed by misfortune, and no one would call that person happy. ^[extracted]
 - **The contemplative life** is named third and set aside for full treatment later — "about which we shall make an investigation in what follows" — deferred rather than dismissed, the only one of the three not given a refutation in this chapter. ^[extracted]
 - **A fourth candidate, money-making, is named and dismissed in a single line**: "the life of money making is a type of compulsory activity... wealth is not the good being sought, since it is instrumental and for the sake of something else" — wealth fails the test any candidate for the good must pass, being chosen always for something beyond itself. ^[extracted]
@@ -59,5 +59,5 @@ treemap-beta
 
 - [[concepts/eudaimonia]] — the ergon argument this chapter's ground-clearing sets up
 - [[concepts/contemplative-life]] — the third candidate, deferred here and vindicated in Book X
-- [[concepts/pleasure-aristotle]] — the fuller, fairer treatment of pleasure this chapter's quick dismissal anticipates
+- [[pleasure]] — the fuller, fairer treatment of pleasure this chapter's quick dismissal anticipates
 - [[references/nicomachean-ethics]] — source text (Book I, ch. 5)

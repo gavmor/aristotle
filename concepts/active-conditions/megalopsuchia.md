@@ -148,3 +148,4 @@ The operative word here is **περὶ** (*peri*), which literally means "around
 - **Small-souled / Vain:** The two vices representing the deficiency and excess respectively in the assessment of one's own greatness. 
 - **Honor:** The external good that megalopsuchia is most concerned with, though the great-souled person ultimately views even honor with a certain detachment, caring only for honor from the virtuous.
 - **Generosity and Magnificence:** Just as magnificence is to generosity (handling wealth on a grand scale), megalopsuchia is to the unnamed virtue concerning ordinary honors (handling honor on a grand scale).
+- [[synthesis/megalopsuchia-and-moderate-sufficiency]] — synthesis: the "beautiful and useless" possessions line invokes *autarkeia* to license luxury taste, in tension with Book X's use of the same word to argue for moderate external goods.

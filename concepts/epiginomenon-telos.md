@@ -1,16 +1,25 @@
 ---
-title: "Epiginomenon Ti Telos (Pleasure as Supervening Completion)"
+title: Epiginomenon Ti Telos (Pleasure as Supervening Completion)
 category: concepts
-tags: [aristotle, ethics, pleasure, energeia, ancient-greek]
-aliases: [epiginomenon, supervening end, bloom on youth, pleasure completion]
+tags:
+  - aristotle
+  - ethics
+  - pleasure
+  - energeia
+  - ancient-greek
+aliases:
+  - epiginomenon
+  - supervening end
+  - bloom on youth
+  - pleasure completion
 sources:
-  - "Nicomachean Ethics - Aristotle.txt"
+  - Nicomachean Ethics - Aristotle.txt
 created: 2026-07-23T00:00:00Z
 updated: 2026-07-23T00:00:00Z
 summary: Book X ch. 4's famous definition of pleasure not as a process or motion, but as a supervening end (epiginomenon ti telos) that completes an active condition, "like the bloom on those in the flower of youth."
 tier: core
 relationships:
-  - target: "[[concepts/pleasure-aristotle]]"
+  - target: "[[pleasure]]"
     type: part-of
   - target: "[[concepts/energeia]]"
     type: uses
@@ -29,6 +38,6 @@ In Book X, Chapter 4 of the *Nicomachean Ethics* (Bekker 1174b31–33), Aristotl
 
 ## Related
 
-- [[concepts/pleasure-aristotle]] — Aristotle's overarching account of pleasure across Books VII and X
+- [[pleasure]] — Aristotle's overarching account of pleasure across Books VII and X
 - [[concepts/energeia]] — being-at-work, the complete activity upon which pleasure supervenes
 - [[concepts/contemplative-life]] — contemplation as the highest activity yielding the purest supervening pleasure

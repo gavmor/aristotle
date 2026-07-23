@@ -103,3 +103,4 @@ it-would-seem  and  MOD  also  the.GEN  external  provisioning.GEN  to   small-d
 - [[concepts/energeia]] — being-at-work, the category that makes happiness a good "of the soul"
 - [[synthesis/threefold-good]] — the other, independent threefold division of goods (by end vs. means, not by location)
 - [[references/nicomachean-ethics]] — source text (Book I, ch. 8)
+- [[synthesis/megalopsuchia-and-moderate-sufficiency]] — synthesis: the *organa* (instrument) framework here only partly resolves the tension between the megalopsychos's luxury taste and Book X's moderate-sufficiency argument

@@ -71,6 +71,7 @@
 - [[synthesis/character-spectrum]] — Cumulative diagram: brutishness, vice, akrasia, continence, virtue, and superhuman virtue as a six-point scale ( #philosophy #ethics #moral-psychology #visualization)
 - [[synthesis/three-lives]] — Treemap: the three candidate lives (enjoyment, political honor, contemplation) Book I weighs before the ergon argument ( #philosophy #ethics #virtue-ethics #visualization)
 - [[synthesis/primary-and-secondary-happiness]] — Comparative matrix: Book X's systematic ranking of primary happiness (theōria) vs. secondary happiness (moral praxis) across six criteria ( #philosophy #ethics #metaphysics #virtue-ethics)
+- [[synthesis/megalopsuchia-and-moderate-sufficiency]] — Autarkeia's polysemy: the great-souled person's beautiful-but-useless possessions vs. Solon's moderate external goods, both licensed by "self-sufficiency" ( #philosophy #ethics #virtue-ethics #eudaimonia)
 
 ## Entities
 - [[entities/aristotle]] — Ancient Greek philosopher, author of the Nicomachean Ethics ( #philosophy #ancient-greek #person)
