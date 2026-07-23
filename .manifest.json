@@ -126,7 +126,8 @@
         "concepts/politics/dynasteia.md",
         "concepts/politics/douleia.md",
         "concepts/politics/paideia.md",
-        "concepts/politics/eugeneia.md"
+        "concepts/politics/eugeneia.md",
+        "concepts/mathematics.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {
@@ -150,6 +151,6 @@
   },
   "stats": {
     "total_sources_ingested": 3,
-    "total_pages": 66
+    "total_pages": 67
   }
 }
