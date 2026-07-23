@@ -36,7 +36,7 @@
 - [[concepts/active-conditions/eutrapelia]] — Wit or tact, the mean concerning humor and amusement in social interaction ( #philosophy #ethics #virtue-ethics)
 - [[concepts/active-conditions/megaloprepeia]] — Magnificence, the mean concerning large-scale expenditures ( #philosophy #ethics #virtue-ethics)
 - [[concepts/active-conditions/megalopsuchia]] — Greatness of soul, the mean concerning great honor ( #philosophy #ethics #virtue-ethics)
-- [[concepts/active-conditions/philia]] — Friendliness, the unnamed mean concerning pleasantness in daily life ( #philosophy #ethics #virtue-ethics)
+- [[concepts/active-conditions/friendliness]] — Friendliness, the unnamed mean concerning pleasantness in daily life ( #philosophy #ethics #virtue-ethics)
 - [[concepts/active-conditions/philotimia]] — Proper ambition, the unnamed mean concerning small honors ( #philosophy #ethics #virtue-ethics)
 - [[concepts/active-conditions/praotes]] — Gentleness, the mean concerning anger ( #philosophy #ethics #virtue-ethics)
 - [[concepts/active-conditions/sophrosune]] — Moderation / temperance, the mean regarding bodily pleasures of touch and taste ( #philosophy #ethics #virtue-ethics #ancient-greek)

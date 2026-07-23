@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/philia.md",
+                "file": "concepts/active-conditions/friendliness.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "philia"
+              "title": "friendliness"
             }
           }
         ]
@@ -188,19 +188,30 @@
   },
   "active": "beacd329df1889c3",
   "lastOpenFiles": [
+    "concepts/self-love.md",
     "concepts/active-conditions/philia.md",
+    "concepts/active-conditions/friendliness.md",
+    "assets/audio/1126b21.mp3",
+    "concepts/active-conditions/philotimia.md",
+    "append_audio.py",
+    "assets/audio/1169a11.mp3",
+    "assets/audio/1169a32.mp3",
+    "assets/audio/1169a3.mp3",
+    "assets/audio/1168b30.mp3",
+    "assets/audio/1168b19.mp3",
+    "concepts/philia.md",
+    "assets/audio/1161a32.mp3",
+    "assets/audio/1166a31.mp3",
+    "assets/audio/1171a3.mp3",
     "concepts/phronesis.md",
     "projects/slog/concepts/mupanda-os.md",
-    "projects/slog/concepts",
     "projects/slog/slog.md",
-    "projects/slog",
     "concepts/cleverness.md",
     "concepts/akrasia.md",
     "concepts/hexis.md",
     "concepts/soul/knowing-part.md",
     "concepts/active-conditions/sophrosune.md",
     "concepts/active-conditions/praotes.md",
-    "concepts/active-conditions/philotimia.md",
     "concepts/active-conditions/megalopsuchia.md",
     "concepts/active-conditions/megaloprepeia.md",
     "concepts/active-conditions/eutrapelia.md",
@@ -208,21 +219,10 @@
     "concepts/active-conditions/andreia.md",
     "concepts/active-conditions/aletheia.md",
     "concepts/active-conditions/akolasia.md",
-    "concepts/active-conditions",
     "concepts/akolasia.md",
-    "assets/audio/1150b25.mp3",
-    "assets/audio/1118b19.mp3",
-    "assets/audio/1118b1.mp3",
-    "assets/audio/1107b5.mp3",
     "concepts/incapable-of-being-otherwise.md",
-    "assets/audio/1150a31.mp3",
-    "assets/audio/1139a13.mp3",
     "concepts/capable-of-being-otherwise.md",
-    "assets/audio/1139b20.mp3",
     "synthesis/necessity-and-contingency.md",
-    "concepts/soul/rational-part.md",
-    "concepts/praxis.md",
-    "out_chunk_9.md",
-    "out_chunk_0.md"
+    "concepts/soul/rational-part.md"
   ]
 }

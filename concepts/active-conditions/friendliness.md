@@ -1,11 +1,11 @@
 ---
-title: Philia (Friendliness)
+title: Friendliness (Nameless Social Mean)
 category: concepts/active-conditions
-tags: [aristotle, ethics, virtues, social, character, philia]
-aliases: [friendliness, friendship, churlishness, obsequiousness, flattery]
+tags: [aristotle, ethics, virtues, social, character, friendliness, affability]
+aliases: [friendliness, affability, nameless-social-mean, churlishness, obsequiousness, flattery]
 ---
 
-# Philia (Friendliness)
+# Friendliness (Nameless Social Mean)
 
 **Deficiency:** Churlishness (Duskolia)
 **Excess:** Obsequiousness / Flattery (Areskeia / Kolakeia)
