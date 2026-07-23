@@ -88,6 +88,49 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle identifies **living 
 
 This passage grounds the essential distinction between friendship as a *hexis* (active condition) and as an *energeia* (being-at-work), showing that *suzēn* (living together) is the actualized being-at-work of friendship.
 
+### Bk. IX, ch. 10 (Bekker 1171a1–3)
+
+```ngloss
+\ex καὶ φίλων δή ἐστι πλῆθος ὡρισμένον, καὶ ἴσως οἱ πλεῖστοι μεθʼ ὧν ἂν δύναιτό τις συζῆν (τοῦτο γὰρ ἐδόκει φιλικώτατον εἶναι)· ὅτι δʼ οὐχ οἷόν τε πολλοῖς συζῆν καὶ διανέμειν ἑαυτόν, οὐκ ἄδηλον.
+\gl καὶ [kai] [and]
+    φίλων [philōn] [of-friends.GEN.MASC.PL]
+    δή [dē] [indeed]
+    ἐστι [esti] [there-is]
+    πλῆθος [plēthos] [a-number.NOM.NEUT.SG]
+    ὡρισμένον, [hōrismenon,] [bounded.PTCP.NOM.NEUT.SG,]
+    καὶ [kai] [and]
+    ἴσως [isōs] [perhaps]
+    οἱ [hoi] [the.NOM.MASC.PL]
+    πλεῖστοι [pleistoi] [most.NOM.MASC.PL]
+    μεθʼ [meth'] [with]
+    ὧν [hōn] [whom.GEN.MASC.PL]
+    ἂν [an] [MOD]
+    δύναιτό [dynaito] [could]
+    τις [tis] [one.NOM.MASC.SG]
+    συζῆν [syzēn] [to-live-together.INF]
+    (τοῦτο [(touto] [(this.NOM.NEUT.SG]
+    γὰρ [gar] [for]
+    ἐδόκει [edokei] [seemed]
+    φιλικώτατον [philikōtaton] [most-characteristic-of-friendship.NOM.NEUT.SG]
+    εἶναι)· [einai);] [to-be);]
+    ὅτι [hoti] [that]
+    δʼ [d'] [however]
+    οὐχ [ouch] [not]
+    οἷόν [hoion] [possible.NOM.NEUT.SG]
+    τε [te] [PTCL]
+    πολλοῖς [pollois] [to-many-people.DAT.MASC.PL]
+    συζῆν [syzēn] [to-live-together.INF]
+    καὶ [kai] [and]
+    διανέμειν [dianemein] [to-distribute.INF]
+    ἑαυτόν, [heauton,] [oneself.ACC.MASC.SG,]
+    οὐκ [ouk] [not]
+    ἄδηλον. [adēlon.] [unclear.NOM.NEUT.SG.]
+\ft And indeed of friends there is a bounded number, and perhaps the largest number [is] those with whom one could live together (for this seemed to be most characteristic of friendship); but that it is not possible to live together with many people and distribute oneself [among them], is not unclear.
+```
+![[1171a1.mp3]]
+
+This sentence emphasizes that *suzēn* is *φιλικώτατον* ("most characteristic of friendship"), and establishes that because living together requires distributing oneself (*dianemein heauton*), true friendship is necessarily limited to a small circle.
+
 ## Related
 
 - [[concepts/philia/philia]] — the parent overview of friendship
