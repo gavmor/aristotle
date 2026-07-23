@@ -39,6 +39,35 @@ In Book X, Chapters 7–8 of the *Nicomachean Ethics*, Aristotle brings his inqu
 - **The Self-Sufficiency Differential:** A moral act requires external "equipment" (*organa*)—a generous person needs money, a courageous person needs physical strength/opportunity, a just person needs transaction partners. A contemplative person needs none of these to engage in contemplation (*theōria*), though as a human living among others, they still require basic health and sustenance. ^[extracted]
 - **Integration of the Treatise:** Book I defined happiness broadly as "being-at-work of the soul in accordance with complete virtue," while Book X narrows *complete* happiness (*teleia eudaimonia*) to contemplation, leaving moral virtue as an essential, indispensable foundation that makes human social life orderly and choiceworthy. ^[inferred]
 
+## Greek Gloss
+
+### Bk. X, ch. 8 (Bekker 1178a9)
+
+![[assets/audio/1178a9.mp3]]
+
+```ngloss
+\ex δευτέρως δʼ ὁ κατὰ τὴν ἄλλην ἀρετήν· αἱ γὰρ κατὰ ταύτην ἐνέργειαι ἀνθρωπικαί.
+\gl δευτέρως [deuterōs] [secondarily]
+    δʼ [d'] [but]
+    ὁ [ho] [the [life.NOM]]
+    κατὰ [kata] [according-to]
+    τὴν [tēn] [the.ACC.FEM.SG]
+    ἄλλην [allēn] [other.ACC.FEM.SG]
+    ἀρετήν· [aretēn] [virtue.ACC.FEM.SG]
+    αἱ [hai] [the.NOM.FEM.PL]
+    γὰρ [gar] [for]
+    κατὰ [kata] [according-to]
+    ταύτην [tautēn] [this.ACC.FEM.SG]
+    ἐνέργειαι [energeiai] [activities.NOM.FEM.PL]
+    ἀνθρωπικαί. [anthrōpikai] [human.NOM.FEM.PL]
+\ft Happy in a secondary way, however, is the [life] according to the other virtue; for the activities according to this one are human.
+```
+
+### Context & Morphological Notes
+
+* **`δευτέρως` (*deuterōs*):** Adverb formed from the ordinal numeral **`δεύτερος`** (*deuteros*, "second"). It explicitly assigns second-tier rank to moral/political virtue compared to theoretical contemplation (*theōria*).
+* **`ἀνθρωπικαί` (*anthrōpikai*):** Nominative feminine plural adjective from **`ἀνθρωπικός`** (*anthrōpikos*, "belonging to a human being / mortal-scaled"). Aristotle contrasts these distinctly human activities—bound up with bodily passions, social transactions, and compound nature (*syntheton*)—with the divine (*theion*) nature of theoretical intellect (*nous*).
+
 ## Related
 
 - [[concepts/eudaimonia]] — overarching account of happiness
