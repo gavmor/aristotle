@@ -49,7 +49,7 @@ In Book X, Chapters 7–8 of the *Nicomachean Ethics*, Aristotle brings his inqu
 \ex δευτέρως δʼ ὁ κατὰ τὴν ἄλλην ἀρετήν· αἱ γὰρ κατὰ ταύτην ἐνέργειαι ἀνθρωπικαί.
 \gl δευτέρως [deuterōs] [secondarily]
     δʼ [d'] [but]
-    ὁ [ho] [the [life.NOM]]
+    ὁ [ho] [the.NOM]
     κατὰ [kata] [according-to]
     τὴν [tēn] [the.ACC.FEM.SG]
     ἄλλην [allēn] [other.ACC.FEM.SG]
