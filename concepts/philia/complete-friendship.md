@@ -28,10 +28,10 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle presents **complete 
 
 ## Greek Gloss
 
-### Bk. VIII, ch. 3 (Bekker 1156b7–12)
+### Bk. VIII, ch. 3 (Bekker 1156b7–8)
 
 ```ngloss
-\ex τελεία δʼ ἐστὶν ἡ τῶν ἀγαθῶν φιλία καὶ κατʼ ἀρετὴν ὁμοίων· οὗτοι γὰρ τἀγαθὰ ὁμοίως βούλονται ἀλλήλοις ᾗ ἀγαθοί, ἀγαθοὶ δʼ εἰσὶ καθʼ αὑτούς. οἱ δὲ βουλόμενοι τἀγαθὰ τοῖς φίλοις ἐκείνων ἕνεκα μάλιστα φίλοι· διʼ αὑτοὺς γὰρ οὕτως ἔχουσι, καὶ οὐ κατὰ συμβεβηκός· διαμένει οὖν ἡ τούτων φιλία ἕως ἂν ἀγαθοὶ ὦσιν, ἡ δʼ ἀρετὴ μόνιμον.
+\ex τελεία δʼ ἐστὶν ἡ τῶν ἀγαθῶν φιλία καὶ κατʼ ἀρετὴν ὁμοίων.
 \gl τελεία [teleia] [complete.NOM]
     δʼ [d'] [and]
     ἐστὶν [estin] [is]
@@ -42,57 +42,12 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle presents **complete 
     καὶ [kai] [and]
     κατʼ [kat'] [according-to]
     ἀρετὴν [aretēn] [virtue.ACC]
-    ὁμοίων· [homoiōn;] [like.GEN.PL;]
-    οὗτοι [houtoi] [these.NOM]
-    γὰρ [gar] [for]
-    τἀγαθὰ [tagatha] [the-good-things.ACC.PL]
-    ὁμοίως [homoiōs] [alike]
-    βούλονται [boulontai] [wish]
-    ἀλλήλοις [allēlois] [to-each-other.DAT]
-    ᾗ [hē] [insofar-as]
-    ἀγαθοί, [agathoi,] [they-are-good.NOM]
-    ἀγαθοὶ [agathoi] [good.NOM]
-    δʼ [d'] [and]
-    εἰσὶ [eisi] [they-are]
-    καθʼ [kath'] [in]
-    αὑτούς. [hautous.] [themselves.ACC]
-    οἱ [hoi] [those.NOM]
-    δὲ [de] [and]
-    βουλόμενοι [boulomenoi] [wishing.PTCP.NOM]
-    τἀγαθὰ [tagatha] [the-good-things.ACC.PL]
-    τοῖς [tois] [to-the.DAT]
-    φίλοις [philois] [friends.DAT]
-    ἐκείνων [ekeinōn] [of-those.GEN]
-    ἕνεκα [heneka] [for-the-sake-of]
-    μάλιστα [malista] [most-of-all]
-    φίλοι· [philoi;] [friends.NOM;]
-    διʼ [di'] [on-account-of]
-    αὑτοὺς [hautous] [themselves.ACC]
-    γὰρ [gar] [for]
-    οὕτως [houtōs] [thus]
-    ἔχουσι, [echousi,] [they-are-disposed,]
-    καὶ [kai] [and]
-    οὐ [ou] [not]
-    κατὰ [kata] [according-to]
-    συμβεβηκός· [symbebēkos;] [coincidence.ACC;]
-    διαμένει [diamenei] [endures]
-    οὖν [oun] [therefore]
-    ἡ [hē] [the.NOM]
-    τούτων [toutōn] [of-these.GEN]
-    φιλία [philia] [friendship.NOM]
-    ἕως [heōs] [so-long-as]
-    ἂν [an] [MOD]
-    ἀγαθοὶ [agathoi] [good.NOM]
-    ὦσιν, [ōsin,] [they-may-be,]
-    ἡ [hē] [and-the.NOM]
-    δʼ [d'] [PTCL]
-    ἀρετὴ [aretē] [virtue.NOM]
-    μόνιμον. [monimon.] [enduring.NOM]
-\ft But the complete sort of friendship is that between good people who are alike in virtue; for these wish good things for each other in the same way insofar as they are good, and they are good in themselves. Those who wish good things for their friends for their friends' own sake are friends most of all; for they are disposed in this way on account of the friends themselves, and not by coincidence. Therefore their friendship endures as long as they are good, and virtue is an enduring thing.
+    ὁμοίων. [homoiōn.] [like.GEN.PL.]
+\ft But the complete sort of friendship is that between good people who are alike in virtue.
 ```
 ![[1156b7.mp3]]
 
-This passage grounds the essential definition of complete friendship (*teleia philia*): loving the other *di' autous* ("on account of themselves") and *ekeinōn heneka* ("for their own sake"), contrasting it with coincidental (*kata symbebēkos*) attraction.
+This passage grounds the essential definition of complete friendship (*teleia philia*): friendship between good people who are alike in virtue (*kat' aretēn*).
 
 ## Related
 
