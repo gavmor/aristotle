@@ -254,6 +254,7 @@ This sentence comes right at the heart of Aristotle's argument about the limits 
 - [[concepts/philia/eunoia]] — Goodwill (*eunoia*), "idle friendship"
 - [[concepts/philia/homonoia]] — Concord / Likemindedness (*homonoia*), political friendship
 - [[concepts/philia/self-love]] — Self-Love (*philautia*), the internal ground of friendship ("another self")
+- [[concepts/philia/suzo]] — Living Together (*suzēn* / *suzō*), friendship's active being-at-work
 
 ## Related
 
