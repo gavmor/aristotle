@@ -28,3 +28,43 @@ In Book IV, Chapter 6 of the *Nicomachean Ethics*, Aristotle describes the virtu
 - **Friendship (Books VIII & IX):** Social friendliness is the behavioral and character-based counterpart to actual friendship, possessing the same care for pleasant association but without the deep emotional affection and intimate mutual love.
 - **Truthfulness and Wit:** Along with Truthfulness (the mean regarding boasting and self-deprecation) and Wit/Tact (the mean regarding humor), Friendliness forms a triad of virtues that govern social interaction, conversation, and community life. 
 - **The Beautiful (Kalon):** Like all virtues, friendliness is exercised for the sake of the beautiful. A friendly person will steadfastly refuse to be accommodating if doing so requires participating in something base or disgraceful.
+
+## Greek Gloss
+
+### Bk. IV, ch. 6 (Bekker 1126b21–25)
+
+```ngloss
+\ex διαφέρει δὲ τῆς φιλίας, ὅτι ἄνευ πάθους ἐστὶ καὶ τοῦ στέργειν οἷς ὁμιλεῖ· οὐ γὰρ τῷ φιλεῖν ἢ ἐχθαίρειν ἀποδέχεται ἕκαστα ὡς δεῖ, ἀλλὰ τῷ τοιοῦτος εἶναι.
+\gl διαφέρει [diapherei] [it-differs]
+    δὲ [de] [but]
+    τῆς [tēs] [from-the.GEN]
+    φιλίας, [philias,] [friendship.GEN]
+    ὅτι [hoti] [because]
+    ἄνευ [aneu] [without]
+    πάθους [pathous] [feeling.GEN]
+    ἐστὶ [esti] [it-is]
+    καὶ [kai] [and]
+    τοῦ [tou] [the.GEN]
+    στέργειν [stergein] [affection.INF.GEN]
+    οἷς [hois] [those-whom.DAT]
+    ὁμιλεῖ· [homilei;] [one-associates-with;]
+    οὐ [ou] [not]
+    γὰρ [gar] [for]
+    τῷ [tō] [by-the.DAT]
+    φιλεῖν [philein] [liking.INF.DAT]
+    ἢ [ē] [or]
+    ἐχθαίρειν [echthairein] [disliking.INF.DAT]
+    ἀποδέχεται [apodechetai] [one-accepts]
+    ἕκαστα [hekasta] [each-thing.ACC.PL]
+    ὡς [hōs] [as]
+    δεῖ, [dei,] [is-fitting,]
+    ἀλλὰ [alla] [but]
+    τῷ [tō] [by-the.DAT]
+    τοιοῦτος [toioutos] [such-a-person.NOM]
+    εἶναι. [einai.] [to-be.]
+\ft But it differs from friendship because it is without feeling and affection for those one associates with; for it is not by liking or disliking that one accepts each thing as one ought, but by being a person of this character.
+```
+![[1126b21.mp3]]
+
+This sentence forms the core definition of the social virtue of friendliness: *ἄνευ πάθους* (*aneu pathous*, "without feeling") and *τοῦ στέργειν* (*tou stergein*, "without affection") distinguish this active condition from full-fledged *philia*, grounding appropriate social association in settled character (*τῷ τοιοῦτος εἶναι*) rather than emotional attachment.
+
