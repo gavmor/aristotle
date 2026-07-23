@@ -45,7 +45,7 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle presents **complete 
     ὁμοίων. [homoiōn.] [like.GEN.PL.]
 \ft But the complete sort of friendship is that between good people who are alike in virtue.
 ```
-![[1156b7.mp3]]
+![[1156b7_short.mp3]]
 
 This passage grounds the essential definition of complete friendship (*teleia philia*): friendship between good people who are alike in virtue (*kat' aretēn*).
 
