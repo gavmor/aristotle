@@ -20,7 +20,10 @@
 - [[concepts/decency-epieikeia]] — Epieikeia, deliberately translated "decency" not "equity"; correcting the letter of a universal law for a particular case ( #philosophy #ethics #political-philosophy)
 - [[concepts/philia/philia]] — Friendship in three species (utility, pleasure, virtue); a friend as "another self" ( #philosophy #ethics #virtue-ethics)
 - [[concepts/pleasure-aristotle]] — Pleasure as the unimpeded being-at-work of a natural capacity, not a process ( #philosophy #ethics #moral-psychology)
+- [[concepts/epiginomenon-telos]] — Epiginomenon Ti Telos: pleasure as a supervening end that crowns complete activity, "like the bloom on youth" ( #philosophy #ethics #moral-psychology)
 - [[concepts/contemplative-life]] — Theoretical contemplation as complete happiness ( #philosophy #ethics #metaphysics)
+- [[concepts/athanatizein]] — Athanatizein: Aristotle's imperative to "immortalize oneself as far as possible" by living in accord with divine intellect ( #philosophy #ethics #metaphysics)
+- [[concepts/nomothetike]] — Nomothetikē: legislation and political science as the compulsory framework for moral habituation and the bridge to the Politics ( #philosophy #ethics #political-philosophy)
 - [[concepts/goods-of-the-soul]] — External/of-the-soul/of-the-body threefold division of goods, used to place happiness among goods of the soul ( #philosophy #ethics #metaphysics)
 - [[concepts/voluntary-involuntary]] — Willing, unwilling, mixed, and nonwilling acts; plus the asymmetric case of suffering injustice and whether one can be unjust to oneself ( #philosophy #ethics #moral-psychology)
 - [[concepts/active-conditions/andreia]] — The mean between rashness and cowardice concerning fear of death in battle, plus five named look-alikes ( #philosophy #ethics #virtue-ethics)
@@ -58,6 +61,7 @@
 - [[synthesis/five-ways-of-truth]] — Classification: the five truth-disclosing capacities of the soul (art, knowledge, practical judgment, wisdom, intellect) ( #philosophy #ethics #epistemology #visualization)
 - [[synthesis/character-spectrum]] — Cumulative diagram: brutishness, vice, akrasia, continence, virtue, and superhuman virtue as a six-point scale ( #philosophy #ethics #moral-psychology #visualization)
 - [[synthesis/three-lives]] — Treemap: the three candidate lives (enjoyment, political honor, contemplation) Book I weighs before the ergon argument ( #philosophy #ethics #virtue-ethics #visualization)
+- [[synthesis/primary-and-secondary-happiness]] — Comparative matrix: Book X's systematic ranking of primary happiness (theōria) vs. secondary happiness (moral praxis) across six criteria ( #philosophy #ethics #metaphysics #virtue-ethics)
 
 ## Entities
 - [[entities/aristotle]] — Ancient Greek philosopher, author of the Nicomachean Ethics ( #philosophy #ancient-greek #person)
