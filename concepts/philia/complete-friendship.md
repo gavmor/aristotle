@@ -49,6 +49,26 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle presents **complete 
 
 This passage grounds the essential definition of complete friendship (*teleia philia*): friendship between good people who are alike in virtue (*kat' aretēn*).
 
+### Bk. VIII, ch. 3 (Bekker 1156b24–25)
+
+```ngloss
+\ex σπανίας δʼ εἰκὸς τὰς τοιαύτας εἶναι· ὀλίγοι γὰρ οἱ τοιοῦτοι.
+\gl σπανίας [spanias] [rare.ACC.PL]
+    δʼ [d'] [however]
+    εἰκὸς [eikos] [likely]
+    τὰς [tas] [the.ACC.PL]
+    τοιαύτας [toiautas] [such-friendships.ACC.PL]
+    εἶναι· [einai;] [to-be;]
+    ὀλίγοι [oligoi] [few.NOM.PL]
+    γὰρ [gar] [for]
+    οἱ [hoi] [those.NOM.PL]
+    τοιοῦτοι. [toioutoi.] [such-people.NOM.PL.]
+\ft Rare, however, such friendships are likely to be; for few are people of this sort.
+```
+![[1156b24.mp3]]
+
+This line explains the rarity of complete friendship: because virtue requires deep, long-standing habituation, virtuous people (*hoi toioutoi*) are naturally scarce (*oligoi*).
+
 ## Related
 
 - [[concepts/philia/philia]] — the parent overview of friendship
