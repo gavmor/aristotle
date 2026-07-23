@@ -118,7 +118,8 @@
         "concepts/epiginomenon-telos.md",
         "concepts/athanatizein.md",
         "concepts/nomothetike.md",
-        "synthesis/primary-and-secondary-happiness.md"
+        "synthesis/primary-and-secondary-happiness.md",
+        "concepts/eia.md"
       ]
     },
     "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg010/tlg0086.tlg010.perseus-grc2.xml": {
@@ -142,6 +143,6 @@
   },
   "stats": {
     "total_sources_ingested": 3,
-    "total_pages": 58
+    "total_pages": 59
   }
 }
