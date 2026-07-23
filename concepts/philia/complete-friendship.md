@@ -63,7 +63,7 @@ This passage grounds the essential definition of complete friendship (*teleia ph
     γὰρ [gar] [for]
     οἱ [hoi] [the.NOM.MASC.PL]
     τοιοῦτοι. [toioutoi.] [such.NOM.MASC.PL]
-\ft Rare, however, such friendships are likely to be; for few are people of this sort.
+\ft Rare, however, such [friendships] are likely to be; for few are people of this sort.
 ```
 ![[1156b24.mp3]]
 
