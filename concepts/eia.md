@@ -31,7 +31,7 @@ In the *Nicomachean Ethics*, Aristotle relies heavily on `-εια` nouns to defi
 ## 1. Philosophical & Ontological Foundations
 
 - **[[concepts/energeia|ἐνέργεια]] (*energeia*, 114x):** *Being-at-work / Activity*. Fused from `ἐν` ("in") + `ἔργον` ("work") + `-εια`. Coined by Aristotle himself to name an ongoing, fully realized state of activity complete at every moment.
-- **[[concepts/decency-epieikeia|ἐπιείκεια]] (*epieikeia*, 6x):** *Decency / Equity*. From `ἐπί` ("upon") + `εἰκός` ("fitting/reasonable") + `-εια`. The active condition of correcting the rigid letter of universal law.
+- **[[concepts/justice/epieikeia|ἐπιείκεια]] (*epieikeia*, 6x):** *Decency / Equity*. From `ἐπί` ("upon") + `εἰκός` ("fitting/reasonable") + `-εια`. The active condition of correcting the rigid letter of universal law.
 - **`αὐτάρκεια` (*autarkeia*, 3x):** *Self-sufficiency*. From `αὐτός` ("self") + `ἀρκέω` ("to suffice") + `-εια`. The condition of lacking nothing necessary for a choiceworthy life.
 
 ---

@@ -18,7 +18,7 @@
 - [[concepts/justice-nicomachean]] — Justice as complete virtue toward others, natural vs. conventional justice, and decency ( #philosophy #ethics #political-philosophy)
 - [[concepts/distributive-justice]] — Particular justice's geometric-proportion species: shares of common goods ( #philosophy #ethics #political-philosophy)
 - [[concepts/corrective-justice]] — Particular justice's arithmetic-proportion species: transactions, reciprocity, currency ( #philosophy #ethics #political-philosophy)
-- [[concepts/decency-epieikeia]] — Epieikeia, deliberately translated "decency" not "equity"; correcting the letter of a universal law for a particular case ( #philosophy #ethics #political-philosophy)
+- [[concepts/justice/epieikeia]] — Epieikeia, deliberately translated "decency" not "equity"; correcting the letter of a universal law for a particular case ( #philosophy #ethics #political-philosophy)
 - [[concepts/philia/philia]] — Friendship in three species (utility, pleasure, virtue); a friend as "another self" ( #philosophy #ethics #virtue-ethics)
 - [[concepts/pleasure-aristotle]] — Pleasure as the unimpeded being-at-work of a natural capacity, not a process ( #philosophy #ethics #moral-psychology)
 - [[concepts/epiginomenon-telos]] — Epiginomenon Ti Telos: pleasure as a supervening end that crowns complete activity, "like the bloom on youth" ( #philosophy #ethics #moral-psychology)
