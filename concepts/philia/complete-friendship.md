@@ -43,7 +43,7 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle presents **complete 
     κατʼ [kat'] [according-to]
     ἀρετὴν [aretēn] [virtue.ACC]
     ὁμοίων. [homoiōn.] [like.GEN.PL.]
-\ft But the complete sort of friendship is that between good people who are alike in virtue.
+\ft Complete, on the other hand, is the friendship of good men, and of those alike in virtue.
 ```
 ![[1156b7_short.mp3]]
 
