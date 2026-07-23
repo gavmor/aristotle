@@ -53,16 +53,16 @@ This passage grounds the essential definition of complete friendship (*teleia ph
 
 ```ngloss
 \ex σπανίας δʼ εἰκὸς τὰς τοιαύτας εἶναι· ὀλίγοι γὰρ οἱ τοιοῦτοι.
-\gl σπανίας [spanias] [rare.ACC.PL]
+\gl σπανίας [spanias] [rare.ACC.FEM.PL]
     δʼ [d'] [however]
-    εἰκὸς [eikos] [likely]
-    τὰς [tas] [the.ACC.PL]
-    τοιαύτας [toiautas] [such-friendships.ACC.PL]
+    εἰκὸς [eikos] [likely.NOM.NEUT]
+    τὰς [tas] [the.ACC.FEM.PL]
+    τοιαύτας [toiautas] [such.ACC.FEM.PL]
     εἶναι· [einai;] [to-be;]
-    ὀλίγοι [oligoi] [few.NOM.PL]
+    ὀλίγοι [oligoi] [few.NOM.MASC.PL]
     γὰρ [gar] [for]
-    οἱ [hoi] [those.NOM.PL]
-    τοιοῦτοι. [toioutoi.] [such-people.NOM.PL.]
+    οἱ [hoi] [the.NOM.MASC.PL]
+    τοιοῦτοι. [toioutoi.] [such.NOM.MASC.PL]
 \ft Rare, however, such friendships are likely to be; for few are people of this sort.
 ```
 ![[1156b24.mp3]]
