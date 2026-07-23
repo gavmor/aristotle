@@ -1,5 +1,7 @@
 ## Log
 
+- [2026-07-23T13:20:00Z] INGEST source="Nicomachean Ethics - Aristotle.txt" pages_updated=2 pages_created=6 mode=append note="Created concepts/politics/ subdirectory documenting the 6 Political & Social Institution -eia nouns from concepts/eia.md: politeia.md, basileia.md, dynasteia.md, douleia.md, paideia.md, eugeneia.md. Updated concepts/eia.md, index.md, and .manifest.json."
+
 - [2026-07-23T13:17:00Z] INGEST source="Nicomachean Ethics - Aristotle.txt" pages_updated=2 pages_created=1 mode=append note="Created concepts/autarkeia.md detailing Aristotle's formal criterion for eudaimonia (Book I self-sufficiency, social/non-solitary nature, Book V political justice, and Book X contemplative self-sufficiency). Updated concepts/eia.md, index.md, and .manifest.json."
 
 - [2026-07-23T13:07:00Z] INGEST source="Nicomachean Ethics - Aristotle.txt" pages_updated=2 pages_created=1 mode=append note="Created concepts/eia.md cataloging all 24 abstract noun types ending in the -eia suffix across the Nicomachean Ethics (energeia 114x, andreia 29x, aletheia 22x, enkrateia 20x, politeia 18x, etc.). Updated index.md and .manifest.json."

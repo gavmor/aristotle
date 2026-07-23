@@ -57,12 +57,12 @@ In the *Nicomachean Ethics*, Aristotle relies heavily on `-εια` nouns to defi
 
 ## 4. Political & Social Institutions
 
-- **`πολιτεία` (*politeia*, 18x):** *Constitution / Polity*. From `πολίτης` ("citizen") + `-εια`. The structural ordering of offices and civic life in a city.
-- **`βασιλεία` (*basileia*, 6x):** *Kingship / Monarchy*. From `βασιλεύς` ("king") + `-εια`. The noble monarchical constitution.
-- **`δυναστεία` (*dynasteia*, 5x):** *Dynasty / Oligarchic Dominance*. From `δυνάστης` ("ruler") + `-εια`.
-- **`δουλεία` (*douleia*, 1x):** *Servitude / Slavery*. From `δοῦλος` ("slave") + `-εια`.
-- **`παιδεία` (*paideia*, 5x):** *Upbringing / Education*. From `παῖς` ("child") + `-εια`. The rearing of youth in virtue.
-- **`εὐγένεια` (*eugeneia*, 2x):** *Good Birth / Noble Ancestry*. From `εὖ` + `γένος` ("family") + `-εια`.
+- **[[concepts/politics/politeia|πολιτεία]] (*politeia*, 18x):** *Constitution / Polity*. From `πολίτης` ("citizen") + `-εια`. The structural ordering of offices and civic life in a city.
+- **[[concepts/politics/basileia|βασιλεία]] (*basileia*, 6x):** *Kingship / Monarchy*. From `βασιλεύς` ("king") + `-εια`. The noble monarchical constitution.
+- **[[concepts/politics/dynasteia|δυναστεία]] (*dynasteia*, 5x):** *Dynasty / Oligarchic Dominance*. From `δυνάστης` ("ruler") + `-εια`. Arbitrary oligarchic clique rule.
+- **[[concepts/politics/douleia|δουλεία]] (*douleia*, 1x):** *Servitude / Slavery*. From `δοῦλος` ("slave") + `-εια`. Unfree status within the household.
+- **[[concepts/politics/paideia|παιδεία]] (*paideia*, 5x):** *Upbringing / Education*. From `παῖς` ("child") + `-εια`. The rearing of youth in virtue.
+- **[[concepts/politics/eugeneia|εὐγένεια]] (*eugeneia*, 2x):** *Good Birth / Noble Ancestry*. From `εὖ` + `γένος` ("family") + `-εια`. Noble descent as a social ornament.
 
 ---
 
