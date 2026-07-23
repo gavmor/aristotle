@@ -17,7 +17,7 @@
 - [[concepts/distributive-justice]] — Particular justice's geometric-proportion species: shares of common goods ( #philosophy #ethics #political-philosophy)
 - [[concepts/corrective-justice]] — Particular justice's arithmetic-proportion species: transactions, reciprocity, currency ( #philosophy #ethics #political-philosophy)
 - [[concepts/decency-epieikeia]] — Epieikeia, deliberately translated "decency" not "equity"; correcting the letter of a universal law for a particular case ( #philosophy #ethics #political-philosophy)
-- [[concepts/philia]] — Friendship in three species (utility, pleasure, virtue); a friend as "another self" ( #philosophy #ethics #virtue-ethics)
+- [[concepts/philia/philia]] — Friendship in three species (utility, pleasure, virtue); a friend as "another self" ( #philosophy #ethics #virtue-ethics)
 - [[concepts/pleasure-aristotle]] — Pleasure as the unimpeded being-at-work of a natural capacity, not a process ( #philosophy #ethics #moral-psychology)
 - [[concepts/contemplative-life]] — Theoretical contemplation as complete happiness ( #philosophy #ethics #metaphysics)
 - [[concepts/goods-of-the-soul]] — External/of-the-soul/of-the-body threefold division of goods, used to place happiness among goods of the soul ( #philosophy #ethics #metaphysics)

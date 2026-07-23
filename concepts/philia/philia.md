@@ -1,6 +1,6 @@
 ---
 title: Philia (Friendship)
-category: concepts
+category: concepts/philia
 tags: [philosophy, ethics, virtue-ethics, ancient-greek]
 aliases: [friendship, philia]
 sources:
@@ -246,6 +246,15 @@ Aristotle states outright here the formula the page's Key Ideas paraphrase as "a
 
 This sentence comes right at the heart of Aristotle's argument about the limits on the number of true friends a person can have. He argues that because complete friendship (*philia*) requires actually sharing a life (*suzēn* — literally "living together" from *sun-* "together" plus *zēn* "to live") and distributing one's time and self (*dianemein heauton*), it is practically impossible to do this with many people. True friendship is bottlenecked by the finite nature of a single human life.
 
+## Constitutive & Species Notes
+
+- [[concepts/philia/complete-friendship]] — Complete / Virtue Friendship (*teleia philia*)
+- [[concepts/philia/utility-friendship]] — Incidental Friendship for Utility
+- [[concepts/philia/pleasure-friendship]] — Incidental Friendship for Pleasure
+- [[concepts/philia/eunoia]] — Goodwill (*eunoia*), "idle friendship"
+- [[concepts/philia/homonoia]] — Concord / Likemindedness (*homonoia*), political friendship
+- [[concepts/philia/self-love]] — Self-Love (*philautia*), the internal ground of friendship ("another self")
+
 ## Related
 
 - [[concepts/to-kalon]] — per Sachs, the fullest working-out of the beautiful's role in virtuous action occurs in the friendship books
@@ -254,5 +263,4 @@ This sentence comes right at the heart of Aristotle's argument about the limits 
 - [[synthesis/threefold-good]] — treemap of the same loveable-triad that grounds these three species, alongside the general theory of goods it's drawn from
 - [[synthesis/constitutions-and-households]] — how friendship tracks justice differently across the constitutional analogues Aristotle finds within the household
 - [[synthesis/crown-of-virtue]] — Sachs's editorial claim that friendship is the last and highest of four successive candidates for what organizes all the virtues
-- [[concepts/self-love]] — the puzzle of whether "friend as another self" is coherent, resolved by distinguishing two senses of self-love
 - [[references/nicomachean-ethics]] — source text (Books VIII-IX)

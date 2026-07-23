@@ -1,6 +1,6 @@
 ---
 title: "Self-Love (Philautia)"
-category: concepts
+category: concepts/philia
 tags: [philosophy, ethics, moral-psychology, ancient-greek]
 aliases: [philautia, self-love, lover of self]
 sources:
