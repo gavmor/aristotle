@@ -25,7 +25,10 @@ In Books VIII and IX of the *Nicomachean Ethics*, Aristotle identifies **living 
 ## Key Ideas
 
 - **The Energeia of Friendship:** While friendship in its settled character is an active condition (*hexis*), *suzēn* is its active being-at-work (*energeia*). Friends who live together actively delight in one another and provide good things to each other. ^[extracted]
-- **Distance vs. Active Being-at-Work:** Sleep (*καθεύδοντες*) or geographical separation (*κεχωρισμένοι τοῖς τόποις*) does not destroy the active condition (*hexis*) of friendship, but pauses its *energeia*. Separate friends remain disposed to act in a friendly way (*ὥστʼ ἐνεργεῖν φιλικῶς*), though prolonged absence can eventually lead to forgetfulness and dissolution. ^[extracted]
+- **Sharing Conversation and Thinking (Not Physical Grazing):** For human beings, living together is not merely occupying the same physical location or feeding in the same place "like fatted cattle" (*boskēmata*). Human *suzēn* fundamentally means sharing **conversation (*logoi*) and thinking (*dianoia*)**. ^[extracted]
+- **Joint Pursuit of Meaningful Activities:** Friends spend their days together engaging jointly in whatever pursuit they believe human existence consists of—whether drinking, playing dice, exercising, hunting, or practicing philosophy together. ^[extracted]
+- **Shared Awareness (*Synaisthēsis*):** Because being alive is naturally good and pleasant, being aware of one's own existence is inherently pleasant. By living together and sharing speech and thought, friends share in the awareness of each other's existence as "another self" (*allos autos*). ^[extracted]
+- **Mutual Improvement ("Straightening One Another Out"):** When decent people put their friendship to work through shared life, they actively improve one another—"straightening one another out" (*apomattonomenoi*) and reinforcing the virtuous qualities they admire in each other. Conversely, base people living together corrupt one another. ^[extracted]
 - **Finite Capacity for Shared Life:** Because *suzēn* requires sharing daily activities, conversation, and mutual awareness, it cannot be extended to many people at once. True friendship is naturally bottlenecked by the finite nature of a single human life (Bk. IX, ch. 10, Bekker 1171a3). ^[extracted]
 
 ## Greek Gloss
